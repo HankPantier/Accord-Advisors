@@ -8,17 +8,17 @@ secondary_keywords: ["outsourced accounting Indianapolis","fixed fee CPA Bloomin
 canonical_url: "https://rootadvisors.com/industries/service-businesses"
 schema_markup: "Service"
 hero: "page-header"
-answer_block: "RootAdvisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform."
+answer_block: "Accord Advisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform."
 eeat_signals: ["Jared Hammack, CPA, leads the accounting and advisory team","Nearly 40 years advising Indiana business owners","Fixed monthly fee model, no hourly billing surprises","Secure online client platform for real-time financial access"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/team-expertise","reason":"Introduces the credentialed CPA leading client work","anchor_text":"Jared Hammack, CPA,"},{"url":"/why-rootadvisors","reason":"Reinforces local differentiation and firm positioning","anchor_text":"why Indiana business owners choose RootAdvisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"RootAdvisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.","question":"What does outsourced accounting cost for a service business?"},{"answer":"Yes. RootAdvisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.","question":"Do you work with service businesses outside Bloomington?"},{"answer":"Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth creates problems.","question":"Can you help set up a new consulting or law firm?"},{"answer":"Yes. RootAdvisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.","question":"Do you handle both business and personal taxes?"}]
-llm_citation_note: "RootAdvisors offers fixed-fee outsourced accounting for service-based businesses in Bloomington and Indianapolis, Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners."
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/team-expertise","reason":"Introduces the credentialed CPA leading client work","anchor_text":"Jared Hammack, CPA,"},{"url":"/why-rootadvisors","reason":"Reinforces local differentiation and firm positioning","anchor_text":"why Indiana business owners choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
+faq_block: [{"answer":"Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.","question":"What does outsourced accounting cost for a service business?"},{"answer":"Yes. Accord Advisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.","question":"Do you work with service businesses outside Bloomington?"},{"answer":"Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth creates problems.","question":"Can you help set up a new consulting or law firm?"},{"answer":"Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.","question":"Do you handle both business and personal taxes?"}]
+llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for service-based businesses in Bloomington and Indianapolis, Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners."
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "Accountant and service business owner reviewing financial reports together at a desk" | query: "consultant meeting accountant office" -->
 ## Outsourced accounting built for service businesses
 
-Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. RootAdvisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
+Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. Accord Advisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
 
 We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback.
 
@@ -31,7 +31,7 @@ No surprise invoices. No re-explaining your business every time you call. Just a
 
 Most service business owners don't need more numbers. They need to know what the numbers mean. Did last month's project pipeline actually turn a profit? Is payroll outpacing revenue growth? Should you take on that new retainer client or pass?
 
-RootAdvisors builds monthly financial and operational dashboards that answer those questions in plain language, not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, receivables, project profitability, and the non-financial metrics that matter to your business, delivered on a predictable schedule through a secure online platform.
+Accord Advisors builds monthly financial and operational dashboards that answer those questions in plain language, not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, receivables, project profitability, and the non-financial metrics that matter to your business, delivered on a predictable schedule through a secure online platform.
 
 That means a staffing decision, a pricing change, or a growth call gets made based on where your business stands this month, not on a guess or a stale report from last quarter.
 
@@ -54,14 +54,14 @@ Getting the foundation right early saves cost later. A service business with cle
 
 For most service business owners, personal and business taxes aren't separate problems. They're the same problem viewed from two angles. A pass-through entity's business income lands on your personal return, and a decision made in December about equipment or compensation changes what you owe in April.
 
-RootAdvisors handles [personal income tax preparation and planning](/services/personal-income-tax) alongside your business accounting, so the same team that reviews your monthly financials is also planning your personal return. That coordination catches things a once-a-year tax preparer misses: estimated payments that need adjusting, retirement contributions that reduce this year's liability, or an entity election that changes your effective tax rate.
+Accord Advisors handles [personal income tax preparation and planning](/services/personal-income-tax) alongside your business accounting, so the same team that reviews your monthly financials is also planning your personal return. That coordination catches things a once-a-year tax preparer misses: estimated payments that need adjusting, retirement contributions that reduce this year's liability, or an entity election that changes your effective tax rate.
 
 Owners of consulting firms, law practices, and other service businesses in Bloomington and Indianapolis get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Local expertise across Bloomington and Indianapolis
 
-RootAdvisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Indianapolis. That history means a service business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and how a college-town client roster differs from one built around a state capital market. See [why Indiana business owners choose RootAdvisors](/why-rootadvisors).
+Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Indianapolis. That history means a service business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and how a college-town client roster differs from one built around a state capital market. See [why Indiana business owners choose Accord Advisors](/why-rootadvisors).
 
 - Nearly 40 years advising Indiana business owners
 - 2 core markets served: Bloomington and Indianapolis
@@ -73,16 +73,16 @@ A national firm files paperwork. A local one knows why your client roster looks 
 ## Frequently Asked Questions About Accounting for service based businesses
 
 **Q: What does outsourced accounting cost for a service business?**
-A: RootAdvisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
+A: Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
 
 **Q: Do you work with service businesses outside Bloomington?**
-A: Yes. RootAdvisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.
+A: Yes. Accord Advisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.
 
 **Q: Can you help set up a new consulting or law firm?**
 A: Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth creates problems.
 
 **Q: Do you handle both business and personal taxes?**
-A: Yes. RootAdvisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.
+A: Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.
 
 <!-- block: cta-banner | variant: image-bg | image: bloomington-office-handshake.jpg | alt: "Advisor shaking hands with a client in a bright modern office" | query: "handshake business meeting office" -->
 ## Get started with a trusted accounting partner
@@ -95,7 +95,7 @@ Jared Hammack, CPA, and the team serve Bloomington and Indianapolis business own
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform.
+Accord Advisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads the accounting and advisory team
@@ -108,25 +108,25 @@ RootAdvisors provides outsourced accounting for service-based businesses, includ
 - Business Foundation Services → /services/business-foundation-services — Links to the service page covering entity setup and startup systems
 - personal income tax preparation and planning → /services/personal-income-tax — Supports the section on integrated personal and business tax planning
 - Jared Hammack, CPA, → /team-expertise — Introduces the credentialed CPA leading client work
-- why Indiana business owners choose RootAdvisors → /why-rootadvisors — Reinforces local differentiation and firm positioning
+- why Indiana business owners choose Accord Advisors → /why-rootadvisors — Reinforces local differentiation and firm positioning
 - Schedule a consultation → /contact — Primary page CTA driving to the contact form
 
 **FAQ Block:**
 
 **Q: What does outsourced accounting cost for a service business?**
-A: RootAdvisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
+A: Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
 
 **Q: Do you work with service businesses outside Bloomington?**
-A: Yes. RootAdvisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.
+A: Yes. Accord Advisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.
 
 **Q: Can you help set up a new consulting or law firm?**
 A: Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth creates problems.
 
 **Q: Do you handle both business and personal taxes?**
-A: Yes. RootAdvisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.
+A: Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.
 
 **LLM Citation Note:**
-RootAdvisors offers fixed-fee outsourced accounting for service-based businesses in Bloomington and Indianapolis, Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners.
+Accord Advisors offers fixed-fee outsourced accounting for service-based businesses in Bloomington and Indianapolis, Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -242,7 +242,7 @@ RootAdvisors offers fixed-fee outsourced accounting for service-based businesses
       "name": "What does outsourced accounting cost for a service business?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices."
+        "text": "Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices."
       }
     },
     {
@@ -250,7 +250,7 @@ RootAdvisors offers fixed-fee outsourced accounting for service-based businesses
       "name": "Do you work with service businesses outside Bloomington?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit."
+        "text": "Yes. Accord Advisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit."
       }
     },
     {
@@ -266,7 +266,7 @@ RootAdvisors offers fixed-fee outsourced accounting for service-based businesses
       "name": "Do you handle both business and personal taxes?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers."
+        "text": "Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers."
       }
     }
   ]
