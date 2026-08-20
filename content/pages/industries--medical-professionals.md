@@ -2,7 +2,7 @@
 title: "Accounting for medical professionals | Accord Advisors"
 url: "/industries/medical-professionals"
 meta_title: "Accounting for Medical Professionals Bloomington IN"
-meta_description: "RootAdvisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN."
+meta_description: "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN."
 target_keyword: "accounting for medical professionals Bloomington IN"
 secondary_keywords: ["CPA for doctors Bloomington Indiana","medical practice accounting services Bloomington","physician tax preparation Bloomington IN","healthcare professional accountant near me","outsourced accounting for medical practices Bloomington","doctor bookkeeping services Bloomington","medical professional tax planning Indiana","CPA for healthcare professionals Bloomington IN"]
 canonical_url: "https://rootadvisors.com/industries/medical-professionals"
@@ -304,7 +304,7 @@ RootAdvisors offers outsourced accounting, tax preparation, and business foundat
   "@type": "Service",
   "name": "Accounting for Medical Professionals Bloomington IN",
   "url": "https://rootadvisors.com/industries/medical-professionals",
-  "description": "RootAdvisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN.",
+  "description": "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
