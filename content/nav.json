@@ -1,80 +1,80 @@
 {
   "primary": [
     {
-      "url": "/services",
       "label": "Services overview",
+      "url": "/services",
       "children": [
         {
-          "url": "/services/outsourced-accounting",
-          "label": "Outsourced accounting services"
+          "label": "Outsourced accounting services",
+          "url": "/services/outsourced-accounting"
         },
         {
-          "url": "/services/business-foundation-services",
-          "label": "Business foundation services for new practice owners"
+          "label": "Business foundation services for new practice owners",
+          "url": "/services/business-foundation-services"
         },
         {
-          "url": "/services/payroll-services",
-          "label": "Payroll administration for growing businesses"
+          "label": "Payroll administration for growing businesses",
+          "url": "/services/payroll-services"
         },
         {
-          "url": "/services/personal-income-tax",
-          "label": "Personal income tax preparation and planning"
+          "label": "Personal income tax preparation and planning",
+          "url": "/services/personal-income-tax"
         },
         {
-          "url": "/services/irs-notice-protection",
-          "label": "IRS notice protection and response support"
+          "label": "IRS notice protection and response support",
+          "url": "/services/irs-notice-protection"
         }
       ]
     },
     {
-      "url": "/industries",
       "label": "Industries we serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/industries/optometry",
-          "label": "Accounting for optometry practices"
+          "label": "Accounting for optometry practices",
+          "url": "/industries/optometry"
         },
         {
-          "url": "/industries/medical-professionals",
-          "label": "Accounting for medical professionals"
+          "label": "Accounting for medical professionals",
+          "url": "/industries/medical-professionals"
         },
         {
-          "url": "/industries/service-businesses",
-          "label": "Accounting for service based businesses"
+          "label": "Accounting for service based businesses",
+          "url": "/industries/service-businesses"
         },
         {
-          "url": "/industries/churches",
-          "label": "Fund accounting for churches"
+          "label": "Fund accounting for churches",
+          "url": "/industries/churches"
         },
         {
-          "url": "/industries/dentists",
-          "label": "Accounting for dental practices"
+          "label": "Accounting for dental practices",
+          "url": "/industries/dentists"
         }
       ]
     },
     {
-      "url": "/about",
-      "label": "About RootAdvisors your trusted accounting partner"
+      "label": "About Accord Advisors your trusted accounting partner",
+      "url": "/about"
     },
     {
-      "url": "/insights-gallery",
       "label": "Insights gallery",
+      "url": "/insights-gallery",
       "children": [
         {
-          "url": "/resources-new/quickreads",
-          "label": "QuickReads"
+          "label": "QuickReads",
+          "url": "/resources-new/quickreads"
         },
         {
-          "url": "/forms-documents-links",
-          "label": "Essential accounting forms and resources"
+          "label": "Essential accounting forms and resources",
+          "url": "/forms-documents-links"
         },
         {
-          "url": "/quick-links",
-          "label": "Quick links to accounting resources"
+          "label": "Quick links to accounting resources",
+          "url": "/quick-links"
         },
         {
-          "url": "/smart-tips-magazine-gallery",
-          "label": "Smart tips magazine gallery"
+          "label": "Smart tips magazine gallery",
+          "url": "/smart-tips-magazine-gallery"
         }
       ]
     }
