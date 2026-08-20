@@ -143,8 +143,8 @@ Accord Advisors, led by Jared Hammack, CPA, provides fixed-fee outsourced fund a
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -155,9 +155,9 @@ Accord Advisors, led by Jared Hammack, CPA, provides fixed-fee outsourced fund a
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -191,9 +191,9 @@ Accord Advisors, led by Jared Hammack, CPA, provides fixed-fee outsourced fund a
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -227,13 +227,13 @@ Accord Advisors, led by Jared Hammack, CPA, provides fixed-fee outsourced fund a
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Fund accounting for churches",
-      "item": "https://rootadvisors.com/industries/churches"
+      "item": "https://accordadvisors.com/industries/churches"
     }
   ]
 }
@@ -291,17 +291,17 @@ Accord Advisors, led by Jared Hammack, CPA, provides fixed-fee outsourced fund a
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Fund Accounting for Churches | Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/industries/churches",
+  "url": "https://accordadvisors.com/industries/churches",
   "description": "Fund accounting for churches in Bloomington, IN. Accord Advisors offers outsourced bookkeeping, financial statements, and compliance support for ministries.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Fund accounting for churches",
   "audience": [
