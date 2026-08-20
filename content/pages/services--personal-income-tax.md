@@ -56,7 +56,7 @@ Hourly billing turns every phone call and every question into a math problem. Wo
 Documents move through a secure online client portal instead of email attachments or a folder of paper dropped off at a front desk. Upload a W-2, a 1099, or a closing statement whenever it arrives, and it's there for us to work with immediately. No physical files sitting in a car, no faxing, no waiting for an office to reopen.
 
 <!-- block: content-split | variant: image-right | image: business-owner-tax-strategy-discussion.jpg | alt: "Business owner and CPA discussing tax strategy documents together" | query: "business owner accountant discussing strategy" -->
-## Why business owners choose RootAdvisors for personal tax
+## Why business owners choose Accord Advisors for personal tax
 
 Owners who run a practice or a service business have a personal return that's rarely simple. Distributions, retirement plan contributions, entity structure, and depreciation choices on the business side all land on the personal return eventually. Handling those separately from two different firms invites gaps.
 
