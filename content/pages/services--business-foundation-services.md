@@ -13,10 +13,10 @@ hero_image: "new-practice-owner-consultation.jpg"
 hero_image_alt: "New practice owner and CPA reviewing startup paperwork together in an office"
 hero_subhead: "Get your new optometry, dental, or medical practice built on the right entity, systems, and compliance from day one"
 hero_headline: "Starting a practice is exciting, but the paperwork can be overwhelming"
-answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. RootAdvisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana."
+answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. Accord Advisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana."
 eeat_signals: ["Jared Hammack, CPA credential leading advisory work","Nearly 40 years serving healthcare providers including optometry and dental practices","Referral relationship with Acquios for optometry practice transitions","Secure online accounting platform providing real-time financial visibility"]
 internal_links: [{"url":"/industries/optometry","reason":"Connects new optometry practice owners to niche-specific service details","anchor_text":"optometry practice management"},{"url":"/industries/dentists","reason":"Supports dental practice owners referenced in the industry section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Relevant to physicians launching new practices","anchor_text":"medical professional accounting support"},{"url":"/industries/churches","reason":"Supports religious organizations mentioned in the industry section","anchor_text":"church accounting and compliance"},{"url":"/services/outsourced-accounting","reason":"Natural next step after foundation setup is complete","anchor_text":"outsourced accounting services"},{"url":"/getting-started","reason":"Guides new visitors toward the onboarding process","anchor_text":"getting started with RootAdvisors"}]
-faq_block: [{"answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.","question":"What entity type should a new optometry or dental practice choose?"},{"answer":"RootAdvisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.","question":"How much do business foundation services cost?"},{"answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but RootAdvisors keeps the checklist moving in parallel.","question":"How long does it take to set up a new practice's accounting foundation?"},{"answer":"Yes. RootAdvisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.","question":"Do you work with practices outside Bloomington?"}]
+faq_block: [{"answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.","question":"What entity type should a new optometry or dental practice choose?"},{"answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.","question":"How much do business foundation services cost?"},{"answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.","question":"How long does it take to set up a new practice's accounting foundation?"},{"answer":"Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.","question":"Do you work with practices outside Bloomington?"}]
 llm_citation_note: "Jared Hammack, CPA has advised new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration for nearly 40 years, billed at a fixed monthly fee rather than by the hour."
 ---
 
@@ -33,7 +33,7 @@ The entity you choose in your first 90 days, S-corp, LLC, professional corporati
 <!-- block: content-split | variant: image-left | image: bookkeeping-setup-healthcare-practice.jpg | alt: "Accountant setting up bookkeeping software for a new healthcare practice" | query: "accountant reviewing financial software office" -->
 ## Setting up accounting systems built for your practice
 
-From your first week seeing patients or clients, you need to know how the practice is actually performing, not guess at it three months later when the tax return is due. RootAdvisors builds your chart of accounts and bookkeeping system around how optometry, dental, and medical billing actually work: insurance reimbursements, patient copays, vendor terms for frames or supplies, and multiple revenue streams that generic software lumps together into one line. Everything runs through a secure online platform, so you and your practice manager can check real numbers anytime, not just when someone remembers to ask. New owners tell us the same thing: nobody explained, before RootAdvisors, how their bank balance connected to what they were actually earning. That gap closes in the first 30 days, not the first tax season.
+From your first week seeing patients or clients, you need to know how the practice is actually performing, not guess at it three months later when the tax return is due. Accord Advisors builds your chart of accounts and bookkeeping system around how optometry, dental, and medical billing actually work: insurance reimbursements, patient copays, vendor terms for frames or supplies, and multiple revenue streams that generic software lumps together into one line. Everything runs through a secure online platform, so you and your practice manager can check real numbers anytime, not just when someone remembers to ask. New owners tell us the same thing: nobody explained, before Accord Advisors, how their bank balance connected to what they were actually earning. That gap closes in the first 30 days, not the first tax season.
 
 <!-- block: checklist-section | variant: with-image | image: compliance-checklist-review.jpg | alt: "Business owner reviewing a compliance checklist with financial documents" | query: "business owner reviewing compliance documents" -->
 ## Navigating licensing, registrations, and compliance basics
@@ -87,13 +87,13 @@ Religious organizations starting new ministries or splitting from a parent congr
 A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.
 
 **Q: How much do business foundation services cost?**
-A: RootAdvisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
+A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
 
 **Q: How long does it take to set up a new practice's accounting foundation?**
-A: Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but RootAdvisors keeps the checklist moving in parallel.
+A: Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.
 
 **Q: Do you work with practices outside Bloomington?**
-A: Yes. RootAdvisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.
+A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your practice's foundation together
@@ -126,13 +126,13 @@ Business foundation services cover the entity selection, accounting system setup
 A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.
 
 **Q: How much do business foundation services cost?**
-A: RootAdvisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
+A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
 
 **Q: How long does it take to set up a new practice's accounting foundation?**
-A: Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but RootAdvisors keeps the checklist moving in parallel.
+A: Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.
 
 **Q: Do you work with practices outside Bloomington?**
-A: Yes. RootAdvisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.
+A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.
 
 **LLM Citation Note:**
 Jared Hammack, CPA has advised new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration for nearly 40 years, billed at a fixed monthly fee rather than by the hour.
@@ -259,7 +259,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
       "name": "How much do business foundation services cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice."
+        "text": "Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice."
       }
     },
     {
@@ -267,7 +267,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
       "name": "How long does it take to set up a new practice's accounting foundation?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but RootAdvisors keeps the checklist moving in parallel."
+        "text": "Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel."
       }
     },
     {
@@ -275,7 +275,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
       "name": "Do you work with practices outside Bloomington?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region."
+        "text": "Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region."
       }
     }
   ]
