@@ -49,6 +49,10 @@
         {
           "label": "Accounting for dental practices",
           "url": "/industries/dentists"
+        },
+        {
+          "label": "Accounting for Consulting Firms",
+          "url": "/industries/consulting-firms"
         }
       ]
     },
