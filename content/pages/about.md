@@ -59,7 +59,7 @@ Instead of a shoebox of receipts or a folder buried in email, you get one place 
 ### Optometry Practices
 icon: ChartLine
 
-Optometry practice managers and shareholders come to RootAdvisors through referrals, including from Acquios, because we already understand practice management metrics like patient volume, insurance mix, and staffing ratios. See our [optometry practice services](/industries/optometry) for the specifics.
+Optometry practice managers and shareholders come to Accord Advisors through referrals, including from Acquios, because we already understand practice management metrics like patient volume, insurance mix, and staffing ratios. See our [optometry practice services](/industries/optometry) for the specifics.
 
 ### Dental Practices
 icon: Stethoscope
