@@ -73,7 +73,7 @@ Practice managers and shareholders ask the same question every month: how did we
 Accord Advisors delivers financial and non-financial data your practice can act on right away, not just a profit-and-loss statement but the [practice management metrics](/industries/optometry/practice-management-metrics) that show whether patient volume, collections, and staffing are trending the right direction. You see the numbers on our secure online platform as soon as they're ready, so a decision about adding technician hours or holding off on a frame order is based on this month's reality instead of last quarter's guess.
 
 <!-- block: content-split | variant: image-left | image: optometry-trusted-advisor.jpg | alt: "CPA advisor consulting with optometry practice owner in a bright office" | query: "CPA advisor consulting business owner office" -->
-## Why optometrists across Bloomington and Indianapolis trust RootAdvisors
+## Why optometrists across Bloomington and Indianapolis trust Accord Advisors
 
 Optometrists find Accord Advisors through more than a Google search. Many arrive through Acquios, the optometry buying and practice-support network that refers member practices to accounting partners who already understand inventory cycles and reimbursement timelines. That referral relationship holds up because the results hold up, not because of a marketing arrangement.
 
