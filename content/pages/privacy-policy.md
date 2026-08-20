@@ -2,7 +2,7 @@
 title: "Privacy policy | Accord Advisors"
 url: "/privacy-policy"
 meta_title: "CPA Privacy Policy Bloomington IN | Accord Advisors"
-meta_description: "See how RootAdvisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients."
+meta_description: "See how Accord Advisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients."
 target_keyword: "CPA privacy policy Bloomington IN"
 secondary_keywords: ["Accord Advisors privacy policy","accounting firm data protection Bloomington","CPA client information security Indiana","optometry practice accountant privacy Bloomington","dental practice CPA confidentiality","medical professional tax services privacy","business accounting privacy policy Indiana","church accounting services data security","Bloomington CPA HIPAA compliance","outsourced accounting privacy Bloomington IN"]
 canonical_url: "https://rootadvisors.com/privacy-policy"
