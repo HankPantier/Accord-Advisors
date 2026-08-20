@@ -2,7 +2,7 @@
 title: "Services overview | Accord Advisors"
 url: "/services"
 meta_title: "Accounting Services Overview | Bloomington, IN CPA Firm"
-meta_description: "RootAdvisors offers outsourced accounting, tax prep, and business foundation services for Bloomington and Indianapolis practices, at a fixed monthly fee."
+meta_description: "Accord Advisors offers outsourced accounting, tax prep, and business foundation services for Bloomington and Indianapolis practices, at a fixed monthly fee."
 target_keyword: "services overview bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","CPA firm for optometry practices","business foundation services Indianapolis","fixed fee accounting services"]
 canonical_url: "https://rootadvisors.com/services"
