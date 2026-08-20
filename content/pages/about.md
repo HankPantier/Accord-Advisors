@@ -49,7 +49,7 @@ That structure removes a specific kind of anxiety we hear about constantly from 
 <!-- block: content-split | variant: image-left | image: secure-online-portal-dashboard.jpg | alt: "Laptop screen displaying a secure financial dashboard and reports" | query: "laptop financial dashboard reports" -->
 ## A secure online platform that keeps you informed every month
 
-Most business owners and practice managers tell us the same thing: they want to know how their business did last month, in plain terms, without digging through spreadsheets or waiting on a callback. RootAdvisors gives every client a secure online portal where financial statements, reports, and documents are organized and accessible whenever you need them.
+Most business owners and practice managers tell us the same thing: they want to know how their business did last month, in plain terms, without digging through spreadsheets or waiting on a callback. Accord Advisors gives every client a secure online portal where financial statements, reports, and documents are organized and accessible whenever you need them.
 
 Instead of a shoebox of receipts or a folder buried in email, you get one place to see what's coming in, what's going out, and what it means for the decisions in front of you. For optometry practice owners tracking patient volume against overhead, or church treasurers reporting to a board, that monthly clarity replaces guesswork with a number they can actually use.
 
