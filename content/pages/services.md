@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors operates as an outsourced accounting departm
 <!-- block: intro-text | variant: centered -->
 ## Accounting support built for your industry
 
-Most accounting firms hand you a spreadsheet once a year and call it service. RootAdvisors works differently. We operate as an outsourced accounting department for optometry practices, dental offices, medical professionals, service businesses, and churches across Bloomington, Indianapolis, and Avon, Indiana, handling the financial detail so you can run the organization in front of you.
+Most accounting firms hand you a spreadsheet once a year and call it service. Accord Advisors works differently. We operate as an outsourced accounting department for optometry practices, dental offices, medical professionals, service businesses, and churches across Bloomington, Indianapolis, and Avon, Indiana, handling the financial detail so you can run the organization in front of you.
 
 Every engagement runs on a fixed monthly fee, not an hourly clock that punishes you for asking questions. That means CFO-level insight into your numbers, without the CFO-level salary. Whether you're opening a first optometry location or managing a church with a dozen staff members, the model stays the same: clear pricing, clear reporting, and a CPA who already understands your industry before the first meeting.
 
