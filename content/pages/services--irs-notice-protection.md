@@ -261,7 +261,7 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
       "name": "How much does IRS notice response support cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."
+        "text": "Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."
       }
     },
     {
