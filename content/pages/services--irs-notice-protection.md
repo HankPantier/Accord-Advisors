@@ -269,7 +269,7 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
       "name": "Can you contact the IRS directly on my behalf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. With proper authorization, RootAdvisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."
+        "text": "Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."
       }
     },
     {
