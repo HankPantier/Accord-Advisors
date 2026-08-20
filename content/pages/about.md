@@ -97,7 +97,7 @@ query: accounting team collaborating office
 Behind every client relationship is a small team handling bookkeeping, payroll, and reporting so nothing sits untouched between monthly check-ins. Clients get a consistent point of contact, not a rotating cast of unfamiliar staff answering from a call queue.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About About RootAdvisors your trusted accounting partner
+## Frequently Asked Questions About About Accord Advisors your trusted accounting partner
 
 **Q: Where is RootAdvisors located?**
 A: RootAdvisors is based in Bloomington, Indiana, and serves clients throughout the Indianapolis area, including Avon. Clients work directly with the same team each month, whether they visit in person or use the secure online portal.
