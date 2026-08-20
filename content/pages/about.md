@@ -30,7 +30,7 @@ We built this firm to be the accounting department a growing practice or busines
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
 ## Nearly 40 years of experience serving healthcare and service businesses
 
-RootAdvisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, and churches handle staffing compliance across multiple decades of tax code changes.
+Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, and churches handle staffing compliance across multiple decades of tax code changes.
 
 Founder Jared Hammack, CPA, built the firm around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a handful of industries, rather than a scattershot approach across every sector, means faster answers and fewer surprises at tax time. Optometrists referred through Acquios, dental practices, and service business owners across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
 
