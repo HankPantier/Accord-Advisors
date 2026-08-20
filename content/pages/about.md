@@ -88,7 +88,7 @@ Churches and religious organizations face staffing compliance and internal contr
 photo: jared-hammack-cpa-portrait.jpg
 query: professional accountant portrait office
 
-Jared Hammack, CPA, founded RootAdvisors on the idea that a Bloomington business owner deserves CFO-level insight without a CFO-level salary. He works directly with optometry, dental, and medical practice owners on tax planning, financial reporting, and the decisions that shape where a practice heads next.
+Jared Hammack, CPA, founded Accord Advisors on the idea that a Bloomington business owner deserves CFO-level insight without a CFO-level salary. He works directly with optometry, dental, and medical practice owners on tax planning, financial reporting, and the decisions that shape where a practice heads next.
 
 ### Your outsourced accounting department
 photo: accounting-team-collaborating-office.jpg
