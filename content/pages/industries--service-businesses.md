@@ -61,7 +61,7 @@ Owners of consulting firms, law practices, and other service businesses in Bloom
 <!-- block: stats-bar | variant: 3-up -->
 ## Local expertise across Bloomington and Indianapolis
 
-RootAdvisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Indianapolis. That history means a service business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and how a college-town client roster differs from one built around a state capital market. See [why Indiana business owners choose RootAdvisors](/why-rootadvisors).
+Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Indianapolis. That history means a service business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and how a college-town client roster differs from one built around a state capital market. See [why Indiana business owners choose RootAdvisors](/why-rootadvisors).
 
 - Nearly 40 years advising Indiana business owners
 - 2 core markets served: Bloomington and Indianapolis
