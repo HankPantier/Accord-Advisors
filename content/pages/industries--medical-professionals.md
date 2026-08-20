@@ -45,7 +45,7 @@ None of this is unusual for a healthcare practice. It's exactly what a dedicated
 <!-- block: content-split | variant: image-left | image: healthcare-accounting-dashboard.jpg | alt: "Doctor viewing financial dashboard on a laptop in a clinic office" | query: "laptop financial dashboard clinic" -->
 ## Outsourced accounting built for healthcare providers
 
-[Outsourced Accounting](/services/outsourced-accounting) is the core of how RootAdvisors supports medical practices in Bloomington and Indianapolis. Instead of hiring an in-house bookkeeper or piecing together software on your own, your practice gets a full back-office accounting function: bookkeeping, reconciliations, financial statement preparation, and reporting, delivered through a secure online platform available anytime.
+[Outsourced Accounting](/services/outsourced-accounting) is the core of how Accord Advisors supports medical practices in Bloomington and Indianapolis. Instead of hiring an in-house bookkeeper or piecing together software on your own, your practice gets a full back-office accounting function: bookkeeping, reconciliations, financial statement preparation, and reporting, delivered through a secure online platform available anytime.
 
 Each month you receive financial reporting and dashboards built around what matters to a healthcare practice, not generic line items. That means clarity on how the practice performed last month, how reimbursement timing affected cash on hand, and where staffing costs stand relative to patient volume.
 
