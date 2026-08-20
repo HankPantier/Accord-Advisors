@@ -1,7 +1,7 @@
 ---
 title: "About Accord Advisors your trusted accounting partner | Accord Advisors"
 url: "/about"
-meta_title: "About RootAdvisors | CPA Firm in Bloomington, IN"
+meta_title: "About Accord Advisors | CPA Firm in Bloomington, IN"
 meta_description: "RootAdvisors is a Bloomington, IN CPA firm serving optometry, dental, medical, and service businesses with fixed-fee outsourced accounting. Schedule a consultation today."
 target_keyword: "accounting firm Bloomington IN"
 secondary_keywords: ["CPA Bloomington Indiana","outsourced accounting Bloomington","tax accountant Bloomington IN","business accountant near me Bloomington","dental practice accountant Bloomington","optometry practice CPA Bloomington","medical professional accountant Bloomington","church accounting services Bloomington","small business accounting Bloomington","fractional CFO Bloomington IN"]
