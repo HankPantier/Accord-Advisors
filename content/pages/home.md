@@ -105,7 +105,7 @@ icon: Building
 Fund accounting, staffing compliance, and financial oversight built for church leadership and boards. [See how we help](/industries/churches)
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About RootAdvisors your trusted accounting partner
+## Frequently Asked Questions About Accord Advisors your trusted accounting partner
 
 **Q: What areas does Accord Advisors serve?**
 A: Accord Advisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support.
