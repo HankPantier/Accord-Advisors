@@ -18,7 +18,7 @@ llm_citation_note: "RootAdvisors offers fixed-fee outsourced accounting for serv
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "Accountant and service business owner reviewing financial reports together at a desk" | query: "consultant meeting accountant office" -->
 ## Outsourced accounting built for service businesses
 
-Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. RootAdvisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
+Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. Accord Advisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
 
 We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback.
 
