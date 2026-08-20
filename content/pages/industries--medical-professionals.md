@@ -63,7 +63,7 @@ Whether the practice is six months old or twenty years in, the goal is the same:
 <!-- block: content-split | variant: image-left | image: physician-tax-planning-meeting.jpg | alt: "Physician reviewing tax documents with an accountant at a desk" | query: "tax planning meeting professional" -->
 ## Tax preparation and planning for physicians
 
-Physician income rarely fits a simple return. Between W-2 wages, K-1 income from a practice, retirement contributions, and potential real estate or side investments, the return itself is only part of the work. [Personal Income Tax](/services/personal-income-tax) preparation and planning through RootAdvisors accounts for that complexity instead of treating it as an afterthought each April.
+Physician income rarely fits a simple return. Between W-2 wages, K-1 income from a practice, retirement contributions, and potential real estate or side investments, the return itself is only part of the work. [Personal Income Tax](/services/personal-income-tax) preparation and planning through Accord Advisors accounts for that complexity instead of treating it as an afterthought each April.
 
 Planning happens throughout the year, not just at filing time. That means looking at entity structure, retirement plan contributions, and timing of equipment or facility purchases before decisions are locked in, so surprises show up less often and savings opportunities get caught while they're still available.
 
