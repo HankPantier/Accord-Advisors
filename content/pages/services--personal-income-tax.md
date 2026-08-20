@@ -116,7 +116,7 @@ Accord Advisors provides personal income tax preparation and year-round planning
 - medical professionals → /industries/medical-professionals — Relevant niche audience for personal tax planning
 - succession planning → /services/succession-planning — Life-event guidance mentioned in scope of service
 - team expertise → /team-expertise — Supports EEAT by pointing to CPA credentials
-- why RootAdvisors → /why-rootadvisors — Differentiates from typical local tax preparers
+- why Accord Advisors → /why-accordadvisors — Differentiates from typical local tax preparers
 - locations → /locations — Reinforces Bloomington and Indianapolis service area
 - getting started → /getting-started — Guides visitor to next step in onboarding
 - Schedule a consultation → /contact — Primary page CTA
