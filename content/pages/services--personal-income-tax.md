@@ -60,7 +60,7 @@ Documents move through a secure online client portal instead of email attachment
 
 Owners who run a practice or a service business have a personal return that's rarely simple. Distributions, retirement plan contributions, entity structure, and depreciation choices on the business side all land on the personal return eventually. Handling those separately from two different firms invites gaps.
 
-Jared Hammack, CPA, leads tax planning for individuals alongside the firm's outsourced accounting and business foundation clients, which means the same advisor who sees your monthly financials also prepares your 1040. That's CFO-level insight applied to a personal return, not just data entry at tax time. Visit [team expertise](/team-expertise) to see the credentials behind that advice, or read [why Accord Advisors](/why-rootadvisors) works differently from a typical local preparer.
+Jared Hammack, CPA, leads tax planning for individuals alongside the firm's outsourced accounting and business foundation clients, which means the same advisor who sees your monthly financials also prepares your 1040. That's CFO-level insight applied to a personal return, not just data entry at tax time. Visit [team expertise](/team-expertise) to see the credentials behind that advice, or read [why Accord Advisors](/why-accordadvisors) works differently from a typical local preparer.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Serving individuals in Bloomington and Indianapolis
