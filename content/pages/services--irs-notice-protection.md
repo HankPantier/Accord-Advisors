@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, provides IRS not
 
 A letter from the IRS lands in the mail and the first reaction is almost always dread. For an optometrist juggling patient schedules, a dentist managing staff payroll, or a church treasurer trying to keep the books straight, an IRS notice feels like an emergency dropped on an already full plate.
 
-Most notices are routine. A mismatched 1099, a payroll tax discrepancy, a question about a deduction. Jared Hammack, CPA, and the team at RootAdvisors read these letters every week for clients across Bloomington and Indianapolis, Indiana. You don't have to figure out what it means or what to say back. Bring it to us first, and we'll tell you exactly what's going on and what happens next.
+Most notices are routine. A mismatched 1099, a payroll tax discrepancy, a question about a deduction. Jared Hammack, CPA, and the team at Accord Advisors read these letters every week for clients across Bloomington and Indianapolis, Indiana. You don't have to figure out what it means or what to say back. Bring it to us first, and we'll tell you exactly what's going on and what happens next.
 
 <!-- block: process-steps | variant: vertical -->
 ## What we handle for you when a notice arrives
