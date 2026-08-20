@@ -1,5 +1,5 @@
 ---
-title: "About RootAdvisors your trusted accounting partner | Accord Advisors"
+title: "About Accord Advisors your trusted accounting partner | Accord Advisors"
 url: "/about"
 meta_title: "About RootAdvisors | CPA Firm in Bloomington, IN"
 meta_description: "RootAdvisors is a Bloomington, IN CPA firm serving optometry, dental, medical, and service businesses with fixed-fee outsourced accounting. Schedule a consultation today."
