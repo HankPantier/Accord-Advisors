@@ -268,18 +268,18 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Where is RootAdvisors located?",
+      "name": "Where is Accord Advisors located?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors is based in Bloomington, Indiana, and serves clients throughout the Indianapolis area, including Avon. Clients work directly with the same team each month, whether they visit in person or use the secure online portal."
+        "text": "Accord Advisors is based in Bloomington, Indiana, and serves clients throughout the Indianapolis area, including Avon. Clients work directly with the same team each month, whether they visit in person or use the secure online portal."
       }
     },
     {
       "@type": "Question",
-      "name": "What industries does RootAdvisors specialize in?",
+      "name": "What industries does Accord Advisors specialize in?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors focuses on optometry practices, dental offices, medical professionals, service businesses, and churches. Nearly 40 years of firm experience in these specific niches means faster, more relevant answers than a generalist accounting firm can offer."
+        "text": "Accord Advisors focuses on optometry practices, dental offices, medical professionals, service businesses, and churches. Nearly 40 years of firm experience in these specific niches means faster, more relevant answers than a generalist accounting firm can offer."
       }
     },
     {
@@ -295,15 +295,15 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
       "name": "Who is Jared Hammack?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Jared Hammack, CPA, is the founder of RootAdvisors. He works directly with optometry, dental, and medical practice owners on tax planning and financial reporting, bringing CFO-level insight to businesses without an in-house CFO."
+        "text": "Jared Hammack, CPA, is the founder of Accord Advisors. He works directly with optometry, dental, and medical practice owners on tax planning and financial reporting, bringing CFO-level insight to businesses without an in-house CFO."
       }
     },
     {
       "@type": "Question",
-      "name": "Does RootAdvisors serve churches and nonprofits?",
+      "name": "Does Accord Advisors serve churches and nonprofits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth."
+        "text": "Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth."
       }
     }
   ]
