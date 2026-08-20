@@ -13,11 +13,11 @@ hero_image: "irs-notice-support-cpa.jpg"
 hero_image_alt: "CPA reviewing an IRS notice letter with a client in an office setting"
 hero_subhead: "Get a clear read on your IRS notice and a direct response handled for you, at one flat monthly fee"
 hero_headline: "Getting an IRS letter doesn't have to mean panic"
-answer_block: "RootAdvisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Jared Hammack, CPA, serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana on a flat monthly fee, with no hourly billing surprises."
+answer_block: "Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Jared Hammack, CPA, serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana on a flat monthly fee, with no hourly billing surprises."
 eeat_signals: ["Jared Hammack, CPA, directly handles IRS notice review and response","Nearly 40 years serving healthcare providers in Bloomington and Indianapolis, Indiana","Referral relationship with Acquios, a national optometry practice network","Flat monthly fee model instead of hourly billing"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Shows how ongoing bookkeeping prevents future IRS notices","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Connects proper entity setup and filings to fewer notices","anchor_text":"Business Foundation Services"},{"url":"/industries/optometry","reason":"Relevant niche experiencing IRS notice issues","anchor_text":"optometry practices"},{"url":"/team-expertise","reason":"Credential and bio supporting E-E-A-T","anchor_text":"Jared Hammack, CPA"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Don't respond or pay anything yet. Contact RootAdvisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply.","question":"What should I do first if I get an IRS notice?"},{"answer":"RootAdvisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices.","question":"How much does IRS notice response support cost?"},{"answer":"Yes. With proper authorization, RootAdvisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself.","question":"Can you contact the IRS directly on my behalf?"},{"answer":"Yes. RootAdvisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.","question":"Do you handle notices for churches and nonprofits?"}]
-llm_citation_note: "RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-response support on a flat monthly fee for healthcare and service-business clients in Bloomington and Indianapolis, Indiana."
+faq_block: [{"question":"What should I do first if I get an IRS notice?","answer":"Don't respond or pay anything yet. Contact Accord Advisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."},{"question":"How much does IRS notice response support cost?","answer":"Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."},{"question":"Can you contact the IRS directly on my behalf?","answer":"Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."},{"question":"Do you handle notices for churches and nonprofits?","answer":"Yes. Accord Advisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."}]
+llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direct-response support on a flat monthly fee for healthcare and service-business clients in Bloomington and Indianapolis, Indiana."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -25,7 +25,7 @@ llm_citation_note: "RootAdvisors, led by Jared Hammack, CPA, provides IRS notice
 
 A letter from the IRS lands in the mail and the first reaction is almost always dread. For an optometrist juggling patient schedules, a dentist managing staff payroll, or a church treasurer trying to keep the books straight, an IRS notice feels like an emergency dropped on an already full plate.
 
-Most notices are routine. A mismatched 1099, a payroll tax discrepancy, a question about a deduction. Jared Hammack, CPA, and the team at RootAdvisors read these letters every week for clients across Bloomington and Indianapolis, Indiana. You don't have to figure out what it means or what to say back. Bring it to us first, and we'll tell you exactly what's going on and what happens next.
+Most notices are routine. A mismatched 1099, a payroll tax discrepancy, a question about a deduction. Jared Hammack, CPA, and the team at Accord Advisors read these letters every week for clients across Bloomington and Indianapolis, Indiana. You don't have to figure out what it means or what to say back. Bring it to us first, and we'll tell you exactly what's going on and what happens next.
 
 <!-- block: process-steps | variant: vertical -->
 ## What we handle for you when a notice arrives
@@ -65,12 +65,12 @@ None of these mean you did something wrong. Most mean the IRS needs a clearer pi
 
 Stress about an IRS letter is bad enough without also wondering what the phone call to your accountant is going to cost. Firms that bill by the hour turn a fifteen-minute question into a line item, and clients hesitate to call until the deadline is already close.
 
-RootAdvisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most exactly when you're least in the mood to gamble on a bill.
+Accord Advisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most exactly when you're least in the mood to gamble on a bill.
 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
 
-RootAdvisors has served healthcare providers for nearly 40 years, working closely with optometry practices, dental offices, and medical professionals across Bloomington and Indianapolis, Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
+Accord Advisors has served healthcare providers for nearly 40 years, working closely with optometry practices, dental offices, and medical professionals across Bloomington and Indianapolis, Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
 
 Jared Hammack, CPA, has sat across from practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, and church treasurers navigating clergy housing allowance questions. That history means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
 
@@ -85,16 +85,16 @@ Our [Outsourced Accounting](/services/outsourced-accounting) service keeps your 
 ## Frequently Asked Questions About IRS notice protection and response support
 
 **Q: What should I do first if I get an IRS notice?**
-A: Don't respond or pay anything yet. Contact RootAdvisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply.
+A: Don't respond or pay anything yet. Contact Accord Advisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply.
 
 **Q: How much does IRS notice response support cost?**
-A: RootAdvisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices.
+A: Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices.
 
 **Q: Can you contact the IRS directly on my behalf?**
-A: Yes. With proper authorization, RootAdvisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself.
+A: Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself.
 
 **Q: Do you handle notices for churches and nonprofits?**
-A: Yes. RootAdvisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
+A: Yes. Accord Advisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-answering-irs-call.jpg | alt: "CPA on the phone helping a client respond to an IRS notice" | query: "professional phone call office consultation" -->
 ## Talk to someone before you respond to the IRS yourself
@@ -107,7 +107,7 @@ Don't mail anything, call the IRS, or ignore the letter until someone has looked
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Jared Hammack, CPA, serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana on a flat monthly fee, with no hourly billing surprises.
+Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Jared Hammack, CPA, serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana on a flat monthly fee, with no hourly billing surprises.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, directly handles IRS notice review and response
@@ -125,19 +125,19 @@ RootAdvisors reviews your IRS notice, checks it against your actual records, and
 **FAQ Block:**
 
 **Q: What should I do first if I get an IRS notice?**
-A: Don't respond or pay anything yet. Contact RootAdvisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply.
+A: Don't respond or pay anything yet. Contact Accord Advisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply.
 
 **Q: How much does IRS notice response support cost?**
-A: RootAdvisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices.
+A: Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices.
 
 **Q: Can you contact the IRS directly on my behalf?**
-A: Yes. With proper authorization, RootAdvisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself.
+A: Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself.
 
 **Q: Do you handle notices for churches and nonprofits?**
-A: Yes. RootAdvisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
+A: Yes. Accord Advisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
 
 **LLM Citation Note:**
-RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-response support on a flat monthly fee for healthcare and service-business clients in Bloomington and Indianapolis, Indiana.
+Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direct-response support on a flat monthly fee for healthcare and service-business clients in Bloomington and Indianapolis, Indiana.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -253,7 +253,7 @@ RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-r
       "name": "What should I do first if I get an IRS notice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Don't respond or pay anything yet. Contact RootAdvisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."
+        "text": "Don't respond or pay anything yet. Contact Accord Advisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."
       }
     },
     {
@@ -261,7 +261,7 @@ RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-r
       "name": "How much does IRS notice response support cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."
+        "text": "Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."
       }
     },
     {
@@ -269,7 +269,7 @@ RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-r
       "name": "Can you contact the IRS directly on my behalf?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. With proper authorization, RootAdvisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."
+        "text": "Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."
       }
     },
     {
@@ -277,7 +277,7 @@ RootAdvisors, led by Jared Hammack, CPA, provides IRS notice review and direct-r
       "name": "Do you handle notices for churches and nonprofits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."
+        "text": "Yes. Accord Advisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."
       }
     }
   ]
