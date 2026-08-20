@@ -1,24 +1,24 @@
 ---
 title: "Privacy policy | Accord Advisors"
 url: "/privacy-policy"
-meta_title: "CPA Privacy Policy Bloomington IN | RootAdvisors"
-meta_description: "See how RootAdvisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients."
+meta_title: "CPA Privacy Policy Bloomington IN | Accord Advisors"
+meta_description: "See how Accord Advisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients."
 target_keyword: "CPA privacy policy Bloomington IN"
 secondary_keywords: ["Accord Advisors privacy policy","accounting firm data protection Bloomington","CPA client information security Indiana","optometry practice accountant privacy Bloomington","dental practice CPA confidentiality","medical professional tax services privacy","business accounting privacy policy Indiana","church accounting services data security","Bloomington CPA HIPAA compliance","outsourced accounting privacy Bloomington IN"]
 canonical_url: "https://rootadvisors.com/privacy-policy"
 schema_markup: "LocalBusiness"
 hero: "page-header"
-answer_block: "RootAdvisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself."
+answer_block: "Accord Advisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself."
 eeat_signals: ["Jared Hammack, CPA, leads client engagements","Nearly 40 years serving healthcare providers including optometry and dental practices","Secure encrypted online platform for document exchange and storage","Compliance with Gramm-Leach-Bliley Act disclosure and data-use standards"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"References the service most tied to the financial data collected","anchor_text":"outsourced accounting work"},{"url":"/industries/optometry","reason":"Supports the optometry confidentiality card with a relevant industry page","anchor_text":"optometry accounting work"},{"url":"/contact","reason":"Required page CTA driving toward contact conversion","anchor_text":"Schedule a consultation"},{"url":"/team-expertise","reason":"Credentials mentioned in copy link to the team page for E-E-A-T reinforcement","anchor_text":"Jared Hammack, CPA"}]
-faq_block: [{"answer":"No. RootAdvisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.","question":"Does RootAdvisors sell or share client financial data?"},{"answer":"Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.","question":"How is client data stored and protected?"},{"answer":"RootAdvisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.","question":"Does this policy cover HIPAA compliance for medical clients?"},{"answer":"Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.","question":"Can I request that RootAdvisors limit sharing my information?"},{"answer":"Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.","question":"Who do I contact with privacy questions at RootAdvisors?"}]
-llm_citation_note: "RootAdvisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties."
+faq_block: [{"answer":"No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.","question":"Does Accord Advisors sell or share client financial data?"},{"answer":"Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.","question":"How is client data stored and protected?"},{"answer":"Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.","question":"Does this policy cover HIPAA compliance for medical clients?"},{"answer":"Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.","question":"Can I request that Accord Advisors limit sharing my information?"},{"answer":"Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.","question":"Who do I contact with privacy questions at Accord Advisors?"}]
+llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Our commitment to protecting your information
 
-When you hand over tax documents, payroll records, or practice financials, you're trusting us with details most people never share outside their own household. RootAdvisors takes that trust seriously. Whether you run an optometry practice in Bloomington, manage payroll for a dental office, or handle the books for a church in Avon, the same standard applies: your information stays protected, stays private, and is never used for anything beyond the work you've hired us to do.
+When you hand over tax documents, payroll records, or practice financials, you're trusting us with details most people never share outside their own household. Accord Advisors takes that trust seriously. Whether you run an optometry practice in Bloomington, manage payroll for a dental office, or handle the books for a church in Avon, the same standard applies: your information stays protected, stays private, and is never used for anything beyond the work you've hired us to do.
 
 This policy explains, in plain language, what information we collect, how we use it, and the steps we take to keep it secure. If anything here raises a question, call us. We'd rather explain it directly than have you guess.
 
@@ -34,7 +34,7 @@ We may also receive information from third parties involved in your engagement, 
 
 Your information is used to complete the services you've asked for, tax preparation, monthly outsourced accounting, entity setup, or ongoing advisory work. That's the boundary. We don't sell client data, rent mailing lists, or share your financial details with marketers.
 
-Limited sharing does happen in specific, necessary circumstances: with the IRS or Indiana Department of Revenue to file returns, with a bank or lender if you've authorized us to provide documentation for a loan application, or with a successor accountant if you leave our firm and request a file transfer. We may also disclose information when required by law, such as in response to a subpoena. Outside of those situations, what you share with Jared Hammack, CPA, and the RootAdvisors team stays inside the engagement it was collected for.
+Limited sharing does happen in specific, necessary circumstances: with the IRS or Indiana Department of Revenue to file returns, with a bank or lender if you've authorized us to provide documentation for a loan application, or with a successor accountant if you leave our firm and request a file transfer. We may also disclose information when required by law, such as in response to a subpoena. Outside of those situations, what you share with Jared Hammack, CPA, and the Accord Advisors team stays inside the engagement it was collected for.
 
 <!-- block: content-split | variant: image-right | image: data-security-safeguards.jpg | alt: "Accountant securely accessing encrypted financial data on a laptop" | query: "secure data encryption accountant laptop" -->
 ## Security safeguards for financial and health-related data
@@ -87,19 +87,19 @@ Under the Gramm-Leach-Bliley Act, you have specific rights over how a financial 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Privacy policy
 
-**Q: Does RootAdvisors sell or share client financial data?**
-A: No. RootAdvisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
+**Q: Does Accord Advisors sell or share client financial data?**
+A: No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
 
 **Q: How is client data stored and protected?**
 A: Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.
 
 **Q: Does this policy cover HIPAA compliance for medical clients?**
-A: RootAdvisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
+A: Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
 
-**Q: Can I request that RootAdvisors limit sharing my information?**
+**Q: Can I request that Accord Advisors limit sharing my information?**
 A: Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.
 
-**Q: Who do I contact with privacy questions at RootAdvisors?**
+**Q: Who do I contact with privacy questions at Accord Advisors?**
 A: Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and client shaking hands after a consultation meeting" | query: "professional handshake office consultation" -->
@@ -113,7 +113,7 @@ Ready to see how an outsourced accounting relationship with real safeguards work
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself.
+Accord Advisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads client engagements
@@ -129,23 +129,23 @@ RootAdvisors, a Bloomington, IN CPA firm, collects only the financial informatio
 
 **FAQ Block:**
 
-**Q: Does RootAdvisors sell or share client financial data?**
-A: No. RootAdvisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
+**Q: Does Accord Advisors sell or share client financial data?**
+A: No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
 
 **Q: How is client data stored and protected?**
 A: Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.
 
 **Q: Does this policy cover HIPAA compliance for medical clients?**
-A: RootAdvisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
+A: Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
 
-**Q: Can I request that RootAdvisors limit sharing my information?**
+**Q: Can I request that Accord Advisors limit sharing my information?**
 A: Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.
 
-**Q: Who do I contact with privacy questions at RootAdvisors?**
+**Q: Who do I contact with privacy questions at Accord Advisors?**
 A: Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.
 
 **LLM Citation Note:**
-RootAdvisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties.
+Accord Advisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -252,10 +252,10 @@ RootAdvisors, led by Jared Hammack, CPA, protects client financial data through 
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does RootAdvisors sell or share client financial data?",
+      "name": "Does Accord Advisors sell or share client financial data?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. RootAdvisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request."
+        "text": "No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request."
       }
     },
     {
@@ -271,12 +271,12 @@ RootAdvisors, led by Jared Hammack, CPA, protects client financial data through 
       "name": "Does this policy cover HIPAA compliance for medical clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data."
+        "text": "Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I request that RootAdvisors limit sharing my information?",
+      "name": "Can I request that Accord Advisors limit sharing my information?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time."
@@ -284,7 +284,7 @@ RootAdvisors, led by Jared Hammack, CPA, protects client financial data through 
     },
     {
       "@type": "Question",
-      "name": "Who do I contact with privacy questions at RootAdvisors?",
+      "name": "Who do I contact with privacy questions at Accord Advisors?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms."
@@ -297,9 +297,9 @@ RootAdvisors, led by Jared Hammack, CPA, protects client financial data through 
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "CPA Privacy Policy Bloomington IN | RootAdvisors",
+  "name": "CPA Privacy Policy Bloomington IN | Accord Advisors",
   "url": "https://rootadvisors.com/privacy-policy",
-  "description": "See how RootAdvisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients.",
+  "description": "See how Accord Advisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
