@@ -32,7 +32,7 @@ Explore the specifics of what that looks like across our [core services](/what-w
 <!-- block: content-split | variant: image-right | image: monthly-financial-dashboard-review.jpg | alt: "Accountant showing a business owner monthly financial dashboards on a laptop" | query: "accountant reviewing dashboard with client" -->
 ## Outsourced accounting that keeps you informed every month
 
-Owners of optometry practices and service businesses tell us the same thing: they don't know how last month actually went until it's too late to change anything. Our [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions, like patient volume trends for an optometry practice or job costing for a contractor.
+Owners of optometry practices and service businesses tell us the same thing: they don't know how last month actually went until it's too late to change anything. Accord Advisors' [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions, like patient volume trends for an optometry practice or job costing for a contractor.
 
 The reporting arrives through a secure online platform, so you're never waiting on a phone call or digging through email attachments to see where you stand. Bookkeeping, reconciliations, and financial statement preparation happen on a set schedule, billed at a fixed monthly rate you agree to upfront.
 
