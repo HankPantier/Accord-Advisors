@@ -70,7 +70,7 @@ Accord Advisors works on a flat monthly fee. If you're already a client, notice 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
 
-RootAdvisors has served healthcare providers for nearly 40 years, working closely with optometry practices, dental offices, and medical professionals across Bloomington and Indianapolis, Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
+Accord Advisors has served healthcare providers for nearly 40 years, working closely with optometry practices, dental offices, and medical professionals across Bloomington and Indianapolis, Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
 
 Jared Hammack, CPA, has sat across from practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, and church treasurers navigating clergy housing allowance questions. That history means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
 
