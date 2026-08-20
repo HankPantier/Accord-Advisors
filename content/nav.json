@@ -49,6 +49,26 @@
         {
           "label": "Accounting for dental practices",
           "url": "/industries/dentists"
+        },
+        {
+          "label": "Accounting for Consulting Firms",
+          "url": "/industries/consulting-firms"
+        },
+        {
+          "label": "Accounting for Advertising Agencies",
+          "url": "/industries/advertising-agencies"
+        },
+        {
+          "label": "Accounting for Law Firms",
+          "url": "/industries/law-firms"
+        },
+        {
+          "label": "Accounting for Financial Advisors",
+          "url": "/industries/financial-advisors"
+        },
+        {
+          "label": "Accounting for Professional Services Businesses",
+          "url": "/industries/professional-services"
         }
       ]
     },
