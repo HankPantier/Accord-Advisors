@@ -38,7 +38,7 @@ Instead of waiting on a year-end summary, you get dashboards updated on a schedu
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Accountant reviewing a flat monthly invoice with a small business client" | query: "accountant client reviewing invoice document" -->
 ## Fixed monthly fees instead of surprise hourly bills
 
-Hourly billing turns every phone call into a math problem. Wondering whether a question is worth the fee keeps owners from picking up the phone, and that silence gets expensive when a decision actually needs a CPA's input. RootAdvisors works on fixed monthly fees set before the year starts, so the invoice never surprises you.
+Hourly billing turns every phone call into a math problem. Wondering whether a question is worth the fee keeps owners from picking up the phone, and that silence gets expensive when a decision actually needs a CPA's input. Accord Advisors works on fixed monthly fees set before the year starts, so the invoice never surprises you.
 
 - No hourly meter running during calls, emails, or quick questions
 - One predictable monthly cost for budgeting and cash flow planning
