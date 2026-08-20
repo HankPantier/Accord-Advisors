@@ -253,7 +253,7 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
       "name": "What should I do first if I get an IRS notice?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Don't respond or pay anything yet. Contact RootAdvisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."
+        "text": "Don't respond or pay anything yet. Contact Accord Advisors first so Jared Hammack, CPA, can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."
       }
     },
     {
