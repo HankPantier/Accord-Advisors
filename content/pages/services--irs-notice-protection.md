@@ -277,7 +277,7 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
       "name": "Do you handle notices for churches and nonprofits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."
+        "text": "Yes. Accord Advisors works with churches and religious organizations across Bloomington and Indianapolis, Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."
       }
     }
   ]
