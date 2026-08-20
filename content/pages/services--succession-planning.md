@@ -66,7 +66,7 @@ You get a written timeline tied to your fixed monthly fee, covering tax position
 
 Transitioning an optometry or dental practice carries a layer of complexity most business sales don't. Patient records have to move in compliance with state and federal privacy rules. Associate buy-ins need a valuation method both the departing owner and incoming partner trust. A practice's value is tied closely to patient retention, payer mix, and equipment age, factors a generic business appraisal often misses.
 
-RootAdvisors has worked inside healthcare financial reporting for nearly 40 years, and that background shapes how we prepare a practice for sale or internal transfer. We help structure associate buy-in terms, model the cash flow impact of a phased retirement, and organize the financial statements that optometry and dental buyers, including groups referred through platforms like Acquios, expect to see before making an offer.
+Accord Advisors has worked inside healthcare financial reporting for nearly 40 years, and that background shapes how we prepare a practice for sale or internal transfer. We help structure associate buy-in terms, model the cash flow impact of a phased retirement, and organize the financial statements that optometry and dental buyers, including groups referred through platforms like Acquios, expect to see before making an offer.
 
 <!-- block: content-split | variant: image-right | image: church-service-business-leadership.jpg | alt: "Church finance committee and service business owner in a planning meeting" | query: "nonprofit church finance meeting" -->
 ## Succession planning for service businesses and churches
