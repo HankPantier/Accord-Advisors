@@ -31,7 +31,7 @@ No surprise invoices. No re-explaining your business every time you call. Just a
 
 Most service business owners don't need more numbers. They need to know what the numbers mean. Did last month's project pipeline actually turn a profit? Is payroll outpacing revenue growth? Should you take on that new retainer client or pass?
 
-RootAdvisors builds monthly financial and operational dashboards that answer those questions in plain language, not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, receivables, project profitability, and the non-financial metrics that matter to your business, delivered on a predictable schedule through a secure online platform.
+Accord Advisors builds monthly financial and operational dashboards that answer those questions in plain language, not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, receivables, project profitability, and the non-financial metrics that matter to your business, delivered on a predictable schedule through a secure online platform.
 
 That means a staffing decision, a pricing change, or a growth call gets made based on where your business stands this month, not on a guess or a stale report from last quarter.
 
