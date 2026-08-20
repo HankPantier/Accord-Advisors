@@ -37,7 +37,7 @@ Founder Jared Hammack, CPA, built the firm around a simple idea: a business owne
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Business owner reviewing a flat monthly invoice with an advisor" | query: "business owner reviewing invoice advisor" -->
 ## Why fixed monthly fees give clients peace of mind
 
-Hourly billing creates a strange incentive: the more time your accountant spends, the more you pay, even for a five-minute question you were afraid to ask. RootAdvisors charges a fixed monthly fee instead. You know the number before the month starts, and it doesn't change because you called twice or sent a long email.
+Hourly billing creates a strange incentive: the more time your accountant spends, the more you pay, even for a five-minute question you were afraid to ask. Accord Advisors charges a fixed monthly fee instead. You know the number before the month starts, and it doesn't change because you called twice or sent a long email.
 
 That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, and service business owners: the fear of getting billed for asking a basic question.
 
