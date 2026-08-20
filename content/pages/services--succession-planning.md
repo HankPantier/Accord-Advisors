@@ -78,7 +78,7 @@ Churches and religious organizations face their own version of this challenge wh
 <!-- block: content-prose -->
 ## How we work with your attorney and financial advisors
 
-Succession planning touches legal documents, estate planning, and sometimes insurance, areas outside a CPA's scope. RootAdvisors doesn't try to replace your attorney or financial advisor. We handle the financial data those professionals need: clean statements, cash flow projections, valuation-ready reports, and tax modeling for whatever transaction structure they recommend.
+Succession planning touches legal documents, estate planning, and sometimes insurance, areas outside a CPA's scope. Accord Advisors doesn't try to replace your attorney or financial advisor. We handle the financial data those professionals need: clean statements, cash flow projections, valuation-ready reports, and tax modeling for whatever transaction structure they recommend.
 
 That division of labor keeps the process efficient. Your attorney drafts the buy-sell agreement or trust. Your financial advisor addresses your personal retirement income. RootAdvisors makes sure the numbers behind both are accurate and current, delivered through the same secure online platform you already use for outsourced accounting, so nothing gets lost between advisors.
 
