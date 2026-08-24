@@ -1,5 +1,5 @@
 ---
-title: "Why a Balanced Investment Portfolio Needs Ongoing Attention, Not a One-Time Fix"
+title: Why a Balanced Investment Portfolio Needs Ongoing Attention, Not a One-Time Fix
 slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 author: "Ryan Deckard"
