@@ -97,6 +97,10 @@
           "url": "/smart-tips-magazine-gallery"
         }
       ]
+    },
+    {
+      "label": "Resources",
+      "url": "/resources"
     }
   ]
 }
