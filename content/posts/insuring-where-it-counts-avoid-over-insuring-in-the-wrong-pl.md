@@ -79,4 +79,4 @@ No single checklist fits every practice, because the right coverage depends on r
 **How often should a personal risk management plan be reviewed?**
 Every 24 months at minimum, and immediately after a major life or business event: a new mortgage, a new partner, the sale of a property or practice, or a significant jump in net worth. Coverage that made sense five years ago rarely still fits today's numbers.
 
-If your coverage hasn't been recalculated since you bought it, it's probably wrong in one direction or the other. Jared Hammack, CPA, and the team at Accord Advisors can run the numbers alongside your tax and business planning so your insurance actually matches your risk. [Get in touch](/contact) to start the conversation.
+If your coverage hasn't been recalculated since you bought it, it's probably wrong in one direction or the other. The team at Accord Advisors can run the numbers alongside your tax and business planning so your insurance actually matches your risk. [Get in touch](/contact) to start the conversation.
