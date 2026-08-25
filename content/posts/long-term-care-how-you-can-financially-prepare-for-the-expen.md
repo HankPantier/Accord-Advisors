@@ -61,7 +61,7 @@ Long-term care insurance premiums are often deductible as a medical expense, sub
 
 For business owners, there's an added angle: a properly structured C-corporation can deduct 100% of long-term care insurance premiums for owners and employees as a business expense, a strategy that's often overlooked because it sits at the intersection of tax planning and estate planning, two areas that don't always get discussed together. If you're weighing a major asset sale, a practice transition, or a change in entity structure in the next few years, it's worth reading [why you should call your CPA before signing on a business, rental, or large asset sale](/resources/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign), since the timing of a long-term care insurance purchase often overlaps with those bigger financial decisions.
 
-Jared Hammack, CPA, works with clients on exactly this kind of layered planning, where a long-term care decision touches tax deductions, portfolio rebalancing, and estate goals at the same time. It's rarely a single-decision problem, which is why it gets postponed so often.
+Accord Advisors works with clients on exactly this kind of layered planning, where a long-term care decision touches tax deductions, portfolio rebalancing, and estate goals at the same time. It's rarely a single-decision problem, which is why it gets postponed so often.
 
 ## Common Questions
 
