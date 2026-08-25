@@ -1,5 +1,5 @@
 ---
-title: "Unless It's Working for You, Your Dog Isn't a Tax Deduction"
+title: Unless It's Working for You, Your Dog Isn't a Tax Deduction
 slug: unless-its-working-for-you-your-dog-isnt-a-tax-deduction
 date: 2026-08-25
 author: "Ryan Deckard"
