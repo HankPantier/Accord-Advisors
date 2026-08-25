@@ -7,8 +7,8 @@ excerpt: "Recurring subscriptions quietly drain thousands a year from households
 image: reviewing-bills-and-statements-at-desk.jpg
 image_alt: "Person reviewing monthly bank statements and receipts at a desk to spot recurring subscription charges"
 tags: ["budgeting", "outsourced accounting", "expense management"]
-meta_title: "Subscription Creep: How to Audit Recurring Costs"
-meta_description: "Subscription creep costs practices and households thousands a year. Learn how to audit recurring expenses and build ongoing budget discipline."
+meta_title: "Subscription Creep: How to Audit Recurring Costs | Accord Advisors"
+meta_description: "Subscription creep costs practices and households thousands a year. Learn how to audit recurring expenses and build ongoing budget discipline. Serving Bloomington and Indianapolis, IN."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
 canonical_url: https://rootadvisors.com/resources/take-back-control-of-subscription-creep
