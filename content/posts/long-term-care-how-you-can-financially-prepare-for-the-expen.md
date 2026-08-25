@@ -4,10 +4,10 @@ slug: long-term-care-how-you-can-financially-prepare-for-the-expen
 date: 2026-08-25
 author: "Ryan Deckard"
 excerpt: "Long-term care can cost $90,000 or more a year in Indiana. Learn how insurance, VA Aid and Attendance benefits, and self-funding work together in a real financial plan."
-image: senior-couple-reviewing-financial-documents.jpg
+image: confident-business-owner-handshake.jpg
 image_alt: "Senior couple reviewing financial documents together at a kitchen table while planning for long-term care costs"
 tags: ["long-term care planning", "retirement planning", "elder care finances", "tax planning"]
-meta_title: "Long-Term Care Planning Costs: A CPA's Guide | Accord Advisors – Bloomington & Indianapolis, IN"
+meta_title: "Long-Term Care Planning Costs: A CPA's Guide | Accord Advisors"
 meta_description: "Learn what long-term care really costs in Indiana and how to fund it with insurance, VA benefits, and savings before a crisis forces the decision. Accord Advisors serves Bloomington and Indianapolis, IN."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
