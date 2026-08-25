@@ -17,7 +17,7 @@ answer_block: "Whether buying or renting makes more financial sense depends on y
 ---
 A house is the biggest purchase most people ever make, and most people decide to buy one for reasons that have nothing to do with the numbers. A friend just bought. Rent went up again. It feels like the responsible, grown-up thing to do. None of that is wrong, exactly, but none of it tells you whether buying actually makes financial sense for your situation this year. The buy-vs-rent decision is a math problem before it's a lifestyle decision, and treating it that way is how you avoid a five-figure mistake.
 
-Jared Hammack, CPA, works with individuals and business owners across Bloomington and Indianapolis on exactly this kind of decision, alongside tax planning and outsourced accounting for medical, dental, and optometry practices. The framework is the same whether someone is buying a $1.2 million practice building or a $260,000 starter home: put both scenarios on paper, compare real cash flow, and let the numbers argue with your gut.
+Accord Advisors works with individuals and business owners across Bloomington and Indianapolis on exactly this kind of decision, alongside tax planning and outsourced accounting for medical, dental, and optometry practices. The framework is the same whether someone is buying a $1.2 million practice building or a $260,000 starter home: put both scenarios on paper, compare real cash flow, and let the numbers argue with your gut.
 
 ## Why this is a balance sheet decision, not a gut decision
 
