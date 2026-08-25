@@ -34,7 +34,7 @@ Start by putting real numbers next to each major personal risk category. This is
 | Premature death | Income replacement for dependents, mortgage payoff, education costs | 10 to 15 times annual income, adjusted for existing savings and debt |
 | Disability | Ongoing income if you can't work | 60 to 70% of gross income replacement through age 65 |
 | Liability lawsuits | Assets beyond what auto/home policies cover | Umbrella policy sized to match net worth, typically $1M to $5M |
-| Long-term care | Retirement savings depletion in later years | Varies widely; often addressed at ages 55 to 65, not sooner |
+| Long-term care | Retirement savings depletion in later years | [Varies widely; often addressed at ages 55 to 65](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen), not sooner |
 
 A 42-year-old dentist in Avon with a $340,000 mortgage, two kids headed to college, and $900,000 in retirement and investment accounts has a very different life insurance need than a 61-year-old with the mortgage paid off and kids through school. Yet both might be carrying the same policy they bought at 35 because nobody revisited it. Net worth and dependents change. Coverage should change with them.
 
