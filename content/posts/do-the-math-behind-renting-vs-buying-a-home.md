@@ -7,8 +7,8 @@ excerpt: "Buying a home isn't a gut call, it's a spreadsheet problem. See how to
 image: family-reviewing-finances-at-kitchen-table.jpg
 image_alt: "A couple reviewing home buying and renting costs on paper at their kitchen table"
 tags: ["personal finance", "tax planning", "homeownership", "CPA advisory"]
-meta_title: "Buy vs Rent a Home: The Financial Math Explained"
-meta_description: "Deciding between buying or renting a home? A Bloomington, IN CPA breaks down the real monthly costs, tax impact, and breakeven timeline behind the decision."
+meta_title: "Buy vs Rent a Home: The Financial Math Explained | Accord Advisors"
+meta_description: "Deciding between buying or renting a home? Accord Advisors, a Bloomington, IN CPA firm, breaks down the real monthly costs, tax impact, and breakeven timeline behind the decision."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
 canonical_url: https://rootadvisors.com/resources/do-the-math-behind-renting-vs-buying-a-home
