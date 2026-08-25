@@ -8,7 +8,7 @@ image: financial-documents-and-calculator-on-desk.jpg
 image_alt: "Person reviewing financial documents and calculating insurance coverage needs at a desk"
 tags: ["Financial Planning", "Risk Management", "Business Foundation Services"]
 meta_title: "How Much Insurance Coverage Do You Need? | Accord Advisors Bloomington, IN"
-meta_description: "A Bloomington, IN CPA explains how to calculate how much insurance coverage you actually need, from personal risk to practice liability, using real numbers."
+meta_description: "Accord Advisors, a Bloomington, IN CPA firm, explains how to calculate how much insurance coverage you actually need, from personal risk to practice liability, using real numbers."
 target_keyword: "how much insurance coverage do you need"
 secondary_keywords: ["types of insurance for financial protection", "business insurance coverage checklist", "insurance needs analysis", "personal risk management planning"]
 canonical_url: https://rootadvisors.com/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl
