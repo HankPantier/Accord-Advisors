@@ -27,7 +27,7 @@ The test that matters is the one in [IRS Publication 535](https://www.irs.gov/pu
 
 ## The one exception built for medical need: service and guide dogs
 
-If you have a diagnosed medical condition and a dog trained to assist with it, guide dogs for the visually impaired, hearing dogs, mobility assistance animals, the costs tied to buying, training, and maintaining that animal can be deductible as a medical expense. [IRS Publication 502](https://www.irs.gov/publications/p502) spells this out directly: food, grooming, and veterinary care for a service animal count toward your medical expense deduction, the same category as prescriptions or doctor visits.
+If you have a diagnosed medical condition and a dog trained to assist with it, guide dogs for the visually impaired, hearing dogs, mobility assistance animals, the costs tied to buying, training, and maintaining that animal can be deductible as a [medical expense](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi). [IRS Publication 502](https://www.irs.gov/publications/p502) spells this out directly: food, grooming, and veterinary care for a service animal count toward your medical expense deduction, the same category as prescriptions or doctor visits.
 
 The catch is the same one that trips up every medical deduction: it only helps if your total qualifying medical expenses exceed 7.5% of your adjusted gross income, and you itemize instead of taking the standard deduction. For a household with $90,000 in AGI, that means the first $6,750 of medical costs doesn't count at all. A trained service dog's costs can still push a family past that threshold, especially in the first year when training and acquisition costs are highest.
 
