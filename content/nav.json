@@ -122,7 +122,11 @@
     },
     {
       "label": "Getting Started",
-      "url": "getting-started"
+      "url": "/getting-started"
+    },
+    {
+      "label": "Contact",
+      "url": "/locations"
     }
   ]
 }
