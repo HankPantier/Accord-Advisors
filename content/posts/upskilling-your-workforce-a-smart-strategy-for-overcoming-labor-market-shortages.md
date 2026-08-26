@@ -53,7 +53,7 @@ We work with optometry, dental, and medical practices across Bloomington and Ind
 
 Service businesses face a different version of the same problem: skilled trades and technical roles that take months to fill from outside. Training current employees on new equipment, safety protocols, or licensing requirements is often faster and cheaper than hiring, and the costs are typically deductible when properly documented.
 
-Churches carry an added layer. Paid staff training, such as bookkeeping software instruction for an office administrator or safety training for facilities staff, is generally treated like any other business expense. Volunteer training is different and usually isn't deductible the same way, which makes clear recordkeeping between paid and volunteer roles essential.
+Churches carry an added layer. Paid staff training, such as bookkeeping software instruction for an office administrator or safety training for facilities staff, is generally treated like any other business expense. Volunteer training is different and usually isn't deductible the same way, which makes clear recordkeeping between paid and volunteer roles essential. [Learn what volunteer expenses do qualify](/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c).
 
 Getting the distinction right protects a church's tax-exempt status and keeps the books audit-ready. Learn more about staffing considerations for [churches](/industries/churches) or explore support for [service businesses](/industries/service-businesses).
 
