@@ -123,6 +123,10 @@
     {
       "label": "Contact",
       "url": "/locations"
+    },
+    {
+      "label": "Getting started",
+      "url": "/getting-started"
     }
   ]
 }
