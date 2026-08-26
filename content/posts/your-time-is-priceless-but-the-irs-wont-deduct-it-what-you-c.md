@@ -7,7 +7,7 @@ excerpt: "Volunteer hours have no deduction value, but mileage, supplies, and ot
 image: volunteer-loading-donation-boxes-into-car.jpg
 image_alt: "A volunteer loading boxes of donated supplies into a car outside a community organization"
 tags: ["tax deductions", "charitable giving", "individual tax planning", "nonprofits and churches"]
-meta_title: "Tax Deductions for Volunteering: What Actually Qualifies"
+meta_title: "Tax Deductions for Volunteering: What Actually Qualifies | Accord Advisors"
 meta_description: "Learn what tax deductions for volunteering the IRS allows, including charitable mileage and unreimbursed expenses, plus the records you need to claim them."
 target_keyword: "tax deductions for volunteering"
 secondary_keywords: ["volunteer expenses tax deductible", "charitable mileage deduction", "unreimbursed volunteer expenses", "IRS rules on charitable donations"]
