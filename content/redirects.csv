@@ -28,3 +28,4 @@ old_url,new_url,status_code,reason
 /services/outsourced-accounting/outsourced-accounting,/services/outsourced-accounting/business-tax,301,Nested via nav editor
 /industries/advertising-agencies,/industries/professional-services/advertising-agencies,301,Relocated via AI
 /industries/law-firms,/industries/professional-services/law-firms,301,Relocated via AI
+/industries/financial-advisors,/industries/professional-services/financial-advisors,301,Relocated via AI
