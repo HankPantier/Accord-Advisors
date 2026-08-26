@@ -17,7 +17,7 @@ answer_block: "Self-care for business owners is a financial safeguard, not an in
 ---
 A Bloomington optometrist we work with used to open the practice at 7:30 a.m., see patients until 5, then stay until 9 p.m. reconciling insurance claims herself because she didn't trust anyone else to get it right. Eighteen months in, she missed a lease renewal deadline that cost her practice an extra $14,000 a year in rent she didn't negotiate away. She wasn't careless. She was exhausted. That distinction matters, because the financial damage looked identical either way.
 
-Business owners tend to treat rest as something you earn after the business succeeds, not something that makes success possible. Jared Hammack, CPA, has spent nearly 40 years watching that assumption play out in the numbers of optometry practices, dental offices, service businesses, and churches across Bloomington and Indianapolis. The pattern is consistent: the owners who run themselves into the ground don't just get sick or tired. They make worse financial decisions, and those decisions show up on the balance sheet.
+Business owners tend to treat rest as something you earn after the business succeeds, not something that makes success possible. Accord Advisors has spent nearly 40 years watching that assumption play out in the numbers of optometry practices, dental offices, service businesses, and churches across Bloomington and Indianapolis. The pattern is consistent: the owners who run themselves into the ground don't just get sick or tired. They make worse financial decisions, and those decisions show up on the balance sheet.
 
 ## The real cost of running yourself into the ground
 
