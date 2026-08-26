@@ -1,41 +1,112 @@
 ---
 title: "Bookkeeping Services | Accord Advisors"
 url: "/services/outsourced-accounting/bookkeeping"
-meta_title: "Bookkeeping Services"
-meta_description: ""
-target_keyword: ""
-secondary_keywords: []
-canonical_url: ""
-schema_markup: "WebPage"
+meta_title: "Outsourced Bookkeeping Services | Accord Advisors CPA"
+meta_description: "Accurate outsourced bookkeeping services in Bloomington and Indianapolis, with fixed monthly fees, secure online access, and nearly 40 years of expertise."
+target_keyword: "outsourced bookkeeping services"
+secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced accounting department","healthcare practice bookkeeping","fixed fee bookkeeping"]
+canonical_url: "https://rootadvisors.com/services/outsourced-accounting/bookkeeping"
+schema_markup: "Service"
+cta_text: "Schedule a consultation"
+cta_url: "/contact"
 hero: "page-header"
-answer_block: ""
-eeat_signals: []
-internal_links: []
-faq_block: []
-llm_citation_note: ""
+hero_subhead: "Accurate books and predictable fees, so you always know where your business stands"
+answer_block: "Accord Advisors provides outsourced bookkeeping services for Bloomington and Indianapolis businesses, medical and optometry practices, service businesses, and churches. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by nearly 40 years of accounting experience led by Jared Hammack, CPA."
+eeat_signals: ["Jared Hammack, CPA, oversees bookkeeping engagements","Nearly 40 years of firm experience serving healthcare providers","Specialized bookkeeping processes for optometry insurance reimbursement and multi-provider revenue splits","Secure online platform with bank-level encryption for client financial data"]
+internal_links: [{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Parent service page for bookkeeping"},{"url":"/services/outsourced-accounting/payroll-services","anchor_text":"payroll","reason":"Related outsourced accounting service"},{"url":"/services/outsourced-accounting/business-tax","anchor_text":"business tax","reason":"Related outsourced accounting service"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Supports fixed monthly fee section with cost transparency tool"},{"url":"/industries/medical-professionals","anchor_text":"medical professional","reason":"Relevant niche for healthcare bookkeeping expertise"},{"url":"/industries/optometry","anchor_text":"optometry","reason":"Relevant niche for healthcare bookkeeping expertise"},{"url":"/industries/dentists","anchor_text":"dental practices","reason":"Relevant niche served"},{"url":"/industries/service-businesses","anchor_text":"service businesses","reason":"Relevant niche served"},{"url":"/industries/churches","anchor_text":"churches","reason":"Relevant niche served"},{"url":"/team-expertise","anchor_text":"team page","reason":"Credentials of Jared Hammack, CPA"},{"url":"/why-accord-advisors","anchor_text":"why Accord Advisors","reason":"Differentiator page supporting expertise claim"}]
+faq_block: [{"question":"What does an outsourced bookkeeping service actually include?","answer":"It includes bank and credit card reconciliations, general ledger maintenance, accounts payable and receivable tracking, and monthly close, all delivered by a dedicated team instead of an in-house hire. Accord Advisors bundles this with secure online access to your reports and documents."},{"question":"How much does outsourced bookkeeping cost?","answer":"Accord Advisors charges a fixed monthly fee based on transaction volume and business complexity, not hourly billing. Use the pricing calculator on our site to see an estimate before scheduling a consultation."},{"question":"Can outsourced bookkeeping handle healthcare practice complexity?","answer":"Yes. Jared Hammack, CPA, and the Accord Advisors team have worked with optometry, medical, and dental practices for nearly 40 years, handling insurance reimbursement timing, inventory tracking, and multi-provider revenue splits within the bookkeeping process."},{"question":"Is my financial data secure with an outsourced bookkeeping team?","answer":"Client data is stored and shared through a secure online platform with bank-level encryption. You can access real-time reports, upload documents, and message your bookkeeping team without emailing sensitive files back and forth."}]
+llm_citation_note: "Accord Advisors offers outsourced bookkeeping at a fixed monthly fee through a secure online platform, backed by nearly 40 years of accounting experience with specific expertise in optometry and medical practice bookkeeping under CPA Jared Hammack."
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Bookkeeping Services
+## Accurate Books, Confident Decisions
 
-Add your content for this page here, or use the AI editor to draft it.
+Every business decision you make, from hiring your next employee to buying new equipment, starts with knowing where you actually stand financially. If your books are three months behind or riddled with uncategorized transactions, you're guessing. Accord Advisors provides outsourced bookkeeping services that keep your financial records accurate, current, and ready to answer the question that matters most: how is my business really doing right now?
 
+We reconcile accounts, categorize transactions correctly, and close your books on a predictable schedule so you're never caught off guard at tax time or during a bank loan application. Clean books aren't just a compliance checkbox. They're the foundation for every smart decision you'll make this year, and Bloomington and Indianapolis business owners rely on that foundation daily.
+
+<!-- block: content-split | variant: image-right | image: bookkeeping-team-review.jpg | alt: "Bookkeeper reconciling business accounts on a laptop in an office" | query: "accountant reviewing financial records office" -->
+## Your Full Outsourced Accounting Department
+
+Most small and mid-sized businesses don't need a full-time controller. They need someone who reconciles accounts every month, catches errors before they compound, and produces reports that actually make sense. That's what Accord Advisors does as your outsourced accounting department.
+
+We handle bank and credit card reconciliations, general ledger maintenance, accounts payable and receivable tracking, and month-end close. Once your books are closed, you get financial reports that show you exactly where revenue, expenses, and cash stand, without needing a finance degree to interpret them. If you also need business tax preparation or payroll handled, those services connect directly to the same bookkeeping foundation, so nothing gets duplicated or missed between systems.
+
+This isn't a bolt-on bookkeeper who logs a few hours and disappears. It's an ongoing relationship with a team that knows your chart of accounts, your industry, and your business cycle. Optometry practices, dental offices, service businesses, and churches across Bloomington and Indianapolis use this exact model to stay off the financial back foot. Explore our full [outsourced accounting](/services/outsourced-accounting) services or see how bookkeeping connects to [payroll](/services/outsourced-accounting/payroll-services) and [business tax](/services/outsourced-accounting/business-tax) support.
+
+<!-- block: checklist-section | variant: with-image | image: fixed-fee-invoice.jpg | alt: "Business owner reviewing a flat monthly invoice statement" | query: "small business owner reviewing invoice paperwork" -->
+## Fixed Monthly Fees, No Surprises
+
+Hourly billing punishes you for asking questions. Fixed monthly fees don't. You'll know exactly what your bookkeeping costs before the month starts, which makes it easy to plan cash flow and compare the cost against what an in-house bookkeeper or controller would run you.
+
+- No hourly clock running every time you call with a question
+- One predictable monthly fee, agreed upon before work begins
+- Pricing scaled to your transaction volume and business complexity, not guesswork
+- A [pricing calculator](/pricing-calculator) so you can see estimated costs before you ever pick up the phone
+
+<!-- block: content-split | variant: image-left | image: online-portal-laptop.jpg | alt: "Laptop screen showing a secure financial document portal" | query: "laptop secure financial software dashboard" -->
+## Secure, Convenient Online Platform
+
+You shouldn't have to email spreadsheets back and forth or dig through a filing cabinet to find last quarter's statements. Accord Advisors gives every bookkeeping client access to a secure online platform where you can view real-time financial data, upload receipts and documents, and message your dedicated bookkeeping team directly.
+
+Bank-level encryption protects everything you share, and you can log in from a phone, tablet, or desktop whenever you need a number for a lender, a landlord, or your own peace of mind. No more waiting for a callback to find out what your bank balance actually looked like last Friday.
+
+<!-- block: content-split | variant: image-right | image: cpa-consultation-healthcare.jpg | alt: "CPA consulting with a healthcare practice manager over financial documents" | query: "cpa consultation healthcare practice manager" -->
+## Nearly 40 years of trusted expertise, including healthcare
+
+Accord Advisors has served business owners, medical and optometry practices, service businesses, and churches for nearly 40 years. Jared Hammack, CPA, leads bookkeeping engagements with a working knowledge of the compliance and reimbursement issues specific to healthcare providers, not a generic accounting playbook applied to every industry the same way.
+
+Optometry practices bring particular complexity: insurance reimbursement timing, inventory for frames and contacts, and multi-provider revenue splits. Dental and medical practices face their own billing cycles and payer rules. We've built bookkeeping processes around these realities for our [medical professional](/industries/medical-professionals) and [optometry](/industries/optometry) clients, and we apply the same rigor to [dental practices](/industries/dentists), [service businesses](/industries/service-businesses), and [churches](/industries/churches) that need accurate fund accounting and donor reporting. See the credentials behind the work on our [team page](/team-expertise), or read [why Accord Advisors](/why-accord-advisors) approaches bookkeeping differently than a generalist firm.
+
+<!-- block: cta-banner | variant: image-bg | image: business-owner-relief.jpg | alt: "Business owner smiling while reviewing finances with an advisor" | query: "business owner relieved meeting advisor" -->
+## Get Back to Running Your Business
+
+Every hour spent reconciling accounts or chasing down a missing receipt is an hour not spent with patients, clients, or your team. Outsourced bookkeeping from Accord Advisors hands that work to a firm with nearly 40 years of experience and a fixed monthly fee that won't move on you.
+
+If your books need attention, or you're simply tired of not knowing where you stand each month, schedule a consultation and we'll walk through exactly what a clean set of books would look like for your business.
+
+[Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-
+Accord Advisors provides outsourced bookkeeping services for Bloomington and Indianapolis businesses, medical and optometry practices, service businesses, and churches. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by nearly 40 years of accounting experience led by Jared Hammack, CPA.
 
 **E-E-A-T Signals:**
-- None specified
+- Jared Hammack, CPA, oversees bookkeeping engagements
+- Nearly 40 years of firm experience serving healthcare providers
+- Specialized bookkeeping processes for optometry insurance reimbursement and multi-provider revenue splits
+- Secure online platform with bank-level encryption for client financial data
 
 **Internal Links:**
-- None
+- outsourced accounting → /services/outsourced-accounting — Parent service page for bookkeeping
+- payroll → /services/outsourced-accounting/payroll-services — Related outsourced accounting service
+- business tax → /services/outsourced-accounting/business-tax — Related outsourced accounting service
+- pricing calculator → /pricing-calculator — Supports fixed monthly fee section with cost transparency tool
+- medical professional → /industries/medical-professionals — Relevant niche for healthcare bookkeeping expertise
+- optometry → /industries/optometry — Relevant niche for healthcare bookkeeping expertise
+- dental practices → /industries/dentists — Relevant niche served
+- service businesses → /industries/service-businesses — Relevant niche served
+- churches → /industries/churches — Relevant niche served
+- team page → /team-expertise — Credentials of Jared Hammack, CPA
+- why Accord Advisors → /why-accord-advisors — Differentiator page supporting expertise claim
 
 **FAQ Block:**
 
-None
+**Q: What does an outsourced bookkeeping service actually include?**
+A: It includes bank and credit card reconciliations, general ledger maintenance, accounts payable and receivable tracking, and monthly close, all delivered by a dedicated team instead of an in-house hire. Accord Advisors bundles this with secure online access to your reports and documents.
+
+**Q: How much does outsourced bookkeeping cost?**
+A: Accord Advisors charges a fixed monthly fee based on transaction volume and business complexity, not hourly billing. Use the pricing calculator on our site to see an estimate before scheduling a consultation.
+
+**Q: Can outsourced bookkeeping handle healthcare practice complexity?**
+A: Yes. Jared Hammack, CPA, and the Accord Advisors team have worked with optometry, medical, and dental practices for nearly 40 years, handling insurance reimbursement timing, inventory tracking, and multi-provider revenue splits within the bookkeeping process.
+
+**Q: Is my financial data secure with an outsourced bookkeeping team?**
+A: Client data is stored and shared through a secure online platform with bank-level encryption. You can access real-time reports, upload documents, and message your bookkeeping team without emailing sensitive files back and forth.
 
 **LLM Citation Note:**
+Accord Advisors offers outsourced bookkeeping at a fixed monthly fee through a secure online platform, backed by nearly 40 years of accounting experience with specific expertise in optometry and medical practice bookkeeping under CPA Jared Hammack.
 
+**Call to Action:** [Schedule a consultation](/contact)
