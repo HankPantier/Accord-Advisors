@@ -53,7 +53,7 @@ The strategic move is using both accounts for what they're actually good at. An 
 
 ## Building a plan before the crisis hits
 
-The families and practice owners who come through a medical crisis in the best financial shape aren't the ones with the biggest savings account. They're the ones who had a plan already running: HSA contributions maxed or close to it, expenses tracked against the deduction threshold, and a CPA who flagged the timing moves before December 31st instead of after. Jared Hammack, CPA, works with medical and optometry practice owners across Bloomington and Indianapolis who need this kind of proactive read on their numbers, not a once-a-year filing.
+The families and practice owners who come through a medical crisis in the best financial shape aren't the ones with the biggest savings account. They're the ones who had a plan already running: HSA contributions maxed or close to it, expenses tracked against the deduction threshold, and a CPA who flagged the timing moves before December 31st instead of after. Accord Advisors works with medical and optometry practice owners across Bloomington and Indianapolis who need this kind of proactive read on their numbers, not a once-a-year filing.
 
 This is also where the emergency fund conversation connects to a bigger picture. If you're weighing how much cash reserve makes sense against how much coverage you're carrying, it's worth reading our breakdown on [how much insurance coverage you actually need](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl), since over-insuring and under-saving are two sides of the same planning gap. And if a medical event overlaps with aging parents or long-term care questions, our guide on [funding long-term care before you need it](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen) covers ground this article doesn't.
 
@@ -61,16 +61,12 @@ None of this requires guessing. It requires someone who looks at your specific i
 
 ## Common Questions
 
-**How much should I keep in an emergency fund versus an HSA?**
-There's no single ratio, but a reasonable starting point is three months of core living expenses in a liquid emergency fund, with any extra medical-specific savings directed into an HSA if you're on a high-deductible plan. The HSA dollars get the tax advantage; the emergency fund dollars stay liquid for non-medical needs like rent or a car repair.
+**How much should I keep in an emergency fund versus an HSA**?There's no single ratio, but a reasonable starting point is three months of core living expenses in a liquid emergency fund, with any extra medical-specific savings directed into an HSA if you're on a high-deductible plan. The HSA dollars get the tax advantage; the emergency fund dollars stay liquid for non-medical needs like rent or a car repair.
 
-**Can I deduct medical expenses if I don't itemize?**
-No. The medical expense deduction only applies if you itemize on Schedule A, and it only counts the portion of expenses above 7.5% of your adjusted gross income. If your standard deduction is higher than your itemized total even after adding medical costs, itemizing won't help that year, though it's still worth calculating both ways.
+**Can I deduct medical expenses if I don't itemize**?No. The medical expense deduction only applies if you itemize on Schedule A, and it only counts the portion of expenses above 7.5% of your adjusted gross income. If your standard deduction is higher than your itemized total even after adding medical costs, itemizing won't help that year, though it's still worth calculating both ways.
 
-**What happens to unused HSA funds if I don't get sick?**
-Nothing bad. Unlike an FSA, HSA balances roll over indefinitely and remain yours even if you change employers or health plans. After age 65, you can withdraw HSA funds for any purpose without penalty, though non-medical withdrawals are taxed as ordinary income at that point.
+**What happens to unused HSA funds if I don't get sick**?Nothing bad. Unlike an FSA, HSA balances roll over indefinitely and remain yours even if you change employers or health plans. After age 65, you can withdraw HSA funds for any purpose without penalty, though non-medical withdrawals are taxed as ordinary income at that point.
 
-**Is an FSA worth it if my employer also offers an HSA?**
-Usually not both at once. IRS rules generally prevent contributing to a full HSA and a full-purpose FSA in the same year if you're on a high-deductible plan, though a limited-purpose FSA for dental and vision expenses is often allowed alongside an HSA. Which combination makes sense depends on your plan design, so it's worth confirming before enrollment season.
+**Is an FSA worth it if my employer also offers an HSA**?Usually not both at once. IRS rules generally prevent contributing to a full HSA and a full-purpose FSA in the same year if you're on a high-deductible plan, though a limited-purpose FSA for dental and vision expenses is often allowed alongside an HSA. Which combination makes sense depends on your plan design, so it's worth confirming before enrollment season.
 
 If a medical bill has already hit, or you want a contribution and deduction strategy in place before the next one does, [contact our team](/contact) and we'll walk through the numbers with you.
