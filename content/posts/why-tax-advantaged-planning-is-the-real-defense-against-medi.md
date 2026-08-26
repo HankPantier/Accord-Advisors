@@ -7,7 +7,7 @@ excerpt: "An emergency fund only buys time. HSAs, itemized medical deductions, a
 image: hsa-medical-bills-tax-planning.jpg
 image_alt: "Person reviewing medical bills and financial paperwork at a kitchen table"
 tags: ["Tax Planning", "Personal Finance", "HSA", "Medical Expenses"]
-meta_title: "How to Plan for Unexpected Medical Expenses | CPA Guide"
+meta_title: "How to Plan for Unexpected Medical Expenses | Accord Advisors"
 meta_description: "Learn how to plan for unexpected medical expenses using HSA tax benefits, the medical expense tax deduction, and FSAs, from a Bloomington, IN CPA firm."
 target_keyword: "how to plan for unexpected medical expenses"
 secondary_keywords: ["HSA tax benefits", "medical expense tax deduction", "emergency fund for medical bills", "avoiding medical debt"]
