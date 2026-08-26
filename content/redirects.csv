@@ -25,3 +25,4 @@ old_url,new_url,status_code,reason
 /services/irs-notice-protection,/services/outsourced-accounting/irs-notice-protection,301,Nested via nav editor
 /insights-gallery,/resources/insights-gallery,301,Nested via nav editor
 /services/outsourced-accounting,/services/outsourced-accounting/outsourced-accounting,301,Nested via nav editor
+/services/outsourced-accounting/outsourced-accounting,/services/outsourced-accounting/business-tax,301,Nested via nav editor
