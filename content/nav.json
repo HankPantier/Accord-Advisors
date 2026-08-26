@@ -14,7 +14,7 @@
             },
             {
               "label": "Business Tax",
-              "url": "/services/outsourced-accounting/"
+              "url": "/services/outsourced-accounting/outsourced-accounting"
             },
             {
               "label": "Payroll administration for growing businesses",
@@ -119,6 +119,10 @@
           ]
         }
       ]
+    },
+    {
+      "label": "Getting Started",
+      "url": "getting-started"
     }
   ]
 }
