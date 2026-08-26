@@ -76,16 +76,12 @@ If this is starting to sound like the same lesson as other narrow IRS categories
 
 ## Common Questions
 
-**Can I deduct the value of professional services I donate, like legal or accounting work?**
-No. The IRS specifically disallows a deduction for the value of your time, skills, or services, even if you would normally bill for that work at a professional rate. Only unreimbursed, out-of-pocket costs connected to the volunteer work are deductible.
+**Can I deduct the value of professional services I donate, like legal or accounting work**?No. The IRS specifically disallows a deduction for the value of your time, skills, or services, even if you would normally bill for that work at a professional rate. Only unreimbursed, out-of-pocket costs connected to the volunteer work are deductible.
 
-**What's the current charitable mileage rate for volunteer driving?**
-The rate is 14 cents per mile for miles driven in service of a qualified charitable organization. This rate is set by Congress and does not adjust annually the way the standard business mileage rate does, so it's worth checking current guidance before you calculate your total.
+**What's the current charitable mileage rate for volunteer driving**?The rate is 14 cents per mile for miles driven in service of a qualified charitable organization. This rate is set by Congress and does not adjust annually the way the standard business mileage rate does, so it's worth checking current guidance before you calculate your total.
 
-**Do I need a receipt for every small volunteer expense?**
-For anything under $250, a dated log or basic receipt is generally sufficient. Once a single contribution of money or unreimbursed expenses reaches $250, you need a written acknowledgment from the organization describing what you provided and confirming you received nothing of value in return.
+**Do I need a receipt for every small volunteer expense**?For anything under $250, a dated log or basic receipt is generally sufficient. Once a single contribution of money or unreimbursed expenses reaches $250, you need a written acknowledgment from the organization describing what you provided and confirming you received nothing of value in return.
 
-**Can I deduct travel costs for a mission trip if I also spend a few days sightseeing?**
-Only the portion of the trip genuinely devoted to volunteer work is deductible. If a significant part of the trip involves personal vacation time, you'll need to allocate travel and lodging costs between the charitable and personal portions.
+**Can I deduct travel costs for a mission trip if I also spend a few days sightseeing**?Only the portion of the trip genuinely devoted to volunteer work is deductible. If a significant part of the trip involves personal vacation time, you'll need to allocate travel and lodging costs between the charitable and personal portions.
 
-If you volunteer regularly, sit on a nonprofit or church board, or just want your deductions handled correctly the first time, [contact Accord Advisors](/contact) and talk with CPA Jared Hammack about building a recordkeeping habit that holds up at tax time.
+If you volunteer regularly, sit on a nonprofit or church board, or just want your deductions handled correctly the first time, [contact Accord Advisors](/contact) about building a recordkeeping habit that holds up at tax time.
