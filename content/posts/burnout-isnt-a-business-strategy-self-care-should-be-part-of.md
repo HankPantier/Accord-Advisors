@@ -7,7 +7,7 @@ excerpt: "Exhaustion isn't just a health problem for business owners, it's a fin
 image: exhausted-business-owner-office-desk.jpg
 image_alt: "Business owner resting at a desk with financial documents, representing burnout and the need for self-care in business ownership"
 tags: ["business owner wellness", "outsourced accounting", "sustainable growth"]
-meta_title: "Self-Care for Business Owners: A Financial Safeguard"
+meta_title: "Self-Care for Business Owners: A Financial Safeguard | Accord Advisors"
 meta_description: "Business owner burnout leads to costly mistakes. See why self-care protects judgment and profitability, and how outsourced accounting eases the load."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]
