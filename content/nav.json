@@ -6,23 +6,37 @@
       "children": [
         {
           "label": "Outsourced accounting services",
-          "url": "/services/outsourced-accounting"
+          "url": "/services/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/services/outsourced-accounting/bookkeeping"
+            },
+            {
+              "label": "Business Tax",
+              "url": "/services/outsourced-accounting/"
+            },
+            {
+              "label": "Payroll administration for growing businesses",
+              "url": "/services/outsourced-accounting/payroll-services"
+            },
+            {
+              "label": "Bill pay",
+              "url": "/services/outsourced-accounting/bill-pay"
+            },
+            {
+              "label": "IRS notice protection and response support",
+              "url": "/services/outsourced-accounting/irs-notice-protection"
+            }
+          ]
         },
         {
           "label": "Business foundation services for new practice owners",
           "url": "/services/business-foundation-services"
         },
         {
-          "label": "Payroll administration for growing businesses",
-          "url": "/services/payroll-services"
-        },
-        {
           "label": "Personal income tax preparation and planning",
           "url": "/services/personal-income-tax"
-        },
-        {
-          "label": "IRS notice protection and response support",
-          "url": "/services/irs-notice-protection"
         }
       ]
     },
@@ -33,6 +47,10 @@
         {
           "label": "Accounting for optometry practices",
           "url": "/industries/optometry"
+        },
+        {
+          "label": "Accounting for dental practices",
+          "url": "/industries/dentists"
         },
         {
           "label": "Accounting for medical professionals",
@@ -47,28 +65,26 @@
           "url": "/industries/churches"
         },
         {
-          "label": "Accounting for dental practices",
-          "url": "/industries/dentists"
-        },
-        {
-          "label": "Accounting for Consulting Firms",
-          "url": "/industries/consulting-firms"
-        },
-        {
-          "label": "Accounting for Advertising Agencies",
-          "url": "/industries/advertising-agencies"
-        },
-        {
-          "label": "Accounting for Law Firms",
-          "url": "/industries/law-firms"
-        },
-        {
-          "label": "Accounting for Financial Advisors",
-          "url": "/industries/financial-advisors"
-        },
-        {
           "label": "Accounting for Professional Services Businesses",
-          "url": "/industries/professional-services"
+          "url": "/industries/professional-services",
+          "children": [
+            {
+              "label": "Accounting for Advertising Agencies",
+              "url": "/industries/professional-services/advertising-agencies"
+            },
+            {
+              "label": "Accounting for Law Firms",
+              "url": "/industries/professional-services/law-firms"
+            },
+            {
+              "label": "Accounting for Financial Advisors",
+              "url": "/industries/professional-services/financial-advisors"
+            },
+            {
+              "label": "Accounting for Consulting Firms",
+              "url": "/industries/professional-services/consulting-firms"
+            }
+          ]
         }
       ]
     },
@@ -77,30 +93,32 @@
       "url": "/about"
     },
     {
-      "label": "Insights gallery",
-      "url": "/insights-gallery",
+      "label": "Resources",
+      "url": "/resources",
       "children": [
         {
-          "label": "QuickReads",
-          "url": "/resources-new/quickreads"
-        },
-        {
-          "label": "Essential accounting forms and resources",
-          "url": "/forms-documents-links"
-        },
-        {
-          "label": "Quick links to accounting resources",
-          "url": "/quick-links"
-        },
-        {
-          "label": "Smart tips magazine gallery",
-          "url": "/smart-tips-magazine-gallery"
+          "label": "Insights gallery",
+          "url": "/resources/insights-gallery",
+          "children": [
+            {
+              "label": "QuickReads",
+              "url": "/resources/insights-gallery/quickreads"
+            },
+            {
+              "label": "Essential accounting forms and resources",
+              "url": "/resources/insights-gallery/forms-documents-links"
+            },
+            {
+              "label": "Quick links to accounting resources",
+              "url": "/resources/insights-gallery/quick-links"
+            },
+            {
+              "label": "Smart tips magazine gallery",
+              "url": "/resources/insights-gallery/smart-tips-magazine-gallery"
+            }
+          ]
         }
       ]
-    },
-    {
-      "label": "Resources",
-      "url": "/resources"
     }
   ]
 }
