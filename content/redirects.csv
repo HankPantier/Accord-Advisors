@@ -21,3 +21,12 @@ old_url,new_url,status_code,reason
 /your-next-smart-move,/resources/your-next-smart-move,301,Relocated via editor
 /transfer-pricing-and-related-entities-what-business-owners-need-to-know,/resources/transfer-pricing-and-related-entities-what-business-owners-need-to-know,301,Relocated via editor
 /why-rootadvisors,/why-accord-advisors,301,Relocated via AI
+/services/payroll-services,/services/outsourced-accounting/payroll-services,301,Nested via nav editor
+/services/irs-notice-protection,/services/outsourced-accounting/irs-notice-protection,301,Nested via nav editor
+/insights-gallery,/resources/insights-gallery,301,Nested via nav editor
+/services/outsourced-accounting,/services/outsourced-accounting/outsourced-accounting,301,Nested via nav editor
+/services/outsourced-accounting/outsourced-accounting,/services/outsourced-accounting/business-tax,301,Nested via nav editor
+/industries/advertising-agencies,/industries/professional-services/advertising-agencies,301,Relocated via AI
+/industries/law-firms,/industries/professional-services/law-firms,301,Relocated via AI
+/industries/financial-advisors,/industries/professional-services/financial-advisors,301,Relocated via AI
+/industries/consulting-firms,/industries/professional-services/consulting-firms,301,Relocated via AI

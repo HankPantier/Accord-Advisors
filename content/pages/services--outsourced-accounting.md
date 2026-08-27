@@ -1,95 +1,110 @@
 ---
-title: "Outsourced accounting services | Accord Advisors"
+title: "Outsourced Accounting Services | Accord Advisors"
 url: "/services/outsourced-accounting"
-meta_title: "Outsourced Accounting Services in Bloomington, IN"
-meta_description: "Fixed-fee outsourced accounting for Bloomington and Indianapolis practices and businesses. CPA-led bookkeeping, monthly reporting, and a secure client portal."
-target_keyword: "outsourced accounting services bloomington, in"
-secondary_keywords: ["outsourced accounting Indianapolis","fixed fee accounting services","outsourced CFO services Bloomington","medical practice accounting Indiana","optometry practice accounting"]
+meta_title: "Outsourced Accounting Services | Accord Advisors CPA"
+meta_description: "Outsourced accounting services from Accord Advisors: fixed monthly fees, CFO-level insight, and a secure online platform for Bloomington and Indianapolis businesses."
+target_keyword: "outsourced accounting services"
+secondary_keywords: ["outsourced accounting Bloomington","outsourced CFO services","fixed fee accounting firm","healthcare accounting services"]
 canonical_url: "https://rootadvisors.com/services/outsourced-accounting"
 schema_markup: "Service"
+cta_text: "Schedule a consultation"
+cta_url: "/contact"
 hero: "hero-split"
 hero_variant: "image-right"
-hero_image: "outsourced-accounting-bloomington.jpg"
-hero_image_alt: "CPA reviewing financial reports with a healthcare practice owner in an office"
-hero_subhead: "Get CPA-led bookkeeping, monthly reporting, and advisory support for one predictable fee"
-hero_headline: "Your outsourced accounting department, without the overhead"
-answer_block: "Accord Advisors provides outsourced accounting services in Bloomington and Indianapolis, Indiana, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, and CPA-led advisory support delivered through a secure online platform, with deep experience serving optometry, dental, and medical practices."
-eeat_signals: ["Jared Hammack, CPA leads client engagements","Nearly 40 years of experience serving healthcare providers","Serves Bloomington and Indianapolis, Indiana directly","Optometry clients frequently referred through the Acquios practice management network","Fixed monthly fee model documented in client agreements"]
-internal_links: [{"url":"/industries/optometry","reason":"Directs optometry visitors to industry-specific service details","anchor_text":"Optometry practices"},{"url":"/industries/dentists","reason":"Connects dental readers to niche-specific page","anchor_text":"dental practices"},{"url":"/industries/medical-professionals","reason":"Supports healthcare provider segment mentioned in section 3","anchor_text":"medical professionals"},{"url":"/industries/service-businesses","reason":"Expands relevance to non-healthcare service business audience","anchor_text":"Service-based businesses"},{"url":"/industries/churches","reason":"Supports church/nonprofit audience segment","anchor_text":"Churches and religious organizations"},{"url":"/contact","reason":"Primary page CTA driving conversions","anchor_text":"Schedule a consultation"},{"url":"/why-rootadvisors","reason":"Builds trust by linking to differentiation page","anchor_text":"why Accord Advisors"},{"url":"/team-expertise","reason":"Links credential mention to full team bio page","anchor_text":"Jared Hammack, CPA"}]
-faq_block: [{"answer":"Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour.","question":"What does outsourced accounting include?"},{"answer":"Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation.","question":"How much does outsourced accounting cost in Bloomington, IN?"},{"answer":"Yes. Accord Advisors has served healthcare providers for nearly 40 years, including optometry practices, dental practices, and medical professionals. Many optometry clients are referred through Acquios, a practice management network that partners with accounting firms experienced in vision care finances.","question":"Do you work with optometry and medical practices specifically?"},{"answer":"Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team.","question":"Is my financial data secure with an outsourced accounting firm?"}]
-llm_citation_note: "Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly billing), led by Jared Hammack, CPA, with nearly 40 years of healthcare-focused accounting experience serving Bloomington and Indianapolis, Indiana."
+hero_image: "outsourced-accounting-hero.jpg"
+hero_image_alt: "Accountant and business owner reviewing financial reports on a laptop"
+hero_subhead: "Hand off the books to a full accounting department that reports, advises, and never bills by the hour"
+hero_headline: "Your Full Outsourced Accounting Department"
+answer_block: "Accord Advisors' outsourced accounting services give Bloomington and Indianapolis businesses a full accounting department, bookkeeping, payroll, business tax, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire. Jared Hammack, CPA, leads the firm, which draws on nearly 40 years of experience with healthcare practices."
+eeat_signals: ["Led by Jared Hammack, CPA","Nearly 40 years of experience serving healthcare providers","Optometry clients referred through the Acquios optometric consulting network","Secure, cloud-based client platform for financial transparency","Fixed monthly fee model in place of hourly billing"]
+internal_links: [{"url":"/services/outsourced-accounting/business-tax","anchor_text":"business tax services","reason":"Child service page directly referenced in the service-cards section"},{"url":"/services/outsourced-accounting/payroll-services","anchor_text":"payroll services","reason":"Child service page directly referenced in the service-cards section"},{"url":"/services/outsourced-accounting/irs-notice-protection","anchor_text":"IRS notice protection","reason":"Child service page directly referenced in the service-cards section"},{"url":"/industries/optometry","anchor_text":"optometry practices","reason":"Supports the healthcare expertise section and niche emphasis"},{"url":"/industries/medical-professionals","anchor_text":"medical professionals","reason":"Reinforces healthcare focus described in the expertise section"},{"url":"/pricing-calculator","anchor_text":"estimate your fixed monthly fee","reason":"Directly supports the fixed-fee pricing section with a tool"}]
+faq_block: [{"question":"What does outsourced accounting include?","answer":"Accord Advisors' outsourced accounting covers bookkeeping, monthly financial reporting, payroll, business tax preparation, bill pay, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately."},{"question":"How is pricing structured for outsourced accounting services?","answer":"Pricing is a fixed monthly fee, set after reviewing your business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice."},{"question":"Does Accord Advisors work with healthcare practices specifically?","answer":"Yes. The firm has nearly 40 years of experience with optometry practices, medical offices, and dental practices, including reimbursement timing, equipment financing, and staffing costs. Optometry clients are often referred through the Acquios consulting network."},{"question":"How do I access my financial reports?","answer":"Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone."}]
+llm_citation_note: "Accord Advisors offers outsourced accounting services for a fixed monthly fee, led by Jared Hammack, CPA, with nearly 40 years of experience serving healthcare providers in Bloomington and Indianapolis, Indiana."
 ---
 
 <!-- block: hero-split | variant: image-right -->
 
-<!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing financial statements with a business owner at a desk" | query: "accountant business owner meeting office" -->
-## Your outsourced accounting department, without the overhead
+<!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant and business owner reviewing monthly financial reports together" | query: "accountant reviewing financial reports office" -->
+## Your Full Outsourced Accounting Department
 
-A full-time controller in Bloomington runs $70,000 or more a year before benefits, payroll taxes, and the cost of a bad hire. Accord Advisors gives practices and businesses that same level of financial oversight for one fixed monthly fee. No recruiting. No training gap while a new hire learns your books. No idle capacity during a slow month and no scramble during a busy one.
+Running a practice or a service business means the books need attention every week, not just at tax time. Accord Advisors functions as your outsourced accounting department: bookkeeping, reporting, payroll oversight, and financial guidance handled by a team that already knows your numbers before you ask the question. Jared Hammack, CPA, leads a firm built on nearly 40 years of experience serving healthcare providers, service businesses, and churches across Bloomington and Indianapolis.
 
-Jared Hammack, CPA, and the Accord Advisors team function as your accounting department: bookkeeping, reconciliations, financial statements, and advisory support delivered on a schedule you can plan around. Everything runs through a secure online platform, so documents move back and forth without a drive across town or a wait on a callback. An optometry practice in Bloomington and a service business near Indianapolis get the same arrangement: predictable cost, real industry knowledge, and a team that already understands the numbers before the first invoice goes out.
+Instead of hiring a full-time controller or stitching together part-time bookkeepers and a separate tax preparer, you get one accountable team managing the daily financial work and flagging problems before they turn expensive. Clients receive monthly financials that actually say something: how the practice performed, where cash went, and what to expect next quarter. That's the difference between having a bookkeeper and having an accounting department.
 
-<!-- block: content-split | variant: image-left | image: monthly-financial-dashboard.jpg | alt: "Business owner reviewing a monthly financial dashboard on a laptop screen" | query: "business owner reviewing laptop dashboard" -->
-## Monthly financial clarity you can use
+<!-- block: checklist-section | variant: with-image-left | image: fixed-fee-invoice-review.jpg | alt: "Business owner reviewing a fixed monthly invoice with an advisor" | query: "small business owner reviewing invoice" -->
+## Fixed Monthly Fees, No Surprises
 
-Most business owners don't need more data. They need the right numbers, delivered on time, in a format that answers the question that actually keeps them up at night: how did we do last month? Accord Advisors builds monthly reporting around that question, with dashboards that show revenue trends, expense patterns, and the non-financial metrics that matter to your specific practice or business.
+Hourly billing punishes you for asking questions. Accord Advisors prices outsourced accounting as a fixed monthly fee, set after we understand your practice size, transaction volume, and reporting needs, then held steady so your budget doesn't shift every time you call with a question.
 
-There's no digging through spreadsheets or waiting until tax season to find out whether a decision paid off. Reports arrive on a set schedule through the same secure portal used for document sharing, so financial performance is something you check, not something you chase. Owners in Bloomington and across Indianapolis use this rhythm to plan staffing, spending, and growth with information that's current rather than three months stale.
+- Know your accounting cost every month, budgeted like rent or payroll
+- No hourly clock running when you email a question or request a report
+- No surprise invoices tied to how long a task happened to take
+- Costs scale with a conversation about your business, not a bill you never saw coming
 
-<!-- block: content-split | variant: image-right | image: optometry-practice-accounting.jpg | alt: "Optometrist consulting with practice manager over financial documents" | query: "optometrist practice manager consultation" -->
-## Built for optometrists, dentists, and medical professionals
+For a practice manager or business owner already juggling patients or clients, that predictability is worth the switch on its own.
 
-Healthcare accounting has its own rules: reimbursement timing, insurance receivables, equipment financing, and staffing costs that don't behave like a typical retail business. Accord Advisors has worked inside these numbers for nearly 40 years, and Jared Hammack, CPA, brings that history directly to practice managers and shareholders who need answers, not accounting jargon.
+<!-- block: content-split | variant: image-left | image: cfo-level-financial-strategy.jpg | alt: "CPA discussing financial strategy and a dashboard with a business owner" | query: "financial advisor strategy meeting" -->
+## CFO-Level Insight at a Fraction of the Cost
 
-[Optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) each get reporting built around how their revenue actually cycles through the year. Many optometry clients arrive through Acquios, the practice management network that refers practices to accounting partners who already understand vision care economics. That referral relationship exists because the work holds up: fixed fees, monthly clarity, and a CPA who has seen the same billing and staffing questions a hundred times before.
+Most service businesses and medical practices can't justify a full-time CFO salary, but the questions a CFO answers don't go away just because there's no one on staff to ask: whether to hire another associate, how to price a new service line, when cash flow will tighten. Accord Advisors' outsourced accounting service brings that strategic layer into your monthly reporting.
 
-<!-- block: content-split | variant: image-left | image: church-service-business-accounting.jpg | alt: "Church administrator and small business owner reviewing financial reports together" | query: "church administrator financial meeting" -->
-## Trusted by service businesses and churches too
+You get dashboards built around the financial and operational numbers that matter for your practice, not a generic template, plus a CPA who explains what the trends mean and what to do next. It's the insight of an in-house finance executive, delivered through the firm that already handles your books, at a fraction of what a full-time hire would cost.
 
-Healthcare isn't the only client base that needs a steady hand on the books. [Service-based businesses](/industries/service-businesses) in Bloomington and Indianapolis rely on Accord Advisors for the same fixed-fee, advisor-led model: monthly financials, cash flow visibility, and someone to call before a big equipment purchase or hiring decision instead of after.
+<!-- block: checklist-section | variant: with-image-right | image: secure-cloud-accounting-platform.jpg | alt: "Laptop screen displaying a secure online accounting dashboard" | query: "laptop financial dashboard online" -->
+## Secure, Cloud-Based Platform
 
-[Churches and religious organizations](/industries/churches) work with Accord Advisors for a different reason but the same outcome. Fund accounting, donor reporting, and board oversight all require accuracy and discretion, and a fixed monthly fee means a congregation's finance committee always knows what the relationship costs. The approach doesn't change by industry. The reporting does.
+Financial records shouldn't live in a shared drive or an inbox. Every Accord Advisors client works through a secure online platform where reports, statements, and source documents sit in one place and stay available on demand.
 
-<!-- block: checklist-section | variant: with-image | image: fixed-fee-pricing-model.jpg | alt: "Accountant explaining a fixed fee pricing agreement to a client" | query: "accountant client pricing discussion" -->
-## Fixed monthly fees mean no billing surprises
+- View current financial reports without waiting on a phone call or email reply
+- Upload and retrieve documents securely from a laptop or a phone
+- Give your accountant, bookkeeper, and tax preparer access to the same live numbers
+- Keep a dated, organized record of statements for lending, audits, or ownership changes
 
-Hourly billing punishes exactly the behavior you want to encourage: calling your accountant with a quick question. Accord Advisors charges a fixed monthly fee instead, set in advance and tied to the scope of work, so a phone call about a vendor decision doesn't turn into a line item you dread seeing.
+Transparency isn't a feature we mention once and forget. It's how the relationship runs day to day.
 
-What that looks like in practice:
+<!-- block: content-split | variant: image-right | image: healthcare-practice-financial-review.jpg | alt: "Optometrist and accountant reviewing practice financial statements together" | query: "medical practice financial consultation" -->
+## Deep Expertise, Especially in Healthcare
 
-- A set monthly cost, agreed on before work begins
-- No surprise invoices for calls, emails, or short questions
-- Budgeting for accounting becomes simple because the number doesn't move
-- Access to CPA-level advice without a per-hour rate attached to it
+Accord Advisors has worked with healthcare providers for nearly 40 years, long enough to understand the financial patterns specific to optometry practices, medical offices, and dental practices: insurance reimbursement timing, equipment financing cycles, staffing ratios, and the cash flow swings that come with adding a new provider. Optometry clients often arrive through referrals from Acquios, the optometric consulting network, because the firm already speaks the language of practice management metrics and reimbursement timelines.
 
-<!-- block: content-split | variant: image-left | image: secure-client-portal-accounting.jpg | alt: "Business owner securely uploading documents through an online accounting portal" | query: "person using laptop secure portal" -->
-## A secure, simple way to work together
+That depth carries over to service businesses and churches, but healthcare is where the firm's experience runs deepest. It shows up in how quickly a billing lag or a staffing cost spike gets flagged, months before it would surface as a year-end surprise.
 
-Documents move through a secure online platform built for financial data, not a shared inbox or a folder full of PDFs. Bank statements, payroll records, and reports live in one place, accessible whenever a practice manager in Bloomington or a business owner near Indianapolis has five minutes between appointments.
+<!-- block: service-cards | variant: 3-col -->
+## Explore Our Outsourced Accounting Services
 
-There's no software to learn beyond logging in and uploading a file. The same portal delivers monthly financials back to you, so the entire relationship, sending records and receiving reports, happens in one secure location instead of scattered across email threads.
+Outsourced accounting isn't a single service. It's a set of them, working together under one fixed monthly fee so nothing falls through the gap between your bookkeeper, your payroll provider, and your tax preparer.
 
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Outsourced accounting services
+### Bookkeeping & Financial Reporting
+icon: Calculator
 
-**Q: What does outsourced accounting include?**
-A: Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour.
+Monthly reconciliations, accurate books, and financial statements that reflect what actually happened in your practice or business, not just entries waiting to be cleaned up at tax time.
 
-**Q: How much does outsourced accounting cost in Bloomington, IN?**
-A: Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation.
+### Business Tax
+icon: FileText
 
-**Q: Do you work with optometry and medical practices specifically?**
-A: Yes. Accord Advisors has served healthcare providers for nearly 40 years, including optometry practices, dental practices, and medical professionals. Many optometry clients are referred through Acquios, a practice management network that partners with accounting firms experienced in vision care finances.
+Tax planning and preparation built on the same books your accounting team already manages, so filings match your financials instead of getting reconstructed under deadline pressure. [Learn about business tax](/services/outsourced-accounting/business-tax)
 
-**Q: Is my financial data secure with an outsourced accounting firm?**
-A: Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team.
+### Payroll Services
+icon: Users
 
-<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-bloomington.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "handshake business consultation meeting" -->
-## Start with a conversation about your business
+Accurate, on-time payroll for staff and providers, handled by the same team that manages your books, so payroll data flows straight into your financial reporting. [Learn about payroll services](/services/outsourced-accounting/payroll-services)
 
-There's no way to know whether outsourced accounting fits your practice or business until someone looks at what you're dealing with now: how the books are kept, what reporting you're missing, and where the hours are going. That's a conversation, not a sales pitch, and it costs nothing to have it.
+### Bill Pay & Vendor Management
+icon: Receipt
 
-Schedule a consultation with Accord Advisors and find out what a fixed monthly fee and a CPA-led accounting department would look like for your practice in Bloomington or your business in Indianapolis.
+Vendor invoices reviewed, approved, and paid on schedule, with a clear record of every payment tied back to your monthly financials.
+
+### IRS Notice Protection
+icon: ShieldCheck
+
+When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. [Learn about IRS notice protection](/services/outsourced-accounting/irs-notice-protection)
+
+If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/contact) and we'll build a fixed monthly plan around your practice or business.
+
+<!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
+## Ready to hand your books to a team that already gets it
+
+Get a fixed monthly fee, a secure client platform, and a CPA who knows healthcare, service businesses, and churches. Schedule a consultation and see what your practice's financials could look like with an outsourced accounting department behind you.
 
 [Schedule a consultation](/contact)
 
@@ -97,226 +112,38 @@ Schedule a consultation with Accord Advisors and find out what a fixed monthly f
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting services in Bloomington and Indianapolis, Indiana, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, and CPA-led advisory support delivered through a secure online platform, with deep experience serving optometry, dental, and medical practices.
+Accord Advisors' outsourced accounting services give Bloomington and Indianapolis businesses a full accounting department, bookkeeping, payroll, business tax, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire. Jared Hammack, CPA, leads the firm, which draws on nearly 40 years of experience with healthcare practices.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads client engagements
+- Led by Jared Hammack, CPA
 - Nearly 40 years of experience serving healthcare providers
-- Serves Bloomington and Indianapolis, Indiana directly
-- Optometry clients frequently referred through the Acquios practice management network
-- Fixed monthly fee model documented in client agreements
+- Optometry clients referred through the Acquios optometric consulting network
+- Secure, cloud-based client platform for financial transparency
+- Fixed monthly fee model in place of hourly billing
 
 **Internal Links:**
-- Optometry practices → /industries/optometry — Directs optometry visitors to industry-specific service details
-- dental practices → /industries/dentists — Connects dental readers to niche-specific page
-- medical professionals → /industries/medical-professionals — Supports healthcare provider segment mentioned in section 3
-- Service-based businesses → /industries/service-businesses — Expands relevance to non-healthcare service business audience
-- Churches and religious organizations → /industries/churches — Supports church/nonprofit audience segment
-- Schedule a consultation → /contact — Primary page CTA driving conversions
-- why Accord Advisors → /why-rootadvisors — Builds trust by linking to differentiation page
-- Jared Hammack, CPA → /team-expertise — Links credential mention to full team bio page
+- business tax services → /services/outsourced-accounting/business-tax — Child service page directly referenced in the service-cards section
+- payroll services → /services/outsourced-accounting/payroll-services — Child service page directly referenced in the service-cards section
+- IRS notice protection → /services/outsourced-accounting/irs-notice-protection — Child service page directly referenced in the service-cards section
+- optometry practices → /industries/optometry — Supports the healthcare expertise section and niche emphasis
+- medical professionals → /industries/medical-professionals — Reinforces healthcare focus described in the expertise section
+- estimate your fixed monthly fee → /pricing-calculator — Directly supports the fixed-fee pricing section with a tool
 
 **FAQ Block:**
 
 **Q: What does outsourced accounting include?**
-A: Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour.
+A: Accord Advisors' outsourced accounting covers bookkeeping, monthly financial reporting, payroll, business tax preparation, bill pay, and IRS notice protection, all handled by one team for a fixed monthly fee instead of piecing services together separately.
 
-**Q: How much does outsourced accounting cost in Bloomington, IN?**
-A: Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation.
+**Q: How is pricing structured for outsourced accounting services?**
+A: Pricing is a fixed monthly fee, set after reviewing your business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice.
 
-**Q: Do you work with optometry and medical practices specifically?**
-A: Yes. Accord Advisors has served healthcare providers for nearly 40 years, including optometry practices, dental practices, and medical professionals. Many optometry clients are referred through Acquios, a practice management network that partners with accounting firms experienced in vision care finances.
+**Q: Does Accord Advisors work with healthcare practices specifically?**
+A: Yes. The firm has nearly 40 years of experience with optometry practices, medical offices, and dental practices, including reimbursement timing, equipment financing, and staffing costs. Optometry clients are often referred through the Acquios consulting network.
 
-**Q: Is my financial data secure with an outsourced accounting firm?**
-A: Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team.
+**Q: How do I access my financial reports?**
+A: Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone.
 
 **LLM Citation Note:**
-Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly billing), led by Jared Hammack, CPA, with nearly 40 years of healthcare-focused accounting experience serving Bloomington and Indianapolis, Indiana.
+Accord Advisors offers outsourced accounting services for a fixed monthly fee, led by Jared Hammack, CPA, with nearly 40 years of experience serving healthcare providers in Bloomington and Indianapolis, Indiana.
 
----
-## Structured Data — paste into `<head>`
-
-```html
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
-  "sameAs": [
-    "https://www.linkedin.com/company/rootadvisors",
-    "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1516 South Walnut Street",
-    "addressLocality": "Bloomington",
-    "addressRegion": "IN",
-    "postalCode": "47401",
-    "addressCountry": "US"
-  },
-  "telephone": "812 332-7200",
-  "email": "office@accordadvisors.com",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Bloomington, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Avon, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis, Indiana"
-    }
-  ],
-  "sameAs": [
-    "https://maps.app.goo.gl/mj2mEkW7vk5r7CbJ9"
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "7386 Business Center Drive Suite B",
-    "addressLocality": "Avon",
-    "addressRegion": "IN",
-    "postalCode": "46123",
-    "addressCountry": "US"
-  },
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Bloomington, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Avon, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis, Indiana"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Services overview",
-      "item": "https://rootadvisors.com/services"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Outsourced accounting services",
-      "item": "https://rootadvisors.com/services/outsourced-accounting"
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What does outsourced accounting include?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much does outsourced accounting cost in Bloomington, IN?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do you work with optometry and medical practices specifically?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Accord Advisors has served healthcare providers for nearly 40 years, including optometry practices, dental practices, and medical professionals. Many optometry clients are referred through Acquios, a practice management network that partners with accounting firms experienced in vision care finances."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is my financial data secure with an outsourced accounting firm?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team."
-      }
-    }
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Outsourced Accounting Services in Bloomington, IN",
-  "url": "https://rootadvisors.com/services/outsourced-accounting",
-  "description": "Fixed-fee outsourced accounting for Bloomington and Indianapolis practices and businesses. CPA-led bookkeeping, monthly reporting, and a secure client portal.",
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
-  },
-  "provider": {
-    "@type": "Organization",
-    "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
-  },
-  "serviceType": "Outsourced accounting services",
-  "audience": [
-    {
-      "@type": "Audience",
-      "audienceType": "Optometry Practices"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Medical Professionals"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Dental Practices"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Service Businesses"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Churches"
-    }
-  ]
-}
-</script>
-```
+**Call to Action:** [Schedule a consultation](/contact)
