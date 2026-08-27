@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors is a Bloomington, Indiana CPA firm with near
 
 Accord Advisors is based in Bloomington, Indiana, and works with practices and businesses across the Indianapolis area, including Avon. That local footprint matters. When you call, you reach someone who knows the Bloomington business climate and the referral networks that bring optometry patients, dental clients, consulting engagements, and church members through your doors.
 
-We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house — not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who's handling your account this month.
+We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house, not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who is handling your account this month.
 
 
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
@@ -33,14 +33,14 @@ We built this firm to be the accounting department a growing practice or busines
 
 Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, professional service firms, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, physicians absorb payer-mix shifts, attorneys manage trust accounting, and churches handle staffing compliance, all across multiple decades of tax code changes.
 
-Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries — rather than a scattershot approach across every sector — means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
+Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries, rather than a scattershot approach across every sector, means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
 
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Business owner reviewing a flat monthly invoice with an advisor" | query: "business owner reviewing invoice advisor" -->
 ## Why fixed monthly fees give clients peace of mind
 
 Hourly billing creates a strange incentive: the more time your accountant spends, the more you pay, even for a five-minute question you were afraid to ask. Accord Advisors charges a fixed monthly fee instead. You know the number before the month starts, and it doesn't change because you called twice or sent a long email.
 
-That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, physicians, consultants, attorneys, and church administrators: the fear of getting billed for asking a basic question.
+That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, physicians, consultants, attorneys, and church administrators: the fear of getting billed for a basic question.
 
 - No surprise invoices tied to phone calls or emails
 - One predictable monthly fee, agreed on up front
@@ -178,7 +178,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors - Accord Advisors - Bloomington",
   "url": "https://rootadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -214,7 +214,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors - Accord Advisors - Avon",
   "url": "https://rootadvisors.com",
   "address": {
     "@type": "PostalAddress",
