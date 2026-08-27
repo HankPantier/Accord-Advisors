@@ -80,7 +80,7 @@ Service-based businesses need clean job costing, equipment-depreciation planning
 ### Professional Service Providers
 icon: Briefcase
 
-Attorneys, consultants, financial advisors, and other [professional service firms](/industries/professional-services) run on billable time and client trust — and need accounting that keeps pace with both. We handle the outsourced bookkeeping, payroll, and monthly reporting that let you focus on client work instead of chasing down your own numbers. Ask us how we support professional service firms across Bloomington and Indianapolis.
+Attorneys, consultants, financial advisors, and other [professional service firms](/industries/professional-services) run on billable time and client trust, and they need accounting that keeps pace with both. We handle the outsourced bookkeeping, payroll, and monthly reporting that let you focus on client work instead of chasing down your own numbers. Ask us how we support professional service firms across Bloomington and Indianapolis.
 
 ### Churches
 icon: Building2
