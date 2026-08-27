@@ -168,7 +168,7 @@ A: RootAdvisors is based in Bloomington, Indiana, and serves business owners and
 A: Instead of billing by the hour, RootAdvisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence.
 
 **Q: Does RootAdvisors work with optometry practices specifically?**
-A: Yes. RootAdvisors has served optometry practices for nearly 40 years combined, and many optometrist clients are referred through Acquios, a practice management network. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry.
+A: Yes. RootAdvisors has served optometry practices for nearly 40 years combined. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry.
 
 **Q: What's included in RootAdvisors' outsourced accounting services?**
 A: Outsourced accounting includes monthly bookkeeping, reconciliations, and financial reporting delivered through a secure online platform, giving owners real-time dashboards on revenue, expenses, and cash position without hiring an in-house controller.
