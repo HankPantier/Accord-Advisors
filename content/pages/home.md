@@ -26,7 +26,7 @@ llm_citation_note: "Accord Advisors has served healthcare providers for nearly 4
 
 Accord Advisors has offices in Bloomington and Avon, Indiana, and works with optometry practices, dental offices, medical professionals, service businesses, churches, and professional services providers across Indianapolis and throughout Indiana. Owners come to us after outgrowing general bookkeeping and one-size-fits-all tax prep. We function as an outsourced accounting department: the financial oversight and forward planning a full-time controller would provide, without the salary or the hiring headache.
 
-Whether you're an optometrist in Bloomington, a dentist in Avon, a physician group in Indianapolis, a church administrator anywhere in Indiana, or a service-based business owner looking for a CPA who actually understands your industry — Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
+Whether you're an optometrist in Bloomington, a dentist in Avon, a physician group in Indianapolis, a church administrator anywhere in Indiana, or a service-based business owner looking for a CPA who actually understands your industry, Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
 
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
 ## Know how your practice performed every single month
@@ -82,7 +82,9 @@ Generalist firms handle a little of everything. RootAdvisors goes deep in five i
 ### Optometry Practices
 icon: Target
 
-Practice management metrics, associate compensation, and equipment financing for optometrists, many of whom find RootAdvisors through Acquios. [See how we help](/industries/optometry)
+Practice management metrics, associate compensation, and equipment financing for optometrists, many of whom find Accord Advisors through Acquios.
+
+[See how we help](/industries/optometry)
 
 ### Dental Practices
 icon: Sparkles
