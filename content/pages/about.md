@@ -75,7 +75,7 @@ Physicians, specialists, and healthcare groups deal with reimbursement delays, p
 ### Service Businesses
 icon: Wrench
 
-Contractors, tradespeople, and field-service operators need clean job costing, equipment-depreciation planning, and payroll accuracy to protect margins on every project. Explore our [service business accounting](/industries/service-businesses) work, including fleet planning and job-by-job profitability tracking that keeps your bids honest and your books clean.
+Service businesses need clean job costing, equipment-depreciation planning, and payroll accuracy to protect margins on every project. Explore our [service business accounting](/industries/service-businesses) work, including fleet planning and job-by-job profitability tracking that keeps your numbers honest and your books clean.
 
 ### Professional Service Providers
 icon: Briefcase
