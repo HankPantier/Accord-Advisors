@@ -26,7 +26,7 @@ Here is what actually happens, step by step, from your first phone call to your 
 <!-- block: content-split | variant: image-right | image: first-consultation-call.jpg | alt: "CPA speaking with a business owner during an initial consultation call" | query: "advisor phone consultation office" -->
 ## Your first conversation with us
 
-The first step is a conversation, not a sales pitch. You will talk directly with Jared Hammack, CPA, about what is working in your practice or business and what is not. Maybe your optometry practice manager cannot get a straight answer on monthly performance. Maybe your church board wants better financial oversight. Maybe you are a service business owner tired of surprise invoices from your current accountant.
+The first step is a conversation, not a sales pitch. You will talk directly with Jared Hammack, CPA, about what is working in your practice or business and what is not. Maybe your optometry practice manager cannot get a straight answer on monthly performance. Maybe your church board wants better financial oversight. Maybe you run a service-based business like an HVAC company or electrical contractor and can never tell where your cash actually went. Maybe you lead a professional services firm — an attorney's office, a consulting company, or a financial advisory practice — and your books have not kept pace with your growth.
 
 There is no pressure to sign anything at this stage. The goal is to understand your situation well enough to tell you honestly whether Accord Advisors is the right fit, and if it is, what working together would actually look like.
 
