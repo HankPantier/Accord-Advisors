@@ -104,6 +104,11 @@ icon: Building
 
 Fund accounting, staffing compliance, and financial oversight built for church leadership and boards. [See how we help](/industries/churches)
 
+### Professional Services
+icon: Briefcase
+
+Outsourced accounting, tax planning, and financial reporting for attorneys, advertising agencies, financial advisors, and consulting companies. [See how we help](/industries/professional-services)
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accord Advisors your trusted accounting partner
 
