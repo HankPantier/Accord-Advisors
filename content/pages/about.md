@@ -129,7 +129,6 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
 - Jared Hammack, CPA, founder
 - Nearly 40 years of firm experience serving healthcare and service business clients
 - Specialization in optometry, dental, medical, service business, and church accounting
-- Optometry clients referred through Acquios
 - Fixed monthly fee model versus hourly billing
 - Secure online client portal for monthly reporting
 
