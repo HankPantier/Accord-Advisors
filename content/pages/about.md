@@ -59,27 +59,32 @@ Instead of a shoebox of receipts or a folder buried in email, you get one place 
 ### Optometry Practices
 icon: ChartLine
 
-Optometry practice managers and shareholders come to Accord Advisors through referrals, including from Acquios, because we already understand practice management metrics like patient volume, insurance mix, and staffing ratios. See our [optometry practice services](/industries/optometry) for the specifics.
+Optometry practice managers and shareholders come to Accord Advisors through referrals, including from Acquios, because we already understand the metrics that drive practice performance: patient volume, insurance mix, chair utilization, and staffing ratios. We speak optometry fluently, so your monthly financial review surfaces the numbers that actually move your practice forward. See our [optometry practice services](/industries/optometry) for the specifics.
 
 ### Dental Practices
 icon: Stethoscope
 
-Dental practices carry equipment financing, staffing costs, and reimbursement timing that differ from general medical billing. We track those variables monthly so owners aren't reacting to cash flow surprises. Learn more about our [dental practice accounting](/industries/dentists) support.
+Dental practices carry equipment financing, staffing costs, and reimbursement timing that differ from general medical billing. We track those variables monthly so owners aren't reacting to cash flow surprises mid-quarter. From multi-doctor group practices to single-location startups, our [dental practice accounting](/industries/dentists) support is built around the way dental revenue actually flows.
 
 ### Medical Professionals
 icon: HeartPulse
 
-Physicians and healthcare groups deal with reimbursement delays and payer complexity that generic bookkeeping software can't account for. Our [medical professional services](/industries/medical-professionals) are built around those specific reimbursement challenges.
+Physicians, specialists, and healthcare groups deal with reimbursement delays, payer-mix complexity, and credentialing costs that generic bookkeeping software can't account for. Our [medical professional services](/industries/medical-professionals) are built around those specific challenges, giving you a clear monthly picture of where the practice stands regardless of when payers settle.
 
 ### Service Businesses
 icon: Wrench
 
-From contractors to consultants, service businesses need clean job costing and equipment planning to protect margins. Explore our [service business accounting](/industries/service-businesses) work, including fleet and equipment planning.
+Contractors, tradespeople, and field-service operators need clean job costing, equipment-depreciation planning, and payroll accuracy to protect margins on every project. Explore our [service business accounting](/industries/service-businesses) work, including fleet planning and job-by-job profitability tracking that keeps your bids honest and your books clean.
+
+### Professional Service Providers
+icon: Briefcase
+
+Attorneys, consultants, financial advisors, and other professional service firms run on billable time and client trust — and need accounting that keeps pace with both. We handle the outsourced bookkeeping, payroll, and monthly reporting that let you focus on client work instead of chasing down your own numbers. Ask us how we support professional service firms across Bloomington and Indianapolis.
 
 ### Churches
 icon: Building2
 
-Churches and religious organizations face staffing compliance and internal control questions that most CPA firms rarely encounter. Our [church accounting services](/industries/churches) address those directly, from payroll compliance to board-ready reporting.
+Churches and religious organizations face staffing compliance, benevolence fund accounting, and internal control questions that most CPA firms rarely encounter. Our [church accounting services](/industries/churches) address those directly, from payroll compliance to board-ready financial reporting your leadership team can actually read and act on.
 
 <!-- block: content-cards | variant: 2-col -->
 ## Meet the team behind your outsourced accounting department
