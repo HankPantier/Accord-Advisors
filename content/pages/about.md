@@ -39,7 +39,7 @@ Accord Advisors was built around a simple idea: a business owner or practice man
 
 Hourly billing creates a strange incentive: the more time your accountant spends, the more you pay, even for a five-minute question you were afraid to ask. Accord Advisors charges a fixed monthly fee instead. You know the number before the month starts, and it doesn't change because you called twice or sent a long email.
 
-That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, and service business owners: the fear of getting billed for asking a basic question.
+That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, physicians, contractors, consultants, attorneys, and church administrators: the fear of getting billed for asking a basic question.
 
 - No surprise invoices tied to phone calls or emails
 - One predictable monthly fee, agreed on up front
