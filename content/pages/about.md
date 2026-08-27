@@ -33,7 +33,7 @@ We built this firm to be the accounting department a growing practice or busines
 
 Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, professional service firms, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, physicians absorb payer-mix shifts, attorneys manage trust accounting, and churches handle staffing compliance, all across multiple decades of tax code changes.
 
-Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries, rather than a scattershot approach across every sector, means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
+Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries, rather than a scattershot approach across every sector, means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service-based and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
 
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Business owner reviewing a flat monthly invoice with an advisor" | query: "business owner reviewing invoice advisor" -->
 ## Why fixed monthly fees give clients peace of mind
@@ -80,7 +80,7 @@ Service businesses need clean job costing, equipment-depreciation planning, and 
 ### Professional Service Providers
 icon: Briefcase
 
-Attorneys, consultants, financial advisors, and other professional service firms run on billable time and client trust — and need accounting that keeps pace with both. We handle the outsourced bookkeeping, payroll, and monthly reporting that let you focus on client work instead of chasing down your own numbers. Ask us how we support professional service firms across Bloomington and Indianapolis.
+Attorneys, consultants, financial advisors, and other [professional service firms](/industries/professional-services) run on billable time and client trust — and need accounting that keeps pace with both. We handle the outsourced bookkeeping, payroll, and monthly reporting that let you focus on client work instead of chasing down your own numbers. Ask us how we support professional service firms across Bloomington and Indianapolis.
 
 ### Churches
 icon: Building2
