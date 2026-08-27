@@ -4,7 +4,7 @@ url: "/"
 meta_title: "Accord Advisors | Trusted CPA Firm in Bloomington, IN"
 meta_description: "Accord Advisors is a CPA firm serving optometrists, dentists, medical professionals, service businesses, churches, and professional services providers across Bloomington, Avon, Indianapolis, and Indiana."
 target_keyword: "accord advisors your trusted accounting partner bloomington, in"
-secondary_keywords: ["outsourced accounting Bloomington IN","CPA firm Indianapolis","fixed fee accounting services","optometry practice accounting","medical practice accounting Indiana"]
+secondary_keywords: ["outsourced accounting Bloomington IN","CPA firm Indianapolis","fixed fee accounting services Indiana","optometry practice accounting Indiana","dental practice CPA Indiana","medical practice accounting Indiana","church accounting Indiana","service business CPA Bloomington","professional services accounting Avon IN","CPA firm Avon Indiana"]
 canonical_url: "https://rootadvisors.com/"
 schema_markup: "LocalBusiness"
 hero: "hero"
