@@ -280,14 +280,6 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
     },
     {
       "@type": "Question",
-      "name": "Who is Jared Hammack?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Jared Hammack, CPA, is the founder of Accord Advisors. He works directly with optometry, dental, and medical practice owners on tax planning and financial reporting, bringing CFO-level insight to businesses without an in-house CFO."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Does Accord Advisors serve churches and nonprofits?",
       "acceptedAnswer": {
         "@type": "Answer",
