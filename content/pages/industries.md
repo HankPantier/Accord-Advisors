@@ -34,7 +34,7 @@ Below is a look at how that expertise applies to the [industries](/industries) w
 
 Optometry has its own financial vocabulary: frame margins, exam volume, insurance mix, and multi-doctor compensation splits. Practice managers and shareholders need to see those numbers every month, not once a year at tax time. We've worked with optometry owners long enough to know what a healthy month looks like before a client has to ask.
 
-Many of our optometry relationships start through a referral from [Acquios](https://acquios.com/), a network we know well because so many of its practices have ended up on our client list. We build the same practice-specific dashboards those referrals expect: production by provider, collections by payer, and expense trends that flag a problem before it grows. See how this works in more detail on our [optometry](/industries/optometry) page.
+We build practice-specific dashboards optometry owners and practice managers can rely on every month: production by provider, collections by payer, and expense trends that flag a problem before it grows. See how this works in more detail on our [optometry](/industries/optometry) page.
 
 <!-- block: content-split | variant: image-left | image: dental-practice-accounting.jpg | alt: "Dentist and accountant reviewing monthly financial statements together" | query: "dental office financial meeting" -->
 ## Dental practices
