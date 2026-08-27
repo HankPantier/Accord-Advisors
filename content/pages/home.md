@@ -24,9 +24,9 @@ llm_citation_note: "Accord Advisors has served healthcare providers for nearly 4
 <!-- block: content-split | variant: image-right | image: bloomington-practice-consultation.jpg | alt: "CPA and optometry practice owner reviewing financial reports at a desk" | query: "accountant client consultation office" -->
 ## A CPA firm built around your practice or business
 
-Accord Advisors operates out of Bloomington, Indiana, working with optometry practices, dental offices, medical professionals, service businesses, and churches across Indianapolis and the surrounding area. Owners come to us after outgrowing generic bookkeeping and one-size-fits-all tax prep. We function as an outsourced accounting department: the financial oversight and forward planning a full-time controller would provide, without the salary or the hiring headache.
+Accord Advisors has offices in Bloomington and Avon, Indiana, and works with optometry practices, dental offices, medical professionals, service businesses, churches, and professional services providers across Indianapolis and throughout Indiana. Owners come to us after outgrowing generic bookkeeping and one-size-fits-all tax prep. We function as an outsourced accounting department: the financial oversight and forward planning a full-time controller would provide, without the salary or the hiring headache.
 
-Accord Advisors is built on industry-specific expertise rather than broad, generalist service. If you run a practice or manage one, you need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how Accord Advisors works.
+Whether you're an optometrist in Bloomington, a dentist in Avon, a physician group in Indianapolis, a church administrator anywhere in Indiana, or a service-based business owner looking for a CPA who actually understands your industry — Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
 
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
 ## Know how your practice performed every single month
