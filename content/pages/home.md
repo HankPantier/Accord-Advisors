@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Bloomington, IN"
 hero_image: "bloomington-cpa-client-meeting.jpg"
 hero_image_alt: "CPA and small practice owner reviewing financial reports together in an office"
-hero_subhead: "Outsourced accounting, tax planning, and fixed monthly fees for practices and businesses across Bloomington and Indianapolis"
+hero_subhead: "Outsourced accounting, tax planning, and fixed monthly fees for optometrists, dentists, medical professionals, service businesses, churches, and professional services providers across Bloomington, Avon, Indianapolis, and Indiana"
 hero_headline: "A CPA firm built around your practice or business"
 answer_block: "Accord Advisors is a Bloomington, Indiana CPA firm providing outsourced accounting, tax, and advisory services for optometry, dental, and medical practices, service businesses, and churches across Indianapolis. The firm replaces hourly billing with fixed monthly fees and delivers reporting through a secure online platform."
 eeat_signals: ["Accord Advisors, CPA firm licensed and operating in Indiana","Nearly 40 years of combined experience serving healthcare providers","Optometry clients referred through Acquios practice management network","Fixed-fee outsourced accounting model in place of hourly billing"]
