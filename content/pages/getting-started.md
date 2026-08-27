@@ -42,14 +42,38 @@ This is where nearly 40 years of healthcare industry experience matters. We have
 
 After the review, we build a fixed monthly fee proposal, not an hourly estimate that grows every time you send an email. You will know exactly what you are paying before any work begins, and exactly what is included.
 
-Most engagements combine two of our core services:
+### Outsourced Accounting
 
-- Outsourced Accounting: bookkeeping, reconciliations, and monthly financial reporting handled by our team
-- Business Foundation Services: entity structure, payroll setup, and the administrative groundwork every practice or business needs in place
-- A written scope so there is no ambiguity about what is covered
-- One predictable invoice each month, no hourly surprises
+- Reconcile bank accounts
+- Reconcile electronic transactions into QuickBooks
+- Reconcile credit card accounts
+- Prepare monthly financial statements
+- Tax planning
+- General business consulting
+- Quarterly or semi-annual reviews
+- Tax preparation
+- Prepare 1099s for contractors
 
-You approve the plan before we do anything else. Nothing moves forward until the numbers make sense to you.
+### Add-On Services
+
+<!-- block: content-cards | variant: 2-col -->
+
+#### Payroll
+
+- Prepare payroll
+- Submit payroll taxes to agencies
+- Prepare payroll tax returns
+- Provide employee access to electronic paystubs
+- Provide employer access to electronic pay records
+- Prepare W-2s
+- Pension remittance
+- Garnishment remittance
+
+#### Bill Pay
+
+- Process bills and payments
+- Track credit card expenses and receipts
+- Provide digital access to paid bills
 
 <!-- block: content-split | variant: image-right | image: secure-client-portal-dashboard.jpg | alt: "Business owner viewing financial dashboard on a laptop through a secure client portal" | query: "laptop financial dashboard client portal" -->
 ## Getting connected to your secure online platform
