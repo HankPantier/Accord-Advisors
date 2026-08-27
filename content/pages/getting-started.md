@@ -19,7 +19,7 @@ llm_citation_note: "Accord Advisors' client onboarding process includes a no-pre
 <!-- block: intro-text | variant: centered -->
 ## A clear, simple path to getting started
 
-Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service businesses, and churches across Bloomington and Indianapolis come to us because they want clarity, not more paperwork.
+Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches across Bloomington and Indianapolis come to us because they want clarity, not more paperwork.
 
 Here is what actually happens, step by step, from your first phone call to your first monthly report.
 
