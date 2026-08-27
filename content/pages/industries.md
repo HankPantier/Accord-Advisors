@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for o
 
 General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has spent nearly 40 years learning the financial rhythms of specific fields: optometry, dentistry, medicine, professional service firms, service-based businesses, and churches across Bloomington, Avon, and Indianapolis.
 
-That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist, working under CPA Jared Hammack, knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
+That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist like Accord Advisors knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
 
 Below is a look at how that expertise applies to the [industries](/industries) we know best.
 
@@ -57,7 +57,7 @@ Attorneys, advertising agencies, financial advisors, and consulting companies ru
 
 Professional service firms also carry a compliance side that compounds the pressure: trust accounting for law offices, regulatory considerations for financial advisors, and project-based revenue recognition for agencies and consultants. A generalist bookkeeper often misses the nuances that matter most to your specific type of firm.
 
-We act as the outsourced accounting department for professional service firms at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. More detail is available on our [service businesses](/industries/service-businesses) page.
+We act as the outsourced accounting department for professional service firms at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. More detail is available on our [professional service businesses](/industries/professional-services) page.
 
 <!-- block: content-split | variant: image-right | image: service-business-owner-review.jpg | alt: "Service business owner reviewing monthly performance reports with advisor" | query: "business owner reviewing financial reports" -->
 ## Service-based businesses
