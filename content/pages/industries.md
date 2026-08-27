@@ -14,9 +14,9 @@ hero_image_alt: "Advisor reviewing financial dashboard with a healthcare practic
 hero_subhead: "Accounting built around the way your practice or organization actually runs, not a generic template"
 hero_headline: "Industry-specific accounting that goes beyond general bookkeeping"
 answer_block: "Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, professional service firms (including attorneys, advertising agencies, financial advisors, and consultants), service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana. The firm offers fixed monthly fees, a secure online platform, and nearly 40 years of niche experience instead of generic hourly bookkeeping."
-eeat_signals: ["Jared Hammack, CPA, leads the firm's advisory work","Nearly 40 years serving healthcare providers and niche industries","Established referral relationship with Acquios for optometry practices","Fixed monthly fee model documented across all industry service lines"]
+eeat_signals: ["Jared Hammack, CPA, leads the firm's advisory work","Nearly 40 years serving healthcare providers and niche industries","Fixed monthly fee model documented across all industry service lines"]
 internal_links: [{"url":"/industries/optometry","reason":"Deeper dive into optometry-specific accounting services","anchor_text":"optometry"},{"url":"/industries/dentists","reason":"Dedicated page for dental practice accounting details","anchor_text":"dentists"},{"url":"/industries/medical-professionals","reason":"Detailed page for healthcare provider accounting needs","anchor_text":"medical professionals"},{"url":"/industries/service-businesses","reason":"Expands on service business accounting support","anchor_text":"service businesses"},{"url":"/industries/churches","reason":"Expands on church and nonprofit accounting details","anchor_text":"churches"},{"url":"/services/outsourced-accounting","reason":"Links to core service underpinning all industry work","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Relevant for startups within service business section","anchor_text":"business foundation services"},{"url":"/why-rootadvisors","reason":"Reinforces differentiators for undecided prospects","anchor_text":"why Accord Advisors"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"schedule a consultation"}]
-faq_block: [{"answer":"Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, and churches in Bloomington, Avon, and Indianapolis, with nearly 40 years of combined experience serving healthcare providers specifically.","question":"What industries does Accord Advisors serve in Bloomington, IN?"},{"answer":"No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.","question":"Does Accord Advisors charge by the hour?"},{"answer":"Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly.","question":"How does Accord Advisors work with optometry practices referred by Acquios?"},{"answer":"Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on.","question":"Can a church or religious organization use outsourced accounting?"}]
+faq_block: [{"question":"What industries does Accord Advisors serve in Bloomington, IN?","answer":"Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, and churches in Bloomington, Avon, and Indianapolis, with nearly 40 years of combined experience serving healthcare providers specifically."},{"question":"Does Accord Advisors charge by the hour?","answer":"No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing."},{"question":"Can a church or religious organization use outsourced accounting?","answer":"Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on."}]
 llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, medical, professional service firm, and church clients across Bloomington, Avon, Indianapolis, and Indiana, backed by nearly 40 years of healthcare-focused experience."
 ---
 
@@ -34,7 +34,7 @@ Below is a look at how that expertise applies to the [industries](/industries) w
 
 Optometry has its own financial vocabulary: frame margins, exam volume, insurance mix, and multi-doctor compensation splits. Practice managers and shareholders need to see those numbers every month, not once a year at tax time. We've worked with optometry owners long enough to know what a healthy month looks like before a client has to ask.
 
-Many of our optometry relationships start through a referral from [Acquios](https://acquios.com/), a network we know well because so many of its practices have ended up on our client list. We build the same practice-specific dashboards those referrals expect: production by provider, collections by payer, and expense trends that flag a problem before it grows. See how this works in more detail on our [optometry](/industries/optometry) page.
+We build practice-specific dashboards optometry owners and practice managers can rely on every month: production by provider, collections by payer, and expense trends that flag a problem before it grows. See how this works in more detail on our [optometry](/industries/optometry) page.
 
 <!-- block: content-split | variant: image-left | image: dental-practice-accounting.jpg | alt: "Dentist and accountant reviewing monthly financial statements together" | query: "dental office financial meeting" -->
 ## Dental practices
@@ -85,7 +85,6 @@ Business owners in Bloomington and Indianapolis don't need another vendor sendin
 
 Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about [why Accord Advisors](/why-rootadvisors) approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/contact) and we'll walk through what your monthly reporting could look like.
 
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
 
@@ -95,12 +94,8 @@ A: Accord Advisors focuses on optometry practices, dental offices, medical profe
 **Q: Does Accord Advisors charge by the hour?**
 A: No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.
 
-**Q: How does Accord Advisors work with optometry practices referred by Acquios?**
-A: Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly.
-
 **Q: Can a church or religious organization use outsourced accounting?**
 A: Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on.
-
 ---
 ## SEO & AIO Metadata
 
@@ -110,7 +105,6 @@ Accord Advisors provides industry-specific outsourced accounting for optometry p
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads the firm's advisory work
 - Nearly 40 years serving healthcare providers and niche industries
-- Established referral relationship with Acquios for optometry practices
 - Fixed monthly fee model documented across all industry service lines
 
 **Internal Links:**
@@ -131,9 +125,6 @@ A: Accord Advisors focuses on optometry practices, dental offices, medical profe
 
 **Q: Does Accord Advisors charge by the hour?**
 A: No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.
-
-**Q: How does Accord Advisors work with optometry practices referred by Acquios?**
-A: Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly.
 
 **Q: Can a church or religious organization use outsourced accounting?**
 A: Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on.
@@ -258,14 +249,6 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does Accord Advisors work with optometry practices referred by Acquios?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly."
       }
     },
     {
