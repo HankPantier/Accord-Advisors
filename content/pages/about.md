@@ -214,7 +214,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors - Accord Advisors - Avon",
   "url": "https://rootadvisors.com",
   "address": {
     "@type": "PostalAddress",
