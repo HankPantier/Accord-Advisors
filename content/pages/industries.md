@@ -73,7 +73,7 @@ Business owners in Bloomington and Indianapolis don't need another vendor sendin
 
 - Fixed monthly fees instead of hourly billing, so budgeting for accounting costs is never a guessing game
 - A secure online platform for sharing documents and reviewing financials without a scanner or a filing cabinet
-- Nearly 40 years of industry-specific experience across optometry, dental, medical, service, and church clients
+- Nearly 40 years of industry-specific experience across optometry, dental, medical, professional service, and church clients
 - CFO-level insight into monthly performance, delivered at a fraction of the cost of an in-house hire
 
 Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about [why Accord Advisors](/why-rootadvisors) approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/contact) and we'll walk through what your monthly reporting could look like.
