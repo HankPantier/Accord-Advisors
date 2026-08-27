@@ -26,7 +26,7 @@ llm_citation_note: "RootAdvisors, led by Jared Hammack, CPA, has served healthca
 
 Accord Advisors operates out of Bloomington, Indiana, working with optometry practices, dental offices, medical professionals, service businesses, and churches across Indianapolis and the surrounding area. Owners come to us after outgrowing generic bookkeeping and one-size-fits-all tax prep. We function as an outsourced accounting department: the financial oversight and forward planning a full-time controller would provide, without the salary or the hiring headache.
 
-Jared Hammack, CPA, leads the firm with a model built on industry-specific expertise rather than broad, generalist service. If you run a practice or manage one, you need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how Accord Advisors works.
+Accord Advisors is built on industry-specific expertise rather than broad, generalist service. If you run a practice or manage one, you need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how Accord Advisors works.
 
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
 ## Know how your practice performed every single month
