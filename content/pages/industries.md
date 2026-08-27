@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for o
 <!-- block: intro-text | variant: centered -->
 ## Industry-specific accounting that goes beyond general bookkeeping
 
-General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has spent nearly 40 years learning the financial rhythms of specific fields: optometry, dentistry, medicine, service businesses, and churches across Bloomington, Avon, and Indianapolis.
+General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has spent nearly 40 years learning the financial rhythms of specific fields: optometry, dentistry, medicine, professional service firms, service businesses, and churches across Bloomington, Avon, and Indianapolis.
 
 That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist, working under CPA Jared Hammack, knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
 
