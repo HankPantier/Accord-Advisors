@@ -127,9 +127,6 @@ A: Accord Advisors focuses on optometry practices, dental offices, medical profe
 **Q: Does Accord Advisors charge by the hour?**
 A: No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.
 
-**Q: How does Accord Advisors work with optometry practices referred by Acquios?**
-A: Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly.
-
 **Q: Can a church or religious organization use outsourced accounting?**
 A: Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on.
 
