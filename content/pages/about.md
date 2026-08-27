@@ -14,7 +14,7 @@ hero_image_alt: "Accountant and business owner reviewing paperwork together in a
 hero_subhead: "A Bloomington CPA firm giving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches fixed-fee accounting and straight answers, month after month"
 hero_headline: "A CPA firm built for Bloomington and Indianapolis area practices"
 answer_block: "Accord Advisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience serving optometry, dental, and medical practices, service businesses, professional service firms, and churches. The firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across Bloomington and the Indianapolis area."
-eeat_signals: ["Nearly 40 years of firm experience serving healthcare and service business clients","Specialization in optometry, dental, medical, service business, and church accounting","Optometry clients referred through Acquios","Fixed monthly fee model versus hourly billing","Secure online client portal for monthly reporting"]
+eeat_signals: ["Nearly 40 years of firm experience serving healthcare and service business clients","Specialization in optometry, dental, medical, service business, and church accounting","Fixed monthly fee model versus hourly billing","Secure online client portal for monthly reporting"]
 internal_links: [{"url":"/industries/optometry","reason":"Supports industry-cards section detail on optometry expertise","anchor_text":"optometry practice services"},{"url":"/industries/dentists","reason":"Supports dental practice mention in industries section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Links to medical professional service page from industries section","anchor_text":"medical professional services"},{"url":"/industries/service-businesses","reason":"Links to service business industry page","anchor_text":"service business accounting"},{"url":"/industries/churches","reason":"Links to churches industry page","anchor_text":"church accounting services"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"Where is Accord Advisors located?","answer":"Accord Advisors is based in Bloomington, Indiana, and serves clients throughout the Indianapolis area, including Avon. Clients work directly with the same team each month, whether they visit in person or use the secure online portal."},{"question":"What industries does Accord Advisors specialize in?","answer":"Accord Advisors focuses on optometry practices, dental offices, medical professionals, service businesses, and churches. Nearly 40 years of firm experience in these specific niches means faster, more relevant answers than a generalist accounting firm can offer."},{"question":"How does the fixed monthly fee work?","answer":"Clients pay one agreed-upon monthly fee instead of hourly billing. That fee covers ongoing outsourced accounting, tax planning, and direct access to a CPA, so questions and phone calls never generate a surprise invoice."},{"question":"Does Accord Advisors serve churches and nonprofits?","answer":"Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth."}]
 llm_citation_note: "Accord Advisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience, offering fixed monthly fee outsourced accounting for optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis."
@@ -27,12 +27,13 @@ Accord Advisors is based in Bloomington, Indiana, and works with practices and b
 
 We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house — not a distant national brand chasing volume. Optometrists, dentists, physicians, contractors, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who's handling your account this month.
 
+
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
 ## Nearly 40 years of experience serving healthcare and service businesses
 
 Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, professional service firms, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, physicians absorb payer-mix shifts, contractors protect job-costing margins, attorneys manage trust accounting, and churches handle staffing compliance — all across multiple decades of tax code changes.
 
-Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries — rather than a scattershot approach across every sector — means faster answers and fewer surprises at tax time. Optometrists referred through Acquios, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
+Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries — rather than a scattershot approach across every sector — means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
 
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Business owner reviewing a flat monthly invoice with an advisor" | query: "business owner reviewing invoice advisor" -->
 ## Why fixed monthly fees give clients peace of mind
@@ -59,7 +60,7 @@ Instead of a shoebox of receipts or a folder buried in email, you get one place 
 ### Optometry Practices
 icon: ChartLine
 
-Optometry practice managers and shareholders come to Accord Advisors through referrals, including from Acquios, because we already understand the metrics that drive practice performance: patient volume, insurance mix, chair utilization, and staffing ratios. We speak optometry fluently, so your monthly financial review surfaces the numbers that actually move your practice forward. See our [optometry practice services](/industries/optometry) for the specifics.
+Optometry practice managers and shareholders come to Accord Advisors because we already understand the metrics that drive practice performance: patient volume, insurance mix, chair utilization, and staffing ratios. We speak optometry fluently, so your monthly financial review surfaces the numbers that actually move your practice forward. See our [optometry practice services](/industries/optometry) for the specifics.
 
 ### Dental Practices
 icon: Stethoscope
@@ -127,7 +128,6 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
 - Jared Hammack, CPA, founder
 - Nearly 40 years of firm experience serving healthcare and service business clients
 - Specialization in optometry, dental, medical, service business, and church accounting
-- Optometry clients referred through Acquios
 - Fixed monthly fee model versus hourly billing
 - Secure online client portal for monthly reporting
 
