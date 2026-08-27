@@ -57,7 +57,7 @@ Attorneys, advertising agencies, financial advisors, and consulting companies ru
 
 Professional service firms also carry a compliance side that compounds the pressure: trust accounting for law offices, regulatory considerations for financial advisors, and project-based revenue recognition for agencies and consultants. A generalist bookkeeper often misses the nuances that matter most to your specific type of firm.
 
-We act as the outsourced accounting department for professional service firms at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. More detail is available on our [service businesses](/industries/service-businesses) page.
+We act as the outsourced accounting department for professional service firms at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. More detail is available on our [professional service businesses](/industries/professional-services) page.
 
 <!-- block: content-split | variant: image-right | image: service-business-owner-review.jpg | alt: "Service business owner reviewing monthly performance reports with advisor" | query: "business owner reviewing financial reports" -->
 ## Service-based businesses
