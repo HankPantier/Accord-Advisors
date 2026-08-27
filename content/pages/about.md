@@ -178,7 +178,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors - Accord Advisors - Bloomington",
   "url": "https://rootadvisors.com",
   "address": {
     "@type": "PostalAddress",
