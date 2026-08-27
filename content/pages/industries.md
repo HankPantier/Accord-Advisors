@@ -51,7 +51,7 @@ Physicians and healthcare providers carry a heavier compliance load than most bu
 Accord Advisors fills that gap. Clients get CFO-level insight into overhead, provider productivity, and cash flow, delivered through a secure online platform, at a fraction of what an in-house hire would cost. Combined with nearly 40 years of healthcare-focused accounting work, that means fewer surprises at year-end and clearer answers when a reimbursement rate changes mid-contract. More detail is available on our [medical professionals](/industries/medical-professionals) page.
 
 <!-- block: content-split | variant: image-left | image: professional-service-firms-accounting.jpg | alt: "Attorney and accountant reviewing financial statements in a professional office" | query: "attorney financial advisor meeting accountant" -->
-## Professional service firms
+## Professional service providers
 
 Attorneys, advertising agencies, financial advisors, and consulting companies run on expertise and time, not inventory. Owners need to know monthly whether engagements are actually profitable, and that answer often gets buried until tax season if nobody's watching it in real time.
 
