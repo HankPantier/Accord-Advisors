@@ -31,9 +31,9 @@ Whether you're an optometrist in Bloomington, a dentist in Avon, a physician gro
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
 ## Know how your practice performed every single month
 
-Most owners can tell you how last year went. Fewer can tell you how last month went, and that gap costs money. Accord Advisors delivers financial reporting through a secure online platform, giving optometrists, dentists, medical professionals, service business owners, and church administrators real-time access to the numbers that matter: revenue trends, expense categories, cash position, and the operational metrics tied to daily decisions.
+Most owners can tell you how last year went. Fewer can tell you how last month went, and that gap costs money. Accord Advisors delivers financial reporting through a secure online platform, giving optometrists, dentists, medical professionals, service business owners, church administrators, and professional services providers across Bloomington, Avon, Indianapolis, and Indiana real-time access to the numbers that matter: revenue trends, expense categories, cash position, and the operational metrics tied to daily decisions.
 
-Instead of waiting on a year-end summary, you get dashboards updated on a schedule that matches how your practice actually runs. Decisions about staffing, equipment, or expansion get easier when you're not guessing where things stand. It's the visibility a controller would provide in-house, delivered without adding one to payroll.
+Instead of waiting on a year-end summary, you get dashboards updated on a schedule that matches how your practice or business actually runs. Decisions about staffing, equipment, or expansion get easier when you're not guessing where things stand. It's the visibility a controller would provide in-house, delivered without adding one to payroll.
 
 <!-- block: checklist-section | variant: with-image-right | image: fixed-fee-invoice-review.jpg | alt: "Accountant reviewing a flat monthly invoice with a small business client" | query: "accountant client reviewing invoice document" -->
 ## Fixed monthly fees instead of surprise hourly bills
