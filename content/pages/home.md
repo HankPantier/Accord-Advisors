@@ -74,7 +74,7 @@ icon: Building2
 
 Entity setup, systems, and financial groundwork for startups and growing practices, built to scale as the business does. [Learn more](/services/business-foundation-services)
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Specialized support for the industries we know best
 
 Generalist firms handle a little of everything. RootAdvisors goes deep in five industries, and that focus shows up in the advice you get.
