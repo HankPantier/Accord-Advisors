@@ -84,12 +84,6 @@ Churches and religious organizations face staffing compliance and internal contr
 <!-- block: content-cards | variant: 2-col -->
 ## Meet the team behind your outsourced accounting department
 
-### Jared Hammack, CPA
-photo: jared-hammack-cpa-portrait.jpg
-query: professional accountant portrait office
-
-Jared Hammack, CPA, founded Accord Advisors on the idea that a Bloomington business owner deserves CFO-level insight without a CFO-level salary. He works directly with optometry, dental, and medical practice owners on tax planning, financial reporting, and the decisions that shape where a practice heads next.
-
 ### Your outsourced accounting department
 photo: accounting-team-collaborating-office.jpg
 query: accounting team collaborating office
