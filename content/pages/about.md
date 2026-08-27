@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors is a Bloomington, Indiana CPA firm with near
 
 Accord Advisors is based in Bloomington, Indiana, and works with practices and businesses across the Indianapolis area, including Avon. That local footprint matters. When you call, you reach someone who knows the Bloomington business climate and the referral networks that bring optometry patients, dental clients, consulting engagements, and church members through your doors.
 
-We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house, not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who's handling your account this month.
+We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house, not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who is handling your account this month.
 
 
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
