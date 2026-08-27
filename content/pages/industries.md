@@ -105,7 +105,6 @@ Accord Advisors provides industry-specific outsourced accounting for optometry p
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads the firm's advisory work
 - Nearly 40 years serving healthcare providers and niche industries
-- Established referral relationship with Acquios for optometry practices
 - Fixed monthly fee model documented across all industry service lines
 
 **Internal Links:**
