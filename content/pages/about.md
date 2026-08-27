@@ -51,7 +51,7 @@ That structure removes a specific kind of anxiety we hear about constantly from 
 
 Most business owners and practice managers tell us the same thing: they want to know how their business did last month, in plain terms, without digging through spreadsheets or waiting on a callback. Accord Advisors gives every client a secure online portal where financial statements, reports, and documents are organized and accessible whenever you need them.
 
-Instead of a shoebox of receipts or a folder buried in email, you get one place to see what's coming in, what's going out, and what it means for the decisions in front of you. For optometry practice owners tracking patient volume against overhead, or church treasurers reporting to a board, that monthly clarity replaces guesswork with a number they can actually use.
+Instead of a shoebox of receipts or a folder buried in email, you get one place to see what's coming in, what's going out, and what it means for the decisions in front of you. For optometry practice owners tracking patient volume against overhead, dental owners watching equipment loan balances, physicians monitoring payer settlements, contractors reviewing job-by-job margins, consultants reconciling billable hours to revenue, or church treasurers reporting to a board — that monthly clarity replaces guesswork with numbers you can actually use.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## The industries we know best
