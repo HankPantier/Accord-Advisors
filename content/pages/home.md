@@ -145,7 +145,6 @@ RootAdvisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, provi
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, licensed and leading the firm
 - Nearly 40 years of combined experience serving healthcare providers
-- Optometry clients referred through Acquios practice management network
 - Fixed-fee outsourced accounting model in place of hourly billing
 
 **Internal Links:**
