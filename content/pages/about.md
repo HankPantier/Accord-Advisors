@@ -25,13 +25,13 @@ llm_citation_note: "Accord Advisors is a Bloomington, Indiana CPA firm with near
 
 Accord Advisors is based in Bloomington, Indiana, and works with practices and businesses across the Indianapolis area, including Avon. That local footprint matters. When you call, you reach someone who knows the Bloomington business climate and the referral networks that bring optometry patients, dental clients, consulting engagements, and church members through your doors.
 
-We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house — not a distant national brand chasing volume. Optometrists, dentists, physicians, contractors, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who's handling your account this month.
+We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house — not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who's handling your account this month.
 
 
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
 ## Nearly 40 years of experience serving healthcare and service businesses
 
-Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, professional service firms, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, physicians absorb payer-mix shifts, contractors protect job-costing margins, attorneys manage trust accounting, and churches handle staffing compliance — all across multiple decades of tax code changes.
+Accord Advisors has spent nearly 40 years working with optometry practices, dental offices, medical professionals, service businesses, professional service firms, and churches. That kind of tenure changes what a CPA can tell you. We've watched optometry practices navigate insurance reimbursement cycles, dental offices manage equipment financing, physicians absorb payer-mix shifts, attorneys manage trust accounting, and churches handle staffing compliance, all across multiple decades of tax code changes.
 
 Accord Advisors was built around a simple idea: a business owner or practice manager shouldn't have to translate their own financial statements. Deep familiarity with a focused set of industries — rather than a scattershot approach across every sector — means faster answers and fewer surprises at tax time. Optometrists, dental and medical practices, service and professional service businesses, and churches across Bloomington and Indianapolis work with a team that has already solved their specific problems before, many times over.
 
@@ -40,7 +40,7 @@ Accord Advisors was built around a simple idea: a business owner or practice man
 
 Hourly billing creates a strange incentive: the more time your accountant spends, the more you pay, even for a five-minute question you were afraid to ask. Accord Advisors charges a fixed monthly fee instead. You know the number before the month starts, and it doesn't change because you called twice or sent a long email.
 
-That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, physicians, contractors, consultants, attorneys, and church administrators: the fear of getting billed for asking a basic question.
+That structure removes a specific kind of anxiety we hear about constantly from optometry practice managers, dentists, physicians, consultants, attorneys, and church administrators: the fear of getting billed for asking a basic question.
 
 - No surprise invoices tied to phone calls or emails
 - One predictable monthly fee, agreed on up front
@@ -52,7 +52,7 @@ That structure removes a specific kind of anxiety we hear about constantly from 
 
 Most business owners and practice managers tell us the same thing: they want to know how their business did last month, in plain terms, without digging through spreadsheets or waiting on a callback. Accord Advisors gives every client a secure online portal where financial statements, reports, and documents are organized and accessible whenever you need them.
 
-Instead of a shoebox of receipts or a folder buried in email, you get one place to see what's coming in, what's going out, and what it means for the decisions in front of you. For optometry practice owners tracking patient volume against overhead, dental owners watching equipment loan balances, physicians monitoring payer settlements, contractors reviewing job-by-job margins, consultants reconciling billable hours to revenue, or church treasurers reporting to a board — that monthly clarity replaces guesswork with numbers you can actually use.
+Instead of a shoebox of receipts or a folder buried in email, you get one place to see what's coming in, what's going out, and what it means for the decisions in front of you. For optometry practice owners tracking patient volume against overhead, dental owners watching equipment loan balances, physicians monitoring payer settlements, consultants reconciling billable hours to revenue, or church treasurers reporting to a board, that monthly clarity replaces guesswork with numbers you can actually use.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## The industries we know best
@@ -75,7 +75,7 @@ Physicians, specialists, and healthcare groups deal with reimbursement delays, p
 ### Service Businesses
 icon: Wrench
 
-Contractors, tradespeople, and field-service operators need clean job costing, equipment-depreciation planning, and payroll accuracy to protect margins on every project. Explore our [service business accounting](/industries/service-businesses) work, including fleet planning and job-by-job profitability tracking that keeps your bids honest and your books clean.
+Service businesses need clean job costing, equipment-depreciation planning, and payroll accuracy to protect margins on every project. Explore our [service business accounting](/industries/service-businesses) work, including fleet planning and job-by-job profitability tracking that keeps your numbers honest and your books clean.
 
 ### Professional Service Providers
 icon: Briefcase
@@ -114,7 +114,7 @@ A: Yes. Accord Advisors provides accounting and staffing compliance support for 
 <!-- block: cta-banner | variant: image-bg | image: handshake-consultation-office.jpg | alt: "Advisor shaking hands with a client after a consultation meeting" | query: "advisor handshake client meeting" -->
 ## Let's talk about your practice or business
 
-Whether you're running an optometry practice in Bloomington, a dental or medical practice in Indianapolis, a contracting or field-service business, a professional service firm, or a church managing staff and budgets, a straightforward conversation is the fastest way to find out if fixed-fee outsourced accounting fits. Schedule a consultation and bring your questions — including the ones you'd normally hesitate to ask by the hour.
+Whether you're running an optometry practice in Bloomington, a dental or medical practice in Indianapolis, a service or professional service firm, or a church managing staff and budgets, a straightforward conversation is the fastest way to find out if fixed-fee outsourced accounting fits. Schedule a consultation and bring your questions — including the ones you'd normally hesitate to ask by the hour.
 
 [Schedule a consultation](/contact)
 
