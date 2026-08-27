@@ -253,14 +253,6 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
     },
     {
       "@type": "Question",
-      "name": "How does Accord Advisors work with optometry practices referred by Acquios?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Many optometry clients arrive through the Acquios referral network. Accord Advisors builds the practice-specific dashboards those owners and practice managers expect, covering production, collections, and expense trends monthly."
-      }
-    },
-    {
-      "@type": "Question",
       "name": "Can a church or religious organization use outsourced accounting?",
       "acceptedAnswer": {
         "@type": "Answer",
