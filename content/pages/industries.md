@@ -53,9 +53,11 @@ Accord Advisors fills that gap. Clients get CFO-level insight into overhead, pro
 <!-- block: content-split | variant: image-left | image: service-business-owner-review.jpg | alt: "Service business owner reviewing monthly performance reports with advisor" | query: "business owner reviewing financial reports" -->
 ## Service-based businesses
 
-Contractors, consultants, and other service businesses live and die by utilization and margin, not inventory. Owners need to know monthly whether jobs are actually profitable, and that answer often gets buried until tax season if nobody's watching it in real time.
+Attorneys, consultants, advertising agencies, financial advisors, and other professional service providers live and die by utilization and margin, not inventory. Owners need to know monthly whether engagements are actually profitable, and that answer often gets buried until tax season if nobody's watching it in real time.
 
-We act as the outsourced accounting department for service businesses at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. Details are on our [service businesses](/industries/service-businesses) page.
+Professional service firms also have a compliance side that compounds the pressure: trust accounting for law offices, regulatory considerations for financial advisors, and project-based revenue recognition for agencies and consultants. A generalist bookkeeper often misses the nuances that matter most to your specific practice.
+
+We act as the outsourced accounting department for professional service firms and [service businesses](/industries/service-businesses) at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. Details are on our [service businesses](/industries/service-businesses) page.
 
 <!-- block: content-split | variant: image-right | image: church-financial-stewardship.jpg | alt: "Church treasurer reviewing financial records with an accountant" | query: "church treasurer financial meeting" -->
 ## Churches and religious organizations
