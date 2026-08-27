@@ -145,9 +145,6 @@ A: Accord Advisors focuses on optometry practices, dental offices, medical profe
 **Q: How does the fixed monthly fee work?**
 A: Clients pay one agreed-upon monthly fee instead of hourly billing. That fee covers ongoing outsourced accounting, tax planning, and direct access to a CPA, so questions and phone calls never generate a surprise invoice.
 
-**Q: Who is Jared Hammack?**
-A: Jared Hammack, CPA, is the founder of Accord Advisors. He works directly with optometry, dental, and medical practice owners on tax planning and financial reporting, bringing CFO-level insight to businesses without an in-house CFO.
-
 **Q: Does Accord Advisors serve churches and nonprofits?**
 A: Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth.
 
