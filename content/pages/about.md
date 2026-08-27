@@ -518,26 +518,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "jobTitle": "Client Accounting Specialist"
 }
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Jared Hammack",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
-  },
-  "jobTitle": "Managing Partner",
-  "description": "Started Ally Accounting in 2010; acquired a local Indianapolis firm. Indiana University graduate (accounting & finance, honors). CPA since 2006. Former Deloitte staff accountant (international/complex tax). Background in small local firms for business and individual accounting, payroll, and tax.",
-  "hasCredential": [
-    {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "CPA"
-    }
-  ]
-}
-</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
