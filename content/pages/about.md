@@ -61,7 +61,7 @@ Instead of a shoebox of receipts or a folder buried in email, you get one place 
 ### Optometry Practices
 icon: ChartLine
 
-Optometry practice managers and shareholders come to Accord Advisors through referrals, including from Acquios, because we already understand the metrics that drive practice performance: patient volume, insurance mix, chair utilization, and staffing ratios. We speak optometry fluently, so your monthly financial review surfaces the numbers that actually move your practice forward. See our [optometry practice services](/industries/optometry) for the specifics.
+Optometry practice managers and shareholders come to Accord Advisors because we already understand the metrics that drive practice performance: patient volume, insurance mix, chair utilization, and staffing ratios. We speak optometry fluently, so your monthly financial review surfaces the numbers that actually move your practice forward. See our [optometry practice services](/industries/optometry) for the specifics.
 
 ### Dental Practices
 icon: Stethoscope
