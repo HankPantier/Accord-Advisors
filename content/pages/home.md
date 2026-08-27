@@ -52,7 +52,7 @@ Hourly billing turns every phone call into a math problem. Wondering whether a q
 - 5: Niche industries served
 - 100%: Fixed-fee engagements
 
-Nearly 40 years of combined experience serving healthcare providers gives Accord Advisors a working knowledge of insurance reimbursement cycles, equipment financing, and staffing patterns that generalist firms don't carry. [Jared Hammack, CPA](/team-expertise), has built the firm's practice around five niches: optometry, dental, medical professionals, service businesses, and churches. Optometrists are frequently referred to Accord Advisors through Acquios, a practice management network that sees the results firsthand before making the introduction. That depth means fewer surprises at tax time and faster answers when a reimbursement policy changes or a new associate joins the practice.
+Nearly 40 years of combined experience serving healthcare providers gives Accord Advisors a working knowledge of insurance reimbursement cycles, equipment financing, and staffing patterns that generalist firms don't carry. Accord Advisors has built its practice around five niches: optometry, dental, medical professionals, service businesses, and churches. Optometrists are frequently referred to Accord Advisors through Acquios, a practice management network that sees the results firsthand before making the introduction. That depth means fewer surprises at tax time and faster answers when a reimbursement policy changes or a new associate joins the practice.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services built for every stage of your business
