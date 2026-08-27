@@ -3,7 +3,7 @@ title: "Industries we serve | Accord Advisors"
 url: "/industries"
 meta_title: "Industries We Serve in Bloomington, Indianapolis & Indiana | Accord Advisors"
 meta_description: "Accord Advisors serves optometry, dental, medical, professional service, and church clients in Bloomington, Indianapolis, and across Indiana with fixed-fee outsourced accounting."
-target_keyword: "industries we serve Bloomington, IN"
+target_keyword: "industries we serve Bloomington Indianapolis Indiana"
 secondary_keywords: ["optometry accounting Indiana","dental practice accounting Bloomington","outsourced accounting Indianapolis","church accounting services"]
 canonical_url: "https://rootadvisors.com/industries"
 schema_markup: "Service"
