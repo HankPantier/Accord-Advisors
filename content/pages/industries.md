@@ -50,14 +50,21 @@ Physicians and healthcare providers carry a heavier compliance load than most bu
 
 Accord Advisors fills that gap. Clients get CFO-level insight into overhead, provider productivity, and cash flow, delivered through a secure online platform, at a fraction of what an in-house hire would cost. Combined with nearly 40 years of healthcare-focused accounting work, that means fewer surprises at year-end and clearer answers when a reimbursement rate changes mid-contract. More detail is available on our [medical professionals](/industries/medical-professionals) page.
 
-<!-- block: content-split | variant: image-left | image: service-business-owner-review.jpg | alt: "Service business owner reviewing monthly performance reports with advisor" | query: "business owner reviewing financial reports" -->
+<!-- block: content-split | variant: image-left | image: professional-service-firms-accounting.jpg | alt: "Attorney and accountant reviewing financial statements in a professional office" | query: "attorney financial advisor meeting accountant" -->
+## Professional service firms
+
+Attorneys, advertising agencies, financial advisors, and consulting companies run on expertise and time, not inventory. Owners need to know monthly whether engagements are actually profitable, and that answer often gets buried until tax season if nobody's watching it in real time.
+
+Professional service firms also carry a compliance side that compounds the pressure: trust accounting for law offices, regulatory considerations for financial advisors, and project-based revenue recognition for agencies and consultants. A generalist bookkeeper often misses the nuances that matter most to your specific type of firm.
+
+We act as the outsourced accounting department for professional service firms at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. More detail is available on our [service businesses](/industries/service-businesses) page.
+
+<!-- block: content-split | variant: image-right | image: service-business-owner-review.jpg | alt: "Service business owner reviewing monthly performance reports with advisor" | query: "business owner reviewing financial reports" -->
 ## Service-based businesses
 
-Attorneys, consultants, advertising agencies, financial advisors, and other professional service providers live and die by utilization and margin, not inventory. Owners need to know monthly whether engagements are actually profitable, and that answer often gets buried until tax season if nobody's watching it in real time.
+HVAC installers, electricians, plumbers, and other trade and home-service businesses face a different set of financial pressures: seasonal cash flow swings, job-cost tracking, equipment and vehicle expenses, and payroll that fluctuates with the workload. Owners need accurate monthly numbers to know whether the business is actually making money on each job, not just staying busy.
 
-Professional service firms also have a compliance side that compounds the pressure: trust accounting for law offices, regulatory considerations for financial advisors, and project-based revenue recognition for agencies and consultants. A generalist bookkeeper often misses the nuances that matter most to your specific practice.
-
-We act as the outsourced accounting department for professional service firms and [service businesses](/industries/service-businesses) at every stage, from a first hire through an ownership transition. That includes the [business foundation services](/services/business-foundation-services) that get a new venture set up correctly, and the ongoing reporting that supports a founder planning an exit years down the road. Details are on our [service businesses](/industries/service-businesses) page.
+We act as the outsourced accounting department for service-based businesses at every stage of growth, delivering consistent financial statements on a fixed monthly fee so there are no billing surprises between busy seasons. That same fixed-fee model covers the [business foundation services](/services/business-foundation-services) that get a new service business set up correctly from day one. Details are on our [service businesses](/industries/service-businesses) page.
 
 <!-- block: content-split | variant: image-right | image: church-financial-stewardship.jpg | alt: "Church treasurer reviewing financial records with an accountant" | query: "church treasurer financial meeting" -->
 ## Churches and religious organizations
