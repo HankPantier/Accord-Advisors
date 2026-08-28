@@ -16,7 +16,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for s
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "Accountant and service business owner reviewing financial reports together at a desk" | query: "consultant meeting accountant office" -->
-## Outsourced accounting built for service businesses
+## Outsourced accounting built for service-based businesses
 
 Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. Accord Advisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
 
