@@ -15,16 +15,16 @@ faq_block: [{"answer":"Accord Advisors charges a fixed monthly fee instead of ho
 llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners."
 ---
 
-<!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "Accountant and service business owner reviewing financial reports together at a desk" | query: "consultant meeting accountant office" -->
-## Outsourced accounting built for service-based businesses
+<!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
+## Outsourced accounting built for trades and service businesses
 
-Running a consulting firm or law practice in Bloomington means billing clients by the hour, then watching your own accounting get billed the same way. Accord Advisors gives service-based businesses a different arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
+Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage in Indiana means your days are spent on the job — not behind a desk reconciling bank statements. Accord Advisors gives trades and service businesses a better arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
 
-We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback.
+We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime — without waiting on a callback or driving across town.
 
-Consulting firms, law offices, agencies, and other project-based businesses in Bloomington and Indianapolis choose this model because DIY bookkeeping eats hours they'd rather bill to clients, and hourly accounting fees turn a simple question into a line-item charge. [Jared Hammack, CPA,](/team-expertise) leads the team behind the numbers, bringing CPA-level judgment to decisions that used to require guesswork.
+HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. [Jared Hammack, CPA,](/team-expertise) leads the team behind the numbers, bringing CPA-level judgment to decisions that used to require guesswork.
 
-No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how service businesses make money.
+No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how trades businesses make — and lose — money.
 
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing a monthly financial dashboard on a laptop" | query: "business owner reviewing dashboard laptop" -->
 ## Knowing how your business performed every month
