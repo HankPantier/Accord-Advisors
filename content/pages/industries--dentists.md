@@ -56,7 +56,7 @@ Monthly reporting turns raw numbers into dashboards built for the decisions dent
 
 Dental practice tax returns rarely stay simple. Entity structure, associate buy-ins, equipment purchases, and retirement plan contributions all shift the tax picture year to year, and preparation without planning tends to cost owners money.
 
-Jared Hammack, CPA, and the Accord Advisors team review entity structure, whether you operate as an S corp, LLC, or professional corporation, to confirm it still fits your practice's income and goals. Section 179 deductions on dental equipment, retirement plan strategy for owners and associates, and quarterly estimates get built into a year-round plan rather than a once-a-year filing.
+The Accord Advisors team reviews entity structure, whether you operate as an S corp, LLC, or professional corporation, to confirm it still fits your practice's income and goals. Section 179 deductions on dental equipment, retirement plan strategy for owners and associates, and quarterly estimates get built into a year-round plan rather than a once-a-year filing.
 
 Personal returns for practice owners and associates get the same attention, so business and personal tax positions stay aligned instead of working against each other.
 
@@ -114,7 +114,7 @@ A: Yes. Accord Advisors works with dental practices throughout Indiana, includin
 
 Your dental practice deserves financial reporting as precise as your clinical work. Whether you're opening a first location in Bloomington, running a busy practice in the Indianapolis metro, or based anywhere else across Indiana, Accord Advisors can take the accounting off your plate.
 
-Schedule a consultation to talk with Jared Hammack, CPA, about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices in Bloomington, Avon, Indianapolis, and throughout Indiana with fixed monthly fees and reporting built around how dental offices actually operate.
+Schedule a consultation to talk with our team about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices in Bloomington, Avon, Indianapolis, and throughout Indiana with fixed monthly fees and reporting built around how dental offices actually operate.
 
 [Schedule a consultation](/contact)
 
