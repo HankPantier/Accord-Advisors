@@ -70,19 +70,19 @@ Accord Advisors has advised Indiana business owners for nearly 40 years, with ro
 A national firm files paperwork. A local one knows what a slow season actually costs a trades business — and helps you plan for it.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting for service-based businesses
+## Frequently Asked Questions About Accounting for Trades and Service Businesses
 
-**Q: What does outsourced accounting cost for a service business?**
-A: Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
+**Q: What does outsourced accounting cost for a trades or service business?**
+A: Accord Advisors charges a fixed monthly fee instead of hourly billing, so HVAC companies, electrical contractors, plumbers, landscapers, and auto mechanics in Bloomington, Avon, Indianapolis, and across Indiana know their accounting cost upfront and can plan around it without surprise invoices.
 
-**Q: Do you work with service businesses outside Bloomington?**
-A: Yes. Accord Advisors serves service-based businesses across Bloomington and Indianapolis, Indiana, using a secure online platform so clients can access financials and dashboards without an in-person visit.
+**Q: Do you work with trades businesses outside Bloomington?**
+A: Yes. Accord Advisors serves trades and service businesses across Bloomington, Avon, Indianapolis, and statewide using a secure online platform, so clients anywhere in Indiana can access financials and dashboards without an in-person visit.
 
-**Q: Can you help set up a new consulting or law firm?**
-A: Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth creates problems.
+**Q: Can you help set up a new HVAC, electrical, or plumbing business?**
+A: Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new trades businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth — or a busy season — creates problems.
 
-**Q: Do you handle both business and personal taxes?**
-A: Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service business owners, so pass-through income, estimated payments, and entity elections are managed by one team instead of two disconnected preparers.
+**Q: Do you handle both business and personal taxes for contractors?**
+A: Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for trades and service business owners, so pass-through income, estimated payments, vehicle and equipment deductions, and entity elections are managed by one team instead of two disconnected preparers.
 
 <!-- block: cta-banner | variant: image-bg | image: bloomington-office-handshake.jpg | alt: "Advisor shaking hands with a client in a bright modern office" | query: "handshake business meeting office" -->
 ## Get started with a trusted accounting partner
