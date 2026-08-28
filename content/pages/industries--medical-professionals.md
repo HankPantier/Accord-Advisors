@@ -32,7 +32,7 @@ You trained to treat patients, not to reconcile accounts or chase down last quar
 <!-- block: checklist-section | variant: with-image-left | image: medical-practice-financial-challenges.jpg | alt: "Medical office manager reviewing billing statements and reports" | query: "medical billing paperwork office desk" -->
 ## Common financial challenges facing medical practices
 
-Physicians and practice managers tell us the same thing: the effort is there, but the information isn't fast enough to act on. Reimbursement timing, staffing costs, and equipment investment all move independently of each other, and by the time year-end numbers arrive, the moment to adjust has passed. We hear these issues most often from practices across Bloomington and Indianapolis:
+Physicians and practice managers tell us the same thing: the effort is there, but the information isn't fast enough to act on. Reimbursement timing, staffing costs, and equipment investment all move independently of each other, and by the time year-end numbers arrive, the moment to adjust has passed. We hear these issues most often from practices across Bloomington, Avon, Indianapolis, and throughout Indiana:
 
 - Delayed financial reporting that arrives too late to change course mid-month
 - Cash flow swings tied to [insurance reimbursement timing](/industries/medical-professionals/reimbursement-challenges)
