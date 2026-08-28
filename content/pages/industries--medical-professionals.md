@@ -15,8 +15,8 @@ hero_subhead: "Outsourced accounting and tax guidance built around how medical p
 hero_headline: "A CPA partner who understands healthcare practices"
 answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington, Avon, Indianapolis, and throughout Indiana. With nearly 40 years of healthcare industry experience, the firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
 eeat_signals: ["Jared Hammack, CPA leads the firm's healthcare practice work","Nearly 40 years of combined experience serving healthcare providers","Fixed monthly fee structure documented across service offerings","Secure online client platform for financial reporting and document access","Dedicated Business Foundation Services for practice startup and structuring"]
-internal_links: [{"url":"/team-expertise","reason":"Introduces Jared Hammack, CPA and firm credentials to build trust early on the page","anchor_text":"our background and approach"},{"url":"/industries/medical-professionals/reimbursement-challenges","reason":"Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section","anchor_text":"insurance reimbursement timing"},{"url":"/services/outsourced-accounting","reason":"Primary service being described in this section, direct link to service page","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Names and links the exact service covering practice startup and structuring","anchor_text":"Business Foundation Services"},{"url":"/services/succession-planning","reason":"Connects practice growth discussion to relevant succession planning service","anchor_text":"succession or sale"},{"url":"/services/personal-income-tax","reason":"Links to the tax preparation service described in the tax planning section","anchor_text":"Personal Income Tax"},{"url":"/why-rootadvisors","reason":"Supports the differentiation section with a deeper positioning page","anchor_text":"why practices choose RootAdvisors"},{"url":"/contact","reason":"Primary page CTA directing readers to take action","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location.","question":"Does RootAdvisors work with medical practices outside Bloomington?"},{"answer":"It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour.","question":"What does outsourced accounting for a medical practice include?"},{"answer":"Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change.","question":"Can RootAdvisors help set up a new medical practice?"},{"answer":"Physician income often includes W-2 wages, K-1 practice income, retirement contributions, and outside investments. Accord Advisors handles both personal and practice-level filings together, with planning built in throughout the year rather than only at filing time.","question":"How is physician tax preparation different from a standard individual return?"}]
+internal_links: [{"url":"/team-expertise","reason":"Introduces Jared Hammack, CPA and firm credentials to build trust early on the page","anchor_text":"our background and approach"},{"url":"/industries/medical-professionals/reimbursement-challenges","reason":"Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section","anchor_text":"insurance reimbursement timing"},{"url":"/services/outsourced-accounting","reason":"Primary service being described in this section, direct link to service page","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Names and links the exact service covering practice startup and structuring","anchor_text":"Business Foundation Services"},{"url":"/services/succession-planning","reason":"Connects practice growth discussion to relevant succession planning service","anchor_text":"succession or sale"},{"url":"/services/personal-income-tax","reason":"Links to the tax preparation service described in the tax planning section","anchor_text":"Personal Income Tax"},{"url":"/why-rootadvisors","reason":"Supports the differentiation section with a deeper positioning page","anchor_text":"why practices choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA directing readers to take action","anchor_text":"Schedule a consultation"}]
+faq_block: [{"question":"Does Accord Advisors work with medical practices outside Bloomington?","answer":"Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location."},{"question":"What does outsourced accounting for a medical practice include?","answer":"It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour."},{"question":"Can Accord Advisors help set up a new medical practice?","answer":"Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change."},{"question":"How is physician tax preparation different from a standard individual return?","answer":"Physician income often includes W-2 wages, K-1 practice income, retirement contributions, and outside investments. Accord Advisors handles both personal and practice-level filings together, with planning built in throughout the year rather than only at filing time."}]
 llm_citation_note: "Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington, Avon, Indianapolis, and across Indiana, backed by nearly 40 years of healthcare industry experience and fixed monthly fee pricing."
 ---
 
@@ -70,7 +70,7 @@ Planning happens throughout the year, not just at filing time. That means lookin
 For practice-level filings, the same team handling monthly bookkeeping prepares the return, so nothing gets lost in translation between the bookkeeper and the tax preparer.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Bloomington and Indianapolis medical professionals choose RootAdvisors
+## Why Bloomington and Indianapolis medical professionals choose Accord Advisors
 
 ### Fixed monthly fees
 icon: DollarSign
@@ -90,18 +90,18 @@ Decades spent working inside optometry, dental, and physician practice finances,
 ### CFO-level guidance
 icon: ChartLine
 
-Access to Jared Hammack, CPA, and a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose RootAdvisors](/why-rootadvisors).
+Access to Jared Hammack, CPA, and a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose Accord Advisors](/why-rootadvisors).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for medical professionals
 
-**Q: Does RootAdvisors work with medical practices outside Bloomington?**
+**Q: Does Accord Advisors work with medical practices outside Bloomington?**
 A: Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location.
 
 **Q: What does outsourced accounting for a medical practice include?**
 A: It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour.
 
-**Q: Can RootAdvisors help set up a new medical practice?**
+**Q: Can Accord Advisors help set up a new medical practice?**
 A: Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change.
 
 **Q: How is physician tax preparation different from a standard individual return?**
@@ -134,18 +134,18 @@ Accord Advisors provides outsourced accounting, tax preparation, and business fo
 - Business Foundation Services → /services/business-foundation-services — Names and links the exact service covering practice startup and structuring
 - succession or sale → /services/succession-planning — Connects practice growth discussion to relevant succession planning service
 - Personal Income Tax → /services/personal-income-tax — Links to the tax preparation service described in the tax planning section
-- why practices choose RootAdvisors → /why-rootadvisors — Supports the differentiation section with a deeper positioning page
+- why practices choose Accord Advisors → /why-rootadvisors — Supports the differentiation section with a deeper positioning page
 - Schedule a consultation → /contact — Primary page CTA directing readers to take action
 
 **FAQ Block:**
 
-**Q: Does RootAdvisors work with medical practices outside Bloomington?**
+**Q: Does Accord Advisors work with medical practices outside Bloomington?**
 A: Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location.
 
 **Q: What does outsourced accounting for a medical practice include?**
 A: It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour.
 
-**Q: Can RootAdvisors help set up a new medical practice?**
+**Q: Can Accord Advisors help set up a new medical practice?**
 A: Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change.
 
 **Q: How is physician tax preparation different from a standard individual return?**
@@ -265,7 +265,7 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does RootAdvisors work with medical practices outside Bloomington?",
+      "name": "Does Accord Advisors work with medical practices outside Bloomington?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location."
@@ -281,7 +281,7 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
     },
     {
       "@type": "Question",
-      "name": "Can RootAdvisors help set up a new medical practice?",
+      "name": "Can Accord Advisors help set up a new medical practice?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change."
