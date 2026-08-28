@@ -59,15 +59,15 @@ Accord Advisors handles [personal income tax preparation and planning](/services
 HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana get one team handling both sides of the return — instead of reconciling advice from two firms that never talk to each other.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Local expertise across Bloomington and Indianapolis
+## Indiana expertise, wherever your business operates
 
-Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Indianapolis. That history means a service business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and how a college-town client roster differs from one built around a state capital market. See [why Indiana business owners choose Accord Advisors](/why-rootadvisors).
+Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That history means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-rootadvisors).
 
 - Nearly 40 years advising Indiana business owners
-- 2 core markets served: Bloomington and Indianapolis
+- Serving Bloomington, Avon, Indianapolis, and statewide
 - 100% fixed-fee engagements, no hourly billing
 
-A national firm files paperwork. A local one knows why your client roster looks different in August than it does in January.
+A national firm files paperwork. A local one knows what a slow season actually costs a trades business — and helps you plan for it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for service-based businesses
