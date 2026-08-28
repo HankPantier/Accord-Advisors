@@ -42,7 +42,7 @@ Every professional services firm we've worked with across Bloomington, Avon, Ind
 <!-- block: content-split | variant: image-right | image: cfo-level-advisory-dashboard.jpg | alt: "Accountant showing a client financial dashboard on a laptop screen" | query: "accountant showing client financial dashboard" -->
 ## How Accord Advisors Solves These Challenges
 
-Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question — whether you're an attorney managing trust accounts or a consultant watching a slow-paying client — without a surprise charge landing on next month's invoice.
+Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question — whether you're an attorney managing trust accounts or a consultant watching a slow-paying client, without a surprise charge landing on next month's invoice.
 
 Behind that fee is a secure online platform where you can see cash balances, receivables, and payables in real time, rather than waiting for a monthly close to find out how the firm performed. Jared Hammack, CPA, and the team use that same data to deliver CFO-level insight: cash flow forecasts, profitability by client or project, and guidance on when the firm can afford to hire, invest in business development, or bring on a partner.
 
