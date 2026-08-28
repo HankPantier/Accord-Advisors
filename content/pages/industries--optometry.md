@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors has served healthcare providers, including o
 <!-- block: content-split | variant: image-right | image: optometry-intro-consult.jpg | alt: "Optometrist and practice manager reviewing financial reports together" | query: "optometrist reviewing financial documents office" -->
 ## Financial clarity built for optometry practices
 
-Optometry practices run on rhythms most general CPAs never see: frame and lens inventory that ties up cash, insurance reimbursements that arrive weeks after the exam, and staffing costs that shift with patient volume. Accord Advisors has worked inside those rhythms for nearly 40 years, serving healthcare providers across Bloomington, Avon, and Indianapolis with accounting built around how optometry practices actually operate.
+Optometry practices run on rhythms most general CPAs never see: frame and lens inventory that ties up cash, insurance reimbursements that arrive weeks after the exam, and staffing costs that shift with patient volume. Accord Advisors has worked inside those rhythms for nearly 40 years, serving eyecare providers across Bloomington, Avon, and Indianapolis with accounting built around how optometry practices actually operate.
 
 Led by Jared Hammack, CPA, our team understands the difference between a practice that looks profitable on paper and one that generates real cash flow for its owner. That distinction matters when you're deciding whether to add an associate, renegotiate a vendor contract, or plan a partner buy-in.
 
