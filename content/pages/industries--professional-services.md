@@ -61,7 +61,7 @@ Trust accounting, contingency fee revenue recognition, and compliance with India
 ### Advertising Agencies
 icon: Sparkles
 
-Retainer billing, media pass-through costs, and production budgets that need to reconcile against client contracts demand a bookkeeping process built for agencies — not a generic small-business chart of accounts. [Learn more](/industries/advertising-agencies)
+Retainer billing, media pass-through costs, and production budgets that need to reconcile against client contracts demand a bookkeeping process built for agencies, not a generic small-business chart of accounts. [Learn more](/industries/advertising-agencies)
 
 ### Financial Advisors
 icon: ChartLine
