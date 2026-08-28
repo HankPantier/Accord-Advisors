@@ -20,7 +20,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for t
 
 Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage in Indiana means your days are spent on the job, not behind a desk reconciling bank statements. Accord Advisors gives service-based businesses a better arrangement: one fixed monthly fee covering your books, your financial statements, and a CPA who actually picks up the phone.
 
-We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime — without waiting on a callback or driving across town.
+We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback or driving across town.
 
 HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. Our team brings CPA-level judgment to decisions that used to require guesswork.
 
@@ -48,7 +48,7 @@ Starting a trades business — or restructuring one that's already outgrown its 
 
 We help business owners across Bloomington, Avon, Indianapolis, and across Indiana choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and recordkeeping systems in place before problems surface at tax time. For an established shop, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing at job costs.
 
-Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That's the base everything else gets built on, monthly accounting and tax planning included.
+Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That is the base everything else gets built on, monthly accounting and tax planning included.
 
 <!-- block: content-prose -->
 ## Personal and business tax planning under one roof
