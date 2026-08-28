@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers outsourced accounting for attorneys, 
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Built for Attorneys, Agencies, Advisors & Consultants
 
-Attorneys, advertising agencies, financial advisors, and consulting companies earn revenue differently than a restaurant or a retailer does. Billable hours, project milestones, retainer agreements, and contingency arrangements drive the numbers, and that changes what your books need to track and when you need to see them.
+Attorneys, advertising agencies, financial advisors, and consulting companies earn revenue differently than a restaurant or a retailer does. Billable hours, project milestones, retainer agreements, and contingency arrangements drive the numbers, and that changes what your books need to track and what timing matters most.
 
 Accord Advisors works as an outsourced accounting department for professional services firms across Bloomington, Avon, Indianapolis, and the state of Indiana. Our team understands work-in-progress revenue, utilization rates, trust accounting rules, and the cash flow lag that comes from invoicing clients on 30, 60, or 90-day terms. You get a fixed monthly fee instead of hourly billing, so asking a question never adds another line item to your bill. That's the foundation this page builds on: industry-specific expertise applied to firms that sell expertise for a living.
 
@@ -42,7 +42,7 @@ Every professional services firm we've worked with across Bloomington, Avon, Ind
 <!-- block: content-split | variant: image-right | image: cfo-level-advisory-dashboard.jpg | alt: "Accountant showing a client financial dashboard on a laptop screen" | query: "accountant showing client financial dashboard" -->
 ## How Accord Advisors Solves These Challenges
 
-Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question — whether you're an attorney managing trust accounts or a consultant watching a slow-paying client — without a surprise charge landing on next month's invoice.
+Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question — whether you're an attorney managing trust accounts or a consultant watching a slow-paying client, without a surprise charge landing on next month's invoice.
 
 Behind that fee is a secure online platform where you can see cash balances, receivables, and payables in real time, rather than waiting for a monthly close to find out how the firm performed. Jared Hammack, CPA, and the team use that same data to deliver CFO-level insight: cash flow forecasts, profitability by client or project, and guidance on when the firm can afford to hire, invest in business development, or bring on a partner.
 
