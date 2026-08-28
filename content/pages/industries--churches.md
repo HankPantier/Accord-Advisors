@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, provides fixed-f
 <!-- block: intro-text | variant: centered -->
 ## Trusted fund accounting for churches and religious organizations
 
-Ministry leadership shouldn't have to guess whether the building fund is on track or whether restricted mission gifts are being spent the way donors intended. Accord Advisors has worked alongside churches and religious organizations in Bloomington and the surrounding Indiana communities, bringing fund accounting expertise that goes beyond basic bookkeeping. Jared Hammack, CPA, leads this work with an approach built on clarity: your board sees exactly how funds move, your treasurer isn't buried in spreadsheets, and your congregation's trust stays intact.
+Ministry leadership shouldn't have to guess whether the building fund is on track or whether restricted mission gifts are being spent the way donors intended. Accord Advisors has worked alongside churches and religious organizations in Bloomington and the surrounding Indiana communities, bringing fund accounting expertise that goes beyond basic bookkeeping. Our firm leads this work with an approach built on clarity: your board sees exactly how funds move, your treasurer isn't buried in spreadsheets, and your congregation's trust stays intact.
 
 Fund accounting exists to protect stewardship, not just satisfy an audit checklist. When a church tracks a mission trip fund, a building campaign, and general operating income the same way it tracks a single checking account, restricted dollars get muddled with unrestricted ones, and leadership loses the ability to answer a simple question: how did we do this month? That's the gap we close, with reporting built specifically for how churches operate.
 
