@@ -74,22 +74,27 @@ icon: Lightbulb
 Project-based revenue, utilization rates, and the cash flow swings that come with feast-or-famine client pipelines require accounting that keeps pace with the work itself — not a quarterly check-in after the damage is done. [Learn more](/industries/consulting-firms)
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Professional Services Firms Choose Accord Advisors
+## Why Attorneys, Agencies, Advisors & Consultants Choose Accord Advisors
 
-### Deep Industry Specialization
+### Deep Niche Specialization
 icon: Award
 
-Accord Advisors focuses on knowledge-based businesses rather than trying to serve every type of company in Bloomington and Indianapolis. That focus means less time explaining how your firm makes money and more time acting on the numbers.
+Accord Advisors focuses on attorneys, advertising agencies, financial advisors, and consulting firms — not every type of business in Indiana. That focus means less time explaining how your firm earns money and more time acting on the numbers.
 
-### Support That Scales With Growth
-icon: TrendingUp
+### Indiana-Wide Coverage
+icon: MapPin
 
-Whether your firm has three employees or thirty, the accounting relationship grows with you, from foundational bookkeeping through succession planning as partners retire or sell.
+Whether your practice is in Bloomington, Avon, Indianapolis, or anywhere else in Indiana, Accord Advisors serves you through a secure online platform that makes geography irrelevant without sacrificing the personal advisory relationship.
 
 ### Transparent, Fixed Pricing
 icon: DollarSign
 
 One monthly fee covers the engagement, so there's no surprise invoice for a phone call or an extra question. You know the cost before the year starts.
+
+### Support That Scales With Growth
+icon: TrendingUp
+
+Whether your firm has three employees or thirty, the accounting relationship grows with you, from foundational bookkeeping and entity setup through succession planning as partners retire or transition ownership.
 
 ### A Proactive Advisory Relationship
 icon: Target
