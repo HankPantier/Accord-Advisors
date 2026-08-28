@@ -90,9 +90,9 @@ A: No. RootAdvisors uses a fixed monthly fee for outsourced accounting and payro
 <!-- block: cta-banner | variant: image-bg | image: church-community-gathering.jpg | alt: "Church community gathering in a bright fellowship hall" | query: "church community gathering fellowship hall" -->
 ## Get started with dependable church accounting and payroll
 
-Running a church shouldn't mean losing sleep over payroll tax deadlines or wondering if the housing allowance was calculated right. RootAdvisors handles the accounting and payroll work churches in Bloomington and Indianapolis need to stay compliant, so the board gets clear numbers and staff gets paid correctly, every time.
+Running a church shouldn't mean losing sleep over payroll tax deadlines or wondering if the housing allowance was calculated right. RootAdvisors handles the accounting and payroll work churches across Bloomington, Avon, Indianapolis, and Indiana need to stay compliant, so the board gets clear numbers and staff gets paid correctly, every time.
 
-[Schedule a consultation](/contact) to talk through what the church needs, whether that's payroll for a growing staff, monthly financial reporting for the board, or a full [outsourced accounting](/services/outsourced-accounting) setup. There's no obligation, just a conversation with a CPA who already understands church finances.
+[Schedule a consultation](/contact) to talk through what the church needs, whether that's payroll for a growing staff, monthly financial reporting for the board, or a full [outsourced accounting](/services/outsourced-accounting) setup. There's no obligation, just a conversation with a CPA who already understands church finances — wherever your congregation calls home in Indiana.
 
 ---
 ## SEO & AIO Metadata
