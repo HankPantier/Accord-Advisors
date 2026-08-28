@@ -20,7 +20,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for t
 
 Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage in Indiana means your days are spent on the job, not behind a desk reconciling bank statements. Accord Advisors gives service-based businesses a better arrangement: one fixed monthly fee covering your books, your financial statements, and a CPA who actually picks up the phone.
 
-We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime — without waiting on a callback or driving across town.
+We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback or driving across town.
 
 HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. Our team brings CPA-level judgment to decisions that used to require guesswork.
 
