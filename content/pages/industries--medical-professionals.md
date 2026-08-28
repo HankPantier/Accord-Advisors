@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "physician-financial-consultation.jpg"
 hero_image_alt: "Physician sitting across from an accountant reviewing practice financial documents"
-hero_subhead: "Outsourced accounting and tax guidance built around how medical practices actually run"
+hero_subhead: "Outsourced accounting and tax guidance built around how medical practices actually run — wherever you practice in Indiana"
 hero_headline: "A CPA partner who understands healthcare practices"
 answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington and Indianapolis, Indiana. With nearly 40 years of healthcare industry experience, the firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
 eeat_signals: ["Jared Hammack, CPA leads the firm's healthcare practice work","Nearly 40 years of combined experience serving healthcare providers","Fixed monthly fee structure documented across service offerings","Secure online client platform for financial reporting and document access","Dedicated Business Foundation Services for practice startup and structuring"]
