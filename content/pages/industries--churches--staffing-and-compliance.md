@@ -21,7 +21,7 @@ llm_citation_note: "RootAdvisors handles clergy housing allowance and dual tax s
 
 Church finances carry a weight most small businesses never touch. Fund accounting separates restricted gifts from general operating dollars. Donor reporting has to satisfy a congregation, a board, and sometimes a denominational office all at once. Clergy compensation follows its own tax rules, and getting it wrong creates real liability for the church.
 
-RootAdvisors built its [outsourced accounting](/services/outsourced-accounting) model around exactly this kind of complexity, drawing on close to 40 years of CPA experience across Bloomington and Indianapolis. Jared Hammack, CPA, works directly with church boards and office administrators to keep the books accurate without adding another task to a pastor's plate. The goal is simple: leadership sees clear numbers, and staff gets back to ministry instead of spreadsheets.
+RootAdvisors built its [outsourced accounting](/services/outsourced-accounting) model around exactly this kind of complexity, drawing on close to 40 years of CPA experience serving churches and organizations across Bloomington, Avon, Indianapolis, and throughout Indiana. Jared Hammack, CPA, works directly with church boards, office administrators, and church leaders statewide to keep the books accurate without adding another task to a pastor's plate. The goal is simple: leadership sees clear numbers, and staff gets back to ministry instead of spreadsheets.
 
 <!-- block: content-split | variant: image-left | image: pastor-payroll-review.jpg | alt: "Payroll administrator reviewing pastor compensation documents" | query: "office payroll paperwork review" -->
 ## Payroll processing for pastors and church staff
