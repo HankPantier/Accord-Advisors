@@ -3,7 +3,7 @@ title: "Accounting for service-based businesses | Accord Advisors"
 url: "/industries/service-businesses"
 meta_title: "Accounting for Service Businesses in Bloomington, IN"
 meta_description: "Fixed-fee outsourced accounting for service businesses in Bloomington and Indianapolis. Monthly dashboards, tax planning, and CPA guidance, no hourly billing."
-target_keyword: "accounting for service based businesses bloomington, in"
+target_keyword: "accounting for service-based businesses bloomington, in"
 secondary_keywords: ["outsourced accounting Indianapolis","fixed fee CPA Bloomington","service business accounting Indiana","business foundation services Indiana"]
 canonical_url: "https://rootadvisors.com/industries/service-businesses"
 schema_markup: "Service"
