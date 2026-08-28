@@ -45,15 +45,6 @@ Hourly billing turns every phone call into a math problem. Wondering whether a q
 - Direct access to your accounting team without watching the clock
 - A single fee covering ongoing outsourced accounting support, not line-item charges for every ask
 
-<!-- block: stats-bar | variant: 3-up -->
-## Years of industry-specific expertise
-
-- 40: Years serving healthcare providers
-- 5: Niche industries served
-- 100%: Fixed-fee engagements
-
-Nearly 40 years of combined experience serving healthcare providers gives Accord Advisors a working knowledge of insurance reimbursement cycles, equipment financing, and staffing patterns that generalist firms don't carry. Accord Advisors has built its practice around five niches: optometry, dental, medical professionals, service businesses, and churches. That depth means fewer surprises at tax time and faster answers when a reimbursement policy changes or a new associate joins the practice.
-
 <!-- block: service-cards | variant: 3-col -->
 ## Services built for every stage of your business
 
