@@ -2,7 +2,7 @@
 title: "Staffing and compliance support for churches | Accord Advisors"
 url: "/industries/churches/staffing-and-compliance"
 meta_title: "Church Accounting and Payroll in Bloomington, IN"
-meta_description: "RootAdvisors provides church accounting and payroll services in Bloomington, IN, handling clergy pay, compliance, and reporting so your board can focus on ministry."
+meta_description: "RootAdvisors provides church accounting and payroll services for churches in Bloomington, Avon, Indianapolis, and across Indiana, handling clergy pay, compliance, and reporting so your board can focus on ministry."
 target_keyword: "church accounting and payroll Bloomington IN"
 secondary_keywords: ["church staffing compliance Bloomington","nonprofit payroll services Bloomington IN","church HR support Indiana","religious organization accounting Bloomington","church tax compliance Indiana","church payroll processing Bloomington","church bookkeeping services Bloomington IN"]
 canonical_url: "https://rootadvisors.com/industries/churches/staffing-and-compliance"
