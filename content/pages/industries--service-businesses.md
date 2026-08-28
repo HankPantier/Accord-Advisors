@@ -84,12 +84,12 @@ A: Business Foundation Services cover entity selection, chart of accounts setup,
 **Q: Do you handle both business and personal taxes for contractors?**
 A: Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for trades and service business owners, so pass-through income, estimated payments, vehicle and equipment deductions, and entity elections are managed by one team instead of two disconnected preparers.
 
-<!-- block: cta-banner | variant: image-bg | image: bloomington-office-handshake.jpg | alt: "Advisor shaking hands with a client in a bright modern office" | query: "handshake business meeting office" -->
+<!-- block: cta-banner | variant: image-bg | image: bloomington-office-handshake.jpg | alt: "Advisor shaking hands with a trades business owner in a bright modern office" | query: "handshake business meeting office" -->
 ## Get started with a trusted accounting partner
 
-Moving from hourly billing or DIY bookkeeping to a fixed-fee outsourced accounting department is a conversation, not a commitment. Walk through where your service business stands today, what monthly financials and dashboards would look like, and whether Business Foundation Services make sense for where you are right now, startup, growth, or somewhere in between.
+Moving from hourly billing or DIY bookkeeping to a fixed-fee outsourced accounting department is a conversation, not a commitment. Walk through where your trades business stands today, what monthly financials and dashboards would look like, and whether Business Foundation Services make sense for where you are right now — startup, growing your crew, or planning for what comes next.
 
-Jared Hammack, CPA, and the team serve Bloomington and Indianapolis business owners who want a straight answer about what outsourced accounting costs and what it replaces. [Schedule a consultation](/contact) and find out what a predictable monthly fee actually includes.
+Jared Hammack, CPA, and the team serve HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service business owners across Bloomington, Avon, Indianapolis, and across Indiana who want a straight answer about what outsourced accounting costs and what it replaces. [Schedule a consultation](/contact) and find out what a predictable monthly fee actually includes.
 
 ---
 ## SEO & AIO Metadata
