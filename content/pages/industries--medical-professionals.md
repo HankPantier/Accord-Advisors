@@ -70,7 +70,7 @@ Planning happens throughout the year, not just at filing time. That means lookin
 For practice-level filings, the same team handling monthly bookkeeping prepares the return, so nothing gets lost in translation between the bookkeeper and the tax preparer.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Bloomington and Indianapolis medical professionals choose RootAdvisors
+## Why Bloomington and Indianapolis medical professionals choose Accord Advisors
 
 ### Fixed monthly fees
 icon: DollarSign
