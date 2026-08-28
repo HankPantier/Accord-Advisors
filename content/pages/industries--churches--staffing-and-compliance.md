@@ -53,9 +53,9 @@ Boards and finance committees want one thing above all: a clear answer to how th
 RootAdvisors delivers financial reports and dashboards through a secure online platform, so the treasurer, board, and pastor can see current numbers without waiting on a spreadsheet emailed after the fact. Reports break down income by fund, track restricted versus unrestricted gifts, and flag anything that needs attention before it grows into a bigger issue. Everything is available on demand, any month, not just at year-end review. That kind of visibility lets leadership make decisions based on where the church actually stands financially, not where it stood three months ago.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why churches in Bloomington and Indianapolis choose RootAdvisors
+## Why churches across Indiana choose RootAdvisors
 
-National accounting firms and payroll-only vendors both miss something churches need: a local CPA who understands ministry finances and charges a fee that's easy to plan around.
+National accounting firms and payroll-only vendors both miss something churches need: a CPA who understands ministry finances, serves Indiana communities directly, and charges a fee that's easy to plan around.
 
 ### Fixed monthly fees
 icon: DollarSign
