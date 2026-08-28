@@ -24,6 +24,7 @@ We work as your [outsourced accounting department](/services/outsourced-accounti
 
 HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. [Jared Hammack, CPA,](/team-expertise) leads the team behind the numbers, bringing CPA-level judgment to decisions that used to require guesswork.
 
+
 No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how trades businesses make — and lose — money.
 
 <!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Trades business owner reviewing a monthly financial dashboard on a laptop" | query: "contractor business owner reviewing dashboard laptop" -->
