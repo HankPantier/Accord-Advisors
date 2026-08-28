@@ -1,5 +1,5 @@
 ---
-title: "Accounting for service based businesses | Accord Advisors"
+title: "Accounting for service-based businesses | Accord Advisors"
 url: "/industries/service-businesses"
 meta_title: "Accounting for Service Businesses in Bloomington, IN"
 meta_description: "Fixed-fee outsourced accounting for service businesses in Bloomington and Indianapolis. Monthly dashboards, tax planning, and CPA guidance, no hourly billing."
