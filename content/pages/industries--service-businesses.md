@@ -1,5 +1,5 @@
 ---
-title: "Accounting for Service-Based Businesses in Indiana | Accord Advisors"
+title: "Accounting for Service-based Businesses in Indiana | Accord Advisors"
 url: "/industries/service-businesses"
 meta_title: "Accounting for HVAC, Plumbers & Service Businesses in Indiana"
 meta_description: "Fixed-fee outsourced accounting for HVAC installers, electricians, plumbers, landscapers, and auto mechanics in Bloomington, Avon, Indianapolis, and across Indiana. Monthly dashboards, tax planning, and CPA guidance — no hourly billing."
