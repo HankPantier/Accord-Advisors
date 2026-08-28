@@ -104,7 +104,7 @@ Instead of closing last month's books and moving on, Accord Advisors flags cash 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation meeting" | query: "advisor client handshake office meeting" -->
 ## Get Started with a Free Consultation
 
-If your firm bills by the hour or the project and you're tired of finding out how the month went after it's already over, a conversation costs nothing. Bring your questions about cash flow, payroll, or tax planning, and Jared Hammack, CPA, will walk through how outsourced accounting works for firms like yours in Bloomington and Indianapolis.
+If you're an attorney, agency owner, financial advisor, or consultant anywhere in Bloomington, Avon, Indianapolis, or across Indiana — and you're tired of finding out how the month went after it's already over — a conversation costs nothing. Bring your questions about trust accounting, cash flow, payroll, or tax planning, and Jared Hammack, CPA, will walk through how outsourced accounting works for firms like yours.
 
 Schedule a consultation and see the platform, the pricing, and the plan before you commit to anything.
 
