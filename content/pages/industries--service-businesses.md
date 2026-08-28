@@ -70,7 +70,7 @@ Accord Advisors has advised Indiana business owners for nearly 40 years, with ro
 A national firm files paperwork. A local one knows why your client roster looks different in August than it does in January.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting for service based businesses
+## Frequently Asked Questions About Accounting for service-based businesses
 
 **Q: What does outsourced accounting cost for a service business?**
 A: Accord Advisors charges a fixed monthly fee instead of hourly billing, so consulting firms, law practices, and other service businesses in Bloomington and Indianapolis know their accounting cost in advance and can plan around it without surprise invoices.
