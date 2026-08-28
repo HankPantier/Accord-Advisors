@@ -40,14 +40,14 @@ That means a hiring decision, a pricing adjustment, or a fleet purchase gets mad
 - Job profitability, cash flow, and receivables visibility
 - Secure online access anytime, from anywhere in Indiana
 
-<!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "New business owner discussing entity setup with an accountant at a desk" | query: "small business owner startup planning meeting" -->
+<!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "Trades business owner discussing entity setup and startup finances with an accountant" | query: "contractor small business owner startup planning meeting" -->
 ## Business foundation services to start and grow with confidence
 
-Starting a service business, or restructuring one that's already outgrown its original setup, requires decisions that are hard to undo later. [Business Foundation Services](/services/business-foundation-services) set up the entity structure, chart of accounts, and financial systems correctly the first time, whether you're launching a solo consulting practice or bringing on partners at a growing firm.
+Starting a trades business — or restructuring one that's already outgrown its original setup — requires decisions that are hard to undo later. [Business Foundation Services](/services/business-foundation-services) establish the entity structure, chart of accounts, and financial systems correctly the first time, whether you're launching a one-truck plumbing operation or bringing on additional crews at a growing HVAC or electrical company.
 
-We help Bloomington and Indianapolis business owners choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and recordkeeping systems in place before problems surface at tax time. For an established practice, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing.
+We help business owners across Bloomington, Avon, Indianapolis, and across Indiana choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and recordkeeping systems in place before problems surface at tax time. For an established shop, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing at job costs.
 
-Getting the foundation right early saves cost later. A service business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day. That's the base everything else, monthly accounting and tax planning included, gets built on.
+Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day — whether that day is the first day or year fifteen. That's the base everything else, monthly accounting and tax planning included, gets built on.
 
 <!-- block: content-prose -->
 ## Personal and business tax planning under one roof
