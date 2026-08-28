@@ -89,7 +89,7 @@ icon: HeartPulse
 
 Nearly 40 years serving healthcare providers, including dental, optometry, and medical practices, means the team already speaks the language of production, collections, and payer reimbursements.
 
-That combination, fixed pricing, secure access, and industry-specific expertise, is why dental practices across Bloomington and Indianapolis choose Accord Advisors over generalist firms and national chains.
+That combination, fixed pricing, secure access, and industry-specific expertise, is why dental practices across Bloomington, Avon, Indianapolis, and throughout Indiana choose Accord Advisors over generalist firms and national chains.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for dental practices
