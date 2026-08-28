@@ -90,7 +90,7 @@ Decades spent working inside optometry, dental, and physician practice finances,
 ### CFO-level guidance
 icon: ChartLine
 
-Access to Jared Hammack, CPA, and a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose Accord Advisors](/why-rootadvisors).
+Access to a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose Accord Advisors](/why-rootadvisors).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for medical professionals
