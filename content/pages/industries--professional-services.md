@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers outsourced accounting for attorneys, 
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Built for Attorneys, Agencies, Advisors & Consultants
 
-Attorneys, advertising agencies, financial advisors, and consulting companies earn revenue differently than a restaurant or a retailer does. Billable hours, project milestones, retainer agreements, and contingency arrangements drive the numbers, and that changes what your books need to track and when you need to see them.
+Attorneys, advertising agencies, financial advisors, and consulting companies earn revenue differently than a restaurant or a retailer does. Billable hours, project milestones, retainer agreements, and contingency arrangements drive the numbers, and that changes what your books need to track and what timing matters most.
 
 Accord Advisors works as an outsourced accounting department for professional services firms across Bloomington, Avon, Indianapolis, and the state of Indiana. Our team understands work-in-progress revenue, utilization rates, trust accounting rules, and the cash flow lag that comes from invoicing clients on 30, 60, or 90-day terms. You get a fixed monthly fee instead of hourly billing, so asking a question never adds another line item to your bill. That's the foundation this page builds on: industry-specific expertise applied to firms that sell expertise for a living.
 
