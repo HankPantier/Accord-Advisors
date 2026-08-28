@@ -48,7 +48,7 @@ Starting a trades business — or restructuring one that's already outgrown its 
 
 We help business owners across Bloomington, Avon, Indianapolis, and across Indiana choose the right entity type, establish bookkeeping processes that scale as headcount grows, and put payroll and recordkeeping systems in place before problems surface at tax time. For an established shop, that might mean rebuilding a chart of accounts that no longer reflects how the business actually operates, or documenting processes so a new office manager isn't guessing at job costs.
 
-Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That's the base everything else gets built on, monthly accounting and tax planning included.
+Getting the foundation right early saves real money later. A trades business with clean books and a defensible entity structure is easier to finance, easier to sell, and easier to run day to day, whether that day is the first day or year fifteen. That is the base everything else gets built on, monthly accounting and tax planning included.
 
 <!-- block: content-prose -->
 ## Personal and business tax planning under one roof
