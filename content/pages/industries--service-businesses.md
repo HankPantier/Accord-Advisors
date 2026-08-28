@@ -26,19 +26,19 @@ HVAC installers, electricians, plumbers, landscapers, and auto mechanics across 
 
 No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how trades businesses make — and lose — money.
 
-<!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Business owner reviewing a monthly financial dashboard on a laptop" | query: "business owner reviewing dashboard laptop" -->
+<!-- block: checklist-section | variant: with-image | image: financial-dashboard-review.jpg | alt: "Trades business owner reviewing a monthly financial dashboard on a laptop" | query: "contractor business owner reviewing dashboard laptop" -->
 ## Knowing how your business performed every month
 
-Most service business owners don't need more numbers. They need to know what the numbers mean. Did last month's project pipeline actually turn a profit? Is payroll outpacing revenue growth? Should you take on that new retainer client or pass?
+Most trades business owners don't need more numbers. They need to know what the numbers mean. Did last month's jobs actually turn a profit after labor and materials? Is your busy season covering the slow one? Are you pricing jobs high enough, or leaving money on the table?
 
-Accord Advisors builds monthly financial and operational dashboards that answer those questions in plain language, not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, receivables, project profitability, and the non-financial metrics that matter to your business, delivered on a predictable schedule through a secure online platform.
+Accord Advisors builds monthly financial and operational dashboards that answer those questions in plain language — not spreadsheets that require an accounting degree to interpret. You get a clear read on cash position, job profitability, receivables, crew costs, and the non-financial metrics that matter to your shop, delivered on a predictable schedule through a secure online platform.
 
-That means a staffing decision, a pricing change, or a growth call gets made based on where your business stands this month, not on a guess or a stale report from last quarter.
+That means a hiring decision, a pricing adjustment, or a fleet purchase gets made based on where your business stands this month, not on a gut feeling or a stale report from last quarter.
 
 - Monthly financial statements delivered on a fixed schedule
-- Dashboards that translate raw numbers into decisions
-- Cash flow and receivables visibility
-- Secure online access anytime, from anywhere
+- Dashboards that translate raw numbers into real decisions
+- Job profitability, cash flow, and receivables visibility
+- Secure online access anytime, from anywhere in Indiana
 
 <!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "New business owner discussing entity setup with an accountant at a desk" | query: "small business owner startup planning meeting" -->
 ## Business foundation services to start and grow with confidence
