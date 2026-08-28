@@ -18,7 +18,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for t
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
 ## Outsourced accounting built for service-based businesses
 
-Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage in Indiana means your days are spent on the job — not behind a desk reconciling bank statements. Accord Advisors gives service-based businesses a better arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
+Running an HVAC company, electrical contracting business, plumbing shop, landscaping crew, or auto repair garage in Indiana means your days are spent on the job, not behind a desk reconciling bank statements. Accord Advisors gives service-based businesses a better arrangement: one fixed monthly fee that covers your books, your financial statements, and a CPA who actually picks up the phone.
 
 We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime — without waiting on a callback or driving across town.
 
