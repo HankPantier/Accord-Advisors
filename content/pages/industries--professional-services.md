@@ -71,7 +71,7 @@ Fee-based and commission revenue streams, compliance recordkeeping, and successi
 ### Consulting Firms & Companies
 icon: Lightbulb
 
-Project-based revenue, utilization rates, and the cash flow swings that come with feast-or-famine client pipelines require accounting that keeps pace with the work itself — not a quarterly check-in after the damage is done. [Learn more](/industries/consulting-firms)
+Project-based revenue, utilization rates, and the cash flow swings that come with feast-or-famine client pipelines require accounting that keeps pace with the work itself, not a quarterly check-in after the damage is done. [Learn more](/industries/consulting-firms)
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Attorneys, Agencies, Advisors & Consultants Choose Accord Advisors
