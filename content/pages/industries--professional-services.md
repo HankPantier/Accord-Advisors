@@ -30,9 +30,9 @@ Attorneys, advertising agencies, financial advisors, and consulting companies ea
 Accord Advisors works as an outsourced accounting department for professional services firms across Bloomington, Avon, Indianapolis, and the state of Indiana. Jared Hammack, CPA, and the team understand work-in-progress revenue, utilization rates, trust accounting rules, and the cash flow lag that comes from invoicing clients on 30, 60, or 90-day terms. You get a fixed monthly fee instead of hourly billing, so asking a question never adds another line item to your bill. That's the foundation this page builds on: industry-specific expertise applied to firms that sell expertise for a living.
 
 <!-- block: checklist-section | variant: with-image | image: professional-services-challenges.jpg | alt: "Business owner reviewing invoices and financial paperwork at a desk" | query: "business owner reviewing invoices paperwork" -->
-## Common Financial Challenges Professional Services Firms Face
+## Common Financial Challenges Attorneys, Agencies, Advisors & Consultants Face
 
-Every professional services firm we've worked with in Bloomington and Indianapolis runs into a similar set of problems, whether the business bills by the hour, the project, or the retainer.
+Every professional services firm we've worked with across Bloomington, Avon, Indianapolis, and Indiana runs into a similar set of problems, whether the business bills by the hour, the project, or the retainer.
 
 - **Inconsistent cash flow.** Client invoices go out net-30 or net-60, but rent, salaries, and software subscriptions don't wait for payment. Without a clear view of receivables, firms end up guessing whether next month's payroll is covered.
 - **Complex payroll and contractor payments.** Many firms mix W-2 employees with 1099 subcontractors on the same projects, which complicates payroll tax filings, 1099 issuance, and worker classification decisions.
