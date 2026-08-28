@@ -51,27 +51,27 @@ The goal isn't just accurate books. It's giving attorneys, agency owners, financ
 <!-- block: industry-cards | variant: 3-col -->
 ## Specialized Solutions for Your Industry
 
-Professional services covers a lot of ground, and each niche has its own quirks. Accord Advisors builds dedicated expertise for four verticals within the professional services world.
+Each of these four professional services niches has its own billing model, compliance obligations, and financial blind spots. Accord Advisors builds dedicated expertise for every one of them — serving firms across Bloomington, Avon, Indianapolis, and the rest of Indiana.
 
-### Consulting Firms
-icon: Lightbulb
+### Attorneys & Law Firms
+icon: Gavel
 
-Project-based revenue, utilization rates, and the swings that come from feast-or-famine client pipelines require accounting that keeps pace with the work itself. [Learn more](/industries/consulting-firms)
+Trust accounting, contingency fee revenue recognition, and compliance with Indiana State Bar financial rules call for a firm that already knows the landscape. Whether you practice solo or manage a multi-attorney office, we handle the books so you can focus on clients. [Learn more](/industries/law-firms)
 
 ### Advertising Agencies
 icon: Sparkles
 
-Retainer billing, media pass-through costs, and production budgets that need to reconcile against client contracts demand a bookkeeping process built for agencies. [Learn more](/industries/advertising-agencies)
-
-### Law Firms
-icon: Gavel
-
-Trust accounting, contingency fee revenue recognition, and compliance with state bar financial rules call for a firm that already knows the rules. [Learn more](/industries/law-firms)
+Retainer billing, media pass-through costs, and production budgets that need to reconcile against client contracts demand a bookkeeping process built for agencies — not a generic small-business chart of accounts. [Learn more](/industries/advertising-agencies)
 
 ### Financial Advisors
 icon: ChartLine
 
-Fee-based and commission revenue streams, compliance recordkeeping, and succession planning for advisory books of business are handled with industry-specific knowledge. [Learn more](/industries/financial-advisors)
+Fee-based and commission revenue streams, compliance recordkeeping, and succession planning for advisory books of business require industry-specific knowledge that a generalist CPA firm rarely has. [Learn more](/industries/financial-advisors)
+
+### Consulting Firms & Companies
+icon: Lightbulb
+
+Project-based revenue, utilization rates, and the cash flow swings that come with feast-or-famine client pipelines require accounting that keeps pace with the work itself — not a quarterly check-in after the damage is done. [Learn more](/industries/consulting-firms)
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Professional Services Firms Choose Accord Advisors
