@@ -70,7 +70,7 @@ RootAdvisors works with churches, optometry practices, and service businesses ac
 ### Decades of CPA experience
 icon: Award
 
-Close to 40 years of hands-on accounting work backs every recommendation, led by Jared Hammack, CPA, built on Indiana clients rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
+Close to 40 years of hands-on accounting work backs every recommendation, led by Jared Hammack, CPA, built on Indiana churches and businesses rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Staffing and compliance support for churches
