@@ -107,11 +107,11 @@ A: Yes. Business Foundation Services cover entity selection, bookkeeping setup, 
 A: Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance.
 
 <!-- block: cta-banner | variant: image-bg | image: dental-practice-consultation-handshake.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "dentist accountant handshake consultation" -->
-## Get started with a dental accounting partner in Bloomington
+## Get started with a dental accounting partner in Indiana
 
-Your dental practice deserves financial reporting as precise as your clinical work. Whether you're opening a first location in Bloomington, adding an associate, or just tired of finding out how the month went after it's already over, Accord Advisors can take the accounting off your plate.
+Your dental practice deserves financial reporting as precise as your clinical work. Whether you're opening a first location in Bloomington, running a busy practice in the Indianapolis metro, or based anywhere else across Indiana, Accord Advisors can take the accounting off your plate.
 
-Schedule a consultation to talk with Jared Hammack, CPA, about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices throughout Bloomington and Indianapolis with fixed monthly fees and reporting built around how dental offices actually operate.
+Schedule a consultation to talk with Jared Hammack, CPA, about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices in Bloomington, Avon, Indianapolis, and throughout Indiana with fixed monthly fees and reporting built around how dental offices actually operate.
 
 [Schedule a consultation](/contact)
 
