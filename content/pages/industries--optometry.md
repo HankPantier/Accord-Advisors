@@ -3,7 +3,7 @@ title: "Accounting for optometry practices | Accord Advisors"
 url: "/industries/optometry"
 meta_title: "Accounting for Optometry Practices in Bloomington, Indianapolis & Across Indiana"
 meta_description: "Fixed-fee outsourced accounting for optometry practices in Bloomington, Indianapolis, and across Indiana, from a CPA firm with nearly 40 years of healthcare industry experience."
-target_keyword: "accounting for optometry practices bloomington, in"
+target_keyword: "accounting for optometry practices indiana"
 secondary_keywords: ["optometry CPA Indianapolis","outsourced accounting optometry practice","optometry practice management accounting","Bloomington optometry accountant"]
 canonical_url: "https://rootadvisors.com/industries/optometry"
 schema_markup: "Service"
