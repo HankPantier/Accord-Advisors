@@ -68,7 +68,7 @@ Accord Advisors has advised Indiana business owners for nearly 40 years, with ro
 - Serving Bloomington, Avon, Indianapolis, and statewide
 - 100% fixed-fee engagements, no hourly billing
 
-A national firm files paperwork. A local one knows what a slow season actually costs a trades business — and helps you plan for it.
+A national firm files paperwork. A local one knows what a slow season actually costs a trades business and helps you plan for it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for Trades and Service Businesses
