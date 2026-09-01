@@ -137,7 +137,7 @@ Becoming a client starts with a no-pressure discovery call with Jared Hammack, C
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credentialed advisor personally involved in onboarding
-- Nearly 40 years serving healthcare providers, including optometry and medical practices
+- Deep industry-specific expertise serving healthcare providers, including optometry and medical practices
 - Fixed monthly fee structure disclosed before engagement begins
 - Secure online client portal for ongoing financial visibility
 
