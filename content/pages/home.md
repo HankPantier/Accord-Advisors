@@ -46,7 +46,7 @@ Hourly billing turns every phone call into a math problem. Wondering whether a q
 - A single fee covering ongoing outsourced accounting support, not line-item charges for every ask
 
 <!-- block: service-cards | variant: 3-col -->
-## Services built for every stage of your business
+## Services built for businesses and individuals
 
 Whether you're launching a new practice or preparing to hand one off to a successor, three core services carry you through each stage.
 
