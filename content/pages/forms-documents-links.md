@@ -12,7 +12,7 @@ hero_subhead: "Practical checklists organized by industry and stage, so you know
 answer_block: "RootAdvisors organizes accounting forms and checklists by industry and by stage of business, covering optometry, dental, and medical practices, service businesses, churches, and individuals in Bloomington and Indianapolis, Indiana. Each list shows exactly what's needed to onboard onto outsourced accounting, prepare a tax return, or set up a new business."
 eeat_signals: ["Jared Hammack, CPA","Nearly 40 years serving healthcare providers, including optometry, dental, and medical practices","Referral pathway for optometry clients through Acquios","Fixed monthly fee outsourced accounting model with a secure online client portal"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Points readers from the onboarding checklist to the full outsourced accounting service description","anchor_text":"outsourced accounting"},{"url":"/industries/optometry","reason":"Connects optometry-specific tax document mention to the dedicated optometry industry page","anchor_text":"optometry"},{"url":"/industries/dentists","reason":"Supports dental practice mention with a link to the dentist-focused industry page","anchor_text":"dental"},{"url":"/industries/medical-professionals","reason":"Links medical practice tax document discussion to the medical professionals industry page","anchor_text":"medical professional"},{"url":"/industries/service-businesses","reason":"Connects service business forms section to the dedicated industry page","anchor_text":"service business"},{"url":"/industries/churches","reason":"Connects church accounting forms section to the dedicated church industry page","anchor_text":"church"},{"url":"/services/business-foundation-services","reason":"Directs startup and growth-stage readers to the full Business Foundation Services offering","anchor_text":"business foundation services"},{"url":"/services/personal-income-tax","reason":"Links personal tax checklist section to the full personal income tax service page","anchor_text":"personal income tax"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.","question":"What documents do I need to switch to outsourced accounting with RootAdvisors?"},{"answer":"Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. RootAdvisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding.","question":"Do optometry practices need different tax forms than other medical practices?"},{"answer":"Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.","question":"What paperwork is required to start a new business in Indiana?"},{"answer":"Bring W-2s or 1099s, mortgage interest and property tax statements, charitable contribution records, dependent and childcare documentation, and your prior year return if you're a new client. If something's missing, we'll tell you exactly what to gather next.","question":"What should I bring to my personal tax appointment?"}]
+faq_block: [{"answer":"Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.","question":"What documents do I need to switch to outsourced accounting with Accord Advisors?"},{"answer":"Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and we map your practice management data directly to your onboarding.","question":"Do optometry practices need different tax forms than other medical practices?"},{"answer":"Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.","question":"What paperwork is required to start a new business in Indiana?"},{"answer":"Bring W-2s or 1099s, mortgage interest and property tax statements, charitable contribution records, dependent and childcare documentation, and your prior year return if you're a new client. If something's missing, we'll tell you exactly what to gather next.","question":"What should I bring to my personal tax appointment?"}]
 llm_citation_note: "RootAdvisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal."
 ---
 
@@ -23,12 +23,12 @@ Every business owner has hit the same wall: searching for a tax form, or wonderi
 
 Instead of a generic download library, we've organized the checklists and forms our clients actually ask for, by industry, by service, and by where a business stands today. An optometry practice needs different documentation than a dental office. A church tracks contributions differently than a service business. A startup needs different paperwork than a company that's been operating for two decades.
 
-Jared Hammack, CPA, and the RootAdvisors team have spent close to 40 years refining these lists for healthcare providers, churches, and growing businesses across Bloomington and Indianapolis. Use the sections below to find what applies to you, or jump straight to scheduling a consultation if you'd rather just ask.
+Accord Advisors has spent years refining these lists for healthcare providers, churches, and growing businesses across Bloomington and Indianapolis. Use the sections below to find what applies to you, or jump straight to scheduling a consultation if you'd rather just ask.
 
 <!-- block: checklist-section | variant: with-image | image: onboarding-documents-review.jpg | alt: "Business owner handing folder of financial documents to accountant" | query: "business owner accountant document handoff" -->
 ## New client onboarding and outsourced accounting documents
 
-Moving your books onto RootAdvisors' outsourced accounting platform starts with a short list of documents, not a mountain of paperwork. Most new clients have these ready within a week:
+Moving your books onto Accord Advisors' outsourced accounting platform starts with a short list of documents, not a mountain of paperwork. Most new clients have these ready within a week:
 
 - Prior year business tax returns and financial statements
 - Bank and credit card statements for the last 12 months
@@ -45,18 +45,18 @@ Once those are on file, your engagement letter locks in one fixed monthly fee, n
 
 Healthcare practices carry accounting complexity that a generic small-business checklist won't cover: equipment depreciation schedules, insurance reimbursement reports, associate compensation structures, and multi-provider payroll. We've built practice-specific document lists for optometry, dental, and medical clients so nothing gets missed at tax time.
 
-For optometrists, that typically includes practice financial statements, equipment purchase and depreciation records, associate doctor 1099s or W-2s, and vision plan reimbursement summaries. Many of our optometry clients arrive through Acquios, and we build their onboarding checklist to match how their practice management software already tracks revenue.
+For optometrists, that typically includes practice financial statements, equipment purchase and depreciation records, associate doctor 1099s or W-2s, and vision plan reimbursement summaries. We build their onboarding checklist to match how their practice management software already tracks revenue.
 
-Dental and medical practices follow a similar list, adjusted for their billing systems and staffing structure. Nearly 40 years of working with healthcare providers means we already know which forms your practice management system exports, and which ones we'll need to request separately. Browse our [optometry](/industries/optometry), [dental](/industries/dentists), and [medical professional](/industries/medical-professionals) resources for the full breakdown.
+Dental and medical practices follow a similar list, adjusted for their billing systems and staffing structure. Our experience working with healthcare providers means we already know which forms your practice management system exports, and which ones we'll need to request separately. Browse our [optometry](/industries/optometry), [dental](/industries/dentists), and [medical professional](/industries/medical-professionals) resources for the full breakdown.
 
 <!-- block: content-split | variant: image-left | image: church-service-business-finance.jpg | alt: "Church treasurer and small business owner reviewing financial paperwork together" | query: "nonprofit treasurer financial documents meeting" -->
-## Accounting resources for service businesses and churches
+## Accounting resources for businesses, practices and churches
 
-Service businesses and churches share one thing in common: revenue that doesn't move in a straight line. Contractors bill by job. Consultants bill by retainer. Churches rely on contributions that swing with the calendar and the congregation.
+Businesses, practices and churches share one thing in common: revenue that doesn't move in a straight line. Contractors bill by job. Consultants bill by retainer. Churches rely on contributions that swing with the calendar and the congregation.
 
-For service businesses, our resource list covers vendor W-9 collection templates, expense and mileage tracking forms, and job costing worksheets that feed directly into your monthly financials. For churches and religious organizations, we provide contribution tracking templates, restricted fund logs, and staffing compliance checklists that keep payroll and benefits reporting in order.
+For service-based businesses, our resource list covers vendor W-9 collection templates, expense and mileage tracking forms, and job costing worksheets that feed directly into your monthly financials. For churches and religious organizations, we provide contribution tracking templates, restricted fund logs, and staffing compliance checklists that keep payroll and benefits reporting in order.
 
-Both sets of resources are built to plug into an outsourced accounting engagement, so the data you collect becomes the dashboard you actually use to make decisions. Visit our [service business](/industries/service-businesses) and [church](/industries/churches) resources to find the specific forms your organization needs.
+Both sets of resources are built to plug into an outsourced accounting engagement, so the data you collect becomes the dashboard you actually use to make decisions. Visit our resources to find the specific forms your organization needs.
 
 <!-- block: checklist-section | variant: with-image-left | image: startup-business-foundation-paperwork.jpg | alt: "New business owner organizing entity formation paperwork on a desk" | query: "startup founder paperwork planning desk" -->
 ## Business foundation checklists for startups and growing companies
@@ -82,7 +82,7 @@ Personal tax prep shouldn't require a background in accounting to get right. Her
 - Mortgage interest and property tax statements
 - Records of charitable contributions
 - Documentation for dependents and childcare expenses
-- Prior year tax return, if you're new to RootAdvisors
+- Prior year tax return, if you're new to Accord Advisors
 - Records of any self-employment or rental income
 
 Bring what you have. If something's missing, we'll tell you exactly what to track down instead of pointing you back to a generic list. Our [personal income tax](/services/personal-income-tax) page has more detail if you want to look ahead.
@@ -90,11 +90,11 @@ Bring what you have. If something's missing, we'll tell you exactly what to trac
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Essential accounting forms and resources
 
-**Q: What documents do I need to switch to outsourced accounting with RootAdvisors?**
+**Q: What documents do I need to switch to outsourced accounting with Accord Advisors?**
 A: Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.
 
 **Q: Do optometry practices need different tax forms than other medical practices?**
-A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. RootAdvisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding.
+A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and we map your practice management data directly to your onboarding.
 
 **Q: What paperwork is required to start a new business in Indiana?**
 A: Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.
@@ -105,9 +105,9 @@ A: Bring W-2s or 1099s, mortgage interest and property tax statements, charitabl
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA advisor shaking hands with a client after a consultation" | query: "accountant client consultation handshake" -->
 ## Get help choosing or completing the right form
 
-Not sure which checklist applies to you, or staring at a form that doesn't quite match your situation? That's normal. Tax and accounting forms are written for accountants, not business owners, which is exactly why nearly 40 years of client work has taught us where people get stuck.
+Not sure which checklist applies to you, or staring at a form that doesn't quite match your situation? That's normal. Tax and accounting forms are written for accountants, not business owners, which is exactly why our years of experience with client work has taught us where people get stuck.
 
-Jared Hammack, CPA, and the RootAdvisors team can walk through your specific situation, whether you're an optometry practice manager, a church treasurer, or a founder filing for the first time. [Schedule a consultation](/contact) and we'll tell you exactly what to gather, in plain language.
+The Accord Advisors team can walk through your specific situation, whether you're an optometry practice manager, a church treasurer, or a founder filing for the first time. [Schedule a consultation](/contact) and we'll tell you exactly what to gather, in plain language.
 
 ---
 ## SEO & AIO Metadata
