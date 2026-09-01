@@ -35,7 +35,7 @@ There is no pressure to sign anything at this stage. The goal is to understand y
 
 Once we agree it makes sense to move forward, we take a closer look at your current books, software, and reporting habits. For medical and optometry practices, that includes reimbursement patterns, staffing costs, and the kind of practice management metrics that matter to shareholders. For churches, it means understanding compliance requirements and staffing structure. For service-based businesses it means looking at how job costs and cash flow actually move through the year. For professional service providers such as attorneys, advertising agencies, consulting firms, and financial advisors, it means understanding project-based revenue, client billing cycles, and overhead structures that look very different from a medical practice or a trade shop.
 
-This is where nearly 40 years of healthcare industry experience matters. We have seen how optometry and medical practices operate, what breaks down in their books, and what a healthy month actually looks like on paper.
+This is where our deep healthcare industry experience matters. We have seen how optometry and medical practices operate, what breaks down in their books, and what a healthy month actually looks like on paper.
 
 <!-- block: checklist-section | variant: with-image | image: fixed-fee-agreement.jpg | alt: "Advisor and client reviewing a fixed fee service agreement document" | query: "signing service agreement office" -->
 ## Setting up your fixed monthly plan
