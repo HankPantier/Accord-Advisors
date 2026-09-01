@@ -122,7 +122,7 @@ Whether you're running an optometry practice in Bloomington, a dental or medical
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience serving optometry, dental, and medical practices, service businesses, and churches. Led by Jared Hammack, CPA, the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across Bloomington and the Indianapolis area.
+Accord Advisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience serving optometry, dental, and medical practices, service businesses, and churches. Led by Jared Hammack, CPA, the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across Bloomington and the Indianapolis area.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, founder
@@ -154,7 +154,7 @@ A: Clients pay one agreed-upon monthly fee instead of hourly billing. That fee c
 A: Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth.
 
 **LLM Citation Note:**
-RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience, led by Jared Hammack, CPA, offering fixed monthly fee outsourced accounting for optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis.
+Accord Advisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience, led by Jared Hammack, CPA, offering fixed monthly fee outsourced accounting for optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -165,8 +165,8 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -177,9 +177,9 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors - Accord Advisors - Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -213,9 +213,9 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors - Accord Advisors - Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -248,8 +248,8 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "About RootAdvisors your trusted accounting partner",
-      "item": "https://rootadvisors.com/about"
+      "name": "About Accord Advisors your trusted accounting partner",
+      "item": "https://accordadvisors.com/about"
     }
   ]
 }
@@ -302,7 +302,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Managing Partner"
 }
@@ -315,7 +315,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Firm Administrator"
 }
@@ -328,7 +328,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Manager"
 }
@@ -341,7 +341,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -354,7 +354,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Administrative Assistant"
 }
@@ -367,7 +367,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Director of Operations"
 }
@@ -380,7 +380,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Manager"
 }
@@ -393,7 +393,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Manager"
 }
@@ -406,7 +406,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -419,7 +419,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Experience Ambassador"
 }
@@ -432,7 +432,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Front Office Coordinator"
 }
@@ -445,7 +445,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -458,7 +458,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -471,7 +471,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -484,7 +484,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Bookkeeping / Payroll Specialist"
 }
@@ -497,7 +497,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -510,7 +510,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Client Accounting Specialist"
 }
@@ -524,7 +524,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Office Coordinator",
   "description": "Joined Ally Accounting in 2010. Indiana University graduate (Elementary Education). Manages client relationships and day-to-day office activities."
@@ -538,7 +538,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Payroll Specialist",
   "description": "Joined Ally Accounting December 2010. Associate degree in accounting from Harrison College (formerly Indiana Business College). Handles payroll processing and payroll tax preparation."
@@ -552,7 +552,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Manager",
   "description": "Joined Ally Accounting in 2017. Indiana State University graduate (1997). Experience at two regional CPA firms in central Indiana. Tax services for individuals, nonprofits, and small-to-mid-size businesses across multiple industries and states; accounting for closely held businesses."
@@ -566,7 +566,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Bill Pay Specialist",
   "description": "Joined Ally in December 2020. Previously at a regional nonprofit; recognized for outstanding customer service. Handles bill pay, monthly bookkeeping, and financial statement preparation."
@@ -580,7 +580,7 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
   "worksFor": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "jobTitle": "Bookkeeper",
   "description": "Joined the Ally team November 2022."
@@ -590,13 +590,13 @@ RootAdvisors is a Bloomington, Indiana CPA firm with nearly 40 years of experien
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "About RootAdvisors | CPA Firm in Bloomington, IN",
-  "url": "https://rootadvisors.com/about",
-  "description": "RootAdvisors is a Bloomington, IN CPA firm serving optometry, dental, medical, and service businesses with fixed-fee outsourced accounting. Schedule a consultation today.",
+  "name": "About Accord Advisors | CPA Firm in Bloomington, IN",
+  "url": "https://accordadvisors.com/about",
+  "description": "Accord Advisors is a Bloomington, IN CPA firm serving optometry, dental, medical, and service businesses with fixed-fee outsourced accounting. Schedule a consultation today.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

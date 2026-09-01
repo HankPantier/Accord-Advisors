@@ -11,7 +11,7 @@ meta_title: "Tax Deductions for Volunteering: What Actually Qualifies | Accord A
 meta_description: "Learn what tax deductions for volunteering the IRS allows, including charitable mileage and unreimbursed expenses, plus the records you need to claim them."
 target_keyword: "tax deductions for volunteering"
 secondary_keywords: ["volunteer expenses tax deductible", "charitable mileage deduction", "unreimbursed volunteer expenses", "IRS rules on charitable donations"]
-canonical_url: https://rootadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
+canonical_url: https://accordadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
 schema_markup: "FAQPage"
 answer_block: "The IRS does not allow a deduction for the value of volunteer time or services, but unreimbursed out-of-pocket costs like mileage, supplies, and required uniforms for a qualified organization are often deductible. Volunteers can deduct 14 cents per mile for charitable driving or actual gas costs, plus documented expenses paid directly on behalf of the organization."
 ---

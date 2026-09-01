@@ -10,14 +10,14 @@ For optometry practices, dental offices, and service businesses spending $3,000 
 
 Jared Hammack, CPA, breaks down the tax treatment of rewards and how to reconcile redemptions cleanly in the books, so a rewards program strengthens the numbers instead of complicating them.
 
-Read the full breakdown: https://rootadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
+Read the full breakdown: https://accordadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
 
 #Optometry #DentalPractice #ServiceBusiness #OutsourcedAccounting #SmallBusinessFinance
 
 ## Twitter / X
 
-A $95 annual fee card needs ~$4,750 in spend on a 2% card just to break even. Rewards are a rebate, not income, if matched to your spending. https://rootadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
+A $95 annual fee card needs ~$4,750 in spend on a 2% card just to break even. Rewards are a rebate, not income, if matched to your spending. https://accordadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
 
 ## Facebook
 
-A $10,000 spend that earns $200 in cash back doesn't create $200 of taxable income, it just means you spent $9,800. The real value comes from matching your card's rewards categories to how your practice actually spends each month, not chasing the flashiest sign-up bonus. Jared Hammack, CPA, walks through the tax rules and the numbers behind choosing a card that actually pays off. Read more: https://rootadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
+A $10,000 spend that earns $200 in cash back doesn't create $200 of taxable income, it just means you spent $9,800. The real value comes from matching your card's rewards categories to how your practice actually spends each month, not chasing the flashiest sign-up bonus. Jared Hammack, CPA, walks through the tax rules and the numbers behind choosing a card that actually pays off. Read more: https://accordadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine

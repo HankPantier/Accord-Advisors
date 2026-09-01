@@ -11,7 +11,7 @@ meta_title: "Lease vs Buy a Car: CPA Guide to Taxes & Cash Flow"
 meta_description: "Deciding to lease or buy a car? A Bloomington, IN CPA breaks down Section 179 deductions, cash flow, and mileage to help you choose with confidence."
 target_keyword: "lease vs buy a car"
 secondary_keywords: ["car leasing tax deductions", "Section 179 vehicle deduction", "business vehicle purchase vs lease", "auto loan vs lease pros and cons"]
-canonical_url: https://rootadvisors.com/resources/auto-leasing-vs-buying-which-makes-more-sense
+canonical_url: https://accordadvisors.com/resources/auto-leasing-vs-buying-which-makes-more-sense
 schema_markup: "FAQPage"
 answer_block: "Whether leasing or buying a car makes more sense depends on your annual mileage, how long you plan to keep the vehicle, and your business-use percentage for tax purposes. Buying generally wins for high-mileage drivers and business owners who qualify for Section 179 deductions, while leasing suits lower-mileage drivers who want lower payments and newer vehicles every few years."
 ---

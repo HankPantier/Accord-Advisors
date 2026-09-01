@@ -5,7 +5,7 @@ meta_title: "Quick Links to Accounting Resources | Bloomington, IN"
 meta_description: "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, service, and church clients in Bloomington, IN."
 target_keyword: "quick links to accounting resources bloomington, in"
 secondary_keywords: ["secure client portal Bloomington","send tax documents securely Indiana","outsourced accounting resources Bloomington","optometry accounting resources Indiana"]
-canonical_url: "https://rootadvisors.com/quick-links"
+canonical_url: "https://accordadvisors.com/quick-links"
 schema_markup: "WebPage"
 hero: "page-header"
 hero_subhead: "One place to log in, send documents, and find the resources built for your industry"
@@ -160,8 +160,8 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -172,9 +172,9 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -208,9 +208,9 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -244,13 +244,13 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Quick links to accounting resources",
-      "item": "https://rootadvisors.com/quick-links"
+      "item": "https://accordadvisors.com/quick-links"
     }
   ]
 }
@@ -300,12 +300,12 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Quick Links to Accounting Resources | Bloomington, IN",
-  "url": "https://rootadvisors.com/quick-links",
+  "url": "https://accordadvisors.com/quick-links",
   "description": "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, service, and church clients in Bloomington, IN.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

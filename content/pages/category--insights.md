@@ -5,7 +5,7 @@ meta_title: "Insights Hub | CPA Guidance for Bloomington, IN Businesses"
 meta_description: "Explore Accord Advisors' insights hub for tax, outsourced accounting, and business guidance built for optometrists, medical practices, and Bloomington, IN businesses."
 target_keyword: "category insights bloomington, in"
 secondary_keywords: ["CPA insights Bloomington Indiana","outsourced accounting articles","optometry practice financial advice","healthcare CPA resources Indianapolis"]
-canonical_url: "https://rootadvisors.com/category/insights"
+canonical_url: "https://accordadvisors.com/category/insights"
 schema_markup: "CollectionPage"
 hero: "page-header"
 answer_block: "Accord Advisors' insights hub offers CPA guidance organized by industry, covering tax planning, outsourced accounting, and business foundation topics for optometry and dental practices, medical professionals, service businesses, and churches in Bloomington and Indianapolis, Indiana. Articles are written by the firm's own CPAs, not licensed from a national content network."
@@ -131,8 +131,8 @@ Accord Advisors' insights hub is organized by industry (optometry, dental, medic
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -143,9 +143,9 @@ Accord Advisors' insights hub is organized by industry (optometry, dental, medic
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -179,9 +179,9 @@ Accord Advisors' insights hub is organized by industry (optometry, dental, medic
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -215,13 +215,13 @@ Accord Advisors' insights hub is organized by industry (optometry, dental, medic
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Category insights",
-      "item": "https://rootadvisors.com/category/insights"
+      "item": "https://accordadvisors.com/category/insights"
     }
   ]
 }
@@ -271,12 +271,12 @@ Accord Advisors' insights hub is organized by industry (optometry, dental, medic
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Insights Hub | CPA Guidance for Bloomington, IN Businesses",
-  "url": "https://rootadvisors.com/category/insights",
+  "url": "https://accordadvisors.com/category/insights",
   "description": "Explore Accord Advisors' insights hub for tax, outsourced accounting, and business guidance built for optometrists, medical practices, and Bloomington, IN businesses.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

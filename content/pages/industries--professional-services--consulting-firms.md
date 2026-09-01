@@ -5,7 +5,7 @@ meta_title: "Outsourced Accounting for Consulting Firms | Accord Advisors"
 meta_description: "Outsourced accounting for consulting firms in Bloomington and Indianapolis: bookkeeping, fixed monthly fees, and CFO-level insight from a CPA-led team."
 target_keyword: "accounting for consulting firms"
 secondary_keywords: ["outsourced accounting for consultants","consulting firm bookkeeping","CFO services for consulting firms","fixed fee accounting Bloomington Indiana"]
-canonical_url: "https://rootadvisors.com/industries/consulting-firms"
+canonical_url: "https://accordadvisors.com/industries/consulting-firms"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

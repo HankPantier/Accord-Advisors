@@ -5,7 +5,7 @@ meta_title: "The Entrepreneurial Edge | Bloomington, IN CPA Firm"
 meta_description: "Discover the entrepreneurial edge Bloomington, IN business owners get with Accord Advisors: fixed fees, real-time data, and nearly 40 years of industry expertise."
 target_keyword: "the entrepreneurial edge bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","Indianapolis business CPA","fixed fee accounting firm","optometry practice accounting"]
-canonical_url: "https://rootadvisors.com/the-entrepreneurial-edge"
+canonical_url: "https://accordadvisors.com/the-entrepreneurial-edge"
 schema_markup: "ProfessionalService"
 hero: "page-header"
 hero_subhead: "Monthly clarity, fixed fees, and industry insight built for Bloomington and Indianapolis business owners"
@@ -162,8 +162,8 @@ Accord Advisors (Bloomington, IN) offers fixed monthly fee outsourced accounting
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -174,9 +174,9 @@ Accord Advisors (Bloomington, IN) offers fixed monthly fee outsourced accounting
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -210,9 +210,9 @@ Accord Advisors (Bloomington, IN) offers fixed monthly fee outsourced accounting
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -246,19 +246,19 @@ Accord Advisors (Bloomington, IN) offers fixed monthly fee outsourced accounting
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "The entrepreneurial edge",
-      "item": "https://rootadvisors.com/the-entrepreneurial-edge"
+      "item": "https://accordadvisors.com/the-entrepreneurial-edge"
     }
   ]
 }
@@ -308,12 +308,12 @@ Accord Advisors (Bloomington, IN) offers fixed monthly fee outsourced accounting
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "The Entrepreneurial Edge | Bloomington, IN CPA Firm",
-  "url": "https://rootadvisors.com/the-entrepreneurial-edge",
+  "url": "https://accordadvisors.com/the-entrepreneurial-edge",
   "description": "Discover the entrepreneurial edge Bloomington, IN business owners get with Accord Advisors: fixed fees, real-time data, and nearly 40 years of industry expertise.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

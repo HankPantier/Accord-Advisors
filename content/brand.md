@@ -2,7 +2,7 @@
 
 ## Identity
 
-Accord Advisors (rootadvisors.com) is a CPA firm with offices in Bloomington, Indiana (1516 South Walnut Street) and Avon, Indiana (7386 Business Center Drive, Suite B), serving the greater Indianapolis area and clients nationwide. The firm can be reached at 812-332-7200 or office@accordadvisors.com.
+Accord Advisors (accordadvisors.com) is a CPA firm with offices in Bloomington, Indiana (1516 South Walnut Street) and Avon, Indiana (7386 Business Center Drive, Suite B), serving the greater Indianapolis area and clients nationwide. The firm can be reached at 812-332-7200 or office@accordadvisors.com.
 
 The firm's roots trace to Ally Accounting, founded in 2010 by Managing Partner Jared Hammack, a CPA since 2006 and Indiana University graduate who previously worked in international/complex tax at Deloitte. Ally Accounting grew through the acquisition of a local Indianapolis firm. Ryan Deckard also serves as Managing Partner. The team includes client managers, client accounting specialists, bookkeeping and payroll specialists, and administrative staff supporting day-to-day client service, including Kelly Root (Firm Administrator), Sean Hanthorn (Director of Operations), Jill Bailey, Amy Young, and Anita Altop (Client Managers), Wendi Elmore (Manager), Rachel Logston (Payroll Specialist), and others.
 

@@ -5,7 +5,7 @@ meta_title: "Accord Advisors Office Locations | Bloomington & Avon"
 meta_description: "Contact Accord Advisors in Bloomington or Avon, Indiana for outsourced accounting, tax prep, and CPA support. Call, email, or schedule a consultation today."
 target_keyword: "Accord Advisors office locations"
 secondary_keywords: ["Bloomington CPA office","Avon Indiana accounting firm","Indianapolis CPA locations"]
-canonical_url: "https://rootadvisors.com/locations"
+canonical_url: "https://accordadvisors.com/locations"
 schema_markup: "LocalBusiness"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

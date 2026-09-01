@@ -5,7 +5,7 @@ meta_title: "CPA Privacy Policy Bloomington IN | Accord Advisors"
 meta_description: "See how Accord Advisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients."
 target_keyword: "CPA privacy policy Bloomington IN"
 secondary_keywords: ["Accord Advisors privacy policy","accounting firm data protection Bloomington","CPA client information security Indiana","optometry practice accountant privacy Bloomington","dental practice CPA confidentiality","medical professional tax services privacy","business accounting privacy policy Indiana","church accounting services data security","Bloomington CPA HIPAA compliance","outsourced accounting privacy Bloomington IN"]
-canonical_url: "https://rootadvisors.com/privacy-policy"
+canonical_url: "https://accordadvisors.com/privacy-policy"
 schema_markup: "LocalBusiness"
 hero: "page-header"
 answer_block: "Accord Advisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself."
@@ -156,8 +156,8 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -168,9 +168,9 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -204,9 +204,9 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -240,7 +240,7 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
       "@type": "ListItem",
       "position": 1,
       "name": "Privacy policy",
-      "item": "https://rootadvisors.com/privacy-policy"
+      "item": "https://accordadvisors.com/privacy-policy"
     }
   ]
 }
@@ -298,12 +298,12 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "CPA Privacy Policy Bloomington IN | Accord Advisors",
-  "url": "https://rootadvisors.com/privacy-policy",
+  "url": "https://accordadvisors.com/privacy-policy",
   "description": "See how Accord Advisors, a Bloomington, IN CPA firm, protects client financial data for optometry, dental, medical, service business, and church clients.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

@@ -5,7 +5,7 @@ meta_title: "Entering the New Year: CPA Guide for Bloomington, IN"
 meta_description: "Start the new year with clean books and a clear plan. Accord Advisors helps Bloomington and Indianapolis practices and businesses prepare for tax season and beyond."
 target_keyword: "entering the new year Bloomington, IN"
 secondary_keywords: ["year-end financial housekeeping","new year tax preparation Indiana","outsourced accounting Bloomington","business foundation services Indiana"]
-canonical_url: "https://rootadvisors.com/entering-the-new-year"
+canonical_url: "https://accordadvisors.com/entering-the-new-year"
 schema_markup: "Article"
 hero: "page-header"
 hero_subhead: "Start the year with reconciled books, a clear tax plan, and a firm that already knows your numbers"
@@ -163,8 +163,8 @@ Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -175,9 +175,9 @@ Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -211,9 +211,9 @@ Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -247,19 +247,19 @@ Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Entering the new year",
-      "item": "https://rootadvisors.com/entering-the-new-year"
+      "item": "https://accordadvisors.com/entering-the-new-year"
     }
   ]
 }
@@ -317,22 +317,22 @@ Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly
   "@context": "https://schema.org",
   "@type": "Article",
   "name": "Entering the New Year: CPA Guide for Bloomington, IN",
-  "url": "https://rootadvisors.com/entering-the-new-year",
+  "url": "https://accordadvisors.com/entering-the-new-year",
   "description": "Start the new year with clean books and a clear plan. Accord Advisors helps Bloomington and Indianapolis practices and businesses prepare for tax season and beyond.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "author": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

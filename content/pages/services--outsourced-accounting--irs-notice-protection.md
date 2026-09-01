@@ -5,7 +5,7 @@ meta_title: "IRS Notice Protection & Response | Bloomington, IN CPA"
 meta_description: "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help, no surprise bills."
 target_keyword: "irs notice protection and response support bloomington, in"
 secondary_keywords: ["IRS notice help Indianapolis","IRS letter response CPA Indiana","payroll tax notice help","flat fee tax notice support"]
-canonical_url: "https://rootadvisors.com/services/irs-notice-protection"
+canonical_url: "https://accordadvisors.com/services/irs-notice-protection"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -148,8 +148,8 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -160,9 +160,9 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -196,9 +196,9 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -232,13 +232,13 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
       "@type": "ListItem",
       "position": 1,
       "name": "Services overview",
-      "item": "https://rootadvisors.com/services"
+      "item": "https://accordadvisors.com/services"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "IRS notice protection and response support",
-      "item": "https://rootadvisors.com/services/irs-notice-protection"
+      "item": "https://accordadvisors.com/services/irs-notice-protection"
     }
   ]
 }
@@ -288,17 +288,17 @@ Accord Advisors, led by Jared Hammack, CPA, provides IRS notice review and direc
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "IRS Notice Protection & Response | Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/services/irs-notice-protection",
+  "url": "https://accordadvisors.com/services/irs-notice-protection",
   "description": "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help, no surprise bills.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "IRS notice protection and response support",
   "audience": [

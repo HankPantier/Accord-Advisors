@@ -11,7 +11,7 @@ meta_title: "How Much Insurance Coverage Do You Need? | Accord Advisors Blooming
 meta_description: "Accord Advisors, a Bloomington, IN CPA firm, explains how to calculate how much insurance coverage you actually need, from personal risk to practice liability, using real numbers."
 target_keyword: "how much insurance coverage do you need"
 secondary_keywords: ["types of insurance for financial protection", "business insurance coverage checklist", "insurance needs analysis", "personal risk management planning"]
-canonical_url: https://rootadvisors.com/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl
+canonical_url: https://accordadvisors.com/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl
 schema_markup: "FAQPage"
 answer_block: "How much insurance coverage you need depends on quantifiable exposure, not a standard checklist: size life insurance to 10-15 times income against dependents and debt, disability to 60-70% of income, umbrella policies to your net worth, and business coverage to your practice's revenue and fixed costs."
 ---

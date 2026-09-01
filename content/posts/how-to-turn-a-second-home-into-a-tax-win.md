@@ -11,7 +11,7 @@ meta_title: "Second Home Tax Rules: A CPA's Guide | Accord Advisors"
 meta_description: "Learn the IRS second home tax rules, the 14-day rental exception, and how personal use days affect deductions, before you buy a vacation property."
 target_keyword: "second home tax rules"
 secondary_keywords: ["second home vs investment property", "renting out a second home taxes", "vacation home rental income tax", "IRS 14 day rule second home"]
-canonical_url: https://rootadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
+canonical_url: https://accordadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
 schema_markup: "FAQPage"
 answer_block: "A second home's tax treatment depends on rental days versus personal-use days: rent it 14 days or fewer and the income is tax-free with no rental deductions; rent it more and personal use above 14 days (or 10% of rental days) limits your loss deductions, while lighter personal use lets you treat it as a full rental with depreciation and expense deductions."
 ---

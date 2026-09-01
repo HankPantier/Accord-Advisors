@@ -5,7 +5,7 @@ meta_title: "Outsourced Accounting Services | Accord Advisors CPA"
 meta_description: "Outsourced accounting services from Accord Advisors: fixed monthly fees, CFO-level insight, and a secure online platform for Bloomington and Indianapolis businesses."
 target_keyword: "outsourced accounting services"
 secondary_keywords: ["outsourced accounting Bloomington","outsourced CFO services","fixed fee accounting firm","healthcare accounting services"]
-canonical_url: "https://rootadvisors.com/services/outsourced-accounting"
+canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

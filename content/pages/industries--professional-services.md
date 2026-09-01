@@ -5,7 +5,7 @@ meta_title: "Accounting for Attorneys, Advertising Agencies, Financial Advisors 
 meta_description: "Outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms in Bloomington, Avon, Indianapolis, and across Indiana. Fixed monthly fees, real-time financials, and CFO-level advisory support."
 target_keyword: "accounting for professional services businesses"
 secondary_keywords: ["outsourced accounting for professional services firms Indiana","CPA for consulting firms Indianapolis","attorney accounting Bloomington Indiana","advertising agency CPA Indianapolis","financial advisor accounting Indiana","law firm bookkeeping Avon Indiana"]
-canonical_url: "https://rootadvisors.com/industries/professional-services"
+canonical_url: "https://accordadvisors.com/industries/professional-services"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

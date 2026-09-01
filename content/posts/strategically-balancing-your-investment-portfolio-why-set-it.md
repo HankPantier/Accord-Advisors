@@ -11,7 +11,7 @@ meta_title: "Balanced Investment Portfolio: Why Rebalancing Matters"
 meta_description: "Learn why a balanced investment portfolio requires ongoing rebalancing, not a one-time setup, and how tax-smart timing protects your returns."
 target_keyword: "balanced investment portfolio"
 secondary_keywords: ["asset allocation strategy", "portfolio diversification", "risk tolerance investing", "portfolio rebalancing"]
-canonical_url: https://rootadvisors.com/resources/strategically-balancing-your-investment-portfolio-why-set-it
+canonical_url: https://accordadvisors.com/resources/strategically-balancing-your-investment-portfolio-why-set-it
 schema_markup: "FAQPage"
 answer_block: "A balanced investment portfolio requires periodic rebalancing because market movement causes asset allocations to drift from their targets even without new trades. Rebalancing on a calendar or threshold basis, coordinated with tax planning around capital gains, keeps risk levels aligned with your actual goals and tax situation."
 ---

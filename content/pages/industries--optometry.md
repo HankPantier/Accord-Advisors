@@ -5,7 +5,7 @@ meta_title: "Accounting for Optometry Practices in Bloomington, Indianapolis & A
 meta_description: "Fixed-fee outsourced accounting for optometry practices in Bloomington, Indianapolis, and across Indiana, from a CPA firm with nearly 40 years of healthcare industry experience."
 target_keyword: "accounting for optometry practices indiana"
 secondary_keywords: ["optometry CPA Indianapolis","outsourced accounting optometry practice Indiana","optometry practice management accounting Indiana","Bloomington optometry accountant","optometry CPA Bloomington IN","accounting for optometry practices Indianapolis"]
-canonical_url: "https://rootadvisors.com/industries/optometry"
+canonical_url: "https://accordadvisors.com/industries/optometry"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -145,8 +145,8 @@ Accord Advisors has served healthcare providers, including optometry practices, 
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -157,9 +157,9 @@ Accord Advisors has served healthcare providers, including optometry practices, 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -193,9 +193,9 @@ Accord Advisors has served healthcare providers, including optometry practices, 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -229,13 +229,13 @@ Accord Advisors has served healthcare providers, including optometry practices, 
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting for optometry practices",
-      "item": "https://rootadvisors.com/industries/optometry"
+      "item": "https://accordadvisors.com/industries/optometry"
     }
   ]
 }
@@ -285,17 +285,17 @@ Accord Advisors has served healthcare providers, including optometry practices, 
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Accounting for Optometry Practices in Bloomington, IN",
-  "url": "https://rootadvisors.com/industries/optometry",
+  "url": "https://accordadvisors.com/industries/optometry",
   "description": "Fixed-fee outsourced accounting for optometry practices in Bloomington, IN, from a CPA firm with nearly 40 years of healthcare industry experience.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Accounting for optometry practices",
   "audience": [

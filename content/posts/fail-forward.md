@@ -5,7 +5,7 @@ meta_title: "Business Recovery Accounting Help in Bloomington, IN"
 meta_description: "Recovering from a business setback? Accord Advisors offers fixed-fee outsourced accounting and CPA guidance for Bloomington and Indianapolis businesses rebuilding after loss."
 target_keyword: "accounting help for business failures Bloomington IN"
 secondary_keywords: ["business recovery accounting Bloomington","tax planning after business loss Indiana","optometry practice turnaround accountant Bloomington","dental practice financial recovery Bloomington IN","business restructuring accounting services Bloomington","medical practice accounting after setback","outsourced accounting for struggling business Indiana","church accounting financial recovery Bloomington","CPA help business failure Bloomington IN","accounting advisor business comeback Indiana","service business accounting recovery Bloomington"]
-canonical_url: "https://rootadvisors.com/fail-forward"
+canonical_url: "https://accordadvisors.com/fail-forward"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -171,8 +171,8 @@ Accord Advisors offers fixed monthly fee outsourced accounting and Business Foun
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -183,9 +183,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting and Business Foun
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -219,9 +219,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting and Business Foun
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -255,19 +255,19 @@ Accord Advisors offers fixed monthly fee outsourced accounting and Business Foun
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Fail forward",
-      "item": "https://rootadvisors.com/fail-forward"
+      "item": "https://accordadvisors.com/fail-forward"
     }
   ]
 }
@@ -317,17 +317,17 @@ Accord Advisors offers fixed monthly fee outsourced accounting and Business Foun
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Business Recovery Accounting Help in Bloomington, IN",
-  "url": "https://rootadvisors.com/fail-forward",
+  "url": "https://accordadvisors.com/fail-forward",
   "description": "Recovering from a business setback? Accord Advisors offers fixed-fee outsourced accounting and CPA guidance for Bloomington and Indianapolis businesses rebuilding after loss.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Fail forward",
   "audience": [

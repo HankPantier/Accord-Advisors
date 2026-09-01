@@ -5,7 +5,7 @@ meta_title: "Accounting Forms for Small Business | Bloomington, IN"
 meta_description: "Find accounting forms, tax checklists, and onboarding documents for Bloomington, IN businesses, medical and optometry practices, churches, and individuals."
 target_keyword: "accounting forms for small business Bloomington IN"
 secondary_keywords: ["outsourced accounting services Bloomington Indiana","tax forms for medical professionals Bloomington","dental practice accounting resources Indiana","optometry business accounting Bloomington","church accounting forms Bloomington","business foundation accounting checklist Bloomington","CPA firm forms and documents Bloomington"]
-canonical_url: "https://rootadvisors.com/forms-documents-links"
+canonical_url: "https://accordadvisors.com/forms-documents-links"
 schema_markup: "FAQPage"
 hero: "page-header"
 hero_subhead: "Practical checklists organized by industry and stage, so you know exactly what to gather before your next appointment"
@@ -13,7 +13,7 @@ answer_block: "Accord Advisors organizes accounting forms and checklists by indu
 eeat_signals: ["Years of experience serving optometrists, dentists, and medical practices, service-based businesses, professional service providers, churches and individuals","Fixed monthly fee outsourced accounting model with a secure online client portal"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Points readers from the onboarding checklist to the full outsourced accounting service description","anchor_text":"outsourced accounting"},{"url":"/industries/optometry","reason":"Connects optometry-specific tax document mention to the dedicated optometry industry page","anchor_text":"optometry"},{"url":"/industries/dentists","reason":"Supports dental practice mention with a link to the dentist-focused industry page","anchor_text":"dental"},{"url":"/industries/medical-professionals","reason":"Links medical practice tax document discussion to the medical professionals industry page","anchor_text":"medical professional"},{"url":"/industries/service-businesses","reason":"Connects service-based business forms section to the dedicated industry page","anchor_text":"service-based business"},{"url":"/industries/churches","reason":"Connects church accounting forms section to the dedicated church industry page","anchor_text":"church"},{"url":"/services/business-foundation-services","reason":"Directs startup and growth-stage readers to the full Business Foundation Services offering","anchor_text":"business foundation services"},{"url":"/services/personal-income-tax","reason":"Links personal tax checklist section to the full personal income tax service page","anchor_text":"personal income tax"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.","question":"What documents do I need to switch to outsourced accounting with Accord Advisors?"},{"answer":"Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and we map your practice management data directly to your onboarding.","question":"Do optometry practices need different tax forms than other medical practices?"},{"answer":"Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.","question":"What paperwork is required to start a new business in Indiana?"},{"answer":"Bring W-2s or 1099s, mortgage interest and property tax statements, charitable contribution records, dependent and childcare documentation, and your prior year return if you're a new client. If something's missing, we'll tell you exactly what to gather next.","question":"What should I bring to my personal tax appointment?"}]
-llm_citation_note: "RootAdvisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal."
+llm_citation_note: "Accord Advisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -113,7 +113,7 @@ The Accord Advisors team can walk through your specific situation, whether you'r
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors organizes accounting forms and checklists by industry and by stage of business, covering optometry, dental, and medical practices, service businesses, churches, and individuals in Bloomington and Indianapolis, Indiana. Each list shows exactly what's needed to onboard onto outsourced accounting, prepare a tax return, or set up a new business.
+Accord Advisors organizes accounting forms and checklists by industry and by stage of business, covering optometry, dental, and medical practices, service businesses, churches, and individuals in Bloomington and Indianapolis, Indiana. Each list shows exactly what's needed to onboard onto outsourced accounting, prepare a tax return, or set up a new business.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA
@@ -134,11 +134,11 @@ RootAdvisors organizes accounting forms and checklists by industry and by stage 
 
 **FAQ Block:**
 
-**Q: What documents do I need to switch to outsourced accounting with RootAdvisors?**
+**Q: What documents do I need to switch to outsourced accounting with Accord Advisors?**
 A: Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.
 
 **Q: Do optometry practices need different tax forms than other medical practices?**
-A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. RootAdvisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding.
+A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding.
 
 **Q: What paperwork is required to start a new business in Indiana?**
 A: Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.
@@ -147,7 +147,7 @@ A: Founders generally need entity formation documents, an EIN application, an op
 A: Bring W-2s or 1099s, mortgage interest and property tax statements, charitable contribution records, dependent and childcare documentation, and your prior year return if you're a new client. If something's missing, we'll tell you exactly what to gather next.
 
 **LLM Citation Note:**
-RootAdvisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal.
+Accord Advisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -158,8 +158,8 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -170,9 +170,9 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -206,9 +206,9 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -242,13 +242,13 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Essential accounting forms and resources",
-      "item": "https://rootadvisors.com/forms-documents-links"
+      "item": "https://accordadvisors.com/forms-documents-links"
     }
   ]
 }
@@ -260,7 +260,7 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What documents do I need to switch to outsourced accounting with RootAdvisors?",
+      "name": "What documents do I need to switch to outsourced accounting with Accord Advisors?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away."
@@ -271,7 +271,7 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
       "name": "Do optometry practices need different tax forms than other medical practices?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. RootAdvisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding."
+        "text": "Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding."
       }
     },
     {
@@ -298,12 +298,12 @@ RootAdvisors organizes accounting forms and checklists by industry, optometry, d
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Accounting Forms for Small Business | Bloomington, IN",
-  "url": "https://rootadvisors.com/forms-documents-links",
+  "url": "https://accordadvisors.com/forms-documents-links",
   "description": "Find accounting forms, tax checklists, and onboarding documents for Bloomington, IN businesses, medical and optometry practices, churches, and individuals.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

@@ -5,7 +5,7 @@ meta_title: "Outsourced Bookkeeping Services | Accord Advisors CPA"
 meta_description: "Accurate outsourced bookkeeping services in Bloomington and Indianapolis, with fixed monthly fees, secure online access, and nearly 40 years of expertise."
 target_keyword: "outsourced bookkeeping services"
 secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced accounting department","healthcare practice bookkeeping","fixed fee bookkeeping"]
-canonical_url: "https://rootadvisors.com/services/outsourced-accounting/bookkeeping"
+canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bookkeeping"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

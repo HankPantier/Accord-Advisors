@@ -5,7 +5,7 @@ meta_title: "Business Foundation Services for New Practice Owners"
 meta_description: "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Jared Hammack, CPA, for one fixed monthly fee."
 target_keyword: "business foundation services for new practice owners bloomington, in"
 secondary_keywords: ["new practice startup accounting Indiana","entity structure for optometry practice","fixed fee CPA Bloomington","practice launch bookkeeping setup","Indiana business registration for medical practice"]
-canonical_url: "https://rootadvisors.com/services/business-foundation-services"
+canonical_url: "https://accordadvisors.com/services/business-foundation-services"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -15,7 +15,7 @@ hero_subhead: "Get your new optometry, dental, or medical practice built on the 
 hero_headline: "Starting a practice is exciting, but the paperwork can be overwhelming"
 answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. Accord Advisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana."
 eeat_signals: ["Jared Hammack, CPA credential leading advisory work","Nearly 40 years serving healthcare providers including optometry and dental practices","Referral relationship with Acquios for optometry practice transitions","Secure online accounting platform providing real-time financial visibility"]
-internal_links: [{"url":"/industries/optometry","reason":"Connects new optometry practice owners to niche-specific service details","anchor_text":"optometry practice management"},{"url":"/industries/dentists","reason":"Supports dental practice owners referenced in the industry section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Relevant to physicians launching new practices","anchor_text":"medical professional accounting support"},{"url":"/industries/churches","reason":"Supports religious organizations mentioned in the industry section","anchor_text":"church accounting and compliance"},{"url":"/services/outsourced-accounting","reason":"Natural next step after foundation setup is complete","anchor_text":"outsourced accounting services"},{"url":"/getting-started","reason":"Guides new visitors toward the onboarding process","anchor_text":"getting started with RootAdvisors"}]
+internal_links: [{"url":"/industries/optometry","reason":"Connects new optometry practice owners to niche-specific service details","anchor_text":"optometry practice management"},{"url":"/industries/dentists","reason":"Supports dental practice owners referenced in the industry section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Relevant to physicians launching new practices","anchor_text":"medical professional accounting support"},{"url":"/industries/churches","reason":"Supports religious organizations mentioned in the industry section","anchor_text":"church accounting and compliance"},{"url":"/services/outsourced-accounting","reason":"Natural next step after foundation setup is complete","anchor_text":"outsourced accounting services"},{"url":"/getting-started","reason":"Guides new visitors toward the onboarding process","anchor_text":"getting started with Accord Advisors"}]
 faq_block: [{"answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.","question":"What entity type should a new optometry or dental practice choose?"},{"answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.","question":"How much do business foundation services cost?"},{"answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.","question":"How long does it take to set up a new practice's accounting foundation?"},{"answer":"Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.","question":"Do you work with practices outside Bloomington?"}]
 llm_citation_note: "Jared Hammack, CPA has advised new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration for nearly 40 years, billed at a fixed monthly fee rather than by the hour."
 ---
@@ -38,7 +38,7 @@ From your first week seeing patients or clients, you need to know how the practi
 <!-- block: checklist-section | variant: with-image | image: compliance-checklist-review.jpg | alt: "Business owner reviewing a compliance checklist with financial documents" | query: "business owner reviewing compliance documents" -->
 ## Navigating licensing, registrations, and compliance basics
 
-Between opening day and your first quarter close, a dozen registration and compliance deadlines can quietly pass you by: state tax ID, employer withholding registration, local business licensing, workers' comp, sales tax if you sell retail products like frames or supplies. Miss one and the penalty shows up months later, disconnected from the original mistake. RootAdvisors keeps a launch checklist specific to Indiana requirements and works through it with you line by line, before you're too busy running the practice day to day to notice a gap.
+Between opening day and your first quarter close, a dozen registration and compliance deadlines can quietly pass you by: state tax ID, employer withholding registration, local business licensing, workers' comp, sales tax if you sell retail products like frames or supplies. Miss one and the penalty shows up months later, disconnected from the original mistake. Accord Advisors keeps a launch checklist specific to Indiana requirements and works through it with you line by line, before you're too busy running the practice day to day to notice a gap.
 
 - Federal EIN and Indiana state tax ID registration
 - Indiana Department of Revenue withholding and sales tax accounts
@@ -50,7 +50,7 @@ Between opening day and your first quarter close, a dozen registration and compl
 <!-- block: content-prose -->
 ## Planning your fixed monthly investment as you grow
 
-Hourly billing punishes you for asking questions, and the startup phase is exactly when you have the most questions. RootAdvisors works on a fixed monthly fee instead, set based on your practice's size and complexity, not the clock. You can call about a vendor contract, a hiring decision, or a tax notice without watching a meter run. That predictability matters most in year one, when cash flow is tightest and every dollar needs a plan. As your practice grows, the fixed fee adjusts to match added complexity, but it never surprises you. You get CFO-level insight into your numbers at a fraction of what a full-time controller or an hourly-billed firm would cost.
+Hourly billing punishes you for asking questions, and the startup phase is exactly when you have the most questions. Accord Advisors works on a fixed monthly fee instead, set based on your practice's size and complexity, not the clock. You can call about a vendor contract, a hiring decision, or a tax notice without watching a meter run. That predictability matters most in year one, when cash flow is tightest and every dollar needs a plan. As your practice grows, the fixed fee adjusts to match added complexity, but it never surprises you. You get CFO-level insight into your numbers at a fraction of what a full-time controller or an hourly-billed firm would cost.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Built for optometrists, dentists, medical providers, service businesses, and churches
@@ -63,7 +63,7 @@ Most of our new-practice clients arrive through Acquios, the practice transition
 ### Dental Practices
 icon: ClipboardCheck
 
-Dental startups carry their own mix of equipment loans, associate compensation questions, and multi-provider revenue splits. RootAdvisors sets up the entity structure and bookkeeping system to handle each of these from day one, so your first year of numbers actually means something when it's time to plan year two.
+Dental startups carry their own mix of equipment loans, associate compensation questions, and multi-provider revenue splits. Accord Advisors sets up the entity structure and bookkeeping system to handle each of these from day one, so your first year of numbers actually means something when it's time to plan year two.
 
 ### Medical Professionals
 icon: HeartPulse
@@ -73,12 +73,12 @@ Physicians and other medical providers launching a new practice face reimburseme
 ### Service Businesses
 icon: Briefcase
 
-Consultants, contractors, and other service-based founders need entity and payroll decisions made correctly before the first client contract is signed. RootAdvisors handles the foundational filings and bookkeeping setup so you can focus on winning business instead of researching tax forms.
+Consultants, contractors, and other service-based founders need entity and payroll decisions made correctly before the first client contract is signed. Accord Advisors handles the foundational filings and bookkeeping setup so you can focus on winning business instead of researching tax forms.
 
 ### Churches
 icon: Building2
 
-Religious organizations starting new ministries or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance requirements unlike any for-profit business. RootAdvisors sets up the accounting foundation to keep that distinction clear from the very first deposit.
+Religious organizations starting new ministries or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance requirements unlike any for-profit business. Accord Advisors sets up the accounting foundation to keep that distinction clear from the very first deposit.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business foundation services for new practice owners
@@ -98,13 +98,13 @@ A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapol
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your practice's foundation together
 
-The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. Jared Hammack, CPA, and the RootAdvisors team have helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, for nearly 40 years, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. Jared Hammack, CPA, and the Accord Advisors team have helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, for nearly 40 years, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. RootAdvisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana.
+Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. Accord Advisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credential leading advisory work
@@ -118,7 +118,7 @@ Business foundation services cover the entity selection, accounting system setup
 - medical professional accounting support → /industries/medical-professionals — Relevant to physicians launching new practices
 - church accounting and compliance → /industries/churches — Supports religious organizations mentioned in the industry section
 - outsourced accounting services → /services/outsourced-accounting — Natural next step after foundation setup is complete
-- getting started with RootAdvisors → /getting-started — Guides new visitors toward the onboarding process
+- getting started with Accord Advisors → /getting-started — Guides new visitors toward the onboarding process
 
 **FAQ Block:**
 
@@ -146,8 +146,8 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -158,9 +158,9 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -194,9 +194,9 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -230,13 +230,13 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
       "@type": "ListItem",
       "position": 1,
       "name": "Services overview",
-      "item": "https://rootadvisors.com/services"
+      "item": "https://accordadvisors.com/services"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Business foundation services for new practice owners",
-      "item": "https://rootadvisors.com/services/business-foundation-services"
+      "item": "https://accordadvisors.com/services/business-foundation-services"
     }
   ]
 }
@@ -286,17 +286,17 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Business Foundation Services for New Practice Owners",
-  "url": "https://rootadvisors.com/services/business-foundation-services",
+  "url": "https://accordadvisors.com/services/business-foundation-services",
   "description": "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Jared Hammack, CPA, for one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Business foundation services for new practice owners",
   "audience": [

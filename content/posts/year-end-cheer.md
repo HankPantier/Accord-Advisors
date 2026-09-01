@@ -5,7 +5,7 @@ meta_title: "Year End Accounting & Tax Planning in Bloomington, IN"
 meta_description: "Close out your year with clean books and a tax plan. Accord Advisors offers fixed-fee year end accounting for Bloomington and Indianapolis practices and businesses."
 target_keyword: "year end accounting Bloomington IN"
 secondary_keywords: ["year end tax planning Bloomington","CPA year end services Indiana","outsourced accounting year end Bloomington","dental practice year end tax Bloomington","optometry practice accounting Bloomington IN","medical professional year end planning Indiana","church accounting year end Bloomington","business tax planning Bloomington IN"]
-canonical_url: "https://rootadvisors.com/year-end-cheer"
+canonical_url: "https://accordadvisors.com/year-end-cheer"
 schema_markup: "Service"
 hero: "page-header"
 answer_block: "Year end accounting in Bloomington, IN means reconciling accounts, cleaning up bookkeeping categorization, preparing year-end financial statements, and reviewing tax planning opportunities before December 31. Accord Advisors handles this through a fixed monthly fee outsourced accounting service, so optometry, medical, service business, and church clients close the year with accurate books instead of a last-minute scramble."
@@ -133,8 +133,8 @@ Accord Advisors offers fixed monthly fee outsourced accounting and year-end tax 
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -145,9 +145,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting and year-end tax 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -181,9 +181,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting and year-end tax 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -217,19 +217,19 @@ Accord Advisors offers fixed monthly fee outsourced accounting and year-end tax 
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Year end cheer",
-      "item": "https://rootadvisors.com/year-end-cheer"
+      "item": "https://accordadvisors.com/year-end-cheer"
     }
   ]
 }
@@ -287,17 +287,17 @@ Accord Advisors offers fixed monthly fee outsourced accounting and year-end tax 
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Year End Accounting & Tax Planning in Bloomington, IN",
-  "url": "https://rootadvisors.com/year-end-cheer",
+  "url": "https://accordadvisors.com/year-end-cheer",
   "description": "Close out your year with clean books and a tax plan. Accord Advisors offers fixed-fee year end accounting for Bloomington and Indianapolis practices and businesses.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Year end cheer",
   "audience": [

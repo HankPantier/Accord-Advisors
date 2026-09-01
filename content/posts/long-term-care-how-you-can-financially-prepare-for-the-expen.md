@@ -11,7 +11,7 @@ meta_title: "Long-Term Care Planning Costs: A CPA's Guide | Accord Advisors"
 meta_description: "Learn what long-term care really costs in Indiana and how to fund it with insurance, VA benefits, and savings before a crisis forces the decision. Accord Advisors serves Bloomington and Indianapolis, IN."
 target_keyword: "long-term care planning costs"
 secondary_keywords: ["long-term care insurance vs self-funding", "veterans aid and attendance benefit", "paying for nursing home care", "long-term care financial planning"]
-canonical_url: https://rootadvisors.com/resources/long-term-care-how-you-can-financially-prepare-for-the-expen
+canonical_url: https://accordadvisors.com/resources/long-term-care-how-you-can-financially-prepare-for-the-expen
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning means funding future nursing home, assisted living, or in-home care costs years in advance through a mix of long-term care insurance, VA Aid and Attendance benefits for eligible veterans, and dedicated personal savings, rather than reacting after a health crisis when options like insurance underwriting are no longer available."
 ---

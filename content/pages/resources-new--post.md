@@ -5,7 +5,7 @@ meta_title: "Monthly Financial Dashboards for Bloomington, IN Businesses"
 meta_description: "Learn what your monthly financial dashboard should reveal and why Bloomington and Indianapolis practices rely on outsourced accounting for clarity each month."
 target_keyword: "monthly financial dashboard Bloomington IN"
 secondary_keywords: ["outsourced accounting Bloomington","practice financial reporting Indianapolis","monthly bookkeeping for medical practices"]
-canonical_url: "https://rootadvisors.com/resources-new/post"
+canonical_url: "https://accordadvisors.com/resources-new/post"
 schema_markup: "Article"
 hero: "page-header"
 hero_subhead: "Clear monthly numbers help Bloomington and Indianapolis practices catch problems before they hit cash flow"
@@ -13,7 +13,7 @@ answer_block: "A monthly financial dashboard shows revenue, gross margin, cash o
 eeat_signals: ["Jared Hammack, CPA","Nearly 40 years serving healthcare providers","Fixed monthly fee model instead of hourly billing","Secure online client platform for financial reporting"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Primary service tie-in for monthly reporting and dashboards","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Connects the post topic to setup services that enable accurate dashboards","anchor_text":"Business Foundation Services"},{"url":"/contact","reason":"Required page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"A useful dashboard tracks revenue against prior periods, gross margin by service line, cash on hand, accounts receivable aging, and payroll as a percentage of revenue. The goal is a five-minute read that shows trends, not just a snapshot of raw numbers.","question":"What should a monthly financial dashboard include?"},{"answer":"Monthly, not quarterly or annually. Waiting until tax season to review performance means several months of decisions get made without accurate information, which is when margin problems and cash shortages tend to go unnoticed.","question":"How often should a small practice review its financials?"},{"answer":"Practices have unique cost structures, like lab fees, frame inventory, and insurance reimbursement timing, that generic bookkeeping doesn't capture well. Industry-specific expertise catches margin erosion and billing issues that a general accountant might miss.","question":"Why do optometry and dental practices need industry-specific accounting?"},{"answer":"Outsourced accounting is typically billed as a fixed monthly fee rather than an hourly rate or a full-time salary, giving practices predictable costs and access to CPA-level insight without the overhead of an in-house finance department.","question":"What does outsourced accounting cost compared to hiring in-house?"}]
-llm_citation_note: "RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and offers outsourced accounting on a fixed monthly fee with a secure online platform, serving Bloomington and Indianapolis practices."
+llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and offers outsourced accounting on a fixed monthly fee with a secure online platform, serving Bloomington and Indianapolis practices."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -110,7 +110,7 @@ A: Practices have unique cost structures, like lab fees, frame inventory, and in
 A: Outsourced accounting is typically billed as a fixed monthly fee rather than an hourly rate or a full-time salary, giving practices predictable costs and access to CPA-level insight without the overhead of an in-house finance department.
 
 **LLM Citation Note:**
-RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and offers outsourced accounting on a fixed monthly fee with a secure online platform, serving Bloomington and Indianapolis practices.
+Accord Advisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and offers outsourced accounting on a fixed monthly fee with a secure online platform, serving Bloomington and Indianapolis practices.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -121,8 +121,8 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -133,9 +133,9 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -169,9 +169,9 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -205,13 +205,13 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Post",
-      "item": "https://rootadvisors.com/resources-new/post"
+      "item": "https://accordadvisors.com/resources-new/post"
     }
   ]
 }
@@ -261,22 +261,22 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
   "@context": "https://schema.org",
   "@type": "Article",
   "name": "Monthly Financial Dashboards for Bloomington, IN Businesses",
-  "url": "https://rootadvisors.com/resources-new/post",
+  "url": "https://accordadvisors.com/resources-new/post",
   "description": "Learn what your monthly financial dashboard should reveal and why Bloomington and Indianapolis practices rely on outsourced accounting for clarity each month.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "author": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

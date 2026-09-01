@@ -5,7 +5,7 @@ meta_title: "Insights Gallery | Financial Dashboards Bloomington, IN"
 meta_description: "See sample financial dashboards from Accord Advisors' insights gallery for optometry, medical, service business, and church clients in Bloomington and Indianapolis."
 target_keyword: "insights gallery Bloomington, IN"
 secondary_keywords: ["financial dashboards for practices","outsourced accounting reporting","real-time financial reporting Indiana","practice management dashboards","monthly financial reporting Bloomington"]
-canonical_url: "https://rootadvisors.com/insights-gallery"
+canonical_url: "https://accordadvisors.com/insights-gallery"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -128,8 +128,8 @@ Accord Advisors provides monthly financial dashboards to outsourced accounting c
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -140,9 +140,9 @@ Accord Advisors provides monthly financial dashboards to outsourced accounting c
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -176,9 +176,9 @@ Accord Advisors provides monthly financial dashboards to outsourced accounting c
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -212,7 +212,7 @@ Accord Advisors provides monthly financial dashboards to outsourced accounting c
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     }
   ]
 }
@@ -262,17 +262,17 @@ Accord Advisors provides monthly financial dashboards to outsourced accounting c
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Insights Gallery | Financial Dashboards Bloomington, IN",
-  "url": "https://rootadvisors.com/insights-gallery",
+  "url": "https://accordadvisors.com/insights-gallery",
   "description": "See sample financial dashboards from Accord Advisors' insights gallery for optometry, medical, service business, and church clients in Bloomington and Indianapolis.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Insights gallery",
   "audience": [

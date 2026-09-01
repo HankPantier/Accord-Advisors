@@ -5,7 +5,7 @@ meta_title: "Accounting for Financial Advisors | Accord Advisors"
 meta_description: "Outsourced accounting for financial advisors and RIA owners in Bloomington and Indianapolis. Fixed monthly fees, CFO-level insight, secure online access."
 target_keyword: "accounting for financial advisors"
 secondary_keywords: ["outsourced accounting for RIA firms","bookkeeping for financial advisors","payroll for advisory practices","CFO services for financial advisors"]
-canonical_url: "https://rootadvisors.com/industries/financial-advisors"
+canonical_url: "https://accordadvisors.com/industries/financial-advisors"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

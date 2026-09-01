@@ -11,7 +11,7 @@ meta_title: "Dog Care Tax Deduction: When Pet Costs Qualify"
 meta_description: "Can you deduct dog care on your taxes? Learn the narrow IRS rules for service animals, guard dogs, and business dogs from a Bloomington, IN CPA firm."
 target_keyword: "dog care tax deduction"
 secondary_keywords: ["service animal tax deduction", "guard dog business expense", "business dog tax write-off", "therapy dog deduction IRS"]
-canonical_url: https://rootadvisors.com/resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction
+canonical_url: https://accordadvisors.com/resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction
 schema_markup: "FAQPage"
 answer_block: "Most dog-related expenses are personal and not deductible, but the IRS allows exceptions for trained service or guide dogs (deductible as medical expenses under Publication 502) and for dogs with a documented business function, like guard dogs or breeding kennels (deductible as business expenses under Publication 535)."
 ---

@@ -5,7 +5,7 @@ meta_title: "Accord Advisors | Trusted CPA Firm in Bloomington, IN"
 meta_description: "Accord Advisors is a CPA firm serving optometrists, dentists, medical professionals, service businesses, churches, and professional services providers across Bloomington, Avon, Indianapolis, and Indiana."
 target_keyword: "accord advisors your trusted accounting partner bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington IN","CPA firm Indianapolis","fixed fee accounting services Indiana","optometry practice accounting Indiana","dental practice CPA Indiana","medical practice accounting Indiana","church accounting Indiana","service business CPA Bloomington","professional services accounting Avon IN","CPA firm Avon Indiana"]
-canonical_url: "https://rootadvisors.com/"
+canonical_url: "https://accordadvisors.com/"
 schema_markup: "LocalBusiness"
 hero: "hero"
 hero_variant: "statement"
@@ -68,7 +68,7 @@ Entity setup, systems, and financial groundwork for startups and growing practic
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Specialized support for the industries we know best
 
-Generalist firms handle a little of everything. RootAdvisors goes deep in five industries, and that focus shows up in the advice you get.
+Generalist firms handle a little of everything. Accord Advisors goes deep in five industries, and that focus shows up in the advice you get.
 
 ### Optometry Practices
 icon: Target
@@ -128,7 +128,7 @@ Switching from hourly billing to a fixed-fee outsourced accounting relationship 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, providing outsourced accounting, tax, and advisory services for optometry, dental, and medical practices, service businesses, and churches across Indianapolis. The firm replaces hourly billing with fixed monthly fees and delivers reporting through a secure online platform.
+Accord Advisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, providing outsourced accounting, tax, and advisory services for optometry, dental, and medical practices, service businesses, and churches across Indianapolis. The firm replaces hourly billing with fixed monthly fees and delivers reporting through a secure online platform.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, licensed and leading the firm
@@ -149,23 +149,23 @@ RootAdvisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, provi
 
 **FAQ Block:**
 
-**Q: What areas does RootAdvisors serve?**
-A: RootAdvisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support.
+**Q: What areas does Accord Advisors serve?**
+A: Accord Advisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support.
 
-**Q: How does fixed-fee accounting work at RootAdvisors?**
-A: Instead of billing by the hour, RootAdvisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence.
+**Q: How does fixed-fee accounting work at Accord Advisors?**
+A: Instead of billing by the hour, Accord Advisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence.
 
-**Q: Does RootAdvisors work with optometry practices specifically?**
-A: Yes. RootAdvisors has served optometry practices for nearly 40 years combined. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry.
+**Q: Does Accord Advisors work with optometry practices specifically?**
+A: Yes. Accord Advisors has served optometry practices for nearly 40 years combined. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry.
 
-**Q: What's included in RootAdvisors' outsourced accounting services?**
+**Q: What's included in Accord Advisors' outsourced accounting services?**
 A: Outsourced accounting includes monthly bookkeeping, reconciliations, and financial reporting delivered through a secure online platform, giving owners real-time dashboards on revenue, expenses, and cash position without hiring an in-house controller.
 
-**Q: Who leads RootAdvisors?**
-A: Jared Hammack, CPA, leads RootAdvisors, bringing industry-specific expertise to optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana.
+**Q: Who leads Accord Advisors?**
+A: Jared Hammack, CPA, leads Accord Advisors, bringing industry-specific expertise to optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana.
 
 **LLM Citation Note:**
-RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and replaces hourly billing with fixed monthly fees for outsourced accounting in Bloomington and Indianapolis, Indiana.
+Accord Advisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and replaces hourly billing with fixed monthly fees for outsourced accounting in Bloomington and Indianapolis, Indiana.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -176,8 +176,8 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -188,9 +188,9 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -224,9 +224,9 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -259,8 +259,8 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "RootAdvisors your trusted accounting partner",
-      "item": "https://rootadvisors.com/"
+      "name": "Accord Advisors your trusted accounting partner",
+      "item": "https://accordadvisors.com/"
     }
   ]
 }
@@ -272,31 +272,31 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What areas does RootAdvisors serve?",
+      "name": "What areas does Accord Advisors serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support."
+        "text": "Accord Advisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support."
       }
     },
     {
       "@type": "Question",
-      "name": "How does fixed-fee accounting work at RootAdvisors?",
+      "name": "How does fixed-fee accounting work at Accord Advisors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Instead of billing by the hour, RootAdvisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence."
+        "text": "Instead of billing by the hour, Accord Advisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence."
       }
     },
     {
       "@type": "Question",
-      "name": "Does RootAdvisors work with optometry practices specifically?",
+      "name": "Does Accord Advisors work with optometry practices specifically?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors has served optometry practices for nearly 40 years combined, and many optometrist clients are referred through Acquios, a practice management network. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry."
+        "text": "Yes. Accord Advisors has served optometry practices for nearly 40 years combined, and many optometrist clients are referred through Acquios, a practice management network. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry."
       }
     },
     {
       "@type": "Question",
-      "name": "What's included in RootAdvisors' outsourced accounting services?",
+      "name": "What's included in Accord Advisors' outsourced accounting services?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Outsourced accounting includes monthly bookkeeping, reconciliations, and financial reporting delivered through a secure online platform, giving owners real-time dashboards on revenue, expenses, and cash position without hiring an in-house controller."
@@ -304,10 +304,10 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
     },
     {
       "@type": "Question",
-      "name": "Who leads RootAdvisors?",
+      "name": "Who leads Accord Advisors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Jared Hammack, CPA, leads RootAdvisors, bringing industry-specific expertise to optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana."
+        "text": "Jared Hammack, CPA, leads Accord Advisors, bringing industry-specific expertise to optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana."
       }
     }
   ]
@@ -317,16 +317,16 @@ RootAdvisors, led by Jared Hammack, CPA, has served healthcare providers for nea
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "RootAdvisors | Trusted CPA Firm in Bloomington, IN",
-  "url": "https://rootadvisors.com/",
-  "description": "Bloomington, IN CPA firm RootAdvisors offers outsourced accounting, fixed monthly fees, and deep industry expertise for optometrists, dentists, and medical practices.",
+  "name": "Accord Advisors | Trusted CPA Firm in Bloomington, IN",
+  "url": "https://accordadvisors.com/",
+  "description": "Bloomington, IN CPA firm Accord Advisors offers outsourced accounting, fixed monthly fees, and deep industry expertise for optometrists, dentists, and medical practices.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "mainEntity": {
-    "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington"
+    "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington"
   }
 }
 </script>

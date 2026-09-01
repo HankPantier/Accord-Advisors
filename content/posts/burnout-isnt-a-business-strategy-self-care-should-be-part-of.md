@@ -11,7 +11,7 @@ meta_title: "Self-Care for Business Owners: A Financial Safeguard | Accord Advis
 meta_description: "Business owner burnout leads to costly mistakes. See why self-care protects judgment and profitability, and how outsourced accounting eases the load."
 target_keyword: "self-care for business owners"
 secondary_keywords: ["business owner burnout", "entrepreneur mental health", "work-life balance for small business owners", "sustainable business growth habits"]
-canonical_url: https://rootadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
+canonical_url: https://accordadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence, because exhaustion causes decision fatigue that leads to costly mistakes like missed deadlines, bad hires, and unread contracts. Building rest and delegation into the business structure, including outsourced accounting for routine financial tasks, protects the owner's judgment and the company's profitability."
 ---

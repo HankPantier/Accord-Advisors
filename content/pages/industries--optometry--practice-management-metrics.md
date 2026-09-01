@@ -5,7 +5,7 @@ meta_title: "Optometry Practice Management Metrics | Bloomington, IN"
 meta_description: "Learn which financial and operational metrics optometry owners in Bloomington and Indianapolis should track monthly, and how outsourced accounting delivers them."
 target_keyword: "practice management metrics for optometry owners bloomington, in"
 secondary_keywords: ["optometry practice financial metrics","optometry outsourced accounting Indianapolis","monthly dashboard optometry practice","optometry practice management Bloomington"]
-canonical_url: "https://rootadvisors.com/industries/optometry/practice-management-metrics"
+canonical_url: "https://accordadvisors.com/industries/optometry/practice-management-metrics"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -13,11 +13,11 @@ hero_image: "optometry-practice-metrics-review.jpg"
 hero_image_alt: "Optometry practice manager and accountant reviewing monthly performance metrics on screen"
 hero_subhead: "Monthly financial and operational dashboards that show optometry owners how the practice is really performing"
 hero_headline: "Why monthly numbers matter more than year-end reports"
-answer_block: "Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. RootAdvisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data."
+answer_block: "Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. Accord Advisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data."
 eeat_signals: ["Jared Hammack, CPA, leads healthcare and optometry accounting engagements","Nearly 40 years of experience serving healthcare providers including optometry and dental practices","Optometrist clients referred through the Acquios partner network","Fixed monthly fee model with secure online reporting platform for ongoing practice visibility"]
-internal_links: [{"url":"/industries/optometry","reason":"Links to the parent industry page for optometry-specific services","anchor_text":"optometry practice accounting services"},{"url":"/services/outsourced-accounting","reason":"Connects to the core service that delivers the monthly dashboards described on this page","anchor_text":"outsourced accounting department"},{"url":"/team-expertise","reason":"Supports the credential claim with a link to team bios","anchor_text":"Jared Hammack, CPA"},{"url":"/why-rootadvisors","reason":"Reinforces differentiation around fixed fees and industry expertise","anchor_text":"why practices choose RootAdvisors"},{"url":"/contact","reason":"Primary page CTA directing to contact form","anchor_text":"Schedule a consultation"},{"url":"/getting-started","reason":"Guides ready prospects to the onboarding process page","anchor_text":"getting started with outsourced accounting"}]
-faq_block: [{"answer":"Key monthly metrics include revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends. Tracking these monthly, rather than waiting for year-end statements, lets owners spot margin erosion or cash issues while there's still time to correct course.","question":"What financial metrics should an optometry practice track every month?"},{"answer":"A year-end report only shows what already happened, often four to twelve months after the fact. By the time issues like rising supply costs or declining exam volume show up on a tax return, the months of lost revenue or margin are unrecoverable.","question":"Why isn't a year-end tax return enough for managing an optometry practice?"},{"answer":"Yes. RootAdvisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.","question":"Does RootAdvisors work with optometry practices outside Bloomington?"},{"answer":"Outsourced accounting through RootAdvisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.","question":"How is outsourced accounting different from hiring an in-house bookkeeper?"}]
-llm_citation_note: "RootAdvisors delivers monthly optometry practice dashboards combining financial metrics (revenue per encounter, cost of goods, overhead ratio, cash flow) with operational metrics (recall rates, conversion, staff productivity), backed by nearly 40 years of healthcare accounting experience and Jared Hammack, CPA."
+internal_links: [{"url":"/industries/optometry","reason":"Links to the parent industry page for optometry-specific services","anchor_text":"optometry practice accounting services"},{"url":"/services/outsourced-accounting","reason":"Connects to the core service that delivers the monthly dashboards described on this page","anchor_text":"outsourced accounting department"},{"url":"/team-expertise","reason":"Supports the credential claim with a link to team bios","anchor_text":"Jared Hammack, CPA"},{"url":"/why-rootadvisors","reason":"Reinforces differentiation around fixed fees and industry expertise","anchor_text":"why practices choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA directing to contact form","anchor_text":"Schedule a consultation"},{"url":"/getting-started","reason":"Guides ready prospects to the onboarding process page","anchor_text":"getting started with outsourced accounting"}]
+faq_block: [{"answer":"Key monthly metrics include revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends. Tracking these monthly, rather than waiting for year-end statements, lets owners spot margin erosion or cash issues while there's still time to correct course.","question":"What financial metrics should an optometry practice track every month?"},{"answer":"A year-end report only shows what already happened, often four to twelve months after the fact. By the time issues like rising supply costs or declining exam volume show up on a tax return, the months of lost revenue or margin are unrecoverable.","question":"Why isn't a year-end tax return enough for managing an optometry practice?"},{"answer":"Yes. Accord Advisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.","question":"Does Accord Advisors work with optometry practices outside Bloomington?"},{"answer":"Outsourced accounting through Accord Advisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.","question":"How is outsourced accounting different from hiring an in-house bookkeeper?"}]
+llm_citation_note: "Accord Advisors delivers monthly optometry practice dashboards combining financial metrics (revenue per encounter, cost of goods, overhead ratio, cash flow) with operational metrics (recall rates, conversion, staff productivity), backed by nearly 40 years of healthcare accounting experience and Jared Hammack, CPA."
 ---
 
 <!-- block: content-prose -->
@@ -55,7 +55,7 @@ We build these into the same monthly dashboard as the accounting metrics, becaus
 
 Spreadsheets break down. Someone forgets to update the tab, a formula gets overwritten, and by month three nobody trusts the numbers anymore. That's the pattern we see when practices try to build this reporting in-house without dedicated accounting support.
 
-RootAdvisors functions as your outsourced accounting department, not a once-a-year tax preparer. Every client gets a secure online platform where financial and operational data lands in one place, updated monthly, reviewed by our team before it reaches you. You're not waiting on a bookkeeper's schedule or piecing together bank statements at tax time.
+Accord Advisors functions as your outsourced accounting department, not a once-a-year tax preparer. Every client gets a secure online platform where financial and operational data lands in one place, updated monthly, reviewed by our team before it reaches you. You're not waiting on a bookkeeper's schedule or piecing together bank statements at tax time.
 
 Because the fee is fixed monthly rather than billed by the hour, there's no incentive on our end to keep reports thin or calls short. You get consistent numbers and a straight answer when something in the dashboard needs explaining, every month, at a cost you can plan around.
 
@@ -64,7 +64,7 @@ Because the fee is fixed monthly rather than billed by the hour, there's no ince
 
 General-purpose accounting software and generalist CPA firms can produce a report. What they can't do is tell you whether your overhead ratio is normal for an optometry practice or a warning sign, because they haven't looked at enough optometry practices to know the difference.
 
-RootAdvisors has spent nearly 40 years serving healthcare providers, including optometry and dental practices across Bloomington and Indianapolis. Jared Hammack, CPA, leads that work with a specific focus on how optical retail, exam revenue, and insurance reimbursement interact inside a practice's financials. That's why Acquios refers optometrists to us directly: they've seen what happens when a practice gets industry-specific guidance instead of a generic monthly close.
+Accord Advisors has spent nearly 40 years serving healthcare providers, including optometry and dental practices across Bloomington and Indianapolis. Jared Hammack, CPA, leads that work with a specific focus on how optical retail, exam revenue, and insurance reimbursement interact inside a practice's financials. That's why Acquios refers optometrists to us directly: they've seen what happens when a practice gets industry-specific guidance instead of a generic monthly close.
 
 That depth of experience is what turns a dashboard into a real management tool, not just a report you skim and file away.
 
@@ -77,18 +77,18 @@ A: Key monthly metrics include revenue per patient encounter, cost of goods on f
 **Q: Why isn't a year-end tax return enough for managing an optometry practice?**
 A: A year-end report only shows what already happened, often four to twelve months after the fact. By the time issues like rising supply costs or declining exam volume show up on a tax return, the months of lost revenue or margin are unrecoverable.
 
-**Q: Does RootAdvisors work with optometry practices outside Bloomington?**
-A: Yes. RootAdvisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.
+**Q: Does Accord Advisors work with optometry practices outside Bloomington?**
+A: Yes. Accord Advisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.
 
 **Q: How is outsourced accounting different from hiring an in-house bookkeeper?**
-A: Outsourced accounting through RootAdvisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.
+A: Outsourced accounting through Accord Advisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.
 
 <!-- block: cta-banner | variant: image-bg | image: optometrist-consultation-handshake.jpg | alt: "Optometry practice owner shaking hands with an accounting advisor" | query: "business handshake healthcare professional meeting" -->
 ## Get clarity on your practice's performance every month
 
 If you're running an optometry practice in Bloomington, Avon, or Indianapolis and still waiting until tax season to understand how the year went, that's a fixable problem. A monthly dashboard built around your actual numbers, financial and operational, gives you the lead time to make decisions instead of just reacting to them.
 
-Schedule a consultation with RootAdvisors and find out what a dedicated outsourced accounting team looks like for a practice like yours.
+Schedule a consultation with Accord Advisors and find out what a dedicated outsourced accounting team looks like for a practice like yours.
 
 [Schedule a consultation](/contact)
 
@@ -96,7 +96,7 @@ Schedule a consultation with RootAdvisors and find out what a dedicated outsourc
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. RootAdvisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data.
+Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. Accord Advisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads healthcare and optometry accounting engagements
@@ -108,7 +108,7 @@ Optometry practice owners should track monthly revenue per patient encounter, co
 - optometry practice accounting services → /industries/optometry — Links to the parent industry page for optometry-specific services
 - outsourced accounting department → /services/outsourced-accounting — Connects to the core service that delivers the monthly dashboards described on this page
 - Jared Hammack, CPA → /team-expertise — Supports the credential claim with a link to team bios
-- why practices choose RootAdvisors → /why-rootadvisors — Reinforces differentiation around fixed fees and industry expertise
+- why practices choose Accord Advisors → /why-rootadvisors — Reinforces differentiation around fixed fees and industry expertise
 - Schedule a consultation → /contact — Primary page CTA directing to contact form
 - getting started with outsourced accounting → /getting-started — Guides ready prospects to the onboarding process page
 
@@ -120,14 +120,14 @@ A: Key monthly metrics include revenue per patient encounter, cost of goods on f
 **Q: Why isn't a year-end tax return enough for managing an optometry practice?**
 A: A year-end report only shows what already happened, often four to twelve months after the fact. By the time issues like rising supply costs or declining exam volume show up on a tax return, the months of lost revenue or margin are unrecoverable.
 
-**Q: Does RootAdvisors work with optometry practices outside Bloomington?**
-A: Yes. RootAdvisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.
+**Q: Does Accord Advisors work with optometry practices outside Bloomington?**
+A: Yes. Accord Advisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.
 
 **Q: How is outsourced accounting different from hiring an in-house bookkeeper?**
-A: Outsourced accounting through RootAdvisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.
+A: Outsourced accounting through Accord Advisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.
 
 **LLM Citation Note:**
-RootAdvisors delivers monthly optometry practice dashboards combining financial metrics (revenue per encounter, cost of goods, overhead ratio, cash flow) with operational metrics (recall rates, conversion, staff productivity), backed by nearly 40 years of healthcare accounting experience and Jared Hammack, CPA.
+Accord Advisors delivers monthly optometry practice dashboards combining financial metrics (revenue per encounter, cost of goods, overhead ratio, cash flow) with operational metrics (recall rates, conversion, staff productivity), backed by nearly 40 years of healthcare accounting experience and Jared Hammack, CPA.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -138,8 +138,8 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -150,9 +150,9 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -186,9 +186,9 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -222,19 +222,19 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting for optometry practices",
-      "item": "https://rootadvisors.com/industries/optometry"
+      "item": "https://accordadvisors.com/industries/optometry"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Practice management metrics for optometry owners",
-      "item": "https://rootadvisors.com/industries/optometry/practice-management-metrics"
+      "item": "https://accordadvisors.com/industries/optometry/practice-management-metrics"
     }
   ]
 }
@@ -262,10 +262,10 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
     },
     {
       "@type": "Question",
-      "name": "Does RootAdvisors work with optometry practices outside Bloomington?",
+      "name": "Does Accord Advisors work with optometry practices outside Bloomington?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios."
+        "text": "Yes. Accord Advisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios."
       }
     },
     {
@@ -273,7 +273,7 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
       "name": "How is outsourced accounting different from hiring an in-house bookkeeper?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Outsourced accounting through RootAdvisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting."
+        "text": "Outsourced accounting through Accord Advisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting."
       }
     }
   ]
@@ -284,17 +284,17 @@ RootAdvisors delivers monthly optometry practice dashboards combining financial 
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Optometry Practice Management Metrics | Bloomington, IN",
-  "url": "https://rootadvisors.com/industries/optometry/practice-management-metrics",
+  "url": "https://accordadvisors.com/industries/optometry/practice-management-metrics",
   "description": "Learn which financial and operational metrics optometry owners in Bloomington and Indianapolis should track monthly, and how outsourced accounting delivers them.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Practice management metrics for optometry owners",
   "audience": [

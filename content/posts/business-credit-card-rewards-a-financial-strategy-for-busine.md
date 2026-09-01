@@ -11,7 +11,7 @@ meta_title: "Business Credit Card Rewards Strategy | Accord Advisors"
 meta_description: "Learn how to build a business credit card rewards strategy, whether rewards are taxable, and how to pick the right card for your practice or business."
 target_keyword: "business credit card rewards strategy"
 secondary_keywords: ["best business credit card for small business taxes", "are credit card rewards taxable for businesses", "how to choose a business credit card", "maximize business credit card points"]
-canonical_url: https://rootadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
+canonical_url: https://accordadvisors.com/resources/business-credit-card-rewards-a-financial-strategy-for-busine
 schema_markup: "FAQPage"
 answer_block: "Business credit card rewards earned through normal purchases are generally treated as a rebate, not taxable income, but the real value comes from matching a card's rewards structure to your actual spending categories and reconciling redemptions cleanly in your books. Choosing based on annual spend data, rather than sign-up bonuses, is what turns a card into a genuine financial strategy."
 ---

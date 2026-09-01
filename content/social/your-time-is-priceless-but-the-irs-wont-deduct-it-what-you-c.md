@@ -10,14 +10,14 @@ What does count: 14 cents per mile driven to volunteer shifts, parking and tolls
 
 Bloomington and Indianapolis have no shortage of IU-affiliated volunteer programs, mission trips, and nonprofit boards racking up real costs every year. Most of those dollars go unclaimed simply because nobody tracked the mileage log.
 
-Read the full breakdown of what qualifies and what records to keep: https://rootadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
+Read the full breakdown of what qualifies and what records to keep: https://accordadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
 
 #TaxTips #Volunteering #Bloomington #Indianapolis #Nonprofits
 
 ## Twitter / X
 
-Volunteer hours are worth $0 to the IRS, but the drive to get there isn't. Deduct 14 cents per mile plus supplies and uniforms. Full rules: https://rootadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c #TaxTips
+Volunteer hours are worth $0 to the IRS, but the drive to get there isn't. Deduct 14 cents per mile plus supplies and uniforms. Full rules: https://accordadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c #TaxTips
 
 ## Facebook
 
-If you drove to the food pantry every Saturday or bought paint for a church mission trip, some of that spending is tax deductible, even though your time isn't. The IRS lets you claim 14 cents per mile for volunteer driving, plus supplies, uniforms, and even parking fees, as long as you keep a simple log. Cross $250 in costs for one organization and you'll need a short written acknowledgment from them before you file. See exactly what qualifies and what records to keep: https://rootadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
+If you drove to the food pantry every Saturday or bought paint for a church mission trip, some of that spending is tax deductible, even though your time isn't. The IRS lets you claim 14 cents per mile for volunteer driving, plus supplies, uniforms, and even parking fees, as long as you keep a simple log. Cross $250 in costs for one organization and you'll need a short written acknowledgment from them before you file. See exactly what qualifies and what records to keep: https://accordadvisors.com/resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c

@@ -5,7 +5,7 @@ meta_title: "From Workshop to World Stage | Bloomington, IN CPA"
 meta_description: "How a Bloomington craftsman scaled from a garage workshop to national orders with outsourced accounting and Business Foundation Services from Accord Advisors."
 target_keyword: "from workshop to world stage bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","business foundation services Indiana","service business accounting Indianapolis","fixed fee accounting Bloomington"]
-canonical_url: "https://rootadvisors.com/from-workshop-to-world-stage"
+canonical_url: "https://accordadvisors.com/from-workshop-to-world-stage"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -133,8 +133,8 @@ Accord Advisors provides fixed-fee outsourced accounting and Business Foundation
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -145,9 +145,9 @@ Accord Advisors provides fixed-fee outsourced accounting and Business Foundation
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -181,9 +181,9 @@ Accord Advisors provides fixed-fee outsourced accounting and Business Foundation
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -217,19 +217,19 @@ Accord Advisors provides fixed-fee outsourced accounting and Business Foundation
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "From workshop to world stage",
-      "item": "https://rootadvisors.com/from-workshop-to-world-stage"
+      "item": "https://accordadvisors.com/from-workshop-to-world-stage"
     }
   ]
 }
@@ -279,17 +279,17 @@ Accord Advisors provides fixed-fee outsourced accounting and Business Foundation
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "From Workshop to World Stage | Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/from-workshop-to-world-stage",
+  "url": "https://accordadvisors.com/from-workshop-to-world-stage",
   "description": "How a Bloomington craftsman scaled from a garage workshop to national orders with outsourced accounting and Business Foundation Services from Accord Advisors.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "From workshop to world stage",
   "audience": [

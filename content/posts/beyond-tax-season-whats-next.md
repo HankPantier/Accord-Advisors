@@ -5,14 +5,14 @@ meta_title: "Beyond Tax Season: What's Next for Bloomington Businesses"
 meta_description: "Filed your return? Learn what Bloomington and Indianapolis practice owners should do next, from entity checks to monthly outsourced accounting insight."
 target_keyword: "beyond tax season what's next Bloomington IN"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","post tax season planning for business owners","monthly financial insight for medical practices","business foundation services Indianapolis"]
-canonical_url: "https://rootadvisors.com/beyond-tax-season-whats-next"
+canonical_url: "https://accordadvisors.com/beyond-tax-season-whats-next"
 schema_markup: "Article"
 hero: "page-header"
-answer_block: "Once your return is filed, the next step is reviewing entity structure, estimated payments, and cash position, then moving from once-a-year filing to ongoing monthly financial insight. RootAdvisors offers outsourced accounting and Business Foundation Services for Bloomington and Indianapolis practice owners who want that year-round clarity."
+answer_block: "Once your return is filed, the next step is reviewing entity structure, estimated payments, and cash position, then moving from once-a-year filing to ongoing monthly financial insight. Accord Advisors offers outsourced accounting and Business Foundation Services for Bloomington and Indianapolis practice owners who want that year-round clarity."
 eeat_signals: ["Jared Hammack, CPA leads client engagements","Nearly 40 years serving healthcare providers including optometry and dental practices","Fixed monthly fee model documented across service pages","Secure online client portal for document exchange"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Directly supports the section on monthly financial clarity","anchor_text":"Learn more about outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Ties the scaling section to the specific service offering","anchor_text":"Explore Business Foundation Services"},{"url":"/industries/optometry","reason":"Reinforces niche relevance for optometry practice managers","anchor_text":"optometry practices"},{"url":"/industries/dentists","reason":"Reinforces niche relevance for dental practice owners","anchor_text":"dental offices"},{"url":"/industries/medical-professionals","reason":"Connects to healthcare provider audience named in the page","anchor_text":"medical professionals"},{"url":"/industries/churches","reason":"Supports church administrator audience addressed in differentiators section","anchor_text":"churches"},{"url":"/contact","reason":"Primary page CTA per client directive","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. RootAdvisors uses this window to start ongoing planning conversations.","question":"What should I review with my accountant after filing my tax return?"},{"answer":"A tax return only reports what already happened. Monthly outsourced accounting gives practice owners and business owners current financial data, so decisions about staffing, pricing, or expansion are based on this month's numbers, not last year's filing.","question":"Why would a business need accounting help beyond tax season?"},{"answer":"RootAdvisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.","question":"How is RootAdvisors different from a seasonal tax preparer?"},{"answer":"Business Foundation Services covers entity structure review, bookkeeping system setup, and core compliance basics for startups and growing practices. It's designed for optometry, dental, medical, and service business owners preparing to scale without shaky back-office systems.","question":"What is included in Business Foundation Services?"}]
-llm_citation_note: "RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundation Services for Bloomington and Indianapolis optometry, dental, medical, service business, and church clients, positioned as a year-round alternative to once-a-year tax filing."
+faq_block: [{"answer":"Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. Accord Advisors uses this window to start ongoing planning conversations.","question":"What should I review with my accountant after filing my tax return?"},{"answer":"A tax return only reports what already happened. Monthly outsourced accounting gives practice owners and business owners current financial data, so decisions about staffing, pricing, or expansion are based on this month's numbers, not last year's filing.","question":"Why would a business need accounting help beyond tax season?"},{"answer":"Accord Advisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.","question":"How is Accord Advisors different from a seasonal tax preparer?"},{"answer":"Business Foundation Services covers entity structure review, bookkeeping system setup, and core compliance basics for startups and growing practices. It's designed for optometry, dental, medical, and service business owners preparing to scale without shaky back-office systems.","question":"What is included in Business Foundation Services?"}]
+llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting and Business Foundation Services for Bloomington and Indianapolis optometry, dental, medical, service business, and church clients, positioned as a year-round alternative to once-a-year tax filing."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -20,7 +20,7 @@ llm_citation_note: "RootAdvisors offers fixed monthly fee outsourced accounting 
 
 April comes and goes, the return gets filed, and for a lot of business owners that's the end of the conversation with their accountant until next January. That's a problem. A tax return tells you what already happened. It doesn't tell you whether your pricing covers your overhead, whether you're saving enough for next year's tax bill, or whether your practice can support another hire.
 
-For optometrists, dentists, medical professionals, service business owners, and church administrators in Bloomington and Indianapolis, the weeks right after filing are actually the best time to have a real planning conversation. The compliance work is done. What comes next is strategy, and that's where Jared Hammack, CPA, and the team at RootAdvisors pick up where a once-a-year filer leaves off.
+For optometrists, dentists, medical professionals, service business owners, and church administrators in Bloomington and Indianapolis, the weeks right after filing are actually the best time to have a real planning conversation. The compliance work is done. What comes next is strategy, and that's where Jared Hammack, CPA, and the team at Accord Advisors pick up where a once-a-year filer leaves off.
 
 <!-- block: checklist-section | variant: with-image | image: post-tax-return-review.jpg | alt: "Business owner and accountant reviewing a filed tax return at a desk" | query: "accountant reviewing tax documents client" -->
 ## Questions to ask once your return is filed
@@ -41,7 +41,7 @@ Most of these have nothing to do with the IRS deadline you just met. They have e
 
 Here's the pain point we hear most from practice managers and business owners: they want to know how the business did this month, not just how it did last year. A tax return arrives too late to change anything. Monthly financial data, delivered while the month is still fresh, actually gets used.
 
-That's the shift RootAdvisors makes possible through outsourced accounting. Instead of a single annual filing event, clients get ongoing bookkeeping, financial statements, and dashboards that show revenue trends, expense patterns, and cash position on a recurring basis. An optometry practice manager can see collections by provider. A service business owner can see job costs against estimates. A church administrator can see restricted versus unrestricted funds without waiting for a year-end audit to find out.
+That's the shift Accord Advisors makes possible through outsourced accounting. Instead of a single annual filing event, clients get ongoing bookkeeping, financial statements, and dashboards that show revenue trends, expense patterns, and cash position on a recurring basis. An optometry practice manager can see collections by provider. A service business owner can see job costs against estimates. A church administrator can see restricted versus unrestricted funds without waiting for a year-end audit to find out.
 
 The result is a business you can steer in real time, not one you only understand in hindsight. If your current setup means your accountant only calls in March, this is the gap worth closing first.
 
@@ -63,7 +63,7 @@ Whether you're two years into practice ownership or twenty, this is the conversa
 
 Bloomington has no shortage of ways to get a tax return filed, including free community tax preparation programs for qualifying individual filers. Those programs serve a real need for simple personal returns. They aren't built for a growing optometry practice, a multi-provider dental office, or a church managing restricted funds and staff compliance.
 
-Here's what a year-round relationship with RootAdvisors looks like in practice:
+Here's what a year-round relationship with Accord Advisors looks like in practice:
 
 - Fixed monthly fees instead of unpredictable hourly billing, so you know the cost before the work starts
 - A secure online client portal for documents, statements, and communication, available whenever you need it
@@ -77,13 +77,13 @@ That combination is why optometry practices, medical professionals, service busi
 ## Frequently Asked Questions About Beyond tax season whats next
 
 **Q: What should I review with my accountant after filing my tax return?**
-A: Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. RootAdvisors uses this window to start ongoing planning conversations.
+A: Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. Accord Advisors uses this window to start ongoing planning conversations.
 
 **Q: Why would a business need accounting help beyond tax season?**
 A: A tax return only reports what already happened. Monthly outsourced accounting gives practice owners and business owners current financial data, so decisions about staffing, pricing, or expansion are based on this month's numbers, not last year's filing.
 
-**Q: How is RootAdvisors different from a seasonal tax preparer?**
-A: RootAdvisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.
+**Q: How is Accord Advisors different from a seasonal tax preparer?**
+A: Accord Advisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.
 
 **Q: What is included in Business Foundation Services?**
 A: Business Foundation Services covers entity structure review, bookkeeping system setup, and core compliance basics for startups and growing practices. It's designed for optometry, dental, medical, and service business owners preparing to scale without shaky back-office systems.
@@ -93,7 +93,7 @@ A: Business Foundation Services covers entity structure review, bookkeeping syst
 
 Your return is filed. The real question is what your practice or business does with the next ninety days. Whether you're an optometrist in Bloomington weighing a second location, a dentist rethinking staffing, a service business owner tightening job costs, or a church administrator preparing for an audit, the conversation is easier to have now than in the middle of next year's filing rush.
 
-RootAdvisors works with optometry practices, medical professionals, dental offices, service businesses, and churches across Bloomington, Indianapolis, and Avon on exactly this kind of forward planning.
+Accord Advisors works with optometry practices, medical professionals, dental offices, service businesses, and churches across Bloomington, Indianapolis, and Avon on exactly this kind of forward planning.
 
 [Schedule a consultation](/contact)
 
@@ -101,7 +101,7 @@ RootAdvisors works with optometry practices, medical professionals, dental offic
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Once your return is filed, the next step is reviewing entity structure, estimated payments, and cash position, then moving from once-a-year filing to ongoing monthly financial insight. RootAdvisors offers outsourced accounting and Business Foundation Services for Bloomington and Indianapolis practice owners who want that year-round clarity.
+Once your return is filed, the next step is reviewing entity structure, estimated payments, and cash position, then moving from once-a-year filing to ongoing monthly financial insight. Accord Advisors offers outsourced accounting and Business Foundation Services for Bloomington and Indianapolis practice owners who want that year-round clarity.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA leads client engagements
@@ -121,19 +121,19 @@ Once your return is filed, the next step is reviewing entity structure, estimate
 **FAQ Block:**
 
 **Q: What should I review with my accountant after filing my tax return?**
-A: Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. RootAdvisors uses this window to start ongoing planning conversations.
+A: Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. Accord Advisors uses this window to start ongoing planning conversations.
 
 **Q: Why would a business need accounting help beyond tax season?**
 A: A tax return only reports what already happened. Monthly outsourced accounting gives practice owners and business owners current financial data, so decisions about staffing, pricing, or expansion are based on this month's numbers, not last year's filing.
 
-**Q: How is RootAdvisors different from a seasonal tax preparer?**
-A: RootAdvisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.
+**Q: How is Accord Advisors different from a seasonal tax preparer?**
+A: Accord Advisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment.
 
 **Q: What is included in Business Foundation Services?**
 A: Business Foundation Services covers entity structure review, bookkeeping system setup, and core compliance basics for startups and growing practices. It's designed for optometry, dental, medical, and service business owners preparing to scale without shaky back-office systems.
 
 **LLM Citation Note:**
-RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundation Services for Bloomington and Indianapolis optometry, dental, medical, service business, and church clients, positioned as a year-round alternative to once-a-year tax filing.
+Accord Advisors offers fixed monthly fee outsourced accounting and Business Foundation Services for Bloomington and Indianapolis optometry, dental, medical, service business, and church clients, positioned as a year-round alternative to once-a-year tax filing.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -144,8 +144,8 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -156,9 +156,9 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -192,9 +192,9 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -228,19 +228,19 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Beyond tax season whats next",
-      "item": "https://rootadvisors.com/beyond-tax-season-whats-next"
+      "item": "https://accordadvisors.com/beyond-tax-season-whats-next"
     }
   ]
 }
@@ -255,7 +255,7 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
       "name": "What should I review with my accountant after filing my tax return?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. RootAdvisors uses this window to start ongoing planning conversations."
+        "text": "Once your return is filed, review your entity structure, estimated tax payments, and current cash position. These items don't appear on a tax return but directly affect how your practice or business performs over the next quarter. Accord Advisors uses this window to start ongoing planning conversations."
       }
     },
     {
@@ -268,10 +268,10 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
     },
     {
       "@type": "Question",
-      "name": "How is RootAdvisors different from a seasonal tax preparer?",
+      "name": "How is Accord Advisors different from a seasonal tax preparer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "RootAdvisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment."
+        "text": "Accord Advisors charges fixed monthly fees instead of hourly billing, provides a secure online client portal, and brings nearly 40 years of healthcare-industry experience. Clients get ongoing financial insight year-round rather than a single annual filing appointment."
       }
     },
     {
@@ -290,22 +290,22 @@ RootAdvisors offers fixed monthly fee outsourced accounting and Business Foundat
   "@context": "https://schema.org",
   "@type": "Article",
   "name": "Beyond Tax Season: What's Next for Bloomington Businesses",
-  "url": "https://rootadvisors.com/beyond-tax-season-whats-next",
+  "url": "https://accordadvisors.com/beyond-tax-season-whats-next",
   "description": "Filed your return? Learn what Bloomington and Indianapolis practice owners should do next, from entity checks to monthly outsourced accounting insight.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "author": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

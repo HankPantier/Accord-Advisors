@@ -5,7 +5,7 @@ meta_title: "Accounting for Law Firms | Accord Advisors CPA"
 meta_description: "Outsourced accounting for law firms: trust account reconciliation, partner distributions, payroll, and CFO-level insight for a fixed monthly fee. Schedule a consultation."
 target_keyword: "accounting for law firms"
 secondary_keywords: ["trust account reconciliation","IOLTA compliance","law firm bookkeeping","outsourced accounting for attorneys","partner distribution calculations"]
-canonical_url: "https://rootadvisors.com/industries/law-firms"
+canonical_url: "https://accordadvisors.com/industries/law-firms"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

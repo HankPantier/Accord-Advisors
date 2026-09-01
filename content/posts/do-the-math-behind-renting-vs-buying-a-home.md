@@ -11,7 +11,7 @@ meta_title: "Buy vs Rent a Home: The Financial Math Explained | Accord Advisors"
 meta_description: "Deciding between buying or renting a home? Accord Advisors, a Bloomington, IN CPA firm, breaks down the real monthly costs, tax impact, and breakeven timeline behind the decision."
 target_keyword: "buy vs rent home financially"
 secondary_keywords: ["cost of buying vs renting a home", "is renting better than buying", "financial planning for homeownership", "rent vs buy calculator"]
-canonical_url: https://rootadvisors.com/resources/do-the-math-behind-renting-vs-buying-a-home
+canonical_url: https://accordadvisors.com/resources/do-the-math-behind-renting-vs-buying-a-home
 schema_markup: "FAQPage"
 answer_block: "Whether buying or renting makes more financial sense depends on your time horizon, local price-to-rent ratio, and what your down payment could earn if invested instead. Buying tends to win only if you'll stay at least five years and your monthly costs aren't dramatically higher than renting; otherwise renting and investing the difference often comes out ahead."
 ---

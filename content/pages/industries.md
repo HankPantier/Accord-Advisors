@@ -5,7 +5,7 @@ meta_title: "Industries We Serve in Bloomington, Indianapolis & Indiana | Accord
 meta_description: "Accord Advisors serves optometry, dental, medical, professional service, and church clients in Bloomington, Indianapolis, and across Indiana with fixed-fee outsourced accounting."
 target_keyword: "industries we serve Bloomington Indianapolis Indiana"
 secondary_keywords: ["optometry accounting Indiana","dental practice accounting Bloomington","outsourced accounting Indianapolis","church accounting services","professional services accounting Indiana","attorney accounting services Indiana","consulting firm accounting Indianapolis","advertising agency accounting Indiana","financial advisor accounting Indiana","outsourced accounting Indiana"]
-canonical_url: "https://rootadvisors.com/industries"
+canonical_url: "https://accordadvisors.com/industries"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -141,8 +141,8 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -153,9 +153,9 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -189,9 +189,9 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -225,7 +225,7 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     }
   ]
 }
@@ -267,17 +267,17 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Industries We Serve in Bloomington, IN | Accord Advisors",
-  "url": "https://rootadvisors.com/industries",
+  "url": "https://accordadvisors.com/industries",
   "description": "Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis with fixed-fee outsourced accounting.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Industries we serve",
   "audience": [

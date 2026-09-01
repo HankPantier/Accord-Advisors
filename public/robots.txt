@@ -24,6 +24,6 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap and LLM context files
-Sitemap: https://rootadvisors.com/sitemap.xml
-Sitemap: https://rootadvisors.com/llms.txt
-Sitemap: https://rootadvisors.com/llms-full.txt
+Sitemap: https://accordadvisors.com/sitemap.xml
+Sitemap: https://accordadvisors.com/llms.txt
+Sitemap: https://accordadvisors.com/llms-full.txt

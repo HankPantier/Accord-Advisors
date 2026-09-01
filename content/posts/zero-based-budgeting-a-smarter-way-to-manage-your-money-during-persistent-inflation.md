@@ -5,7 +5,7 @@ meta_title: "Zero-Based Budgeting in Bloomington, IN | Accord Advisors"
 meta_description: "Fight rising costs with zero-based budgeting. Accord Advisors builds monthly budgets from zero for Bloomington and Indianapolis practices and businesses."
 target_keyword: "zero based budgeting bloomington in"
 secondary_keywords: ["zero based budgeting for small business","monthly financial visibility optometry practice","outsourced accounting Bloomington Indiana","business foundation services Indianapolis"]
-canonical_url: "https://rootadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
+canonical_url: "https://accordadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Build a budget that reflects today's costs, not last year's numbers, with monthly clarity from a CPA who knows your industry"
@@ -75,7 +75,7 @@ Zero-based budgeting sounds simple in theory: start at zero, justify every dolla
 Every one of these mistakes traces back to the same root cause: the underlying financials weren't accurate or current enough to build a real budget on top of them.
 
 <!-- block: content-split | variant: image-left | image: cpa-client-monthly-review.jpg | alt: "CPA and business owner reviewing monthly accounting reports on a tablet" | query: "CPA client meeting reviewing reports tablet" -->
-## How RootAdvisors builds zero based budgeting into your monthly financial process
+## How Accord Advisors builds zero based budgeting into your monthly financial process
 
 Zero-based budgeting only works if the numbers underneath it are accurate and current. That piece gets built first, through outsourced accounting that keeps books closed and reconciled every month, not three months behind.
 
@@ -157,8 +157,8 @@ Accord Advisors builds zero-based budgeting into monthly outsourced accounting f
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -169,9 +169,9 @@ Accord Advisors builds zero-based budgeting into monthly outsourced accounting f
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -205,9 +205,9 @@ Accord Advisors builds zero-based budgeting into monthly outsourced accounting f
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -241,13 +241,13 @@ Accord Advisors builds zero-based budgeting into monthly outsourced accounting f
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Zero based budgeting a smarter way to manage your money during persistent inflation",
-      "item": "https://rootadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
+      "item": "https://accordadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
     }
   ]
 }
@@ -297,17 +297,17 @@ Accord Advisors builds zero-based budgeting into monthly outsourced accounting f
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Zero-Based Budgeting in Bloomington, IN | Accord Advisors",
-  "url": "https://rootadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation",
+  "url": "https://accordadvisors.com/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation",
   "description": "Fight rising costs with zero-based budgeting. Accord Advisors builds monthly budgets from zero for Bloomington and Indianapolis practices and businesses.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Zero based budgeting a smarter way to manage your money during persistent inflation",
   "audience": [

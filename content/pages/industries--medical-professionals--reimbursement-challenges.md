@@ -5,7 +5,7 @@ meta_title: "Healthcare Reimbursement Challenges | Bloomington, IN CPA"
 meta_description: "Reimbursement delays and denials hurt more than billing. Accord Advisors gives Bloomington and Indianapolis healthcare providers monthly financial clarity and fixed-fee accounting."
 target_keyword: "reimbursement challenges for healthcare providers bloomington in"
 secondary_keywords: ["healthcare accounting Bloomington Indiana","medical practice financial management","outsourced accounting for physicians","payer reimbursement cash flow","CPA for medical practices Indiana"]
-canonical_url: "https://rootadvisors.com/industries/medical-professionals/reimbursement-challenges"
+canonical_url: "https://accordadvisors.com/industries/medical-professionals/reimbursement-challenges"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Monthly financial clarity that turns unpredictable payer reimbursement into a manageable, plannable part of running your practice"
@@ -138,8 +138,8 @@ Accord Advisors provides outsourced accounting and financial foundation services
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -150,9 +150,9 @@ Accord Advisors provides outsourced accounting and financial foundation services
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -186,9 +186,9 @@ Accord Advisors provides outsourced accounting and financial foundation services
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -222,19 +222,19 @@ Accord Advisors provides outsourced accounting and financial foundation services
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting for medical professionals",
-      "item": "https://rootadvisors.com/industries/medical-professionals"
+      "item": "https://accordadvisors.com/industries/medical-professionals"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Managing reimbursement challenges for healthcare providers",
-      "item": "https://rootadvisors.com/industries/medical-professionals/reimbursement-challenges"
+      "item": "https://accordadvisors.com/industries/medical-professionals/reimbursement-challenges"
     }
   ]
 }
@@ -284,17 +284,17 @@ Accord Advisors provides outsourced accounting and financial foundation services
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Healthcare Reimbursement Challenges | Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/industries/medical-professionals/reimbursement-challenges",
+  "url": "https://accordadvisors.com/industries/medical-professionals/reimbursement-challenges",
   "description": "Reimbursement delays and denials hurt more than billing. Accord Advisors gives Bloomington and Indianapolis healthcare providers monthly financial clarity and fixed-fee accounting.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Managing reimbursement challenges for healthcare providers",
   "audience": [

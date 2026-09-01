@@ -5,7 +5,7 @@ meta_title: "Accounting for Medical Professionals Bloomington IN"
 meta_description: "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington, Avon, Indianapolis, and across Indiana."
 target_keyword: "accounting for medical professionals Bloomington IN"
 secondary_keywords: ["CPA for doctors Bloomington Indiana","medical practice accounting services Bloomington","physician tax preparation Bloomington IN","healthcare professional accountant near me","outsourced accounting for medical practices Bloomington","doctor bookkeeping services Bloomington","medical professional tax planning Indiana","CPA for healthcare professionals Bloomington IN"]
-canonical_url: "https://rootadvisors.com/industries/medical-professionals"
+canonical_url: "https://accordadvisors.com/industries/medical-professionals"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -163,8 +163,8 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -175,9 +175,9 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -211,9 +211,9 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -247,13 +247,13 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting for medical professionals",
-      "item": "https://rootadvisors.com/industries/medical-professionals"
+      "item": "https://accordadvisors.com/industries/medical-professionals"
     }
   ]
 }
@@ -303,17 +303,17 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Accounting for Medical Professionals Bloomington IN",
-  "url": "https://rootadvisors.com/industries/medical-professionals",
+  "url": "https://accordadvisors.com/industries/medical-professionals",
   "description": "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Accounting for medical professionals",
   "audience": [

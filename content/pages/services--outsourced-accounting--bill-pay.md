@@ -5,7 +5,7 @@ meta_title: "Outsourced Bill Pay Services | Bloomington CPA Firm"
 meta_description: "Accord Advisors' outsourced bill pay service keeps vendor payments accurate and on time with fixed monthly fees and secure online approval in Bloomington, IN."
 target_keyword: "outsourced bill pay services"
 secondary_keywords: ["vendor payment management","accounts payable outsourcing","bill pay for small business","fixed fee accounting Bloomington"]
-canonical_url: "https://rootadvisors.com/services/outsourced-accounting/bill-pay"
+canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bill-pay"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

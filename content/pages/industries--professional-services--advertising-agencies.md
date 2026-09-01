@@ -5,7 +5,7 @@ meta_title: "Accounting for Advertising Agencies | Accord Advisors"
 meta_description: "Outsourced accounting for advertising agencies in Bloomington and Indianapolis. Fixed monthly fees, payroll, cash flow forecasting, and CFO-level insight."
 target_keyword: "accounting for advertising agencies"
 secondary_keywords: ["outsourced accounting for agencies","advertising agency bookkeeping","agency cash flow management","fixed fee accounting Indianapolis"]
-canonical_url: "https://rootadvisors.com/industries/advertising-agencies"
+canonical_url: "https://accordadvisors.com/industries/advertising-agencies"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
 cta_url: "/contact"

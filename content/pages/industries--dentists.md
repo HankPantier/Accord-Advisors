@@ -5,7 +5,7 @@ meta_title: "Dental Practice Accounting Bloomington, Indianapolis & Indiana | Ac
 meta_description: "Fixed-fee accounting for dental practices across Indiana — Bloomington, Avon, Indianapolis, and beyond. Bookkeeping, payroll, tax planning, and dashboards built by CPA Jared Hammack."
 target_keyword: "dental practice accounting Bloomington IN"
 secondary_keywords: ["CPA for dentists Bloomington Indiana","dental office bookkeeping services Bloomington","dentist tax preparation Bloomington IN","accounting services for dental practices near me","dental practice management accountant Bloomington","outsourced accounting dentist Bloomington","dental business tax services Indiana","dentistry financial services Bloomington","dental practice CPA Bloomington","accounting for dental offices Bloomington IN","dentist bookkeeper Bloomington","dental business accounting services","tax planning for dentists Bloomington","dental practice financial advisor Bloomington IN","dental office accounting Bloomington"]
-canonical_url: "https://rootadvisors.com/industries/dentists"
+canonical_url: "https://accordadvisors.com/industries/dentists"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -165,8 +165,8 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -177,9 +177,9 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -213,9 +213,9 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -249,13 +249,13 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
       "@type": "ListItem",
       "position": 1,
       "name": "Industries we serve",
-      "item": "https://rootadvisors.com/industries"
+      "item": "https://accordadvisors.com/industries"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Accounting for dental practices",
-      "item": "https://rootadvisors.com/industries/dentists"
+      "item": "https://accordadvisors.com/industries/dentists"
     }
   ]
 }
@@ -305,17 +305,17 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Dental Practice Accounting Bloomington IN | Accord Advisors",
-  "url": "https://rootadvisors.com/industries/dentists",
+  "url": "https://accordadvisors.com/industries/dentists",
   "description": "Fixed-fee accounting for dental practices in Bloomington and Indianapolis. Bookkeeping, payroll, tax planning, and dashboards built by CPA Jared Hammack.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Accounting for dental practices",
   "audience": [

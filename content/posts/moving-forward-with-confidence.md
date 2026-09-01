@@ -5,7 +5,7 @@ meta_title: "Moving Forward With Confidence | Bloomington, IN CPA"
 meta_description: "Accord Advisors gives Bloomington and Indianapolis practices and businesses monthly financial clarity, fixed fees, and nearly 40 years of Indiana experience."
 target_keyword: "moving forward with confidence bloomington, in"
 secondary_keywords: ["outsourced accounting bloomington indiana","cpa for optometry practices indiana","fixed fee accounting indianapolis","business foundation services indiana"]
-canonical_url: "https://rootadvisors.com/moving-forward-with-confidence"
+canonical_url: "https://accordadvisors.com/moving-forward-with-confidence"
 schema_markup: "LocalBusiness"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -15,7 +15,7 @@ hero_subhead: "Monthly financial clarity, fixed fees, and nearly 40 years of Ind
 hero_headline: "Financial clarity changes how you run your practice or business"
 answer_block: "Moving forward with confidence means replacing financial guesswork with monthly clarity. Accord Advisors, led by Jared Hammack, CPA, provides outsourced accounting, fixed monthly fees, and industry-specific reporting for optometry practices, dental offices, medical providers, service businesses, and churches in Bloomington and Indianapolis, Indiana."
 eeat_signals: ["Jared Hammack holds an active CPA license","Nearly 40 years of firm experience serving healthcare providers and business owners","Fixed monthly fee model documented across service pages","Secure online client platform for document sharing and reporting","Dedicated industry expertise across optometry, dental, medical, service business, and church clients"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Primary service referenced in the confidence-through-clarity section","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Directly tied to the foundation section of the outline","anchor_text":"Business Foundation Services"},{"url":"/industries/optometry","reason":"Supports the niche-specific industry section","anchor_text":"optometry practice"},{"url":"/industries/dentists","reason":"Supports the niche-specific industry section","anchor_text":"Dental practices"},{"url":"/industries/medical-professionals","reason":"Supports the niche-specific industry section","anchor_text":"Medical professionals"},{"url":"/industries/service-businesses","reason":"Supports the niche-specific industry section","anchor_text":"Service businesses"},{"url":"/industries/churches","reason":"Supports the niche-specific industry section","anchor_text":"Churches"},{"url":"/why-rootadvisors","reason":"Builds authority around the firm's tenure and differentiation","anchor_text":"why RootAdvisors"},{"url":"/contact","reason":"Primary page CTA per client directive","anchor_text":"Schedule a consultation"}]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Primary service referenced in the confidence-through-clarity section","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Directly tied to the foundation section of the outline","anchor_text":"Business Foundation Services"},{"url":"/industries/optometry","reason":"Supports the niche-specific industry section","anchor_text":"optometry practice"},{"url":"/industries/dentists","reason":"Supports the niche-specific industry section","anchor_text":"Dental practices"},{"url":"/industries/medical-professionals","reason":"Supports the niche-specific industry section","anchor_text":"Medical professionals"},{"url":"/industries/service-businesses","reason":"Supports the niche-specific industry section","anchor_text":"Service businesses"},{"url":"/industries/churches","reason":"Supports the niche-specific industry section","anchor_text":"Churches"},{"url":"/why-rootadvisors","reason":"Builds authority around the firm's tenure and differentiation","anchor_text":"why Accord Advisors"},{"url":"/contact","reason":"Primary page CTA per client directive","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"It means replacing monthly guesswork with clear, current financial data. Accord Advisors delivers monthly dashboards and outsourced accounting so Bloomington and Indianapolis practice owners can make decisions based on real numbers instead of reacting after problems appear.","question":"What does it mean to move forward with confidence in my business finances?"},{"answer":"No. Accord Advisors uses a fixed monthly fee model instead of hourly billing, so clients know exactly what accounting support costs each month without worrying about surprise invoices for calls or questions.","question":"Does Accord Advisors charge hourly for accounting services?"},{"answer":"Accord Advisors focuses on optometry practices, dental practices, medical professionals, service businesses, and churches, with reporting and advisory support built around the specific financial rhythms of each industry.","question":"Which industries does Accord Advisors specialize in?"},{"answer":"The firm's experience spans nearly 40 years serving healthcare providers and business owners in Bloomington and Indianapolis, giving clients a steady, knowledgeable partner through growth, transition, and succession.","question":"How long has Accord Advisors served Indiana clients?"}]
 llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington and Indianapolis, Indiana, backed by nearly 40 years of experience and led by Jared Hammack, CPA."
 ---
@@ -96,7 +96,7 @@ Jared Hammack, CPA, leads a firm with roots going back nearly 40 years of servin
 - 2: Indiana markets served, Bloomington and Indianapolis
 - 5: Industries served with dedicated expertise
 
-That depth shows up in the details, knowing how an optometry practice's reimbursement cycle actually works, or what a church board expects to see in a financial report. It's experience you can check against [why RootAdvisors](/why-rootadvisors) makes sense as a long-term accounting partner, not just a tax-season vendor.
+That depth shows up in the details, knowing how an optometry practice's reimbursement cycle actually works, or what a church board expects to see in a financial report. It's experience you can check against [why Accord Advisors](/why-rootadvisors) makes sense as a long-term accounting partner, not just a tax-season vendor.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Moving forward with confidence
@@ -143,7 +143,7 @@ Moving forward with confidence means replacing financial guesswork with monthly 
 - Medical professionals → /industries/medical-professionals — Supports the niche-specific industry section
 - Service businesses → /industries/service-businesses — Supports the niche-specific industry section
 - Churches → /industries/churches — Supports the niche-specific industry section
-- why RootAdvisors → /why-rootadvisors — Builds authority around the firm's tenure and differentiation
+- why Accord Advisors → /why-rootadvisors — Builds authority around the firm's tenure and differentiation
 - Schedule a consultation → /contact — Primary page CTA per client directive
 
 **FAQ Block:**
@@ -172,8 +172,8 @@ Accord Advisors offers fixed monthly fee outsourced accounting for optometry pra
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -184,9 +184,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting for optometry pra
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -220,9 +220,9 @@ Accord Advisors offers fixed monthly fee outsourced accounting for optometry pra
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -256,19 +256,19 @@ Accord Advisors offers fixed monthly fee outsourced accounting for optometry pra
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Moving forward with confidence",
-      "item": "https://rootadvisors.com/moving-forward-with-confidence"
+      "item": "https://accordadvisors.com/moving-forward-with-confidence"
     }
   ]
 }
@@ -318,12 +318,12 @@ Accord Advisors offers fixed monthly fee outsourced accounting for optometry pra
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Moving Forward With Confidence | Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/moving-forward-with-confidence",
+  "url": "https://accordadvisors.com/moving-forward-with-confidence",
   "description": "Accord Advisors gives Bloomington and Indianapolis practices and businesses monthly financial clarity, fixed fees, and nearly 40 years of Indiana experience.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

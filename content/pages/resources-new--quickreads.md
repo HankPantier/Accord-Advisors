@@ -5,7 +5,7 @@ meta_title: "QuickReads Bloomington, IN | Quick Accounting Insights"
 meta_description: "Short, plain-language accounting reads for optometrists, dentists, medical practices, service businesses, and churches in Bloomington and Indianapolis, IN."
 target_keyword: "quickreads bloomington, in"
 secondary_keywords: ["accounting articles for optometrists","financial tips for medical practices indiana","outsourced accounting bloomington in","small business tax tips indianapolis"]
-canonical_url: "https://rootadvisors.com/resources-new/quickreads"
+canonical_url: "https://accordadvisors.com/resources-new/quickreads"
 schema_markup: "FAQPage"
 hero: "page-header"
 hero_subhead: "Quick, plain-language answers to the financial questions Bloomington and Indianapolis business owners ask most"
@@ -166,8 +166,8 @@ Accord Advisors publishes QuickReads, a library of short accounting articles for
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -178,9 +178,9 @@ Accord Advisors publishes QuickReads, a library of short accounting articles for
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -214,9 +214,9 @@ Accord Advisors publishes QuickReads, a library of short accounting articles for
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -250,13 +250,13 @@ Accord Advisors publishes QuickReads, a library of short accounting articles for
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "QuickReads",
-      "item": "https://rootadvisors.com/resources-new/quickreads"
+      "item": "https://accordadvisors.com/resources-new/quickreads"
     }
   ]
 }
@@ -306,12 +306,12 @@ Accord Advisors publishes QuickReads, a library of short accounting articles for
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "QuickReads Bloomington, IN | Quick Accounting Insights",
-  "url": "https://rootadvisors.com/resources-new/quickreads",
+  "url": "https://accordadvisors.com/resources-new/quickreads",
   "description": "Short, plain-language accounting reads for optometrists, dentists, medical practices, service businesses, and churches in Bloomington and Indianapolis, IN.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

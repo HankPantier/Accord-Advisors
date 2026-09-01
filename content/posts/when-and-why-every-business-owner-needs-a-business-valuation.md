@@ -5,7 +5,7 @@ meta_title: "Business Valuation Guide for Bloomington IN Owners"
 meta_description: "Learn when and why Bloomington and Indianapolis business owners need a valuation, from succession planning to partner buyouts, with guidance from Accord Advisors."
 target_keyword: "when and why every business owner needs a business valuation Bloomington IN"
 secondary_keywords: ["business valuation Bloomington Indiana","optometry practice valuation","succession planning valuation","business valuation Indianapolis","practice buyout valuation"]
-canonical_url: "https://rootadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation"
+canonical_url: "https://accordadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation"
 schema_markup: "Article"
 hero: "page-header"
 answer_block: "A business owner needs a valuation whenever ownership is about to change hands, such as succession planning, a partner buy-in or buyout, divorce, estate planning, or a practice sale. Beyond transactions, a valuation reveals operational risks and growth opportunities that monthly bookkeeping alone won't show, giving owners a clearer picture of where they stand."
@@ -129,8 +129,8 @@ Accord Advisors brings nearly 40 years of industry-specific experience valuing o
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -141,9 +141,9 @@ Accord Advisors brings nearly 40 years of industry-specific experience valuing o
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -177,9 +177,9 @@ Accord Advisors brings nearly 40 years of industry-specific experience valuing o
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -213,13 +213,13 @@ Accord Advisors brings nearly 40 years of industry-specific experience valuing o
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "When and why every business owner needs a business valuation",
-      "item": "https://rootadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation"
+      "item": "https://accordadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation"
     }
   ]
 }
@@ -269,22 +269,22 @@ Accord Advisors brings nearly 40 years of industry-specific experience valuing o
   "@context": "https://schema.org",
   "@type": "Article",
   "name": "Business Valuation Guide for Bloomington IN Owners",
-  "url": "https://rootadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation",
+  "url": "https://accordadvisors.com/when-and-why-every-business-owner-needs-a-business-valuation",
   "description": "Learn when and why Bloomington and Indianapolis business owners need a valuation, from succession planning to partner buyouts, with guidance from Accord Advisors.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "author": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

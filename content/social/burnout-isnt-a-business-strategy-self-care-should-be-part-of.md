@@ -10,14 +10,14 @@ That's the real cost of burnout. Exhausted decisions show up on the balance shee
 
 Rest isn't a reward you earn after success. It's part of what protects your judgment and your bottom line.
 
-Read the full post: https://rootadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
+Read the full post: https://accordadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
 
 #Optometry #DentalPractice #OutsourcedAccounting #Bloomington #IndianaBusiness
 
 ## Twitter / X
 
-An exhausted Bloomington optometrist missed a lease deadline. Cost: $14,000/year in extra rent. Exhaustion is a financial risk. https://rootadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
+An exhausted Bloomington optometrist missed a lease deadline. Cost: $14,000/year in extra rent. Exhaustion is a financial risk. https://accordadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
 
 ## Facebook
 
-A Bloomington optometrist worked until 9 p.m. every night reconciling insurance claims herself. Exhausted, she missed a lease renewal and it cost her $14,000 a year in extra rent. Rest and delegation aren't luxuries, they're part of protecting your practice's bottom line. Read the full story here: https://rootadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
+A Bloomington optometrist worked until 9 p.m. every night reconciling insurance claims herself. Exhausted, she missed a lease renewal and it cost her $14,000 a year in extra rent. Rest and delegation aren't luxuries, they're part of protecting your practice's bottom line. Read the full story here: https://accordadvisors.com/resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of

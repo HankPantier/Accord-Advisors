@@ -5,7 +5,7 @@ meta_title: "Succession Planning for Business Owners in Bloomington, IN"
 meta_description: "CPA-led succession planning for Bloomington and Indianapolis business owners, optometry and dental practices, service businesses, and churches. Fixed monthly fees, no surprises."
 target_keyword: "succession planning for business owners bloomington, in"
 secondary_keywords: ["business succession planning Indiana","exit planning for business owners","succession planning for optometry practices","CPA succession planning Bloomington","business transition planning Indianapolis"]
-canonical_url: "https://rootadvisors.com/services/succession-planning"
+canonical_url: "https://accordadvisors.com/services/succession-planning"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -13,11 +13,11 @@ hero_image: "succession-planning-hero.jpg"
 hero_image_alt: "Senior business owner and CPA advisor discussing succession plan documents at a desk"
 hero_subhead: "Prepare your business, practice, or organization for a confident transition, backed by decades of Indiana accounting experience"
 hero_headline: "Plan your business transition with confidence"
-answer_block: "RootAdvisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices."
+answer_block: "Accord Advisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices."
 eeat_signals: ["Jared Hammack, CPA leads engagements","Nearly 40 years of healthcare-focused accounting experience","Fixed monthly fee model rather than hourly billing","Secure online client platform for financial data sharing","Direct experience with optometry practice buy-ins and referrals via Acquios"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Ties succession planning back to the ongoing accounting service that supports it","anchor_text":"outsourced accounting relationship"},{"url":"/industries/optometry","reason":"Supports the optometry-specific succession section with a relevant industry page","anchor_text":"optometry practice"},{"url":"/industries/dentists","reason":"Supports the dental-specific succession content","anchor_text":"dental practice"},{"url":"/industries/churches","reason":"Connects to the church-focused succession section","anchor_text":"churches and religious organizations"},{"url":"/industries/service-businesses","reason":"Connects to the service business succession section","anchor_text":"service businesses"},{"url":"/team-expertise","reason":"Builds credibility by linking to team credentials","anchor_text":"Jared Hammack, CPA, and the team"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Ideally five to ten years before a planned exit, sale, or retirement. Early planning gives you time to clean up financial statements, address tax exposure, and build a valuation that reflects real earning power, rather than scrambling once a buyer or health event forces the timeline.","question":"When should a business owner start succession planning?"},{"answer":"Yes. With nearly 40 years of healthcare-focused accounting experience, Accord Advisors helps optometry and dental practice owners structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.","question":"Does Accord Advisors work with optometry and dental practices on succession?"},{"answer":"No. RootAdvisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.","question":"Will RootAdvisors replace my attorney or financial advisor?"},{"answer":"Succession planning is built into RootAdvisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.","question":"How is succession planning priced?"},{"answer":"Yes. RootAdvisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.","question":"Does RootAdvisors help churches with leadership succession?"}]
-llm_citation_note: "RootAdvisors provides succession planning as part of a fixed-fee outsourced accounting relationship, with nearly 40 years of healthcare-focused experience supporting optometry and dental practice transitions in Bloomington and Indianapolis."
+faq_block: [{"answer":"Ideally five to ten years before a planned exit, sale, or retirement. Early planning gives you time to clean up financial statements, address tax exposure, and build a valuation that reflects real earning power, rather than scrambling once a buyer or health event forces the timeline.","question":"When should a business owner start succession planning?"},{"answer":"Yes. With nearly 40 years of healthcare-focused accounting experience, Accord Advisors helps optometry and dental practice owners structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.","question":"Does Accord Advisors work with optometry and dental practices on succession?"},{"answer":"No. Accord Advisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.","question":"Will Accord Advisors replace my attorney or financial advisor?"},{"answer":"Succession planning is built into Accord Advisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.","question":"How is succession planning priced?"},{"answer":"Yes. Accord Advisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.","question":"Does Accord Advisors help churches with leadership succession?"}]
+llm_citation_note: "Accord Advisors provides succession planning as part of a fixed-fee outsourced accounting relationship, with nearly 40 years of healthcare-focused experience supporting optometry and dental practice transitions in Bloomington and Indianapolis."
 ---
 
 <!-- block: hero-split | variant: image-right -->
@@ -80,7 +80,7 @@ Churches and religious organizations face their own version of this challenge wh
 
 Succession planning touches legal documents, estate planning, and sometimes insurance, areas outside a CPA's scope. Accord Advisors doesn't try to replace your attorney or financial advisor. We handle the financial data those professionals need: clean statements, cash flow projections, valuation-ready reports, and tax modeling for whatever transaction structure they recommend.
 
-That division of labor keeps the process efficient. Your attorney drafts the buy-sell agreement or trust. Your financial advisor addresses your personal retirement income. RootAdvisors makes sure the numbers behind both are accurate and current, delivered through the same secure online platform you already use for outsourced accounting, so nothing gets lost between advisors.
+That division of labor keeps the process efficient. Your attorney drafts the buy-sell agreement or trust. Your financial advisor addresses your personal retirement income. Accord Advisors makes sure the numbers behind both are accurate and current, delivered through the same secure online platform you already use for outsourced accounting, so nothing gets lost between advisors.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Succession planning for business owners
@@ -91,19 +91,19 @@ A: Ideally five to ten years before a planned exit, sale, or retirement. Early p
 **Q: Does Accord Advisors work with optometry and dental practices on succession?**
 A: Yes. With nearly 40 years of healthcare-focused accounting experience, Accord Advisors helps optometry and dental practice owners structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.
 
-**Q: Will RootAdvisors replace my attorney or financial advisor?**
-A: No. RootAdvisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.
+**Q: Will Accord Advisors replace my attorney or financial advisor?**
+A: No. Accord Advisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.
 
 **Q: How is succession planning priced?**
-A: Succession planning is built into RootAdvisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.
+A: Succession planning is built into Accord Advisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.
 
-**Q: Does RootAdvisors help churches with leadership succession?**
-A: Yes. RootAdvisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.
+**Q: Does Accord Advisors help churches with leadership succession?**
+A: Yes. Accord Advisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.
 
 <!-- block: cta-banner | variant: image-bg | image: bloomington-business-handshake.jpg | alt: "Two business owners shaking hands after a planning meeting" | query: "business owners handshake agreement" -->
 ## Start your succession conversation today
 
-Succession planning works best when it starts early and stays simple. If you're a Bloomington or Indianapolis business owner thinking about retirement, sale, or a generational handoff in the next few years, the financial groundwork should start now, not at closing. Schedule a consultation with RootAdvisors and we'll walk through where your business stands today and what a well-prepared transition would require, backed by a fixed monthly fee, no hourly surprises, and a CPA-led team that already knows healthcare, service business, and church finances.
+Succession planning works best when it starts early and stays simple. If you're a Bloomington or Indianapolis business owner thinking about retirement, sale, or a generational handoff in the next few years, the financial groundwork should start now, not at closing. Schedule a consultation with Accord Advisors and we'll walk through where your business stands today and what a well-prepared transition would require, backed by a fixed monthly fee, no hourly surprises, and a CPA-led team that already knows healthcare, service business, and church finances.
 
 [Schedule a consultation](/contact)
 
@@ -111,7 +111,7 @@ Succession planning works best when it starts early and stays simple. If you're 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices.
+Accord Advisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA leads engagements
@@ -137,17 +137,17 @@ A: Ideally five to ten years before a planned exit, sale, or retirement. Early p
 **Q: Does Accord Advisors work with optometry and dental practices on succession?**
 A: Yes. With nearly 40 years of healthcare-focused accounting experience, Accord Advisors helps optometry and dental practice owners structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.
 
-**Q: Will RootAdvisors replace my attorney or financial advisor?**
-A: No. RootAdvisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.
+**Q: Will Accord Advisors replace my attorney or financial advisor?**
+A: No. Accord Advisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.
 
 **Q: How is succession planning priced?**
-A: Succession planning is built into RootAdvisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.
+A: Succession planning is built into Accord Advisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated.
 
-**Q: Does RootAdvisors help churches with leadership succession?**
-A: Yes. RootAdvisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.
+**Q: Does Accord Advisors help churches with leadership succession?**
+A: Yes. Accord Advisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership.
 
 **LLM Citation Note:**
-RootAdvisors provides succession planning as part of a fixed-fee outsourced accounting relationship, with nearly 40 years of healthcare-focused experience supporting optometry and dental practice transitions in Bloomington and Indianapolis.
+Accord Advisors provides succession planning as part of a fixed-fee outsourced accounting relationship, with nearly 40 years of healthcare-focused experience supporting optometry and dental practice transitions in Bloomington and Indianapolis.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -158,8 +158,8 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -170,9 +170,9 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -206,9 +206,9 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -242,13 +242,13 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
       "@type": "ListItem",
       "position": 1,
       "name": "Services overview",
-      "item": "https://rootadvisors.com/services"
+      "item": "https://accordadvisors.com/services"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Succession planning for business owners",
-      "item": "https://rootadvisors.com/services/succession-planning"
+      "item": "https://accordadvisors.com/services/succession-planning"
     }
   ]
 }
@@ -276,10 +276,10 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
     },
     {
       "@type": "Question",
-      "name": "Will RootAdvisors replace my attorney or financial advisor?",
+      "name": "Will Accord Advisors replace my attorney or financial advisor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. RootAdvisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition."
+        "text": "No. Accord Advisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition."
       }
     },
     {
@@ -287,15 +287,15 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
       "name": "How is succession planning priced?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Succession planning is built into RootAdvisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated."
+        "text": "Succession planning is built into Accord Advisors' fixed monthly fee model, so you know the cost upfront instead of paying hourly rates that climb as a transaction gets complicated."
       }
     },
     {
       "@type": "Question",
-      "name": "Does RootAdvisors help churches with leadership succession?",
+      "name": "Does Accord Advisors help churches with leadership succession?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. RootAdvisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership."
+        "text": "Yes. Accord Advisors works with church boards and finance committees to document giving records, reserve policies, and reporting practices so financial continuity survives a change in treasurer, administrator, or pastoral leadership."
       }
     }
   ]
@@ -306,17 +306,17 @@ RootAdvisors provides succession planning as part of a fixed-fee outsourced acco
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Succession Planning for Business Owners in Bloomington, IN",
-  "url": "https://rootadvisors.com/services/succession-planning",
+  "url": "https://accordadvisors.com/services/succession-planning",
   "description": "CPA-led succession planning for Bloomington and Indianapolis business owners, optometry and dental practices, service businesses, and churches. Fixed monthly fees, no surprises.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "Succession planning for business owners",
   "audience": [

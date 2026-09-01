@@ -5,7 +5,7 @@ meta_title: "The Original Entrepreneurs of Bloomington, IN CPA"
 meta_description: "Accord Advisors serves Bloomington entrepreneurs, optometrists, dentists, and churches with outsourced accounting, fixed monthly fees, and CPA-level expertise."
 target_keyword: "the original entrepreneurs bloomington, in"
 secondary_keywords: ["Bloomington CPA firm","outsourced accounting Bloomington Indiana","optometry accounting Indianapolis","church accounting Bloomington"]
-canonical_url: "https://rootadvisors.com/the-original-entrepreneurs"
+canonical_url: "https://accordadvisors.com/the-original-entrepreneurs"
 schema_markup: "LocalBusiness"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -141,8 +141,8 @@ Accord Advisors has served healthcare and optometry practices in Bloomington and
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -153,9 +153,9 @@ Accord Advisors has served healthcare and optometry practices in Bloomington and
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -189,9 +189,9 @@ Accord Advisors has served healthcare and optometry practices in Bloomington and
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -225,19 +225,19 @@ Accord Advisors has served healthcare and optometry practices in Bloomington and
       "@type": "ListItem",
       "position": 1,
       "name": "Insights gallery",
-      "item": "https://rootadvisors.com/insights-gallery"
+      "item": "https://accordadvisors.com/insights-gallery"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Smart tips magazine gallery",
-      "item": "https://rootadvisors.com/smart-tips-magazine-gallery"
+      "item": "https://accordadvisors.com/smart-tips-magazine-gallery"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "The original entrepreneurs",
-      "item": "https://rootadvisors.com/the-original-entrepreneurs"
+      "item": "https://accordadvisors.com/the-original-entrepreneurs"
     }
   ]
 }
@@ -287,12 +287,12 @@ Accord Advisors has served healthcare and optometry practices in Bloomington and
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "The Original Entrepreneurs of Bloomington, IN CPA",
-  "url": "https://rootadvisors.com/the-original-entrepreneurs",
+  "url": "https://accordadvisors.com/the-original-entrepreneurs",
   "description": "Accord Advisors serves Bloomington entrepreneurs, optometrists, dentists, and churches with outsourced accounting, fixed monthly fees, and CPA-level expertise.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

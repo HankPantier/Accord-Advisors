@@ -10,14 +10,14 @@ The IRS 14-day rule says if you rent a second home for 14 days or fewer in a yea
 
 For optometrists, physicians, and business owners in Bloomington weighing a second home against reinvesting in their practice, that distinction changes the math before a purchase agreement gets signed. Jared Hammack, CPA, walks through where the lines fall and how to document rental days and personal use so the deduction holds up under audit.
 
-Read the full breakdown: https://rootadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
+Read the full breakdown: https://accordadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
 
 #TaxPlanning #Bloomington #Optometrists #CPA #RealEstateTax
 
 ## Twitter / X
 
-Rent a second home 14 days or fewer and the income is tax-free. Rent it more, and personal-use days decide if you get full deductions or a capped loss. Details: https://rootadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
+Rent a second home 14 days or fewer and the income is tax-free. Rent it more, and personal-use days decide if you get full deductions or a capped loss. Details: https://accordadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
 
 ## Facebook
 
-Rent your Lake Monroe cabin for one weekend and pocket $2,800 tax-free? Under the IRS's 14-day rule, you can. Rent it more than that, and how many days you or your family use it personally decides whether you get full depreciation or a capped loss. Jared Hammack, CPA, breaks down the rental-day math so you know before you buy: https://rootadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win
+Rent your Lake Monroe cabin for one weekend and pocket $2,800 tax-free? Under the IRS's 14-day rule, you can. Rent it more than that, and how many days you or your family use it personally decides whether you get full depreciation or a capped loss. Jared Hammack, CPA, breaks down the rental-day math so you know before you buy: https://accordadvisors.com/resources/how-to-turn-a-second-home-into-a-tax-win

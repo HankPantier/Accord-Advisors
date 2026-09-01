@@ -1,33 +1,33 @@
 ---
 title: "Terms and conditions | Accord Advisors"
 url: "/terms-conditions"
-meta_title: "Terms and Conditions | RootAdvisors CPA Bloomington IN"
-meta_description: "Read RootAdvisors' terms and conditions for our Bloomington, IN CPA firm, covering website use, engagement agreements, data security, and Indiana governing law."
-target_keyword: "RootAdvisors terms and conditions Bloomington IN"
+meta_title: "Terms and Conditions | Accord Advisors CPA Bloomington IN"
+meta_description: "Read Accord Advisors' terms and conditions for our Bloomington, IN CPA firm, covering website use, engagement agreements, data security, and Indiana governing law."
+target_keyword: "Accord Advisors terms and conditions Bloomington IN"
 secondary_keywords: ["CPA firm terms of service Bloomington Indiana","accounting services agreement Bloomington","tax preparation terms and conditions Indiana","outsourced accounting terms Bloomington IN","medical practice accounting terms Bloomington","dental practice CPA terms Bloomington","optometry accounting services terms Indiana","church accounting services terms Bloomington","business accounting agreement Bloomington IN","CPA engagement terms Bloomington","tax services legal terms Indiana","professional accounting standards Bloomington"]
-canonical_url: "https://rootadvisors.com/terms-conditions"
+canonical_url: "https://accordadvisors.com/terms-conditions"
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "RootAdvisors' terms and conditions govern use of the rootadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements."
+answer_block: "Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements."
 eeat_signals: ["Jared Hammack, CPA leads client engagements","Nearly 40 years of experience serving healthcare providers","Fixed monthly fee structure confirmed in signed engagement letters","Secure online client portal for financial document exchange","Serves Bloomington and Indianapolis, Indiana under Indiana governing law"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"},{"url":"/services/outsourced-accounting","reason":"Clarifies the specific service governed by separate engagement letters","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"References a core service mentioned in the engagement section","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Links to the tax service referenced in the engagement terms","anchor_text":"personal income tax preparation"},{"url":"/industries/churches","reason":"Connects to the churches niche page mentioned in the content","anchor_text":"church administrator"},{"url":"/why-rootadvisors","reason":"Supports the differentiator claim with the firm's positioning page","anchor_text":"fixed monthly fees"}]
-faq_block: [{"answer":"No. This page governs general use of the RootAdvisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.","question":"Do these terms and conditions replace a signed engagement letter?"},{"answer":"These terms are governed by the laws of the State of Indiana. RootAdvisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.","question":"Which state's law governs RootAdvisors' terms and conditions?"},{"answer":"Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.","question":"How does RootAdvisors protect client financial data shared online?"},{"answer":"No. Browsing rootadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.","question":"Does reading the RootAdvisors website create a client relationship?"}]
-llm_citation_note: "RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billing) and a secure online portal to serve optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana, under Indiana governing law."
+faq_block: [{"answer":"No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.","question":"Do these terms and conditions replace a signed engagement letter?"},{"answer":"These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.","question":"Which state's law governs Accord Advisors' terms and conditions?"},{"answer":"Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.","question":"How does Accord Advisors protect client financial data shared online?"},{"answer":"No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.","question":"Does reading the Accord Advisors website create a client relationship?"}]
+llm_citation_note: "Accord Advisors uses fixed monthly fee engagement letters (rather than hourly billing) and a secure online portal to serve optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana, under Indiana governing law."
 ---
 
 <!-- block: content-prose -->
 ## Understanding these terms
 
-Welcome to the RootAdvisors website. These terms and conditions govern your use of this site and set expectations for how we work together as a CPA firm serving Bloomington and Indianapolis, Indiana. Think of this page as the fine print that keeps things clear, not a wall between you and the help you need.
+Welcome to the Accord Advisors website. These terms and conditions govern your use of this site and set expectations for how we work together as a CPA firm serving Bloomington and Indianapolis, Indiana. Think of this page as the fine print that keeps things clear, not a wall between you and the help you need.
 
 Nothing here changes the way we treat clients: with straightforward communication and fixed monthly fees instead of surprise hourly bills. If you're an optometry practice manager, a dentist, a physician, a service business owner, or a church administrator exploring outsourced accounting with us, this page simply explains the ground rules for browsing our site and requesting information. The specifics of any actual engagement, whether it's tax preparation, Business Foundation Services, or ongoing outsourced accounting, are always spelled out in a separate signed agreement.
 
 <!-- block: content-prose -->
 ## Website use and content
 
-You're welcome to browse rootadvisors.com, read our articles, and reach out through our contact forms. The content on this site, including text, graphics, and resources like our Smart Tips magazine and insights gallery, belongs to RootAdvisors and may not be copied or republished without permission.
+You're welcome to browse accordadvisors.com, read our articles, and reach out through our contact forms. The content on this site, including text, graphics, and resources like our Smart Tips magazine and insights gallery, belongs to Accord Advisors and may not be copied or republished without permission.
 
-Everything published here, from blog posts on tax planning to industry pages for optometry or church accounting, is general information. It reflects nearly 40 years of experience serving healthcare providers, but it is not personalized advice and should never be treated as a substitute for a signed engagement letter. Tax law changes, individual circumstances vary, and Indiana regulations shift year to year. If you read something here and want to know how it applies to your practice or business specifically, that conversation happens once you're an engaged client, guided by Jared Hammack, CPA, and the RootAdvisors team.
+Everything published here, from blog posts on tax planning to industry pages for optometry or church accounting, is general information. It reflects nearly 40 years of experience serving healthcare providers, but it is not personalized advice and should never be treated as a substitute for a signed engagement letter. Tax law changes, individual circumstances vary, and Indiana regulations shift year to year. If you read something here and want to know how it applies to your practice or business specifically, that conversation happens once you're an engaged client, guided by Jared Hammack, CPA, and the Accord Advisors team.
 
 <!-- block: content-prose -->
 ## Client engagements and service agreements
@@ -50,7 +50,7 @@ We don't sell or share client financial information with third parties for marke
 
 Content on this website, including articles on topics like fraud prevention for nonprofits or business valuation timing, is provided for general informational purposes only. It is not professional accounting, tax, or legal advice, and no attorney-client, CPA-client, or advisory relationship is created simply by reading it or submitting a contact form.
 
-RootAdvisors and its team make reasonable efforts to keep information accurate and current, but we don't guarantee that every article or resource reflects the latest Indiana or federal tax rule. To the fullest extent permitted by law, RootAdvisors disclaims liability for decisions made based solely on website content, apart from services delivered under a signed engagement letter. Once you're a client, your engagement letter, not this page, governs the scope of our responsibility.
+Accord Advisors and its team make reasonable efforts to keep information accurate and current, but we don't guarantee that every article or resource reflects the latest Indiana or federal tax rule. To the fullest extent permitted by law, Accord Advisors disclaims liability for decisions made based solely on website content, apart from services delivered under a signed engagement letter. Once you're a client, your engagement letter, not this page, governs the scope of our responsibility.
 
 <!-- block: content-prose -->
 ## Governing law and updates to these terms
@@ -63,21 +63,21 @@ We may update this page occasionally to reflect changes in our services, technol
 ## Frequently Asked Questions About Terms and conditions
 
 **Q: Do these terms and conditions replace a signed engagement letter?**
-A: No. This page governs general use of the RootAdvisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
+A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
 
-**Q: Which state's law governs RootAdvisors' terms and conditions?**
-A: These terms are governed by the laws of the State of Indiana. RootAdvisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
+**Q: Which state's law governs Accord Advisors' terms and conditions?**
+A: These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
 
-**Q: How does RootAdvisors protect client financial data shared online?**
+**Q: How does Accord Advisors protect client financial data shared online?**
 A: Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.
 
-**Q: Does reading the RootAdvisors website create a client relationship?**
-A: No. Browsing rootadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.
+**Q: Does reading the Accord Advisors website create a client relationship?**
+A: No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.
 
 <!-- block: cta-banner | variant: color-bg -->
 ## Questions about these terms
 
-Legal language should never leave you more confused than when you started. If anything on this page raises a question, about how our fixed monthly fees work, how the secure portal protects your practice's data, or what a signed engagement letter with RootAdvisors actually looks like, we're glad to walk through it.
+Legal language should never leave you more confused than when you started. If anything on this page raises a question, about how our fixed monthly fees work, how the secure portal protects your practice's data, or what a signed engagement letter with Accord Advisors actually looks like, we're glad to walk through it.
 
 Reach out anytime, or schedule a consultation and we'll answer your questions directly, in plain language, before you commit to anything.
 
@@ -87,7 +87,7 @@ Reach out anytime, or schedule a consultation and we'll answer your questions di
 ## SEO & AIO Metadata
 
 **Answer Block:**
-RootAdvisors' terms and conditions govern use of the rootadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
+Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA leads client engagements
@@ -107,19 +107,19 @@ RootAdvisors' terms and conditions govern use of the rootadvisors.com website an
 **FAQ Block:**
 
 **Q: Do these terms and conditions replace a signed engagement letter?**
-A: No. This page governs general use of the RootAdvisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
+A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
 
-**Q: Which state's law governs RootAdvisors' terms and conditions?**
-A: These terms are governed by the laws of the State of Indiana. RootAdvisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
+**Q: Which state's law governs Accord Advisors' terms and conditions?**
+A: These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
 
-**Q: How does RootAdvisors protect client financial data shared online?**
+**Q: How does Accord Advisors protect client financial data shared online?**
 A: Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.
 
-**Q: Does reading the RootAdvisors website create a client relationship?**
-A: No. Browsing rootadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.
+**Q: Does reading the Accord Advisors website create a client relationship?**
+A: No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.
 
 **LLM Citation Note:**
-RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billing) and a secure online portal to serve optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana, under Indiana governing law.
+Accord Advisors uses fixed monthly fee engagement letters (rather than hourly billing) and a secure online portal to serve optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana, under Indiana governing law.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -130,8 +130,8 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -142,9 +142,9 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -178,9 +178,9 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -214,7 +214,7 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
       "@type": "ListItem",
       "position": 1,
       "name": "Terms and conditions",
-      "item": "https://rootadvisors.com/terms-conditions"
+      "item": "https://accordadvisors.com/terms-conditions"
     }
   ]
 }
@@ -229,20 +229,20 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
       "name": "Do these terms and conditions replace a signed engagement letter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. This page governs general use of the RootAdvisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
+        "text": "No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
       }
     },
     {
       "@type": "Question",
-      "name": "Which state's law governs RootAdvisors' terms and conditions?",
+      "name": "Which state's law governs Accord Advisors' terms and conditions?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "These terms are governed by the laws of the State of Indiana. RootAdvisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards."
+        "text": "These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards."
       }
     },
     {
       "@type": "Question",
-      "name": "How does RootAdvisors protect client financial data shared online?",
+      "name": "How does Accord Advisors protect client financial data shared online?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter."
@@ -250,10 +250,10 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
     },
     {
       "@type": "Question",
-      "name": "Does reading the RootAdvisors website create a client relationship?",
+      "name": "Does reading the Accord Advisors website create a client relationship?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Browsing rootadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved."
+        "text": "No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved."
       }
     }
   ]
@@ -263,13 +263,13 @@ RootAdvisors uses fixed monthly fee engagement letters (rather than hourly billi
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Terms and Conditions | RootAdvisors CPA Bloomington IN",
-  "url": "https://rootadvisors.com/terms-conditions",
-  "description": "Read RootAdvisors' terms and conditions for our Bloomington, IN CPA firm, covering website use, engagement agreements, data security, and Indiana governing law.",
+  "name": "Terms and Conditions | Accord Advisors CPA Bloomington IN",
+  "url": "https://accordadvisors.com/terms-conditions",
+  "description": "Read Accord Advisors' terms and conditions for our Bloomington, IN CPA firm, covering website use, engagement agreements, data security, and Indiana governing law.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   }
 }
 </script>

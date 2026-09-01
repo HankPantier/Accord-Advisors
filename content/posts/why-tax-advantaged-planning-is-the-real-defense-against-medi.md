@@ -11,7 +11,7 @@ meta_title: "How to Plan for Unexpected Medical Expenses | Accord Advisors"
 meta_description: "Learn how to plan for unexpected medical expenses using HSA tax benefits, the medical expense tax deduction, and FSAs, from a Bloomington, IN CPA firm."
 target_keyword: "how to plan for unexpected medical expenses"
 secondary_keywords: ["HSA tax benefits", "medical expense tax deduction", "emergency fund for medical bills", "avoiding medical debt"]
-canonical_url: https://rootadvisors.com/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi
+canonical_url: https://accordadvisors.com/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi
 schema_markup: "FAQPage"
 answer_block: "Planning for unexpected medical expenses means combining a cash emergency fund with tax-advantaged tools: max out HSA contributions if you're on a high-deductible plan, track expenses against the 7.5% AGI deduction threshold, and use an FSA for predictable costs. Together these reduce both the immediate cash hit and the tax bill tied to a medical crisis."
 ---

@@ -5,7 +5,7 @@ meta_title: "What We Do for Clients at Every Stage | Bloomington, IN"
 meta_description: "Accord Advisors gives Bloomington and Indianapolis practices, service businesses, and churches fixed-fee outsourced accounting, from startup through succession."
 target_keyword: "what we do for clients at every stage bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington","business foundation services Indianapolis","CPA for optometry practices","CPA for churches Indiana","medical professional accounting Bloomington"]
-canonical_url: "https://rootadvisors.com/what-we-do"
+canonical_url: "https://accordadvisors.com/what-we-do"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
@@ -153,8 +153,8 @@ Accord Advisors serves optometry, dental, medical, service-business, and church 
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -165,9 +165,9 @@ Accord Advisors serves optometry, dental, medical, service-business, and church 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -201,9 +201,9 @@ Accord Advisors serves optometry, dental, medical, service-business, and church 
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -237,7 +237,7 @@ Accord Advisors serves optometry, dental, medical, service-business, and church 
       "@type": "ListItem",
       "position": 1,
       "name": "What we do for clients at every stage",
-      "item": "https://rootadvisors.com/what-we-do"
+      "item": "https://accordadvisors.com/what-we-do"
     }
   ]
 }
@@ -287,17 +287,17 @@ Accord Advisors serves optometry, dental, medical, service-business, and church 
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "What We Do for Clients at Every Stage | Bloomington, IN",
-  "url": "https://rootadvisors.com/what-we-do",
+  "url": "https://accordadvisors.com/what-we-do",
   "description": "Accord Advisors gives Bloomington and Indianapolis practices, service businesses, and churches fixed-fee outsourced accounting, from startup through succession.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "What we do for clients at every stage",
   "audience": [

@@ -11,7 +11,7 @@ meta_title: "Subscription Creep: How to Audit Recurring Costs | Accord Advisors"
 meta_description: "Subscription creep costs practices and households thousands a year. Learn how to audit recurring expenses and build ongoing budget discipline. Serving Bloomington and Indianapolis, IN."
 target_keyword: "subscription creep"
 secondary_keywords: ["managing subscription costs", "recurring expenses budget", "subscription audit tips", "cutting monthly expenses"]
-canonical_url: https://rootadvisors.com/resources/take-back-control-of-subscription-creep
+canonical_url: https://accordadvisors.com/resources/take-back-control-of-subscription-creep
 schema_markup: "FAQPage"
 answer_block: "Subscription creep is the gradual accumulation of forgotten or unused recurring charges, personal and business, that quietly drain a budget month after month. Fixing it requires a periodic audit of bank and card statements to flag every recurring charge, then a clear decision to keep, downgrade, or cancel each one, repeated on a monthly or quarterly rhythm rather than a one-time cleanup."
 ---
