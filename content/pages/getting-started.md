@@ -176,8 +176,8 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Accord Advisors",
-  "url": "https://rootadvisors.com",
-  "logo": "https://rootadvisors.com/logo.png",
+  "url": "https://accordadvisors.com",
+  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -188,9 +188,9 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-bloomington",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
   "name": "Accord Advisors — Accord Advisors – Bloomington",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "1516 South Walnut Street",
@@ -224,9 +224,9 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
 {
   "@context": "https://schema.org",
   "@type": "AccountingService",
-  "@id": "https://rootadvisors.com/#location-accord-advisors-avon",
+  "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
   "name": "Accord Advisors — Accord Advisors – Avon",
-  "url": "https://rootadvisors.com",
+  "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "7386 Business Center Drive Suite B",
@@ -260,7 +260,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
       "@type": "ListItem",
       "position": 1,
       "name": "What to expect when you become a client",
-      "item": "https://rootadvisors.com/getting-started"
+      "item": "https://accordadvisors.com/getting-started"
     }
   ]
 }
@@ -310,17 +310,17 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "What to Expect When You Become a Client | Bloomington",
-  "url": "https://rootadvisors.com/getting-started",
+  "url": "https://accordadvisors.com/getting-started",
   "description": "See exactly what happens when you become a client of Accord Advisors in Bloomington, IN: a discovery call, fixed monthly fees, and a secure client portal.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "provider": {
     "@type": "Organization",
     "name": "Accord Advisors",
-    "url": "https://rootadvisors.com"
+    "url": "https://accordadvisors.com"
   },
   "serviceType": "What to expect when you become a client",
   "audience": [
