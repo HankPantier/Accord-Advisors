@@ -5,7 +5,7 @@ meta_title: "What to Expect When You Become a Client | Bloomington"
 meta_description: "See exactly what happens when you become a client of Accord Advisors in Bloomington, IN: a discovery call, fixed monthly fees, and a secure client portal."
 target_keyword: "what to expect when you become a client bloomington, in"
 secondary_keywords: ["fixed fee CPA Bloomington","outsourced accounting onboarding","secure client portal accounting","Bloomington optometry accountant"]
-canonical_url: "https://rootadvisors.com/getting-started"
+canonical_url: "https://accordadvisors.com/getting-started"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "A straightforward look at what happens from your first call to your first monthly report"
