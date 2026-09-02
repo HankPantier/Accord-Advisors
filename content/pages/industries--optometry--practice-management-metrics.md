@@ -106,7 +106,6 @@ Optometry practice owners should track monthly revenue per patient encounter, co
 **Internal Links:**
 - optometry practice accounting services → /industries/optometry — Links to the parent industry page for optometry-specific services
 - outsourced accounting department → /services/outsourced-accounting — Connects to the core service that delivers the monthly dashboards described on this page
-- Jared Hammack, CPA → /team-expertise — Supports the credential claim with a link to team bios
 - why practices choose Accord Advisors → /why-rootadvisors — Reinforces differentiation around fixed fees and industry expertise
 - Schedule a consultation → /contact — Primary page CTA directing to contact form
 - getting started with outsourced accounting → /getting-started — Guides ready prospects to the onboarding process page
