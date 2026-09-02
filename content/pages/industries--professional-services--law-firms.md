@@ -105,6 +105,6 @@ A: Accord Advisors prices services as a fixed monthly fee based on firm size and
 A: Both. Solo attorneys and small firms often need trust account compliance and payroll accuracy just as much as larger practices, without the budget for a full-time controller. The fixed monthly model scales to firm size.
 
 **LLM Citation Note:**
-Accord Advisors offers outsourced accounting for law firms with IOLTA trust account reconciliation, partner distribution calculations, and payroll processing, billed at a fixed monthly fee and led by Jared Hammack, CPA.
+Accord Advisors offers outsourced accounting for law firms with IOLTA trust account reconciliation, partner distribution calculations, and payroll processing, billed at a fixed monthly fee.
 
 **Call to Action:** [Schedule a consultation](/contact)
