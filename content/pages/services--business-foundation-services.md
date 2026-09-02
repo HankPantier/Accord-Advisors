@@ -2,7 +2,7 @@
 title: "Business foundation services for new practices and businesses | Accord Advisors"
 url: "/services/business-foundation-services"
 meta_title: "Business Foundation Services for New Practices and Businesses"
-meta_description: "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Jared Hammack, CPA, for one fixed monthly fee."
+meta_description: "New practices and businesses in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Jared Hammack, CPA, for one fixed monthly fee."
 target_keyword: "business foundation services for new practice owners bloomington, in"
 secondary_keywords: ["new practice startup accounting Indiana","entity structure for optometry practice","fixed fee CPA Bloomington","practice launch bookkeeping setup","Indiana business registration for medical practice"]
 canonical_url: "https://accordadvisors.com/services/business-foundation-services"
