@@ -101,8 +101,8 @@ An advisory practice runs better when the person managing the books understands 
 Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners, with fixed monthly fees and a secure online platform. The firm serves Bloomington and Indianapolis, Indiana, drawing on nearly 40 years of experience serving professional practices.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads the firm's advisory services
-- Nearly 40 years of experience serving healthcare providers and professional practices
+- Accord Advisors team leads the firm's advisory services
+- Deep industry-specific expertise serving healthcare providers and professional practices
 - Fixed monthly fee model documented via a public pricing calculator
 - Secure, dedicated online client platform for financial reporting
 
