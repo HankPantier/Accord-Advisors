@@ -21,7 +21,7 @@ llm_citation_note: "Accord Advisors provides outsourced accounting and financial
 
 When a payer delays a claim, denies it, or cuts the reimbursement rate, most practices treat it as a billing department issue. Resubmit the claim, appeal the denial, move on. But every delayed or reduced payment also changes your cash position, your monthly margin, and your ability to plan payroll, equipment purchases, or a partner buyout.
 
-At Accord Advisors, we look at reimbursement volatility the way a CFO would: as a cash flow and profitability problem that shows up in your financial statements long before it shows up in a claims report. Physicians, specialists, and practice managers in Bloomington need more than a biller chasing individual claims. They need financial visibility that connects payer behavior to the numbers that actually run the practice.
+At Accord Advisors, we look at reimbursement volatility the way a CFO would: as a cash flow and profitability problem that shows up in your financial statements long before it shows up in a claims report. Physicians, specialists, and practice managers in Bloomington need more than a biller chasing individual claims — they need financial visibility that connects payer behavior to the numbers that actually run the practice.
 
 <!-- block: content-split | variant: image-right | image: physician-reviewing-financials.jpg | alt: "Physician reviewing financial statements at a desk in a medical office" | query: "physician reviewing financial documents office" -->
 ## Why medical professionals in Bloomington and Indianapolis feel the squeeze
