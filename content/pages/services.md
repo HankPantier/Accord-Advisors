@@ -76,22 +76,42 @@ Meet the team behind that experience on our [team expertise](/team-expertise) pa
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Trusted accounting partner for businesses and individuals
 
-Not every client fits the healthcare mold, and our services don't require it.
+Every client we serve operates inside a financial world most generalist CPAs never fully learn. Whether you run a healthcare practice, lead a congregation, own a service business, or simply need your personal taxes handled with care, we bring the industry-specific depth to do it right.
+
+### Optometry Practices
+icon: Eye
+
+[Optometry practices](/industries/optometry) deal with insurance reimbursement cycles, patient volume shifts, and equipment financing that a general-purpose accounting firm rarely understands at the level of detail that matters. We work with many optometry clients referred through Acquios and deliver monthly financial reporting, practice-specific dashboards, and tax planning built around how an eye care practice actually earns and spends.
+
+### Dental Practices
+icon: Smile
+
+[Dental practices](/industries/dentists) carry a distinct financial profile — insurance mix analysis, associate compensation structures, and equipment costs that don't fit a standard business model. We build reporting and planning around those specifics so practice owners can make decisions with real clarity, not approximations.
+
+### Medical Professionals
+icon: Stethoscope
+
+Physician compensation, practice overhead, and pass-through tax considerations make accounting for [medical professionals](/industries/medical-professionals) more complex than most generalist firms are equipped to handle. Our team understands the structure of a medical practice and delivers monthly insight that connects clinical operations to financial outcomes.
+
+### Professional Service Providers
+icon: Briefcase
+
+Attorneys, consultants, engineers, and other professional service providers need reporting built around billable-hour utilization and client profitability — not a generic chart of accounts borrowed from retail. We deliver the financial visibility that lets you manage your practice like a business.
 
 ### Service-Based Businesses
 icon: Wrench
 
-HVAC installers, electricians, landscapers, plumbers and other [service-based businesses](/industries/service-businesses) need job costing, equipment planning, and cash flow visibility that a generic bookkeeping package won't provide. We build reporting around how the work actually gets billed and delivered.
+HVAC installers, electricians, landscapers, plumbers, and other [service-based businesses](/industries/service-businesses) need job costing, equipment planning, and cash flow visibility that a generic bookkeeping package won't provide. We build reporting around how the work actually gets billed and delivered.
 
 ### Churches and Religious Organizations
 icon: Building2
 
 [Churches](/industries/churches) carry accounting requirements most CPAs never encounter: fund accounting, staffing compliance, and board-level financial transparency. We handle the reporting so leadership can focus on the congregation, not the ledger.
 
-### Individuals and Business Owners
+### Individuals
 icon: Users
 
-From startup through succession, business owners across Bloomington, Indianapolis, and Avon rely on one firm for both business accounting and personal tax planning, rather than coordinating between two advisors who rarely compare notes.
+From coordinating pass-through income across a practice and a personal return, to simply working with a CPA who takes the time to understand your full picture, individuals across Bloomington, Indianapolis, and Avon trust Accord Advisors for personal income tax preparation and planning that goes well beyond processing a return and moving on.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Services overview
