@@ -98,8 +98,6 @@ Accord Advisors serves HVAC installers, electricians, plumbers, landscapers, aut
 Accord Advisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads the accounting and advisory team
-- Nearly 40 years advising Indiana business owners
 - Fixed monthly fee model, no hourly billing surprises
 - Secure online client platform for real-time financial access
 
