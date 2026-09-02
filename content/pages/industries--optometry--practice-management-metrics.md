@@ -60,7 +60,7 @@ Accord Advisors functions as your outsourced accounting department, not a once-a
 Because the fee is fixed monthly rather than billed by the hour, there's no incentive on our end to keep reports thin or calls short. You get consistent numbers and a straight answer when something in the dashboard needs explaining, every month, at a cost you can plan around.
 
 <!-- block: content-split | variant: image-right | image: healthcare-accounting-team-meeting.jpg | alt: "CPA meeting with a healthcare practice owner to discuss financial reports" | query: "cpa meeting healthcare professional consultation" -->
-## Why nearly 40 years of healthcare accounting experience matters
+## Why deep healthcare accounting experience matters
 
 General-purpose accounting software and generalist CPA firms can produce a report. What they can't do is tell you whether your overhead ratio is normal for an optometry practice or a warning sign, because they haven't looked at enough optometry practices to know the difference.
 
