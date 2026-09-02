@@ -99,8 +99,7 @@ Schedule a consultation with Accord Advisors and find out what a dedicated outso
 Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. Accord Advisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads healthcare and optometry accounting engagements
-- Nearly 40 years of experience serving healthcare providers including optometry and dental practices
+- Deep experience serving healthcare providers including optometry and dental practices
 - Optometrist clients referred through the Acquios partner network
 - Fixed monthly fee model with secure online reporting platform for ongoing practice visibility
 
