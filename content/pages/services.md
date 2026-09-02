@@ -41,17 +41,17 @@ The result is a rhythm most small and mid-sized organizations never get from a t
 <!-- block: checklist-section | variant: with-image-left | image: new-practice-bookkeeping-setup.jpg | alt: "New business owner reviewing bookkeeping and payroll setup documents with an advisor" | query: "small business owner paperwork consultation" -->
 ## Business foundation services for startups and growing practices
 
-Opening a new optometry practice or launching a service business means dozens of financial decisions before you ever see a client. Our [business foundation services](/services/business-foundation-services) are built to get those decisions right the first time, so the accounting infrastructure supports growth instead of slowing it down.
+Opening a new optometry practice in Indianapolis, launching a dental office in Bloomington, or starting a service business in Avon means dozens of financial decisions before you ever see a client or complete a first job. Our [business foundation services](/services/business-foundation-services) are built to get those decisions right the first time, so the accounting infrastructure supports growth instead of slowing it down.
 
 That foundation typically includes:
 
-- Entity structure guidance for new practices and startups
+- Entity structure guidance for new practices, businesses, and professional service providers
 - Bookkeeping systems set up to match your industry, not a generic template
 - Payroll structure and setup for your first hires
-- A chart of accounts built around how optometry, dental, or service businesses actually operate
-- Financial systems that scale as you add locations, providers, or staff
+- A chart of accounts built around how optometry, dental, medical, service, or church organizations actually operate
+- Financial systems that scale as you add locations, providers, or staff across Indiana
 
-Growing practices already generating revenue benefit just as much. If your books were built by whoever was available at the time, we'll rebuild the foundation properly, so every report that follows is one you can actually trust.
+Growing practices and businesses already generating revenue benefit just as much. If your books were built by whoever was available at the time, we'll rebuild the foundation properly, so every report that follows is one you can actually trust.​
 
 <!-- block: content-prose -->
 ## Personal income tax preparation and planning
