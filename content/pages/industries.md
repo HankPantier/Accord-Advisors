@@ -48,7 +48,7 @@ Our outsourced accounting engagements for dental practices run on a fixed monthl
 
 Physicians and healthcare providers carry a heavier compliance load than most business owners: reimbursement rules, coding changes, and staffing costs that shift with patient volume. Hiring a full-time CFO to manage that isn't realistic for a single practice or a small group.
 
-Accord Advisors fills that gap. Clients get CFO-level insight into overhead, provider productivity, and cash flow, delivered through a secure online platform, at a fraction of what an in-house hire would cost. Combined with nearly 40 years of healthcare-focused accounting work, that means fewer surprises at year-end and clearer answers when a reimbursement rate changes mid-contract. More detail is available on our [medical professionals](/industries/medical-professionals) page.
+Accord Advisors fills that gap. Clients get CFO-level insight into overhead, provider productivity, and cash flow, delivered through a secure online platform, at a fraction of what an in-house hire would cost. That means fewer surprises at year-end and clearer answers when a reimbursement rate changes mid-contract. More detail is available on our [medical professionals](/industries/medical-professionals) page.
 
 <!-- block: content-split | variant: image-left | image: professional-service-firms-accounting.jpg | alt: "Attorney and accountant reviewing financial statements in a professional office" | query: "attorney financial advisor meeting accountant" -->
 ## Professional service providers
