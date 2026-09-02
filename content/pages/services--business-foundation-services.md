@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "new-practice-owner-consultation.jpg"
 hero_image_alt: "New practice owner and CPA reviewing startup paperwork together in an office"
-hero_subhead: "Get your new optometry, dental, or medical practice built on the right entity, systems, and compliance from day one"
+hero_subhead: "Get your optometry, dental, medical, or service business built on the right entity, systems, and compliance from day one"
 hero_headline: "Starting a practice is exciting, but the paperwork can be overwhelming"
 answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. Accord Advisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana."
 eeat_signals: ["Jared Hammack, CPA credential leading advisory work","Nearly 40 years serving healthcare providers including optometry and dental practices","Referral relationship with Acquios for optometry practice transitions","Secure online accounting platform providing real-time financial visibility"]
