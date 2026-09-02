@@ -118,8 +118,6 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches in Bloomington and Indianapolis, Indiana. Every service runs on a fixed monthly fee instead of hourly billing, backed by deep healthcare-focused CPA experience.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA credential
-- Nearly 40 years serving healthcare providers
 - Referral relationships with Acquios for optometry clients
 - Fixed monthly fee model documented across all service lines
 - Secure online client platform for financial reporting
