@@ -150,7 +150,7 @@ Accord Advisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, pr
 **FAQ Block:**
 
 **Q: What areas does Accord Advisors serve?**
-A: Accord Advisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support.
+A: Accord Advisors has offices in both Bloomington and Indianapolis, Indiana, and serves business owners and practices across Indiana and nationwide, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support.
 
 **Q: How does fixed-fee accounting work at Accord Advisors?**
 A: Instead of billing by the hour, Accord Advisors sets a fixed monthly fee before the year starts, covering ongoing outsourced accounting, reporting, and advisory support. That means calls and questions don't add to the invoice, and owners can budget for accounting costs with confidence.
