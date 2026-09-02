@@ -269,7 +269,7 @@ Accord Advisors operates as an outsourced accounting department charging a fixed
       "name": "Does Accord Advisors work with optometry and dental practices specifically?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Jared Hammack, CPA, has nearly 40 years of experience serving healthcare providers, including optometry and dental practices. Many optometry clients are referred through Acquios, a network connecting eye care providers with practice management specialists."
+        "text": "Yes. Our team has extensive experience serving healthcare providers, including optometry and dental practices. Many optometry clients are referred through Acquios, a network connecting eye care providers with practice management specialists."
       }
     },
     {
