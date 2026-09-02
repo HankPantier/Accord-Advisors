@@ -158,7 +158,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors - Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
