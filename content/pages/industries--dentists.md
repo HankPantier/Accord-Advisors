@@ -87,7 +87,7 @@ Financial statements, tax documents, and dashboards live in one secure online pl
 ### Decades of healthcare industry experience
 icon: HeartPulse
 
-Nearly 40 years serving healthcare providers, including dental, optometry, and medical practices, means the team already speaks the language of production, collections, and payer reimbursements.
+Extensive experience serving healthcare providers, including dental, optometry, and medical practices, means the team already speaks the language of production, collections, and payer reimbursements.
 
 That combination of fixed pricing, secure access, and industry-specific expertise is why dental practices across Bloomington, Avon, Indianapolis, and throughout Indiana choose Accord Advisors over generalist firms and national chains.
 
