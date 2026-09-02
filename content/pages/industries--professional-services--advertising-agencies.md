@@ -73,7 +73,7 @@ If your agency's books are eating time you'd rather spend on client work, it's w
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. Led by Jared Hammack, CPA, the firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
+Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
 
 **E-E-A-T Signals:**
 - Led by Jared Hammack, CPA
