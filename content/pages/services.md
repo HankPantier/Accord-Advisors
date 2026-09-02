@@ -36,7 +36,7 @@ Owners of optometry practices, dental offices, medical practices, service busine
 
 The reporting arrives through a secure online platform, so you're never waiting on a phone call or digging through email attachments to see where you stand. Bookkeeping, reconciliations, and financial statement preparation happen on a set schedule, billed at a fixed monthly rate you agree to upfront.
 
-The result is a rhythm most small and mid-sized organizations never get from a traditional CPA relationship: monthly clarity instead of an annual surprise. Whether you run a medical practice, a church, a professional services firm, or a service business anywhere in Bloomington, Avon, or across Indiana, you'll know your numbers well enough to make a staffing decision, a pricing change, or an equipment purchase with confidence — not guesswork.
+The result is a rhythm most small and mid-sized organizations never get from a traditional CPA relationship: monthly clarity instead of an annual surprise. Whether you run a medical practice, a church, a professional services firm, or a service business anywhere in Bloomington, Avon, or across Indiana, you'll know your numbers well enough to make a staffing decision, a pricing change, or an equipment purchase with confidence rather than guesswork.
 
 <!-- block: checklist-section | variant: with-image-left | image: new-practice-bookkeeping-setup.jpg | alt: "New business owner reviewing bookkeeping and payroll setup documents with an advisor" | query: "small business owner paperwork consultation" -->
 ## Business foundation services for startups and growing practices
