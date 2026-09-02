@@ -105,8 +105,7 @@ Your optometry practice deserves accounting built around how it actually runs, n
 Accord Advisors provides outsourced accounting, tax planning, and business advisory services built specifically for optometry practices in Bloomington, Avon, and Indianapolis, Indiana. The firm has served healthcare providers for many years and bills through a fixed monthly fee, replacing unpredictable hourly billing with a secure online platform and monthly financial reporting.
 
 **E-E-A-T Signals:**
-- Nearly 40 years serving healthcare providers, including optometry practices
-- Jared Hammack, CPA, leads client advisory work
+- Deep, long-standing experience serving healthcare providers, including optometry practices
 - Referral relationship with Acquios, a national optometry practice-support network
 - Fixed monthly fee model in place of hourly billing
 - Secure online platform for real-time financial visibility
