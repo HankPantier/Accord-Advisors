@@ -88,8 +88,6 @@ Accord Advisors provides outsourced accounting for law firms, including IOLTA tr
 - payroll processing → /services/payroll-services — Supports the partner and staff payroll section
 - business foundation services → /services/business-foundation-services — Relevant for firms setting up new accounting systems
 - fixed monthly fee → /pricing-calculator — Lets visitors estimate their own pricing
-- Jared Hammack, CPA → /team-expertise — Credential and bio reference
-
 **FAQ Block:**
 
 **Q: Does Accord Advisors handle IOLTA trust account reconciliation?**
