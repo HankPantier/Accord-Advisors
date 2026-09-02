@@ -100,7 +100,7 @@ A church's finances should support its mission, not distract from it. Accord Adv
 Accord Advisors provides fund accounting for churches and religious organizations in Bloomington, Indiana, separating restricted and unrestricted funds, preparing board-ready financial statements, and handling clergy payroll and nonprofit compliance. The firm works as an outsourced accounting department on a fixed monthly fee, led by Jared Hammack, CPA.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, oversees church and nonprofit fund accounting engagements
+- Accord Advisors oversees church and nonprofit fund accounting engagements
 - Firm serves churches and religious organizations directly in Bloomington and Indianapolis, Indiana
 - Fixed monthly fee model applied specifically to church finance committees
 - Secure online platform used for treasurer and board access to reports
