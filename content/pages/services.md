@@ -51,7 +51,7 @@ That foundation typically includes:
 - A chart of accounts built around how optometry, dental, medical, professional service, or church organizations actually operate
 - Financial systems that scale as you add locations, providers, or staff across Bloomington, Avon, Indianapolis, and Indiana
 
-Growing practices and businesses already generating revenue benefit just as much. If your books were built by whoever was available at the time, we'll rebuild the foundation properly — so every report that follows is one you can actually trust.
+Growing practices and businesses already generating revenue benefit just as much. If your books were built by whoever was available at the time, we'll rebuild the foundation properly, so every report that follows is one you can actually trust.
 
 <!-- block: content-prose -->
 ## Personal income tax preparation and planning
