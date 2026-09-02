@@ -115,7 +115,6 @@ Schedule a consultation and see the platform, the pricing, and the plan before y
 Accord Advisors provides outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads client engagements
 - Serves professional services firms in Bloomington and Indianapolis, Indiana
 - Fixed monthly fee model replaces traditional hourly billing
 - Secure cloud-based platform provides real-time financial data
