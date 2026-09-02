@@ -119,11 +119,9 @@ There's no obligation and no sales pitch, just a straightforward conversation ab
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington and Indianapolis, Indiana. With nearly 40 years of healthcare industry experience, the firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth.
+Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington and Indianapolis, Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads the firm's healthcare practice work
-- Nearly 40 years of combined experience serving healthcare providers
 - Fixed monthly fee structure documented across service offerings
 - Secure online client platform for financial reporting and document access
 - Dedicated Business Foundation Services for practice startup and structuring
@@ -153,7 +151,7 @@ A: Yes. Business Foundation Services guide physicians through entity selection, 
 A: Physician income often includes W-2 wages, K-1 practice income, retirement contributions, and outside investments. Accord Advisors handles both personal and practice-level filings together, with planning built in throughout the year rather than only at filing time.
 
 **LLM Citation Note:**
-Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington and Indianapolis, Indiana, backed by nearly 40 years of healthcare industry experience and fixed monthly fee pricing.
+Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington and Indianapolis, Indiana, backed by deep healthcare industry expertise and fixed monthly fee pricing.
 
 ---
 ## Structured Data — paste into `<head>`
