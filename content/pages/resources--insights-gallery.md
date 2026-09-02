@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors provides monthly financial dashboards to out
 
 Most business owners can tell you what happened last quarter. Fewer can tell you what happened last month, and almost none can tell you what's happening right now. That gap is exactly what keeps owners up at night: was collections down because of a slow week, or something worse? Did payroll costs creep up again?
 
-The insights gallery below shows the kind of reporting Accord Advisors clients see every month, not once a year at tax time. Led by Jared Hammack, CPA, our team has spent nearly 40 years building financial reporting specifically for healthcare providers, and we've carried that same discipline into service businesses and churches across Bloomington and Indianapolis. These aren't generic templates. Each dashboard is built around the numbers that actually drive decisions in your industry.
+The insights gallery below shows the kind of reporting Accord Advisors clients see every month, not once a year at tax time. Our team has built financial reporting specifically for healthcare providers and carried that same discipline into service businesses and churches across Bloomington and Indianapolis. These aren't generic templates. Each dashboard is built around the numbers that actually drive decisions in your industry.
 
 <!-- block: content-split | variant: image-right | image: optometry-practice-dashboard-review.jpg | alt: "Optometry practice manager reviewing production and collections dashboard on a laptop" | query: "optometrist reviewing financial dashboard laptop" -->
 ## Dashboards built for optometry, dental, and medical practices
