@@ -76,7 +76,6 @@ If your agency's books are eating time you'd rather spend on client work, it's w
 Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
 
 **E-E-A-T Signals:**
-- Led by Jared Hammack, CPA
 - Fixed monthly fee pricing model instead of hourly billing
 - Secure online client platform for financial reporting
 - Serves agencies and service businesses in Bloomington and Indianapolis, Indiana
