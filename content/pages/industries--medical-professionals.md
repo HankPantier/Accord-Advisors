@@ -72,6 +72,7 @@ For practice-level filings, the same team handling monthly bookkeeping prepares 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Bloomington and Indianapolis medical professionals choose Accord Advisors
 
+
 ### Fixed monthly fees
 icon: DollarSign
 
