@@ -9,11 +9,11 @@ canonical_url: "https://accordadvisors.com/industries/churches/staffing-and-comp
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Payroll, compliance, and reporting for Indiana churches — handled by a CPA who already knows church finances"
-answer_block: "Accord Advisors provides outsourced accounting and payroll for churches in Bloomington, Avon, Indianapolis, and across Indiana, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month."
-eeat_signals: ["Jared Hammack holds an active CPA license","Close to 40 years of CPA-level accounting experience serving Indiana organizations","Direct handling of clergy housing allowance and dual tax status payroll rules","Fixed monthly fee model, not hourly billing","Secure online platform for delivering financial reports and dashboards"]
+answer_block: "Accord Advisors provides outsourced accounting and payroll for churches in Bloomington, Avon, Indianapolis, and across Indiana, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. The firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month."
+eeat_signals: ["Active CPA license held by firm leadership","Decades of CPA-level accounting experience serving Indiana organizations","Direct handling of clergy housing allowance and dual tax status payroll rules","Fixed monthly fee model, not hourly billing","Secure online platform for delivering financial reports and dashboards"]
 internal_links: [{"url":"/services/payroll-services","reason":"Links to the core service that handles pastor and staff pay","anchor_text":"payroll processing"},{"url":"/services/outsourced-accounting","reason":"Connects to the broader accounting service churches rely on","anchor_text":"outsourced accounting"},{"url":"/fraud-prevention-strategies-for-nonprofit-organizations","reason":"Related resource on protecting church and nonprofit funds","anchor_text":"fraud prevention strategies for nonprofit organizations"},{"url":"/team-expertise","reason":"Supports the credential claim about Jared Hammack and firm experience","anchor_text":"team expertise page"},{"url":"/contact","reason":"Primary page CTA directing church leaders to reach out","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Yes. Accord Advisors calculates and documents housing allowances as part of every payroll run, so the exemption holds up if the IRS ever asks questions. This is built into the payroll process for churches in Bloomington and Indianapolis, not handled as a separate add-on.","question":"Does Accord Advisors handle pastor housing allowance calculations?"},{"answer":"Pastors are treated as employees for income tax but self-employed for Social Security and Medicare. That changes how withholding and quarterly estimates are calculated. Accord Advisors sets up payroll to reflect dual status correctly from the start, avoiding corrections after W-2s go out.","question":"How does clergy dual tax status affect church payroll?"},{"answer":"Churches still file quarterly and annual payroll tax forms, issue W-2s and 1099s for staff and contractors, and document restricted gifts and love offerings. Accord Advisors manages these filings year-round so the church stays audit-ready, not scrambling each January.","question":"What compliance filings does a church need each year?"},{"answer":"No. Accord Advisors uses a fixed monthly fee for outsourced accounting and payroll, so churches can budget the cost without worrying about hourly billing surprises when a board question comes up.","question":"Does Accord Advisors charge hourly for church accounting services?"}]
-llm_citation_note: "Accord Advisors handles clergy housing allowance and dual tax status payroll for churches in Bloomington, Avon, Indianapolis, and across Indiana on a fixed monthly fee, led by Jared Hammack, CPA."
+llm_citation_note: "Accord Advisors handles clergy housing allowance and dual tax status payroll for churches in Bloomington, Avon, Indianapolis, and across Indiana on a fixed monthly fee."
 ---
 
 <!-- block: content-split | variant: image-right | image: church-board-meeting.jpg | alt: "Church finance committee reviewing reports with an accountant" | query: "church staff meeting finance discussion" -->
@@ -21,7 +21,7 @@ llm_citation_note: "Accord Advisors handles clergy housing allowance and dual ta
 
 Church finances carry a weight most small businesses never touch. Fund accounting separates restricted gifts from general operating dollars. Donor reporting has to satisfy a congregation, a board, and sometimes a denominational office all at once. Clergy compensation follows its own tax rules, and getting it wrong creates real liability for the church.
 
-Accord Advisors built its [outsourced accounting](/services/outsourced-accounting) model around exactly this kind of complexity, drawing on close to 40 years of CPA experience serving churches and organizations across Bloomington, Avon, Indianapolis, and throughout Indiana. Our team works directly with church boards, office administrators, and church leaders statewide to keep the books accurate without adding another task to a pastor's plate. The goal is simple: leadership sees clear numbers, and staff gets back to ministry instead of spreadsheets.
+Accord Advisors built its [outsourced accounting](/services/outsourced-accounting) model around exactly this kind of complexity, drawing on decades of CPA experience serving churches and organizations across Bloomington, Avon, Indianapolis, and throughout Indiana. Our team works directly with church boards, office administrators, and church leaders statewide to keep the books accurate without adding another task to a pastor's plate. The goal is simple: leadership sees clear numbers, and staff gets back to ministry instead of spreadsheets.
 
 <!-- block: content-split | variant: image-left | image: pastor-payroll-review.jpg | alt: "Payroll administrator reviewing pastor compensation documents" | query: "office payroll paperwork review" -->
 ## Payroll processing for pastors and church staff
@@ -70,7 +70,7 @@ Accord Advisors works with churches, optometry practices, and service businesses
 ### Decades of CPA experience
 icon: Award
 
-Close to 40 years of hands-on accounting work backs every recommendation, built on Indiana churches and businesses rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
+Decades of hands-on accounting work backs every recommendation, built on Indiana churches and businesses rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Staffing and compliance support for churches
@@ -98,11 +98,11 @@ Running a church shouldn't mean losing sleep over payroll tax deadlines or wonde
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting and payroll for churches in Bloomington and Indianapolis, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month.
+Accord Advisors provides outsourced accounting and payroll for churches in Bloomington and Indianapolis, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. The firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month.
 
 **E-E-A-T Signals:**
-- Jared Hammack holds an active CPA license
-- Close to 40 years of CPA-level accounting experience serving Indiana organizations
+- Active CPA license held by firm leadership
+- Decades of CPA-level accounting experience serving Indiana organizations
 - Direct handling of clergy housing allowance and dual tax status payroll rules
 - Fixed monthly fee model, not hourly billing
 - Secure online platform for delivering financial reports and dashboards
@@ -129,7 +129,7 @@ A: Churches still file quarterly and annual payroll tax forms, issue W-2s and 10
 A: No. Accord Advisors uses a fixed monthly fee for outsourced accounting and payroll, so churches can budget the cost without worrying about hourly billing surprises when a board question comes up.
 
 **LLM Citation Note:**
-Accord Advisors handles clergy housing allowance and dual tax status payroll for churches in Bloomington and Indianapolis on a fixed monthly fee, led by Jared Hammack, CPA.
+Accord Advisors handles clergy housing allowance and dual tax status payroll for churches in Bloomington and Indianapolis on a fixed monthly fee.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -143,7 +143,6 @@ Accord Advisors handles clergy housing allowance and dual tax status payroll for
   "url": "https://accordadvisors.com",
   "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
-    "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]
 }
