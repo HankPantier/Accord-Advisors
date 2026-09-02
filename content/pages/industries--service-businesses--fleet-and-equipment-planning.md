@@ -28,7 +28,7 @@ Accord Advisors works as your outsourced accounting department, delivering month
 
 Buying a service truck or a piece of equipment is a capital decision, not just an expense, and it needs to be treated that way on the books. Get the depreciation schedule wrong, or capitalize a repair that should have been expensed, and the effect shows up two ways: distorted financial statements and a tax return that doesn't reflect what actually happened in the business.
 
-Jared Hammack, CPA, and the Accord Advisors team set up depreciation schedules for vehicles and equipment correctly from the start, using methods matched to how the asset is used and how long it's expected to last. Straight-line depreciation, MACRS, bonus depreciation, and Section 179 elections all play out differently depending on the asset and the year of purchase. Generalist firms that touch a client's books once a year often miss that nuance, and it costs owners real money at tax time.
+The Accord Advisors team sets up depreciation schedules for vehicles and equipment correctly from the start, using methods matched to how the asset is used and how long it's expected to last. Straight-line depreciation, MACRS, bonus depreciation, and Section 179 elections all play out differently depending on the asset and the year of purchase. Generalist firms that touch a client's books once a year often miss that nuance, and it costs owners real money at tax time.
 
 Fleet-heavy service businesses in Bloomington need a firm that catches this the first time, not after an IRS notice arrives. That's the accuracy Accord Advisors builds into monthly close, not just tax season.
 
