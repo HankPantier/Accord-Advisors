@@ -194,7 +194,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors - Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
