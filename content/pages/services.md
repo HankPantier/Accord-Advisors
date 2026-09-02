@@ -21,13 +21,13 @@ llm_citation_note: "Accord Advisors operates as an outsourced accounting departm
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Accounting support built for your industry
+## Accounting support built for your practice, your business, and your life
 
-Most accounting firms hand you a spreadsheet once a year and call it service. Accord Advisors works differently. We operate as an outsourced accounting department for optometry practices, dental offices, medical professionals, service-based businesses, and churches across Bloomington, Indianapolis, and Avon, Indiana, handling the financial detail so you can run the organization in front of you.
+Most accounting firms hand you a spreadsheet once a year and call it service. Accord Advisors works differently. We operate as an outsourced accounting department for optometrists, dentists, medical professionals, service-based businesses, churches, and individuals across Bloomington, Avon, Indianapolis, and the state of Indiana, handling the financial detail so you can focus on the work in front of you.
 
-Every engagement runs on a fixed monthly fee, not an hourly clock that punishes you for asking questions. That means CFO-level insight into your numbers, without the CFO-level salary. Whether you're opening a first optometry location or managing a church with a dozen staff members, the model stays the same: clear pricing, clear reporting, and a CPA team that already understands your industry before the first meeting.
+Every engagement runs on a fixed monthly fee, not an hourly clock that punishes you for asking questions. That means CFO-level insight into your numbers, without the CFO-level salary. Whether you're opening a first optometry practice in Bloomington, running a service business in Avon, leading a congregation in Indianapolis, or simply need your personal taxes handled by a CPA who also knows your business, the model stays the same: clear pricing, clear reporting, and a team that already understands your industry before the first meeting.
 
-Explore the specifics of what that looks like across our [core services](/what-we-do) and [industries served](/industries), or jump straight to the service area that matches where your business stands today.
+Explore the specifics of what that looks like across our [core services](/what-we-do) and [industries served](/industries), or jump straight to the service area that fits where you stand today.
 
 <!-- block: content-split | variant: image-right | image: monthly-financial-dashboard-review.jpg | alt: "Accountant showing a business owner monthly financial dashboards on a laptop" | query: "accountant reviewing dashboard with client" -->
 ## Outsourced accounting that keeps you informed every month
