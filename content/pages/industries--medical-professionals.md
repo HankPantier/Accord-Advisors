@@ -82,10 +82,10 @@ icon: ShieldCheck
 
 Financial reports, dashboards, and documents are available anytime through a secure portal, not buried in email threads or waiting on a callback.
 
-### Nearly 40 years in healthcare
+### Deep healthcare expertise
 icon: Stethoscope
 
-Decades spent working inside optometry, dental, and physician practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
+Years spent working inside optometry, dental, and physician practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
 
 ### CFO-level guidance
 icon: ChartLine
