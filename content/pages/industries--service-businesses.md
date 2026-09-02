@@ -105,8 +105,7 @@ Accord Advisors provides outsourced accounting for service-based businesses, inc
 - outsourced accounting department → /services/outsourced-accounting — Connects to the core service page describing the fixed-fee accounting model
 - Business Foundation Services → /services/business-foundation-services — Links to the service page covering entity setup and startup systems
 - personal income tax preparation and planning → /services/personal-income-tax — Supports the section on integrated personal and business tax planning
-- Jared Hammack, CPA, → /team-expertise — Introduces the credentialed CPA leading client work
-- why Indiana business owners choose Accord Advisors → /why-rootadvisors — Reinforces local differentiation and firm positioning
+- why Indiana business owners choose Accord Advisors → /why-accord-advisors — Reinforces local differentiation and firm positioning
 - Schedule a consultation → /contact — Primary page CTA driving to the contact form
 
 **FAQ Block:**
