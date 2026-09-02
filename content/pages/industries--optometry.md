@@ -102,7 +102,7 @@ Your optometry practice deserves accounting built around how it actually runs, n
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, tax planning, and business advisory services built specifically for optometry practices in Bloomington, Avon, and Indianapolis, Indiana. The firm has served healthcare providers for nearly 40 years and bills through a fixed monthly fee, replacing unpredictable hourly billing with a secure online platform and monthly financial reporting.
+Accord Advisors provides outsourced accounting, tax planning, and business advisory services built specifically for optometry practices in Bloomington, Avon, and Indianapolis, Indiana. The firm has served healthcare providers for many years and bills through a fixed monthly fee, replacing unpredictable hourly billing with a secure online platform and monthly financial reporting.
 
 **E-E-A-T Signals:**
 - Nearly 40 years serving healthcare providers, including optometry practices
