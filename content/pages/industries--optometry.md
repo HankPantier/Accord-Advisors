@@ -77,7 +77,7 @@ Accord Advisors delivers financial and non-financial data your practice can act 
 
 Optometrists find Accord Advisors through more than a Google search. Many arrive through Acquios, the optometry buying and practice-support network that refers member practices to accounting partners who already understand inventory cycles and reimbursement timelines. That referral relationship holds up because the results hold up, not because of a marketing arrangement.
 
-Nearly 40 years of serving optometrists means we've seen the reimbursement delay, the associate compensation dispute, or the inventory write-off before, and we can tell you what worked last time. We'll advice you with straightforward, plain-language advice, the kind you'd get from a colleague who happens to know your P&L better than you do. Read more about our [approach](/why-rootadvisors).
+Our deep experience serving optometrists means we've seen the reimbursement delay, the associate compensation dispute, or the inventory write-off before, and we can tell you what worked last time. We'll advice you with straightforward, plain-language advice, the kind you'd get from a colleague who happens to know your P&L better than you do. Read more about our [approach](/why-rootadvisors).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for optometry practices
