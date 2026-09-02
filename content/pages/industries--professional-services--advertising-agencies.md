@@ -84,7 +84,7 @@ Accord Advisors provides outsourced accounting for advertising agencies in Bloom
 - outsourced accounting services → /services/outsourced-accounting — Links to the core service page detailing bookkeeping and reporting scope mentioned on this page
 - pricing calculator → /pricing-calculator — Lets agency owners estimate their fixed monthly fee directly, supporting the pricing section
 - payroll processing → /services/payroll-services — Related service directly referenced in the bookkeeping and payroll section
-- service businesses → /industries/service-businesses — Agencies fall under the broader service-business category the firm serves
+- professional service providers → /industries/professional-service-providers — Agencies fall under the broader professional service provider category the firm serves
 
 **FAQ Block:**
 
