@@ -58,18 +58,18 @@ Hourly billing adds a second layer of uncertainty to a financial picture that's 
 Accord Advisors charges a fixed monthly fee for outsourced accounting, regardless of how many questions you ask or how many times you need a dashboard pulled during a rough claims month. Practice owners in Bloomington and Indianapolis can budget for accounting the same way they budget for rent: one predictable number, every month, no surprises on the invoice. That stability is worth something when the revenue side of your ledger is the part that keeps moving.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Nearly 40 years of healthcare-specific accounting experience
+## Deep healthcare-specific accounting expertise
 
-### Nearly 40 years
+### Healthcare-focused
 Serving medical, dental, and optometry practices with specialty-specific financial guidance, not generalist bookkeeping.
 
 ### CPA-led advisory
-Jared Hammack, CPA, brings direct experience with the reimbursement and margin pressures healthcare practices face today.
+Experienced CPA leadership brings direct insight into the reimbursement and margin pressures healthcare practices face today.
 
 ### Fixed monthly fee
 One predictable fee for outsourced accounting, delivered through a secure online platform built for practice owners.
 
-That depth matters when you're comparing a national firm's generalist tax team to a firm that has spent decades inside the financial mechanics of healthcare practices specifically, including [optometry practices](/industries/optometry) and the reimbursement patterns unique to vision care.
+That depth matters when you're comparing a national firm's generalist tax team to a firm built around the financial mechanics of healthcare practices specifically, including [optometry practices](/industries/optometry) and the reimbursement patterns unique to vision care.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Managing reimbursement challenges for healthcare providers
