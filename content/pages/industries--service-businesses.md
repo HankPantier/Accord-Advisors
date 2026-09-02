@@ -62,9 +62,8 @@ HVAC installers, electricians, plumbers, landscapers, and auto mechanics across 
 <!-- block: stats-bar | variant: 3-up -->
 ## Indiana expertise, wherever your business operates
 
-Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That history means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-rootadvisors).
+Accord Advisors serves Indiana business owners with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That presence means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-accord-advisors).
 
-- Nearly 40 years advising Indiana business owners
 - Serving Bloomington, Avon, Indianapolis, and statewide
 - 100% fixed-fee engagements, no hourly billing
 
