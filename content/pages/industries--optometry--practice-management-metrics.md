@@ -142,6 +142,7 @@ Accord Advisors delivers monthly optometry practice dashboards combining financi
   "sameAs": [
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]
+
 }
 </script>
 <script type="application/ld+json">
