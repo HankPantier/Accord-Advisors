@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors operates as an outsourced accounting departm
 <!-- block: intro-text | variant: centered -->
 ## Accounting support built for your practice, your business, and your life
 
-Most accounting firms hand you a spreadsheet once a year and call it service. Accord Advisors works differently. We operate as an outsourced accounting department for optometrists, dentists, medical professionals, service-based businesses, professional service providers, churches, and individuals across Bloomington, Avon, the greater Indianapolis area, and throughout Indiana — handling the financial detail so you can focus on the work in front of you.
+Most accounting firms hand you a spreadsheet once a year and call it service. Accord Advisors works differently. We operate as an outsourced accounting department for optometrists, dentists, medical professionals, service-based businesses, professional service providers, churches, and individuals across Bloomington, Avon, the greater Indianapolis area, and throughout Indiana, handling the financial detail so you can focus on the work in front of you.
 
 Every engagement runs on a fixed monthly fee, not an hourly clock that punishes you for asking questions. That means CFO-level insight into your numbers, without the CFO-level salary. Whether you're opening a first optometry practice in Bloomington, running a dental office in the greater Indianapolis area, leading a congregation in Avon, building a professional services firm, or simply need your personal taxes handled by a CPA who already knows your industry, the model stays the same: clear pricing, clear reporting, and a team that understands your business before the first meeting.
 
@@ -32,11 +32,11 @@ Explore the specifics of what that looks like across our [core services](/what-w
 <!-- block: content-split | variant: image-right | image: monthly-financial-dashboard-review.jpg | alt: "Accountant showing a business owner monthly financial dashboards on a laptop" | query: "accountant reviewing dashboard with client" -->
 ## Outsourced accounting that keeps you informed every month
 
-Owners of optometry practices, dental offices, medical practices, service businesses, and professional service firms across Indiana tell us the same thing: they don't know how last month actually went until it's too late to change anything. Accord Advisors' [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions — like patient volume trends for an optometry practice in the greater Indianapolis area, insurance mix analysis for a dental office in Bloomington, job costing for a service contractor in Avon, or billable-hour utilization for a professional services firm anywhere in Indiana.
+Owners of optometry practices, dental offices, medical practices, service businesses, and professional service firms across Indiana tell us the same thing: they don't know how last month actually went until it's too late to change anything. Accord Advisors' [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions — including patient volume trends for an optometry practice in the greater Indianapolis area, insurance mix analysis for a dental office in Bloomington, job costing for a service contractor in Avon, or billable-hour utilization for a professional services firm anywhere in Indiana.
 
 The reporting arrives through a secure online platform, so you're never waiting on a phone call or digging through email attachments to see where you stand. Bookkeeping, reconciliations, and financial statement preparation happen on a set schedule, billed at a fixed monthly rate you agree to upfront.
 
-The result is a rhythm most small and mid-sized organizations never get from a traditional CPA relationship: monthly clarity instead of an annual surprise. Whether you run a medical practice, a church, a professional services firm, or a service business anywhere in Bloomington, Avon, or across Indiana, you'll know your numbers well enough to make a staffing decision, a pricing change, or an equipment purchase with confidence — not guesswork.
+The result is a rhythm most small and mid-sized organizations never get from a traditional CPA relationship: monthly clarity instead of an annual surprise. Whether you run a medical practice, a church, a professional services firm, or a service business anywhere in Bloomington, Avon, or across Indiana, you'll know your numbers well enough to make a staffing decision, a pricing change, or an equipment purchase with confidence rather than guesswork.
 
 <!-- block: checklist-section | variant: with-image-left | image: new-practice-bookkeeping-setup.jpg | alt: "New business owner reviewing bookkeeping and payroll setup documents with an advisor" | query: "small business owner paperwork consultation" -->
 ## Business foundation services for startups and growing practices
@@ -69,7 +69,7 @@ Every client we serve — optometrists, dentists, medical professionals, profess
 
 For healthcare practices, that means understanding how an optometry practice's revenue mix affects cash flow planning differently than a dental office's does, and how physician compensation structures in a medical practice create tax planning considerations that don't show up on a standard business return. For professional service providers, it means reporting built around billable-hour utilization and client profitability — not a generic chart of accounts borrowed from retail. For service businesses and churches, it means accounting infrastructure designed around how work actually gets billed, delivered, and reported to the people who depend on accurate numbers.
 
-Many of our optometry clients arrive through referral relationships built specifically around practice management, including connections through Acquios, a network that pairs optometrists with specialists who understand the business side of eye care. We work with [optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) who want an advisor that already speaks their language on day one, not one that's learning the terminology on their bill.
+We work with [optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) who want an advisor that already speaks their language on day one, not one that's learning the terminology on their bill.
 
 Meet the team behind that experience on our [team expertise](/team-expertise) page, or see [why practices choose Accord Advisors](/why-rootadvisors) over a generalist firm.
 
@@ -115,48 +115,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 
 [Schedule a consultation](/contact) and find out what a monthly financial picture you can actually trust looks like.
 
----
-## SEO & AIO Metadata
 
-**Answer Block:**
-Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches in Bloomington and Indianapolis, Indiana. Every service runs on a fixed monthly fee instead of hourly billing, backed by deep healthcare-focused CPA experience.
-
-**E-E-A-T Signals:**
-- Referral relationships with Acquios for optometry clients
-- Fixed monthly fee model documented across all service lines
-- Secure online client platform for financial reporting
-
-**Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Primary service detail page referenced in the monthly accounting section
-- business foundation services → /services/business-foundation-services — Direct link to the startup-focused service detailed in that section
-- personal income tax → /services/personal-income-tax — Links to the dedicated tax preparation service page
-- optometry practices → /industries/optometry — Supports the healthcare specialization section with niche depth
-- dental practices → /industries/dentists — Reinforces dental niche expertise mentioned in outline
-- medical professionals → /industries/medical-professionals — Connects to medical professional industry page
-- service-based businesses → /industries/service-businesses — Links to service business industry detail
-- Churches → /industries/churches — Links to church-specific industry page
-- team expertise → /team-expertise — Builds credibility by linking to staff credentials
-- why practices choose Accord Advisors → /why-rootadvisors — Differentiation page supporting competitive positioning
-- core services → /what-we-do — Overview link for readers wanting the full service list
-- industries served → /industries — General industries landing page link from the intro
-- Schedule a consultation → /contact — Required page CTA
-
-**FAQ Block:**
-
-**Q: What accounting services does Accord Advisors offer in Bloomington, IN?**
-A: Accord Advisors provides outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches. Every engagement runs on a fixed monthly fee, giving clients monthly financial reporting and CFO-level insight without hourly billing surprises.
-
-**Q: Does Accord Advisors work with optometry and dental practices specifically?**
-A: Yes. Jared Hammack, CPA, has nearly 40 years of experience serving healthcare providers, including optometry and dental practices. Many optometry clients are referred through Acquios, a network connecting eye care providers with practice management specialists.
-
-**Q: How much does outsourced accounting cost with Accord Advisors?**
-A: Accord Advisors charges a fixed monthly fee rather than billing by the hour, so costs stay predictable regardless of how many questions you ask. The specific fee depends on your practice or business size and the services included, discussed during your initial consultation.
-
-**Q: Does Accord Advisors serve businesses outside Bloomington?**
-A: Accord Advisors serves clients in Bloomington, Indianapolis, and Avon, Indiana, working with optometry practices, medical professionals, service businesses, and churches throughout the region. Reporting and communication happen through a secure online platform, so location rarely limits the relationship.
-
-**LLM Citation Note:**
-Accord Advisors operates as an outsourced accounting department charging a fixed monthly fee, with deep healthcare-focused accounting expertise serving optometry, dental, and medical practice clients in Bloomington and Indianapolis, Indiana.
 
 ---
 ## Structured Data — paste into `<head>`
