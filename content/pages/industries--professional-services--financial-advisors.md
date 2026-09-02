@@ -25,9 +25,9 @@ llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounti
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Built for Financial Advisory Practices
 
-Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors has spent nearly 40 years working alongside healthcare providers, service businesses, and professional practices in Bloomington and Indianapolis, building the same kind of financial infrastructure independent advisors need to run a compliant, scalable firm.
+Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors has worked alongside healthcare providers, professional service providers, and professional practices in Bloomington and Indianapolis, building the same kind of financial infrastructure independent advisors need to run a compliant, scalable firm.
 
-Led by Jared Hammack, CPA, our team provides outsourced accounting, payroll processing, and CFO-level financial guidance for independent advisors and RIA owners who need their books handled by people who understand fee-based revenue, not just retail sales.
+Our team provides outsourced accounting, payroll processing, and CFO-level financial guidance for independent advisors and RIA owners who need their books handled by people who understand fee-based revenue, not just retail sales.
 
 <!-- block: content-split | variant: image-right | image: advisor-reviewing-financials.jpg | alt: "Financial advisor reviewing account statements with an accountant at a desk" | query: "financial advisor meeting accountant office" -->
 ## Why Financial Advisors Need Their Own Trusted Accounting Partner
