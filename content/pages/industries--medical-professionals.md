@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers outsourced accounting, tax preparatio
 <!-- block: content-split | variant: image-right | image: physician-cpa-consultation.jpg | alt: "Physician and CPA advisor reviewing financial reports at a desk" | query: "doctor meeting accountant office" -->
 ## A CPA partner who understands healthcare practices
 
-Running a medical practice means managing patient care and a business at the same time, usually with the same number of hours in the day. Accord Advisors has served healthcare providers in Bloomington, Avon, Indianapolis, and across Indiana for nearly 40 years, working alongside physicians, optometrists, and dental practices as an outsourced accounting department rather than an outside vendor you call once a year.
+Running a medical practice means managing patient care and a business at the same time, usually with the same number of hours in the day. Accord Advisors has served healthcare providers in Bloomington, Avon, Indianapolis, and across Indiana for years, working alongside physicians, optometrists, and dental practices as an outsourced accounting department rather than an outside vendor you call once a year.
 
 Our team knows the difference between a standard small business balance sheet and a physician's P&L, where payer mix, staffing ratios, and equipment financing change the picture month to month. Learn more about [our background and approach](/team-expertise).
 
