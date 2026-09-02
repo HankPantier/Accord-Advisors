@@ -86,8 +86,6 @@ If you're an optometry practice manager, a service business owner, or a church t
 The insights gallery shows sample monthly financial dashboards Accord Advisors builds for optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis. Clients access these dashboards anytime through a secure online platform, with reporting built around production, collections, cash flow, and other metrics specific to their industry.
 
 **E-E-A-T Signals:**
-- Led by Jared Hammack, CPA
-- Nearly 40 years of experience serving healthcare providers
 - Fixed monthly fee model instead of hourly billing
 - Secure online client platform with real-time financial access
 - Optometry clients referred through the Acquios network
