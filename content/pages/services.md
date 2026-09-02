@@ -56,9 +56,11 @@ Growing practices and businesses already generating revenue benefit just as much
 <!-- block: content-prose -->
 ## Personal income tax preparation and planning
 
-Business owners, practice shareholders, and physicians don't stop needing tax help once the business return is filed. Our [personal income tax](/services/personal-income-tax) service covers individual preparation and planning for the people behind the practices we serve, including optometrists, dentists, and physicians who need their personal and business tax positions coordinated, not handled separately by two firms that never talk to each other.
+Business owners, practice shareholders, physicians, and individuals across Bloomington, Avon, Indianapolis, and Indiana don't stop needing tax help once the business return is filed — or if there's no business at all. Our [personal income tax](/services/personal-income-tax) service covers individual preparation and planning for everyone from optometrists and dentists coordinating pass-through income to individuals who simply want a knowledgeable CPA handling their return with care.
 
-Because the same team that manages your monthly accounting also prepares your personal return, planning conversations happen with full context. Estimated payments, retirement contributions, and entity distributions get reviewed together throughout the year, not reconstructed in a rush every April. It's the kind of continuity that comes from working with one CPA firm instead of splitting business and personal tax work between separate providers who see half the picture.
+For clients whose personal finances are connected to a practice or business, the same team that manages your monthly accounting also prepares your personal return. That means planning conversations happen with full context. Estimated payments, retirement contributions, and entity distributions get reviewed together throughout the year, not reconstructed in a rush every April. For individuals without a business, it means working with a CPA who takes the time to understand your full picture rather than processing a return and moving on.
+
+It's the kind of continuity and attention that comes from working with one Indiana CPA firm instead of splitting business and personal tax work between separate providers who each see only half the picture.
 
 <!-- block: content-split | variant: image-left | image: optometry-practice-financial-review.jpg | alt: "CPA reviewing financial reports with an optometry practice manager in an exam office" | query: "optometrist practice manager financial meeting" -->
 ## Specialized experience serving optometry, dental, and medical practices
