@@ -74,7 +74,7 @@ We work with [optometry practices](/industries/optometry), [dental practices](/i
 Meet the team behind that experience on our [team expertise](/team-expertise) page, or see [why practices choose Accord Advisors](/why-rootadvisors) over a generalist firm.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Trusted accounting partner for service businesses and churches
+## Trusted accounting partner for businesses and individuals
 
 Not every client fits the healthcare mold, and our services don't require it.
 
