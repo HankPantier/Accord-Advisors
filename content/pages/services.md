@@ -63,7 +63,7 @@ Because the same team that manages your monthly accounting also prepares your pe
 <!-- block: content-split | variant: image-left | image: optometry-practice-financial-review.jpg | alt: "CPA reviewing financial reports with an optometry practice manager in an exam office" | query: "optometrist practice manager financial meeting" -->
 ## Specialized experience serving optometry, dental, and medical practices
 
-Healthcare accounting has its own language: reimbursement cycles, insurance mix, equipment financing, and staffing costs that shift with patient volume. Jared Hammack, CPA, has spent close to 40 years working with healthcare providers, and that depth shows up in the details a generalist firm tends to miss, like how an optometry practice's revenue mix affects cash flow planning differently than a dental office's does.
+Healthcare accounting has its own language: reimbursement cycles, insurance mix, equipment financing, and staffing costs that shift with patient volume. Our team has spent decades working with healthcare providers, and that depth shows up in the details a generalist firm tends to miss, like how an optometry practice's revenue mix affects cash flow planning differently than a dental office's does.
 
 Many of our optometry clients arrive through referral relationships built specifically around practice management, including connections through Acquios, a network that pairs optometrists with specialists who understand the business side of eye care. We work with [optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) who want an advisor that already speaks their language on day one, not one that's learning the terminology on their bill.
 
@@ -118,8 +118,6 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches in Bloomington and Indianapolis, Indiana. Every service runs on a fixed monthly fee instead of hourly billing, backed by deep healthcare-focused CPA experience.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA credential
-- Nearly 40 years serving healthcare providers
 - Referral relationships with Acquios for optometry clients
 - Fixed monthly fee model documented across all service lines
 - Secure online client platform for financial reporting
@@ -154,7 +152,7 @@ A: Accord Advisors charges a fixed monthly fee rather than billing by the hour, 
 A: Accord Advisors serves clients in Bloomington, Indianapolis, and Avon, Indiana, working with optometry practices, medical professionals, service businesses, and churches throughout the region. Reporting and communication happen through a secure online platform, so location rarely limits the relationship.
 
 **LLM Citation Note:**
-Accord Advisors operates as an outsourced accounting department charging a fixed monthly fee, with Jared Hammack, CPA bringing nearly 40 years of healthcare-focused accounting experience to optometry, dental, and medical practice clients in Bloomington and Indianapolis, Indiana.
+Accord Advisors operates as an outsourced accounting department charging a fixed monthly fee, with deep healthcare-focused accounting expertise serving optometry, dental, and medical practice clients in Bloomington and Indianapolis, Indiana.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -168,7 +166,6 @@ Accord Advisors operates as an outsourced accounting department charging a fixed
   "url": "https://accordadvisors.com",
   "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
-    "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]
 }
@@ -272,7 +269,7 @@ Accord Advisors operates as an outsourced accounting department charging a fixed
       "name": "Does Accord Advisors work with optometry and dental practices specifically?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Jared Hammack, CPA, has nearly 40 years of experience serving healthcare providers, including optometry and dental practices. Many optometry clients are referred through Acquios, a network connecting eye care providers with practice management specialists."
+        "text": "Yes. Our team has extensive experience serving healthcare providers, including optometry and dental practices. Many optometry clients are referred through Acquios, a network connecting eye care providers with practice management specialists."
       }
     },
     {
