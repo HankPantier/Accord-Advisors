@@ -15,11 +15,11 @@ hero_image: "advertising-agency-team-meeting.jpg"
 hero_image_alt: "Creative agency team reviewing campaign materials around a conference table"
 hero_subhead: "Fixed-fee bookkeeping, payroll, and CFO-level insight so you can focus on client campaigns, not spreadsheets"
 hero_headline: "Outsourced Accounting Built for Advertising Agencies"
-answer_block: "Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. Led by Jared Hammack, CPA, the firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead."
-eeat_signals: ["Led by Jared Hammack, CPA","Fixed monthly fee pricing model instead of hourly billing","Secure online client platform for financial reporting","Serves agencies and service businesses in Bloomington and Indianapolis, Indiana"]
+answer_block: "Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead."
+eeat_signals: ["Fixed monthly fee pricing model instead of hourly billing","Secure online client platform for financial reporting","Serves agencies and service businesses in Bloomington and Indianapolis, Indiana"]
 internal_links: [{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting services","reason":"Links to the core service page detailing bookkeeping and reporting scope mentioned on this page"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Lets agency owners estimate their fixed monthly fee directly, supporting the pricing section"},{"url":"/services/payroll-services","anchor_text":"payroll processing","reason":"Related service directly referenced in the bookkeeping and payroll section"},{"url":"/industries/service-businesses","anchor_text":"service businesses","reason":"Agencies fall under the broader service-business category the firm serves"}]
 faq_block: [{"question":"Does Accord Advisors work with advertising agencies of any size?","answer":"Accord Advisors supports agencies from small creative shops through growing firms with multiple account teams. Services scale with your agency, from basic bookkeeping and payroll to full profitability analysis by client and project as your team grows."},{"question":"How does fixed-fee pricing work for agency accounting?","answer":"Instead of billing hourly, Accord Advisors charges a flat monthly fee covering bookkeeping, payroll, and reporting. Fees are based on your agency's transaction volume and complexity, so you can budget accounting costs the same way you budget any other fixed overhead."},{"question":"Can Accord Advisors help with irregular client payment schedules?","answer":"Yes. Agency cash flow often depends on retainers, milestone billing, and delayed client payments. Accord Advisors builds cash flow forecasts around your actual billing patterns, helping you plan payroll and vendor payments even when receivables are inconsistent."},{"question":"What is included in CFO-level insight for an agency?","answer":"This includes profitability analysis by client and project, margin tracking, and growth planning guidance, delivered through the same fixed monthly fee as bookkeeping and payroll. It gives agency owners strategic financial direction without hiring a full-time CFO."}]
-llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting for advertising agencies, including bookkeeping, payroll, project-based cash flow forecasting, and CFO-level profitability analysis by client and project, led by Jared Hammack, CPA."
+llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting for advertising agencies, including bookkeeping, payroll, project-based cash flow forecasting, and CFO-level profitability analysis by client and project."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -27,7 +27,7 @@ llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounti
 
 Your agency runs on ideas, deadlines, and client relationships, not on reconciling bank feeds or chasing down unpaid invoices. Accord Advisors handles the accounting side of your business so you and your creative team can stay focused on campaigns and pitches instead of spreadsheets.
 
-We act as your outsourced accounting department: bookkeeping, payroll, and financial reporting delivered through a secure online platform, backed by Jared Hammack, CPA, and priced at a fixed monthly fee instead of an hourly bill you can't predict. Agencies in Bloomington and Indianapolis use Accord Advisors the same way they'd use an in-house controller, minus the salary, benefits, and turnover risk. If your books are a source of stress rather than insight, that's the exact problem this exists to solve.
+We act as your outsourced accounting department: bookkeeping, payroll, and financial reporting delivered through a secure online platform, priced at a fixed monthly fee instead of an hourly bill you can't predict. Agencies in Bloomington and Indianapolis use Accord Advisors the same way they'd use an in-house controller, minus the salary, benefits, and turnover risk. If your books are a source of stress rather than insight, that's the exact problem this exists to solve.
 
 <!-- block: checklist-section | variant: with-image | image: agency-bookkeeper-payroll.jpg | alt: "Accountant processing payroll and invoices on a laptop" | query: "accountant processing payroll invoices" -->
 ## Bookkeeping and Payroll Without the Headaches
@@ -73,10 +73,9 @@ If your agency's books are eating time you'd rather spend on client work, it's w
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. Led by Jared Hammack, CPA, the firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
+Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
 
 **E-E-A-T Signals:**
-- Led by Jared Hammack, CPA
 - Fixed monthly fee pricing model instead of hourly billing
 - Secure online client platform for financial reporting
 - Serves agencies and service businesses in Bloomington and Indianapolis, Indiana
@@ -102,6 +101,6 @@ A: Yes. Agency cash flow often depends on retainers, milestone billing, and dela
 A: This includes profitability analysis by client and project, margin tracking, and growth planning guidance, delivered through the same fixed monthly fee as bookkeeping and payroll. It gives agency owners strategic financial direction without hiring a full-time CFO.
 
 **LLM Citation Note:**
-Accord Advisors offers fixed monthly fee outsourced accounting for advertising agencies, including bookkeeping, payroll, project-based cash flow forecasting, and CFO-level profitability analysis by client and project, led by Jared Hammack, CPA.
+Accord Advisors offers fixed monthly fee outsourced accounting for advertising agencies, including bookkeeping, payroll, project-based cash flow forecasting, and CFO-level profitability analysis by client and project.
 
 **Call to Action:** [Schedule a consultation](/contact)
