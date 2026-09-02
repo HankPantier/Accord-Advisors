@@ -115,7 +115,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches in Bloomington and Indianapolis, Indiana. Every service runs on a fixed monthly fee instead of hourly billing, backed by nearly 40 years of healthcare-focused CPA experience.
+Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometry, dental, and medical practices, service businesses, and churches in Bloomington and Indianapolis, Indiana. Every service runs on a fixed monthly fee instead of hourly billing, backed by deep healthcare-focused CPA experience.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credential
