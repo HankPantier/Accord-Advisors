@@ -149,7 +149,7 @@ Accord Advisors provides outsourced accounting for professional services firms, 
 A: Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping.
 
 **Q: Does Accord Advisors work with law firms and financial advisors specifically?**
-A: Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. Jared Hammack, CPA, and the team tailor reporting and advisory work to each vertical's rules.
+A: Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. The team tailors reporting and advisory work to each vertical's rules.
 
 **Q: How does the fixed monthly fee work?**
 A: Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice.
