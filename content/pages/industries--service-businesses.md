@@ -9,10 +9,10 @@ canonical_url: "https://accordadvisors.com/industries/service-businesses"
 schema_markup: "Service"
 hero: "page-header"
 answer_block: "Accord Advisors provides outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform."
-eeat_signals: ["Jared Hammack, CPA, leads the accounting and advisory team","Nearly 40 years advising Indiana business owners","Fixed monthly fee model, no hourly billing surprises","Secure online client platform for real-time financial access"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/team-expertise","reason":"Introduces the credentialed CPA leading client work","anchor_text":"Jared Hammack, CPA,"},{"url":"/why-rootadvisors","reason":"Reinforces local differentiation and firm positioning","anchor_text":"why Indiana business owners choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
+eeat_signals: ["Fixed monthly fee model, no hourly billing surprises","Secure online client platform for real-time financial access"]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/why-accord-advisors","reason":"Reinforces local differentiation and firm positioning","anchor_text":"why Indiana business owners choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Accord Advisors charges a fixed monthly fee instead of hourly billing, so HVAC companies, electrical contractors, plumbers, landscapers, and auto mechanics in Bloomington, Avon, Indianapolis, and across Indiana know their accounting cost upfront and can plan around it without surprise invoices.","question":"What does outsourced accounting cost for a service-based business?"},{"answer":"Yes. Accord Advisors serves service-based businesses across Bloomington, Avon, Indianapolis, and statewide using a secure online platform, so clients anywhere in Indiana can access financials and dashboards without an in-person visit.","question":"Do you work with service-based businesses outside Bloomington?"},{"answer":"Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service-based businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth or a busy season creates problems.","question":"Can you help set up a new HVAC, electrical, or plumbing business?"},{"answer":"Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service-based business owners, so pass-through income, estimated payments, vehicle and equipment deductions, and entity elections are managed by one team instead of two disconnected preparers.","question":"Do you handle both business and personal taxes for contractors?"}]
-llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners."
+llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana, with a fixed monthly fee model and a secure online platform serving Indiana business owners."
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
@@ -62,9 +62,8 @@ HVAC installers, electricians, plumbers, landscapers, and auto mechanics across 
 <!-- block: stats-bar | variant: 3-up -->
 ## Indiana expertise, wherever your business operates
 
-Accord Advisors has advised Indiana business owners for nearly 40 years, with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That history means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-rootadvisors).
+Accord Advisors serves Indiana business owners with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That presence means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-accord-advisors).
 
-- Nearly 40 years advising Indiana business owners
 - Serving Bloomington, Avon, Indianapolis, and statewide
 - 100% fixed-fee engagements, no hourly billing
 
@@ -99,8 +98,6 @@ Accord Advisors serves HVAC installers, electricians, plumbers, landscapers, aut
 Accord Advisors provides outsourced accounting for service-based businesses, including consulting firms and law practices, in Bloomington and Indianapolis, Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads the accounting and advisory team
-- Nearly 40 years advising Indiana business owners
 - Fixed monthly fee model, no hourly billing surprises
 - Secure online client platform for real-time financial access
 
@@ -108,8 +105,7 @@ Accord Advisors provides outsourced accounting for service-based businesses, inc
 - outsourced accounting department → /services/outsourced-accounting — Connects to the core service page describing the fixed-fee accounting model
 - Business Foundation Services → /services/business-foundation-services — Links to the service page covering entity setup and startup systems
 - personal income tax preparation and planning → /services/personal-income-tax — Supports the section on integrated personal and business tax planning
-- Jared Hammack, CPA, → /team-expertise — Introduces the credentialed CPA leading client work
-- why Indiana business owners choose Accord Advisors → /why-rootadvisors — Reinforces local differentiation and firm positioning
+- why Indiana business owners choose Accord Advisors → /why-accord-advisors — Reinforces local differentiation and firm positioning
 - Schedule a consultation → /contact — Primary page CTA driving to the contact form
 
 **FAQ Block:**
