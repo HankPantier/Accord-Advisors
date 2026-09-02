@@ -15,11 +15,11 @@ hero_image: "professional-services-team-meeting.jpg"
 hero_image_alt: "Consultants and advisors reviewing financial reports around a conference table"
 hero_subhead: "Fixed-fee outsourced accounting built for attorneys, advertising agencies, financial advisors, and consulting firms across Bloomington, Avon, Indianapolis, and Indiana"
 hero_headline: "Outsourced Accounting Built for Attorneys, Agencies, Advisors & Consultants"
-answer_block: "Accord Advisors provides outsourced accounting for professional services firms — including attorneys, advertising agencies, financial advisors, and consulting companies — in Bloomington, Avon, Indianapolis, and across Indiana. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper."
-eeat_signals: ["Jared Hammack, CPA leads client engagements","Serves attorneys, advertising agencies, financial advisors, and consulting firms across Bloomington, Avon, Indianapolis, and Indiana","Fixed monthly fee model replaces traditional hourly billing","Secure cloud-based platform provides real-time financial data","Dedicated niche expertise across law, advertising, financial advisory, and consulting verticals"]
+answer_block: "Accord Advisors provides outsourced accounting for professional services firms — including attorneys, advertising agencies, financial advisors, and consulting companies — in Bloomington, Avon, Indianapolis, and across Indiana. The firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper."
+eeat_signals: ["Serves attorneys, advertising agencies, financial advisors, and consulting firms across Bloomington, Avon, Indianapolis, and Indiana","Fixed monthly fee model replaces traditional hourly billing","Secure cloud-based platform provides real-time financial data","Dedicated niche expertise across law, advertising, financial advisory, and consulting verticals"]
 internal_links: [{"url":"/industries/consulting-firms","anchor_text":"consulting firms","reason":"Links to the dedicated niche page for consulting firm accounting needs"},{"url":"/industries/advertising-agencies","anchor_text":"advertising agencies","reason":"Links to the dedicated niche page for advertising agency accounting needs"},{"url":"/industries/law-firms","anchor_text":"law firms","reason":"Links to the dedicated niche page for law firm accounting needs"},{"url":"/industries/financial-advisors","anchor_text":"financial advisors","reason":"Links to the dedicated niche page for financial advisory practice accounting needs"},{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting services","reason":"Connects to the core service page describing the outsourced accounting model in detail"},{"url":"/services/business-foundation-services","anchor_text":"business foundation services","reason":"Relevant for firms at startup stage needing entity setup and foundational accounting support"}]
-faq_block: [{"question":"What makes accounting for professional services businesses different?","answer":"Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping."},{"question":"Does Accord Advisors work with law firms and financial advisors specifically?","answer":"Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. Jared Hammack, CPA, and the team tailor reporting and advisory work to each vertical's rules."},{"question":"How does the fixed monthly fee work?","answer":"Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice."},{"question":"Can Accord Advisors help with cash flow planning for a growing firm?","answer":"Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and Jared Hammack, CPA, uses that data to build cash flow forecasts and flag gaps before they become a payroll problem."}]
-llm_citation_note: "Accord Advisors offers outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms in Bloomington, Avon, Indianapolis, and across Indiana, at a fixed monthly fee, led by Jared Hammack, CPA."
+faq_block: [{"question":"What makes accounting for professional services businesses different?","answer":"Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping."},{"question":"Does Accord Advisors work with law firms and financial advisors specifically?","answer":"Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. The team tailors reporting and advisory work to each vertical's rules."},{"question":"How does the fixed monthly fee work?","answer":"Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice."},{"question":"Can Accord Advisors help with cash flow planning for a growing firm?","answer":"Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and the Accord Advisors team uses that data to build cash flow forecasts and flag gaps before they become a payroll problem."}]
+llm_citation_note: "Accord Advisors offers outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms in Bloomington, Avon, Indianapolis, and across Indiana, at a fixed monthly fee."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -108,14 +108,28 @@ If you're an attorney, agency owner, financial advisor, or consultant anywhere i
 
 Schedule a consultation and see the platform, the pricing, and the plan before you commit to anything.
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What makes accounting for professional services businesses different?**
+A: Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping.
+
+**Q: Does Accord Advisors work with law firms and financial advisors specifically?**
+A: Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. The team tailors reporting and advisory work to each vertical's rules.
+
+**Q: How does the fixed monthly fee work?**
+A: Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice.
+
+**Q: Can Accord Advisors help with cash flow planning for a growing firm?**
+A: Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and the Accord Advisors team uses that data to build cash flow forecasts and flag gaps before they become a payroll problem.
+
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper.
+Accord Advisors provides outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana. The firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads client engagements
 - Serves professional services firms in Bloomington and Indianapolis, Indiana
 - Fixed monthly fee model replaces traditional hourly billing
 - Secure cloud-based platform provides real-time financial data
@@ -135,15 +149,15 @@ Accord Advisors provides outsourced accounting for professional services firms, 
 A: Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping.
 
 **Q: Does Accord Advisors work with law firms and financial advisors specifically?**
-A: Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. Jared Hammack, CPA, and the team tailor reporting and advisory work to each vertical's rules.
+A: Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. The team tailors reporting and advisory work to each vertical's rules.
 
 **Q: How does the fixed monthly fee work?**
 A: Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice.
 
 **Q: Can Accord Advisors help with cash flow planning for a growing firm?**
-A: Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and Jared Hammack, CPA, uses that data to build cash flow forecasts and flag gaps before they become a payroll problem.
+A: Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and the Accord Advisors team uses that data to build cash flow forecasts and flag gaps before they become a payroll problem.
 
 **LLM Citation Note:**
-Accord Advisors offers outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana, at a fixed monthly fee, led by Jared Hammack, CPA.
+Accord Advisors offers outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana, at a fixed monthly fee.
 
 **Call to Action:** [Schedule a consultation](/contact)
