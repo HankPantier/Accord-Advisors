@@ -78,7 +78,6 @@ Schedule a consultation with Accord Advisors to talk through what outsourced acc
 Accord Advisors provides outsourced accounting for law firms, including IOLTA trust account reconciliation, partner distribution calculations, payroll processing, and fractional CFO guidance. Services are billed at a fixed monthly fee through a secure online platform, led by Jared Hammack, CPA.
 
 **E-E-A-T Signals:**
-- Led by Jared Hammack, CPA
 - Fixed monthly fee pricing model instead of hourly billing
 - Secure online platform for client financial data access
 - Three-way trust account reconciliation process for bar compliance
