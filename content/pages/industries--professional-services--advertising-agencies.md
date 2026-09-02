@@ -27,7 +27,7 @@ llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounti
 
 Your agency runs on ideas, deadlines, and client relationships, not on reconciling bank feeds or chasing down unpaid invoices. Accord Advisors handles the accounting side of your business so you and your creative team can stay focused on campaigns and pitches instead of spreadsheets.
 
-We act as your outsourced accounting department: bookkeeping, payroll, and financial reporting delivered through a secure online platform, backed by Jared Hammack, CPA, and priced at a fixed monthly fee instead of an hourly bill you can't predict. Agencies in Bloomington and Indianapolis use Accord Advisors the same way they'd use an in-house controller, minus the salary, benefits, and turnover risk. If your books are a source of stress rather than insight, that's the exact problem this exists to solve.
+We act as your outsourced accounting department: bookkeeping, payroll, and financial reporting delivered through a secure online platform, priced at a fixed monthly fee instead of an hourly bill you can't predict. Agencies in Bloomington and Indianapolis use Accord Advisors the same way they'd use an in-house controller, minus the salary, benefits, and turnover risk. If your books are a source of stress rather than insight, that's the exact problem this exists to solve.
 
 <!-- block: checklist-section | variant: with-image | image: agency-bookkeeper-payroll.jpg | alt: "Accountant processing payroll and invoices on a laptop" | query: "accountant processing payroll invoices" -->
 ## Bookkeeping and Payroll Without the Headaches
