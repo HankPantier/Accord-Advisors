@@ -100,11 +100,10 @@ If reimbursement timing keeps knocking your cash flow off balance, the fix isn't
 Reimbursement challenges for healthcare providers are best managed as a financial visibility problem, not just a billing fix. Accord Advisors gives Bloomington and Indianapolis medical practices monthly financial statements, cash flow dashboards, and a strong accounting foundation so payer delays and denials don't threaten day-to-day operations.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads healthcare advisory work
-- Nearly 40 years serving healthcare and optometry practices
 - Fixed monthly fee model instead of hourly billing
 - Secure online platform for financial reporting access
 - Business Foundation Services built specifically for practice cash flow structure
+- CPA-led advisory work focused on healthcare and optometry practices
 
 **Internal Links:**
 - outsourced accounting → /services/outsourced-accounting — Connects the monthly financial clarity discussion to the core service that delivers it
