@@ -16,7 +16,7 @@ hero_image_alt: "Creative agency team reviewing campaign materials around a conf
 hero_subhead: "Fixed-fee bookkeeping, payroll, and CFO-level insight so you can focus on client campaigns, not spreadsheets"
 hero_headline: "Outsourced Accounting Built for Advertising Agencies"
 answer_block: "Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead."
-eeat_signals: ["Fixed monthly fee pricing model instead of hourly billing","Secure online client platform for financial reporting","Serves agencies and service businesses in Bloomington and Indianapolis, Indiana"]
+eeat_signals: ["Fixed monthly fee pricing model instead of hourly billing","Secure online client platform for financial reporting","Serves agencies and professional service providers in Bloomington and Indianapolis, Indiana"]
 internal_links: [{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting services","reason":"Links to the core service page detailing bookkeeping and reporting scope mentioned on this page"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Lets agency owners estimate their fixed monthly fee directly, supporting the pricing section"},{"url":"/services/payroll-services","anchor_text":"payroll processing","reason":"Related service directly referenced in the bookkeeping and payroll section"}]
 faq_block: [{"question":"Does Accord Advisors work with advertising agencies of any size?","answer":"Accord Advisors supports agencies from small creative shops through growing firms with multiple account teams. Services scale with your agency, from basic bookkeeping and payroll to full profitability analysis by client and project as your team grows."},{"question":"How does fixed-fee pricing work for agency accounting?","answer":"Instead of billing hourly, Accord Advisors charges a flat monthly fee covering bookkeeping, payroll, and reporting. Fees are based on your agency's transaction volume and complexity, so you can budget accounting costs the same way you budget any other fixed overhead."},{"question":"Can Accord Advisors help with irregular client payment schedules?","answer":"Yes. Agency cash flow often depends on retainers, milestone billing, and delayed client payments. Accord Advisors builds cash flow forecasts around your actual billing patterns, helping you plan payroll and vendor payments even when receivables are inconsistent."},{"question":"What is included in CFO-level insight for an agency?","answer":"This includes profitability analysis by client and project, margin tracking, and growth planning guidance, delivered through the same fixed monthly fee as bookkeeping and payroll. It gives agency owners strategic financial direction without hiring a full-time CFO."}]
 llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting for advertising agencies, including bookkeeping, payroll, project-based cash flow forecasting, and CFO-level profitability analysis by client and project."
@@ -78,13 +78,13 @@ Accord Advisors provides outsourced accounting for advertising agencies in Bloom
 **E-E-A-T Signals:**
 - Fixed monthly fee pricing model instead of hourly billing
 - Secure online client platform for financial reporting
-- Serves agencies and service businesses in Bloomington and Indianapolis, Indiana
+- Serves agencies and professional service providers in Bloomington and Indianapolis, Indiana
 
 **Internal Links:**
 - outsourced accounting services → /services/outsourced-accounting — Links to the core service page detailing bookkeeping and reporting scope mentioned on this page
 - pricing calculator → /pricing-calculator — Lets agency owners estimate their fixed monthly fee directly, supporting the pricing section
 - payroll processing → /services/payroll-services — Related service directly referenced in the bookkeeping and payroll section
-- service businesses → /industries/service-businesses — Agencies fall under the broader service-business category the firm serves
+- professional service providers → /industries/professional-service-providers — Agencies fall under the broader professional service provider category the firm serves
 
 **FAQ Block:**
 
