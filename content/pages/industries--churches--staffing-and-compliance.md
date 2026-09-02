@@ -70,7 +70,7 @@ Accord Advisors works with churches, optometry practices, and service businesses
 ### Decades of CPA experience
 icon: Award
 
-Close to 40 years of hands-on accounting work backs every recommendation, built on Indiana churches and businesses rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
+Decades of hands-on accounting work backs every recommendation, built on Indiana churches and businesses rather than a national franchise model. Learn more about the team on the [team expertise page](/team-expertise).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Staffing and compliance support for churches
