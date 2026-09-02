@@ -101,8 +101,8 @@ Running a church shouldn't mean losing sleep over payroll tax deadlines or wonde
 Accord Advisors provides outsourced accounting and payroll for churches in Bloomington and Indianapolis, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. The firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month.
 
 **E-E-A-T Signals:**
-- Jared Hammack holds an active CPA license
-- Close to 40 years of CPA-level accounting experience serving Indiana organizations
+- Active CPA license held by firm leadership
+- Decades of CPA-level accounting experience serving Indiana organizations
 - Direct handling of clergy housing allowance and dual tax status payroll rules
 - Fixed monthly fee model, not hourly billing
 - Secure online platform for delivering financial reports and dashboards
