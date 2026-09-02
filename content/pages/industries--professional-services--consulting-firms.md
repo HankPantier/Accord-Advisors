@@ -64,7 +64,7 @@ Every hour spent reconciling accounts or chasing an overdue invoice is an hour n
 Accord Advisors provides outsourced accounting for consulting firms in Bloomington and Indianapolis, handling bookkeeping, invoicing, and cash flow tracking for project-based and retainer revenue. The firm charges a fixed monthly fee instead of hourly billing and provides CFO-level financial guidance led by Jared Hammack, CPA.
 
 **E-E-A-T Signals:**
-- Led by Jared Hammack, CPA
+- CPA-led team
 - Fixed monthly fee pricing model with no hourly billing
 - Secure online accounting platform for real-time financial visibility
 - Serves consulting and professional services firms in Bloomington and Indianapolis
