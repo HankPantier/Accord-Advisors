@@ -69,7 +69,7 @@ Every client we serve — optometrists, dentists, medical professionals, profess
 
 For healthcare practices, that means understanding how an optometry practice's revenue mix affects cash flow planning differently than a dental office's does, and how physician compensation structures in a medical practice create tax planning considerations that don't show up on a standard business return. For professional service providers, it means reporting built around billable-hour utilization and client profitability — not a generic chart of accounts borrowed from retail. For service businesses and churches, it means accounting infrastructure designed around how work actually gets billed, delivered, and reported to the people who depend on accurate numbers.
 
-Many of our optometry clients arrive through referral relationships built specifically around practice management, including connections through Acquios, a network that pairs optometrists with specialists who understand the business side of eye care. We work with [optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) who want an advisor that already speaks their language on day one, not one that's learning the terminology on their bill.
+We work with [optometry practices](/industries/optometry), [dental practices](/industries/dentists), and [medical professionals](/industries/medical-professionals) who want an advisor that already speaks their language on day one, not one that's learning the terminology on their bill.
 
 Meet the team behind that experience on our [team expertise](/team-expertise) page, or see [why practices choose Accord Advisors](/why-rootadvisors) over a generalist firm.
 
