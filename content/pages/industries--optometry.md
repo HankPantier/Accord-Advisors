@@ -285,7 +285,7 @@ Accord Advisors has served healthcare providers, including optometry practices, 
   "@type": "Service",
   "name": "Accounting for Optometry Practices in Bloomington, IN",
   "url": "https://accordadvisors.com/industries/optometry",
-  "description": "Fixed-fee outsourced accounting for optometry practices in Bloomington, IN, from a CPA firm with nearly 40 years of healthcare industry experience.",
+  "description": "Fixed-fee outsourced accounting for optometry practices in Bloomington, IN, from a CPA firm with deep healthcare industry experience.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
