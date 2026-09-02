@@ -276,7 +276,7 @@ Accord Advisors has served healthcare providers, including optometry practices, 
       "name": "Do optometrists get referred to Accord Advisors through Acquios?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many do. Acquios, a national buying and practice-support network for independent optometrists, refers member practices to Accord Advisors because of nearly 40 years of healthcare accounting experience and a track record of straightforward, monthly financial reporting."
+        "text": "Many do. Acquios, a national buying and practice-support network for independent optometrists, refers member practices to Accord Advisors because of deep healthcare accounting experience and a track record of straightforward, monthly financial reporting."
       }
     }
   ]
