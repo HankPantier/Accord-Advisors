@@ -112,7 +112,7 @@ Schedule a consultation and see the platform, the pricing, and the plan before y
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana. Led by Jared Hammack, CPA, the firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper.
+Accord Advisors provides outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana. The firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper.
 
 **E-E-A-T Signals:**
 - Serves professional services firms in Bloomington and Indianapolis, Indiana
