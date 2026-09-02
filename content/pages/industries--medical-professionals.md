@@ -13,17 +13,17 @@ hero_image: "physician-financial-consultation.jpg"
 hero_image_alt: "Physician sitting across from an accountant reviewing practice financial documents"
 hero_subhead: "Outsourced accounting and tax guidance built around how medical practices actually run — wherever you practice in Indiana"
 hero_headline: "A CPA partner who understands healthcare practices"
-answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington, Avon, Indianapolis, and throughout Indiana. With nearly 40 years of healthcare industry experience, the firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
-eeat_signals: ["Jared Hammack, CPA leads the firm's healthcare practice work","Nearly 40 years of combined experience serving healthcare providers","Fixed monthly fee structure documented across service offerings","Secure online client platform for financial reporting and document access","Dedicated Business Foundation Services for practice startup and structuring"]
+answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington, Avon, Indianapolis, and throughout Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
+eeat_signals: ["Fixed monthly fee structure documented across service offerings","Secure online client platform for financial reporting and document access","Dedicated Business Foundation Services for practice startup and structuring","Deep industry-specific expertise serving healthcare providers","CFO-level business management insight at a fraction of the cost"]
 internal_links: [{"url":"/team-expertise","reason":"Introduces Jared Hammack, CPA and firm credentials to build trust early on the page","anchor_text":"our background and approach"},{"url":"/industries/medical-professionals/reimbursement-challenges","reason":"Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section","anchor_text":"insurance reimbursement timing"},{"url":"/services/outsourced-accounting","reason":"Primary service being described in this section, direct link to service page","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Names and links the exact service covering practice startup and structuring","anchor_text":"Business Foundation Services"},{"url":"/services/succession-planning","reason":"Connects practice growth discussion to relevant succession planning service","anchor_text":"succession or sale"},{"url":"/services/personal-income-tax","reason":"Links to the tax preparation service described in the tax planning section","anchor_text":"Personal Income Tax"},{"url":"/why-rootadvisors","reason":"Supports the differentiation section with a deeper positioning page","anchor_text":"why practices choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA directing readers to take action","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"Does Accord Advisors work with medical practices outside Bloomington?","answer":"Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location."},{"question":"What does outsourced accounting for a medical practice include?","answer":"It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour."},{"question":"Can Accord Advisors help set up a new medical practice?","answer":"Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change."},{"question":"How is physician tax preparation different from a standard individual return?","answer":"Physician income often includes W-2 wages, K-1 practice income, retirement contributions, and outside investments. Accord Advisors handles both personal and practice-level filings together, with planning built in throughout the year rather than only at filing time."}]
-llm_citation_note: "Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington, Avon, Indianapolis, and across Indiana, backed by nearly 40 years of healthcare industry experience and fixed monthly fee pricing."
+llm_citation_note: "Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington, Avon, Indianapolis, and across Indiana, backed by deep healthcare industry expertise and fixed monthly fee pricing."
 ---
 
 <!-- block: content-split | variant: image-right | image: physician-cpa-consultation.jpg | alt: "Physician and CPA advisor reviewing financial reports at a desk" | query: "doctor meeting accountant office" -->
 ## A CPA partner who understands healthcare practices
 
-Running a medical practice means managing patient care and a business at the same time, usually with the same number of hours in the day. Accord Advisors has served healthcare providers in Bloomington, Avon, Indianapolis, and across Indiana for nearly 40 years, working alongside physicians, optometrists, and dental practices as an outsourced accounting department rather than an outside vendor you call once a year.
+Running a medical practice means managing patient care and a business at the same time, usually with the same number of hours in the day. Accord Advisors has served healthcare providers in Bloomington, Avon, Indianapolis, and across Indiana for years, working alongside physicians, optometrists, and dental practices as an outsourced accounting department rather than an outside vendor you call once a year.
 
 Our team knows the difference between a standard small business balance sheet and a physician's P&L, where payer mix, staffing ratios, and equipment financing change the picture month to month. Learn more about [our background and approach](/team-expertise).
 
@@ -72,6 +72,7 @@ For practice-level filings, the same team handling monthly bookkeeping prepares 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Bloomington and Indianapolis medical professionals choose Accord Advisors
 
+
 ### Fixed monthly fees
 icon: DollarSign
 
@@ -82,10 +83,10 @@ icon: ShieldCheck
 
 Financial reports, dashboards, and documents are available anytime through a secure portal, not buried in email threads or waiting on a callback.
 
-### Nearly 40 years in healthcare
+### Deep healthcare expertise
 icon: Stethoscope
 
-Decades spent working inside optometry, dental, and physician practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
+Years spent working inside optometry, dental, and physician practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
 
 ### CFO-level guidance
 icon: ChartLine
