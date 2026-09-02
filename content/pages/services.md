@@ -32,7 +32,7 @@ Explore the specifics of what that looks like across our [core services](/what-w
 <!-- block: content-split | variant: image-right | image: monthly-financial-dashboard-review.jpg | alt: "Accountant showing a business owner monthly financial dashboards on a laptop" | query: "accountant reviewing dashboard with client" -->
 ## Outsourced accounting that keeps you informed every month
 
-Owners of optometry practices, dental offices, medical practices, service businesses, and professional service firms across Indiana tell us the same thing: they don't know how last month actually went until it's too late to change anything. Accord Advisors' [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions — including patient volume trends for an optometry practice in the greater Indianapolis area, insurance mix analysis for a dental office in Bloomington, job costing for a service contractor in Avon, or billable-hour utilization for a professional services firm anywhere in Indiana.
+Owners of optometry practices, dental offices, medical practices, service businesses, and professional service firms across Indiana tell us the same thing: they don't know how last month actually went until it's too late to change anything. Accord Advisors' [outsourced accounting](/services/outsourced-accounting) service closes that gap. You get monthly financial statements, practice-specific dashboards, and the non-financial metrics that actually drive decisions: patient volume trends for an optometry practice in the greater Indianapolis area, insurance mix analysis for a dental office in Bloomington, job costing for a service contractor in Avon, or billable-hour utilization for a professional services firm anywhere in Indiana.
 
 The reporting arrives through a secure online platform, so you're never waiting on a phone call or digging through email attachments to see where you stand. Bookkeeping, reconciliations, and financial statement preparation happen on a set schedule, billed at a fixed monthly rate you agree to upfront.
 
@@ -65,7 +65,7 @@ It's the kind of continuity and attention that comes from working with one India
 <!-- block: content-split | variant: image-left | image: optometry-practice-financial-review.jpg | alt: "CPA reviewing financial reports with an optometry practice manager in an exam office" | query: "optometrist practice manager financial meeting" -->
 ## Specialized experience serving your practice, your profession, and your industry
 
-Every client we serve (optometrists, dentists, medical professionals, professional service providers, service-based businesses, and churches) operates inside a financial world most generalist CPAs never fully learn. Reimbursement cycles, insurance mix, equipment financing, and staffing costs that shift with patient volume look nothing like the job costing and cash flow pressures a service contractor manages, or the fund accounting and compliance requirements a congregation carries. Our team has spent decades working across all of these, and that depth shows up in the details a generalist firm tends to miss.
+Every client we serve, including optometrists, dentists, medical professionals, professional service providers, service-based businesses, and churches, operates inside a financial world most generalist CPAs never fully learn. Reimbursement cycles, insurance mix, equipment financing, and staffing costs that shift with patient volume look nothing like the job costing and cash flow pressures a service contractor manages, or the fund accounting and compliance requirements a congregation carries. Our team has spent decades working across all of these, and that depth shows up in the details a generalist firm tends to miss.
 
 For healthcare practices, that means understanding how an optometry practice's revenue mix affects cash flow planning differently than a dental office's does, and how physician compensation structures in a medical practice create tax planning considerations that don't show up on a standard business return. For professional service providers, it means reporting built around billable-hour utilization and client profitability — not a generic chart of accounts borrowed from retail. For service businesses and churches, it means accounting infrastructure designed around how work actually gets billed, delivered, and reported to the people who depend on accurate numbers.
 
@@ -158,7 +158,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors - Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -194,7 +194,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors - Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
