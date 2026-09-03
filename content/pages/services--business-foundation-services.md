@@ -121,12 +121,14 @@ Business foundation services cover the entity selection, accounting system setup
 - Serving optometry, dental, medical, service-based business, professional service, and church clients across Bloomington, Avon, Indianapolis, and Indiana
 
 **Internal Links:**
-- optometry practice management → /industries/optometry — Connects new optometry practice owners to niche-specific service details
-- dental practice accounting → /industries/dentists — Supports dental practice owners referenced in the industry section
-- medical professional accounting support → /industries/medical-professionals — Relevant to physicians launching new practices
-- church accounting and compliance → /industries/churches — Supports religious organizations mentioned in the industry section
-- outsourced accounting services → /services/outsourced-accounting — Natural next step after foundation setup is complete
-- getting started with Accord Advisors → /getting-started — Guides new visitors toward the onboarding process
+- optometry practice management → /industries/optometry, Connects new optometry practice owners to niche-specific service details
+- dental practice accounting → /industries/dentists, Supports dental practice owners referenced in the industry section
+- medical professional accounting support → /industries/medical-professionals, Relevant to physicians launching new practices
+- church accounting and compliance → /industries/churches, Supports religious organizations mentioned in the industry section
+- service-based business accounting → /industries/service-businesses, Supports HVAC, electrical, plumbing, and other trade-based business owners
+- professional service firm accounting → /industries/professional-services, Supports attorneys, consultants, agencies, and financial advisors
+- outsourced accounting services → /services/outsourced-accounting, Natural next step after foundation setup is complete
+- getting started with Accord Advisors → /getting-started, Guides new visitors toward the onboarding process
 
 **FAQ Block:**
 
