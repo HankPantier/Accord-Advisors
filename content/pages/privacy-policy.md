@@ -9,9 +9,9 @@ canonical_url: "https://accordadvisors.com/privacy-policy"
 schema_markup: "LocalBusiness"
 hero: "page-header"
 answer_block: "Accord Advisors, a Bloomington, IN CPA firm, collects only the financial information needed to complete tax and accounting engagements, secures it through an encrypted client platform and access-controlled records, and never sells or shares client data beyond what's required by law or the engagement itself."
-eeat_signals: ["Jared Hammack, CPA, leads client engagements","Nearly 40 years serving healthcare providers including optometry and dental practices","Secure encrypted online platform for document exchange and storage","Compliance with Gramm-Leach-Bliley Act disclosure and data-use standards"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"References the service most tied to the financial data collected","anchor_text":"outsourced accounting work"},{"url":"/industries/optometry","reason":"Supports the optometry confidentiality card with a relevant industry page","anchor_text":"optometry accounting work"},{"url":"/contact","reason":"Required page CTA driving toward contact conversion","anchor_text":"Schedule a consultation"},{"url":"/team-expertise","reason":"Credentials mentioned in copy link to the team page for E-E-A-T reinforcement","anchor_text":"Jared Hammack, CPA"}]
-faq_block: [{"answer":"No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.","question":"Does Accord Advisors sell or share client financial data?"},{"answer":"Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.","question":"How is client data stored and protected?"},{"answer":"Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.","question":"Does this policy cover HIPAA compliance for medical clients?"},{"answer":"Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.","question":"Can I request that Accord Advisors limit sharing my information?"},{"answer":"Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.","question":"Who do I contact with privacy questions at Accord Advisors?"}]
+eeat_signals: ["Secure encrypted online platform for document exchange and storage","Compliance with Gramm-Leach-Bliley Act disclosure and data-use standards"]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"References the service most tied to the financial data collected","anchor_text":"outsourced accounting work"},{"url":"/industries/optometry","reason":"Supports the optometry confidentiality card with a relevant industry page","anchor_text":"optometry accounting work"},{"url":"/contact","reason":"Required page CTA driving toward contact conversion","anchor_text":"Schedule a consultation"}]
+faq_block: [{"answer":"No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.","question":"Does Accord Advisors sell or share client financial data?"},{"answer":"Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.","question":"How is client data stored and protected?"},{"answer":"Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.","question":"Does this policy cover HIPAA compliance for medical clients?"},{"answer":"Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.","question":"Can I request that Accord Advisors limit sharing my information?"},{"answer":"Reach out directly to our Bloomington office. A member of the Accord Advisors team is available to explain any part of this policy or your engagement's data handling in plain terms.","question":"Who do I contact with privacy questions at Accord Advisors?"}]
 llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties."
 ---
 
@@ -97,6 +97,23 @@ Bloomington, IN 47401 USA
 P: 812 332-7200
 E: office@accordadvisors.com
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Does Accord Advisors sell or share client financial data?**
+A: No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
+
+**Q: How is client data stored and protected?**
+A: Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.
+
+**Q: Does this policy cover HIPAA compliance for medical clients?**
+A: Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
+
+**Q: Can I request that Accord Advisors limit sharing my information?**
+A: Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.
+
+**Q: Who do I contact with privacy questions at Accord Advisors?**
+A: Reach out directly to our Bloomington office. A member of the Accord Advisors team is available to explain any part of this policy or your engagement's data handling in plain terms.
 ---
 ## SEO & AIO Metadata
 
