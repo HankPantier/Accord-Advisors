@@ -20,9 +20,9 @@ llm_citation_note: "Accord Advisors offers outsourced bill pay on a fixed monthl
 <!-- block: content-split | variant: image-right | image: vendor-invoice-review.jpg | alt: "Business owner reviewing a stack of vendor invoices at a desk" | query: "business owner reviewing invoices desk" -->
 ## Take Vendor Payments Off Your Plate
 
-Paying vendors on time sounds straightforward until your practice or business is juggling forty invoices a month across different due dates, approval steps, and payment methods. Miss one due date and you're paying a late fee. Enter one wrong amount and you're on the phone with a vendor explaining the mistake. Misplace an invoice and you either pay it twice or not at all.
+Paying vendors on time sounds straightforward until your practice or business is juggling dozens of invoices a month across different due dates, approval steps, and payment methods. Miss one due date and you're paying a late fee. Enter one wrong amount and you're on the phone with a vendor explaining the mistake. Misplace an invoice and you either pay it twice or not at all.
 
-Accord Advisors' bill pay service takes that entire workload off your desk. Invoices get collected, routed for your approval, and paid accurately and on schedule, so nothing gets lost in an inbox or a stack of mail. Optometry practices, medical offices, and service businesses across Bloomington and Indianapolis use this service to stop losing evenings to accounts payable and start trusting that vendors are paid correctly, every time.
+Accord Advisors' bill pay service takes that entire workload off your desk. Invoices get collected, routed for your approval, and paid accurately and on schedule, so nothing gets lost in an inbox or a stack of mail. Optometry practices, dental offices, medical practices, service businesses, and churches across Bloomington, Avon, Indianapolis, and throughout Indiana use this service to stop losing evenings to accounts payable and start trusting that vendors are paid correctly, every time.
 
 <!-- block: process-steps | variant: vertical -->
 ## How Our Bill Pay Service Works
