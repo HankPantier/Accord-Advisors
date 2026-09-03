@@ -39,7 +39,7 @@ Every invoice gets checked for accuracy, matched to the right expense category, 
 You review and approve payments online from your phone or laptop, on your schedule. Nothing goes out the door without your sign-off.
 
 ### We Process Payment
-Once approved, payment goes out by whatever method your vendor requires, ACH, check, or card, and the transaction is recorded directly in your books.
+Once approved, payment goes out by whatever method your vendor requires: ACH, check, or card. The transaction is recorded directly in your books.
 
 ### You Get Clear Reporting
 Every payment is tracked and reflected in your monthly financials, so you can see exactly what's been paid, what's pending, and where your cash is going.
