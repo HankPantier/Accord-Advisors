@@ -167,7 +167,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors, Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
