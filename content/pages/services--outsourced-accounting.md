@@ -104,9 +104,7 @@ If you're ready to stop patching together bookkeepers, payroll software, and a p
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
 ## Ready to hand your books to a team that already gets it
 
-Get a fixed monthly fee, a secure client platform, and a CPA who knows healthcare, service businesses, and churches. Schedule a consultation and see what your practice's financials could look like with an outsourced accounting department behind you.
-
-[Schedule a consultation](/contact)
+Get a fixed monthly fee, a secure client platform, and a CPA who knows healthcare, service businesses, and churches. Visit our getting started page and see what your practice's financials could look like with an outsourced accounting department behind you.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
