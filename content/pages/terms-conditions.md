@@ -203,7 +203,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors, Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
