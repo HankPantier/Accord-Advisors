@@ -53,12 +53,12 @@ Between opening day and your first quarter close, a dozen registration and compl
 Hourly billing punishes you for asking questions, and the startup phase is exactly when you have the most questions. Accord Advisors works on a fixed monthly fee instead, set based on your practice's or business's size and complexity, not the clock. You can call about a vendor contract, a hiring decision, or a tax notice without watching a meter run. That predictability matters most in year one, when cash flow is tightest and every dollar needs a plan. As your practice or business grows, the fixed fee adjusts to match added complexity, but it never surprises you. You get CFO-level insight into your numbers at a fraction of what a full-time controller or an hourly-billed firm would cost, whether you're a solo optometrist, a multi-provider dental group, an HVAC company, a consulting firm, or a church managing ministry finances.
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for optometrists, dentists, medical providers, service businesses, and churches
+## Built for optometrists, dentists, medical providers, service-based businesses, professional service firms, and churches
 
 ### Optometry Practices
 icon: Stethoscope
 
-Most of our new-practice clients arrive through Acquios, the practice transition network optometrists trust for buy-ins and startups. Accord Advisors has worked with optometry practice managers and shareholders on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
+Accord Advisors works with optometry practice managers and shareholders across Bloomington, Avon, and Indianapolis on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
 
 ### Dental Practices
 icon: ClipboardCheck
@@ -70,10 +70,15 @@ icon: HeartPulse
 
 Physicians and other medical providers launching a new practice face reimbursement timing that can lag actual patient visits by months. Accounting systems built around collected revenue versus billed charges keep your monthly numbers honest, so you know what's actually in the bank, not just what's been invoiced.
 
-### Service Businesses
+### Service-Based Businesses
+icon: Wrench
+
+HVAC companies, electricians, plumbers, and other trade-based businesses have job-costing needs, crew payroll complexities, and equipment considerations that a standard small-business template won't address. Accord Advisors sets up the entity structure and bookkeeping system around how field-service work actually gets bid, completed, and paid, so your numbers reflect the real health of each job from the start.
+
+### Professional Service Firms
 icon: Briefcase
 
-Consultants, contractors, and other service-based founders need entity and payroll decisions made correctly before the first client contract is signed. Accord Advisors handles the foundational filings and bookkeeping setup so you can focus on winning business instead of researching tax forms.
+Attorneys, advertising agencies, financial advisors, and consulting firms bill for expertise, not materials, which means revenue recognition, retainer tracking, and reasonable compensation planning look completely different from a trade business. Accord Advisors builds the accounting foundation around how your firm earns, ensuring entity structure, payroll elections, and revenue tracking are aligned before the first client engagement is billed.
 
 ### Churches
 icon: Building2
