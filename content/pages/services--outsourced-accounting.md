@@ -65,9 +65,9 @@ Transparency isn't a feature we mention once and forget. It's how the relationsh
 <!-- block: content-split | variant: image-right | image: healthcare-practice-financial-review.jpg | alt: "Optometrist and accountant reviewing practice financial statements together" | query: "medical practice financial consultation" -->
 ## Deep Expertise, Especially in Healthcare
 
-Accord Advisors has worked with healthcare providers for nearly 40 years, long enough to understand the financial patterns specific to optometry practices, medical offices, and dental practices: insurance reimbursement timing, equipment financing cycles, staffing ratios, and the cash flow swings that come with adding a new provider. Optometry clients often arrive through referrals from Acquios, the optometric consulting network, because the firm already speaks the language of practice management metrics and reimbursement timelines.
+Accord Advisors brings deep, practice-specific expertise to optometry offices, medical practices, and dental practices across Indiana, including Bloomington, Avon, and the greater Indianapolis area. We understand the financial patterns that define healthcare: insurance reimbursement timing, equipment financing cycles, staffing ratios, and the cash flow swings that come with adding a new provider.
 
-That depth carries over to service businesses and churches, but healthcare is where the firm's experience runs deepest. It shows up in how quickly a billing lag or a staffing cost spike gets flagged, months before it would surface as a year-end surprise.
+That same depth carries over to service-based businesses, professional service providers, and churches throughout Indiana. Whether you're in a suburb of Indianapolis or a smaller Indiana market, the firm's experience shows up in how quickly a billing lag or a staffing cost spike gets flagged, months before it would surface as a year-end surprise.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Explore Our Outsourced Accounting Services
