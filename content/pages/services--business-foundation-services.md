@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "new-practice-owner-consultation.jpg"
 hero_image_alt: "New practice owner and CPA reviewing startup paperwork together in an office"
-hero_subhead: "Get your optometry, dental, medical, service business, or church built on the right entity, systems, and compliance from day one, serving Bloomington, Avon, Indianapolis, and across Indiana"
+hero_subhead: "Get your optometry, dental, medical, service-based business, professional service firm, or church built on the right entity, systems, and compliance from day one, serving Bloomington, Avon, Indianapolis, and across Indiana"
 hero_headline: "Your practice or business deserves a financial foundation as strong as the work you do"
 answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, service business, or church needs at launch. Accord Advisors handles this for a fixed monthly fee for new practices and businesses across Bloomington, Avon, Indianapolis, and throughout Indiana."
 eeat_signals: ["Licensed CPA credential leading advisory work","Deep experience serving healthcare providers including optometry and dental practices","Secure online accounting platform providing real-time financial visibility","Serving optometry, dental, medical, service-based, professional service, and church clients across Bloomington, Avon, Indianapolis, and Indiana"]
