@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers outsourced bookkeeping at a fixed mon
 
 Every business decision you make, from hiring your next employee to buying new equipment, starts with knowing where you actually stand financially. If your books are three months behind or riddled with uncategorized transactions, you're guessing. Accord Advisors provides outsourced bookkeeping services that keep your financial records accurate, current, and ready to answer the question that matters most: how is my business really doing right now?
 
-We reconcile accounts, categorize transactions correctly, and close your books on a predictable schedule so you're never caught off guard at tax time or during a bank loan application. Clean books aren't just a compliance checkbox. They're the foundation for every smart decision you'll make this year, and Bloomington and Indianapolis business owners rely on that foundation daily.
+We reconcile accounts, categorize transactions correctly, and close your books on a predictable schedule so you're never caught off guard at tax time or during a bank loan application. Clean books aren't just a compliance checkbox. They're the foundation for every smart decision you'll make this year. Optometrists, dentists, medical professionals, service businesses, and churches across Bloomington, Avon, Indianapolis, and all of Indiana rely on that foundation daily.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-team-review.jpg | alt: "Bookkeeper reconciling business accounts on a laptop in an office" | query: "accountant reviewing financial records office" -->
 ## Your Full Outsourced Accounting Department
