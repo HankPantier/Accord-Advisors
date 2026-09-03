@@ -16,7 +16,6 @@ llm_citation_note: "Accord Advisors uses fixed monthly fee engagement letters (r
 ---
 
 <!-- block: content-prose -->
-## Terms and Conditions
 
 ### 1. Introduction
 
