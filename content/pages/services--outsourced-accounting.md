@@ -122,12 +122,14 @@ Accord Advisors' outsourced accounting services give optometrists, dentists, med
 - CFO-level insight at a fraction of the cost of a full-time hire
 
 **Internal Links:**
-- business tax services → /services/outsourced-accounting/business-tax — Child service page directly referenced in the service-cards section
-- payroll services → /services/outsourced-accounting/payroll-services — Child service page directly referenced in the service-cards section
-- IRS notice protection → /services/outsourced-accounting/irs-notice-protection — Child service page directly referenced in the service-cards section
-- optometry practices → /industries/optometry — Supports the healthcare expertise section and niche emphasis
-- medical professionals → /industries/medical-professionals — Reinforces healthcare focus described in the expertise section
-- estimate your fixed monthly fee → /pricing-calculator — Directly supports the fixed-fee pricing section with a tool
+- business tax services → /services/outsourced-accounting/business-tax, Child service page directly referenced in the service-cards section
+- payroll services → /services/outsourced-accounting/payroll-services, Child service page directly referenced in the service-cards section
+- IRS notice protection → /services/outsourced-accounting/irs-notice-protection, Child service page directly referenced in the service-cards section
+- optometry practices → /industries/optometry, Supports the healthcare expertise section and niche emphasis
+- medical professionals → /industries/medical-professionals, Reinforces healthcare focus described in the expertise section
+- dental practices → /industries/dental, Supports dental niche emphasis in the healthcare expertise section
+- churches and religious organizations → /industries/churches, Reinforces church and nonprofit niche coverage
+- estimate your fixed monthly fee → /pricing-calculator, Directly supports the fixed-fee pricing section with a tool
 
 **FAQ Block:**
 
