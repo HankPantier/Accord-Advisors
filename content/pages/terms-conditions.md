@@ -126,7 +126,7 @@ A: No. Browsing accordadvisors.com or submitting a contact form does not establi
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
+Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting and tax preparation services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA leads client engagements
