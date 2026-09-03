@@ -59,11 +59,11 @@ Accord Advisors has built deep, industry-specific expertise serving the clients 
 Optometry practices bring particular complexity: insurance reimbursement timing, inventory for frames and contacts, and multi-provider revenue splits. Dental and medical practices face their own billing cycles and payer rules. Professional service firms and churches each carry their own reporting requirements. We've built bookkeeping processes around these realities for our [medical professional](/industries/medical-professionals) and [optometry](/industries/optometry) clients in Bloomington, Avon, and Indianapolis, and we apply the same rigor to [dental practices](/industries/dentists), [service businesses](/industries/service-businesses), and [churches](/industries/churches) throughout Indiana that need accurate fund accounting and donor reporting. See the credentials behind the work on our [team page](/team-expertise), or read [why Accord Advisors](/why-accord-advisors) approaches bookkeeping differently than a generalist firm.
 
 <!-- block: cta-banner | variant: image-bg | image: business-owner-relief.jpg | alt: "Business owner smiling while reviewing finances with an advisor" | query: "business owner relieved meeting advisor" -->
-## Get Back to Running Your Business
+## Get Back to Running Your Practice or Business
 
-Every hour spent reconciling accounts or chasing down a missing receipt is an hour not spent with patients, clients, or your team. Outsourced bookkeeping from Accord Advisors hands that work to a firm with nearly 40 years of experience and a fixed monthly fee that won't move on you.
+Every hour spent reconciling accounts or chasing down a missing receipt is an hour not spent with patients, clients, congregation members, or your team. Outsourced bookkeeping from Accord Advisors hands that work to a firm with deep industry expertise and a fixed monthly fee that won't move on you.
 
-If your books need attention, or you're simply tired of not knowing where you stand each month, schedule a consultation and we'll walk through exactly what a clean set of books would look like for your business.
+Whether you're an optometrist in Bloomington, a dentist in Indianapolis, a medical professional in Avon, a service business anywhere in Indiana, or a church looking for cleaner fund accounting, we'll walk through exactly what accurate books would look like for your specific situation. Schedule a consultation and let's get started.
 
 [Schedule a consultation](/contact)
 
