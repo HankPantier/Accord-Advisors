@@ -87,7 +87,7 @@ Our CPA-led team applies that industry-specific knowledge to how bill pay is cod
 
 When vendor payments run on a fixed schedule with clear reporting, you stop wondering where your cash is going and start planning around it. You'll know what's paid, what's due, and what's coming, without digging through email or spreadsheets to find out.
 
-That kind of visibility changes how confidently you make decisions, whether you're timing a new hire, financing equipment, or figuring out what a slow month means for your practice. Accord Advisors built bill pay to give you that clarity every month, backed by a CPA firm that already understands your industry.
+That kind of visibility changes how confidently you make decisions, whether you're timing a new hire, financing equipment, or figuring out what a slow month means for your practice. Accord Advisors built bill pay to give you that clarity every month, backed by a CPA firm that already understands your specific industry, whether you run an optometry practice, a dental office, a medical practice, a service business, a church, or a professional services firm in Bloomington, Avon, Indianapolis, or anywhere across Indiana.
 
 Ready to hand off vendor payments and get your evenings back? [Schedule a consultation](/contact) and we'll show you exactly how it works for your business.
 
