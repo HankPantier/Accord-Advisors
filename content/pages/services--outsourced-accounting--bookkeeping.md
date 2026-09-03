@@ -71,13 +71,14 @@ Whether you're an optometrist in Bloomington, a dentist in Indianapolis, a medic
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced bookkeeping services for Bloomington and Indianapolis businesses, medical and optometry practices, service businesses, and churches. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by nearly 40 years of accounting experience led by Jared Hammack, CPA.
+Accord Advisors provides outsourced bookkeeping services for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington, Avon, Indianapolis, and across Indiana. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by deep industry-specific expertise in healthcare and professional services.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, oversees bookkeeping engagements
-- Nearly 40 years of firm experience serving healthcare providers
+- Accord Advisors CPA team oversees all bookkeeping engagements
+- Deep industry-specific expertise serving healthcare providers, including optometrists, dentists, and medical professionals
 - Specialized bookkeeping processes for optometry insurance reimbursement and multi-provider revenue splits
 - Secure online platform with bank-level encryption for client financial data
+- Serving Bloomington, Avon, Indianapolis, and clients across Indiana
 
 **Internal Links:**
 - outsourced accounting → /services/outsourced-accounting — Parent service page for bookkeeping
