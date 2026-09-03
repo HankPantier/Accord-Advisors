@@ -4,7 +4,7 @@ url: "/services/outsourced-accounting/bill-pay"
 meta_title: "Outsourced Bill Pay Services | Bloomington CPA Firm"
 meta_description: "Accord Advisors' outsourced bill pay service keeps vendor payments accurate and on time with fixed monthly fees and secure online approval for optometry, dental, medical, and service businesses across Bloomington, Avon, and Indianapolis."
 target_keyword: "outsourced bill pay services"
-secondary_keywords: ["vendor payment management","accounts payable outsourcing","bill pay for small business","fixed fee accounting Bloomington"]
+secondary_keywords: ["vendor payment management","accounts payable outsourcing","bill pay for small business","fixed fee accounting Bloomington","outsourced bill pay Indianapolis","bill pay for optometry practices","bill pay for medical professionals","bill pay for churches","dental practice accounts payable","bill pay Indiana"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bill-pay"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
