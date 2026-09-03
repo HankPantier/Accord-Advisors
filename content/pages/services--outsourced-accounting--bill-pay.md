@@ -113,7 +113,7 @@ A: Yes. Accord Advisors serves clients across Bloomington, Avon, Indianapolis, a
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Outsourced bill pay services from Accord Advisors handle the full vendor payment cycle, from collecting invoices to routing approvals to issuing payment, on a secure online platform for one fixed monthly fee. Business owners get accurate, on-time payments without hiring extra staff or tracking due dates themselves.
+Outsourced bill pay services from Accord Advisors handle the full vendor payment cycle, from collecting invoices to routing approvals to issuing payment, on a secure online platform for one fixed monthly fee. Optometry practices, dental offices, medical professionals, service businesses, churches, and professional service providers across Bloomington, Avon, Indianapolis, and Indiana get accurate, on-time payments without hiring extra staff or tracking due dates themselves.
 
 **E-E-A-T Signals:**
 - CPA-led accounting practice with deep specialization in healthcare, optometry, dental, and service-based industries
