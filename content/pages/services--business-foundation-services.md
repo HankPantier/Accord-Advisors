@@ -86,7 +86,7 @@ icon: Building2
 Religious organizations starting new ministries or splitting from a parent congregation face nonprofit registration, clergy payroll rules, and compliance requirements unlike any for-profit business. Accord Advisors sets up the accounting foundation to keep that distinction clear from the very first deposit.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Business foundation services for new practice owners
+## Frequently Asked Questions About Business Foundation Services
 
 **Q: What entity type should a new optometry or dental practice choose?**
 A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana.
