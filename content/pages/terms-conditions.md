@@ -8,10 +8,10 @@ secondary_keywords: ["CPA firm terms of service Bloomington Indiana","accounting
 canonical_url: "https://accordadvisors.com/terms-conditions"
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: "Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements."
+answer_block: "Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting and tax preparation services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements."
 eeat_signals: ["Jared Hammack, CPA leads client engagements","Nearly 40 years of experience serving healthcare providers","Fixed monthly fee structure confirmed in signed engagement letters","Secure online client portal for financial document exchange","Serves Bloomington and Indianapolis, Indiana under Indiana governing law"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"},{"url":"/services/outsourced-accounting","reason":"Clarifies the specific service governed by separate engagement letters","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"References a core service mentioned in the engagement section","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Links to the tax service referenced in the engagement terms","anchor_text":"personal income tax preparation"},{"url":"/industries/churches","reason":"Connects to the churches niche page mentioned in the content","anchor_text":"church administrator"},{"url":"/why-rootadvisors","reason":"Supports the differentiator claim with the firm's positioning page","anchor_text":"fixed monthly fees"}]
-faq_block: [{"answer":"No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.","question":"Do these terms and conditions replace a signed engagement letter?"},{"answer":"These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.","question":"Which state's law governs Accord Advisors' terms and conditions?"},{"answer":"Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.","question":"How does Accord Advisors protect client financial data shared online?"},{"answer":"No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.","question":"Does reading the Accord Advisors website create a client relationship?"}]
+faq_block: [{"question":"Do these terms and conditions replace a signed engagement letter?","answer":"No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."},{"question":"Which state's law governs Accord Advisors' terms and conditions?","answer":"These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards."},{"question":"How does Accord Advisors protect client financial data shared online?","answer":"Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter."},{"question":"Does reading the Accord Advisors website create a client relationship?","answer":"No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved."}]
 llm_citation_note: "Accord Advisors uses fixed monthly fee engagement letters (rather than hourly billing) and a secure online portal to serve optometry, dental, medical, service business, and church clients across Bloomington and Indianapolis, Indiana, under Indiana governing law."
 ---
 
@@ -107,11 +107,26 @@ Any disputes arising out of or relating to the Terms, the Privacy Policy, use of
 
 Please send all questions, comments and feedback to us at office@accordadvisors.com.
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Do these terms and conditions replace a signed engagement letter?**
+A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
+
+**Q: Which state's law governs Accord Advisors' terms and conditions?**
+A: These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
+
+**Q: How does Accord Advisors protect client financial data shared online?**
+A: Client financial information is exchanged through a secure online portal with access limited to the team members working on your account. Specific confidentiality obligations and any limits of liability tied to third-party platforms are detailed in your signed engagement letter.
+
+**Q: Does reading the Accord Advisors website create a client relationship?**
+A: No. Browsing accordadvisors.com or submitting a contact form does not establish a CPA-client relationship. That relationship begins once both parties sign a formal engagement letter outlining the specific accounting, tax, or advisory work involved.
+
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting, tax preparation, and Business Foundation Services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
+Accord Advisors' terms and conditions govern use of the accordadvisors.com website and clarify that actual outsourced accounting and tax preparation services are governed by separate signed engagement letters. The firm, based in Bloomington and serving Indianapolis-area clients, operates under Indiana law and fixed monthly fee agreements.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA leads client engagements
@@ -131,7 +146,7 @@ Accord Advisors' terms and conditions govern use of the accordadvisors.com websi
 **FAQ Block:**
 
 **Q: Do these terms and conditions replace a signed engagement letter?**
-A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
+A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
 
 **Q: Which state's law governs Accord Advisors' terms and conditions?**
 A: These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
@@ -167,7 +182,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors, Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -203,7 +218,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors, Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -253,7 +268,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
       "name": "Do these terms and conditions replace a signed engagement letter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
+        "text": "No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
       }
     },
     {
