@@ -268,7 +268,7 @@ Accord Advisors uses fixed monthly fee engagement letters (rather than hourly bi
       "name": "Do these terms and conditions replace a signed engagement letter?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
+        "text": "No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business."
       }
     },
     {
