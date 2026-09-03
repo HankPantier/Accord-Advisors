@@ -146,7 +146,7 @@ Accord Advisors' terms and conditions govern use of the accordadvisors.com websi
 **FAQ Block:**
 
 **Q: Do these terms and conditions replace a signed engagement letter?**
-A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting, tax preparation, or Business Foundation Services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
+A: No. This page governs general use of the Accord Advisors website. Actual outsourced accounting and tax preparation services are always defined in a separate signed engagement letter covering scope, fees, and deliverables specific to your practice or business.
 
 **Q: Which state's law governs Accord Advisors' terms and conditions?**
 A: These terms are governed by the laws of the State of Indiana. Accord Advisors is based in Bloomington and serves clients throughout the Indianapolis area under Indiana professional accounting standards.
