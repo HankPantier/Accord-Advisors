@@ -104,9 +104,9 @@ A: Yes. Accord Advisors serves new practice owners in Bloomington, Avon, and Ind
 A: Service-based businesses, such as HVAC companies, electricians, and plumbers, operate on job-based or project revenue with field crews, equipment costs, and contractor compliance considerations. Professional service providers, such as attorneys, advertising agencies, financial advisors, and consulting firms, bill for expertise and often manage retainer arrangements, trust accounts, or firm-level revenue splits. Accord Advisors sets up the accounting foundation for both, tailored to how each type of business actually earns and spends.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
-## Let's build your practice's foundation together
+## Let's build your foundation together
 
-The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+The first few months of a new practice or business set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, service-based business, professional service firm, and church clients in Bloomington, Avon, Indianapolis, and across Indiana get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
 
 ---
 ## SEO & AIO Metadata
