@@ -15,99 +15,87 @@ faq_block: [{"answer":"No. Accord Advisors never sells or rents client informati
 llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, protects client financial data through an encrypted secure client platform, restricts data use to completing tax and accounting engagements, and never sells client information to third parties."
 ---
 
-<!-- block: intro-text | variant: centered -->
-## Our commitment to protecting your information
-
-When you hand over tax documents, payroll records, or practice financials, you're trusting us with details most people never share outside their own household. Accord Advisors takes that trust seriously. Whether you run an optometry practice in Bloomington, manage payroll for a dental office, or handle the books for a church in Avon, the same standard applies: your information stays protected, stays private, and is never used for anything beyond the work you've hired us to do.
-
-This policy explains, in plain language, what information we collect, how we use it, and the steps we take to keep it secure. If anything here raises a question, call us. We'd rather explain it directly than have you guess.
-
 <!-- block: content-prose -->
-## Information we collect from clients
+Accord Advisors values the privacy of our users. Therefore, this privacy policy explains in detail how we use and protect the information we collect when you visit our website. Read this privacy policy completely. Please refrain from visiting the site if the terms outlined below are not satisfactory to you.
 
-Most of what we collect comes straight from you: tax organizers, W-2s and 1099s, bank and credit card statements, payroll records, and financial documents you upload through our secure online platform. For business clients, that can include profit and loss statements, accounts payable and receivable detail, and entity formation paperwork. For optometry, dental, and medical clients, it may include practice revenue data and billing summaries tied to outsourced accounting work, though never patient charts or clinical records.
+We reserve the right to change this policy at any time and will list these changes in the updates section of the policy. By reading this notice and visiting the site, you agree that you understand that customers will not be personally notified when this policy changes.
 
-We may also receive information from third parties involved in your engagement, such as your bank, payroll processor, or a prior accountant transitioning your files to us. All of it is collected for one reason: to prepare accurate tax returns and deliver the outsourced accounting and Business Foundation Services you've engaged us for.
+Therefore, we advise our customers to frequently review our privacy policy so that they remain aware of its updates. By using the site, you accept that the posted policy and all its changes apply to your interaction with Accord Advisors.
 
-<!-- block: content-prose -->
-## How we use and share your information
+## Information Collected by Accord Advisors
 
-Your information is used to complete the services you've asked for, tax preparation, monthly outsourced accounting, entity setup, or ongoing advisory work. That's the boundary. We don't sell client data, rent mailing lists, or share your financial details with marketers.
+Personal information may be collected by this site in many ways. This information includes:
 
-Limited sharing does happen in specific, necessary circumstances: with the IRS or Indiana Department of Revenue to file returns, with a bank or lender if you've authorized us to provide documentation for a loan application, or with a successor accountant if you leave our firm and request a file transfer. We may also disclose information when required by law, such as in response to a subpoena. Outside of those situations, what you share with Jared Hammack, CPA, and the Accord Advisors team stays inside the engagement it was collected for.
+- Personal identifying information like your name, address, email, phone number, age, gender, and other personal data
+- Server data related to the IP address you used to visit our website, which includes your address, browser, OS, access time, and site activity.
+- Financial information related to your orders including your payment method and identifying payment information. We rarely store financial information collected on our site for transaction purposes. That information gets sent directly to our payment processor.
+- Social network data including Facebook permissions and user information from other networks, provided you log onto our site using one of these media sites.
+- Mobile device information such as your device ID, model, and location, if you use our site by accessing it through our mobile app.
 
-<!-- block: content-split | variant: image-right | image: data-security-safeguards.jpg | alt: "Accountant securely accessing encrypted financial data on a laptop" | query: "secure data encryption accountant laptop" -->
-## Security safeguards for financial and health-related data
+## How We Use This Information
 
-Optometry, dental, and medical clients often ask how we handle information that sits close to protected health data, even though we don't process clinical records. The answer is layered safeguards, not a single lock. Our secure online platform uses encryption for document upload and storage, so financial files never travel by unprotected email. Access is limited to team members actively working on your engagement, and internal permissions are reviewed as staff roles change.
+Our website uses information collected to:
 
-Physically, paper documents are stored in locked, access-controlled files and shredded once digitized copies are confirmed. Procedurally, every team member completes confidentiality training before handling client files, and our systems are monitored for unauthorized access attempts. For practices bound by HIPAA on the clinical side, we coordinate so that our accounting processes never create a gap in your own compliance obligations.
+- Manage your account information
+- Customize ads
+- Deliver promotions
+- Email your account confirmation
+- Manage purchases and payments
+- Increase site efficiency
+- Notify you of updates
+- Offer new products
+- Monitor and prevent theft
+- Request your customer feedback
+- Resolve account disputes
+- Respond to your service requests
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Confidentiality for specialized industries
+## Information Disclosure
 
-Almost 40 years of working with healthcare providers taught us that confidentiality expectations aren't identical across industries. A church treasurer worries about donor privacy. An optometry practice manager worries about payroll data reaching the wrong staff member. We built our privacy practices around those distinctions.
+Normally, your information stays on our site. However, below we have listed the situations that may require us to share the information we collect from you:
 
-### Optometry practices
-icon: HeartPulse
+- When required by law, such as for fraud protection
+- With our third-party providers for payment processing and hosting
+- With your consent for marketing purposes
+- When you post comments on the site
+- To our advertisers, affiliates, and partners
+- If this site goes bankrupt and data must be transferred
 
-Practice revenue, staff payroll, and vendor contracts stay confidential from competing practices and unauthorized staff, consistent with the industry expertise behind our optometry accounting work.
+## Cookies, Trackers, and Online Ads
 
-### Dental practices
-icon: Stethoscope
+We may use cookies, trackers, web beacons, and other technology to customize our website to improve your experience. We may customize the site using this information. These trackers do not have access to your personal information and can be removed from your browser options.
 
-Financial data tied to associate compensation, equipment financing, and practice transitions is limited to the engagement team handling your books.
+In addition, third-party software provides ads for our site for marketing campaigns. These programs have access to tracking technology to optimize your ad experience. No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
-### Medical professionals
-icon: ClipboardCheck
+Website analytics may also be used to track users and remarket our website. We do not give these vendors access to your personal information.
 
-Reimbursement and revenue data are handled separately from clinical systems, with access restricted to the accountants assigned to your practice.
+## Other Sites
 
-### Service businesses
-icon: Briefcase
+Our website may contain links to third-party websites in the form of policies, ads, and other non-affiliated links. Once you leave our site, we are no longer responsible for how your information is collected and disclosed. Please refer to the privacy policies of those third-party sites for more information.
 
-Job costing, client contracts, and margin data stay inside your engagement file, never shared with other clients or shown as case studies without permission.
+## Information Security
 
-### Churches
-icon: Building2
+We take technical and administrative precautions to protect your data, but we cannot guarantee its safety against all types of fraud or misuse. If you provide personal information, we cannot verify its total security against all types of interception.
 
-Donor and giving records are treated as confidential financial information, disclosed only to the board members or staff you authorize.
+## Do-Not-Track
 
-<!-- block: checklist-section | variant: with-image-left | image: client-data-rights-review.jpg | alt: "Client and accountant reviewing a document together at a desk" | query: "client accountant reviewing documents desk" -->
-## Your rights and choices regarding your data
+Some browsers offer Do-Not-Track settings to prevent any information from being distributed. Since these settings have not been legally established as standard practice, we do not acknowledge these settings.
 
-Under the Gramm-Leach-Bliley Act, you have specific rights over how a financial services firm like ours handles your nonpublic personal information. Here's what that means in practice:
+## Additional Options
 
-- You can ask what personal or business information we have on file for your engagement.
-- You can request that we limit sharing with third parties beyond what's needed to complete your tax return or accounting work.
-- You can opt out of nonessential communications, such as general newsletters, at any time.
-- You can request a copy of records be transferred to another accountant if you end your engagement with us.
-- You can ask questions about this policy before signing an engagement letter, not just after.
+At any time, you may opt to review or change your account settings, including contact information. If you wish to delete your account, you may do so to remove most of your information, however, some identifying information will be retained to prevent fraud. You may also opt-out of emails and other correspondences from our site at any time.
 
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Privacy policy
+## Indiana's Privacy Rights
 
-**Q: Does Accord Advisors sell or share client financial data?**
-A: No. Accord Advisors never sells or rents client information to third parties. Data is shared only when required to complete a tax filing, at your request for a loan application, or when legally compelled, such as by a subpoena or government agency request.
+We follow the privacy codes stated within the Indiana Consumer Data Protection Act.
 
-**Q: How is client data stored and protected?**
-A: Financial documents are stored on a secure, encrypted online platform with access limited to team members working on your engagement. Physical records are kept in locked, access-controlled storage and shredded once digitized copies are confirmed accurate.
+If you have questions or concerns about this privacy policy, please feel free to contact us at:
 
-**Q: Does this policy cover HIPAA compliance for medical clients?**
-A: Accord Advisors doesn't handle clinical records, but for optometry, dental, and medical clients, accounting processes are structured to avoid creating gaps in your practice's own HIPAA obligations, with confidential handling of financial and payroll data.
+Accord Advisors
+1516 South Walnut Street
+Bloomington, IN 47401 USA
 
-**Q: Can I request that Accord Advisors limit sharing my information?**
-A: Yes. Under the Gramm-Leach-Bliley Act, you can ask us to limit sharing beyond what's necessary to complete your tax return or accounting engagement, and you can opt out of nonessential communications like newsletters at any time.
-
-**Q: Who do I contact with privacy questions at Accord Advisors?**
-A: Reach out directly to our Bloomington office or through the secure client portal. Jared Hammack, CPA, and the team are available to explain any part of this policy or your engagement's data handling in plain terms.
-
-<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and client shaking hands after a consultation meeting" | query: "professional handshake office consultation" -->
-## Questions about this privacy policy
-
-If something in this policy isn't clear, or you want to know exactly what happens to your practice's financial data once it's in our system, ask us directly. Clients in Bloomington, Indianapolis, and Avon can reach our team by phone or through the secure client portal, and Jared Hammack, CPA, is available to walk through any concern in plain terms.
-
-Ready to see how an outsourced accounting relationship with real safeguards works? Schedule a consultation and we'll answer every privacy question before you sign anything.
+P: 812 332-7200
+E: office@accordadvisors.com
 
 ---
 ## SEO & AIO Metadata
