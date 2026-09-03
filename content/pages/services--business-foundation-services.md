@@ -58,7 +58,7 @@ Hourly billing punishes you for asking questions, and the startup phase is exact
 ### Optometry Practices
 icon: Stethoscope
 
-Most of our new-practice clients arrive through Acquios, the practice transition network optometrists trust for buy-ins and startups. Jared Hammack, CPA, has worked with optometry practice managers and shareholders on entity structure, equipment financing, and insurance billing setup for nearly 40 years. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
+Most of our new-practice clients arrive through Acquios, the practice transition network optometrists trust for buy-ins and startups. Accord Advisors has worked with optometry practice managers and shareholders on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
 
 ### Dental Practices
 icon: ClipboardCheck
