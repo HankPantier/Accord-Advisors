@@ -98,8 +98,8 @@ Ready to hand off vendor payments and get your evenings back? [Schedule a consul
 Outsourced bill pay services from Accord Advisors handle the full vendor payment cycle, from collecting invoices to routing approvals to issuing payment, on a secure online platform for one fixed monthly fee. Business owners get accurate, on-time payments without hiring extra staff or tracking due dates themselves.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads the firm's accounting practice
-- Nearly 40 years serving Bloomington and Indianapolis businesses, with deep experience in healthcare
+- CPA-led accounting practice with deep specialization in healthcare, optometry, dental, and service-based industries
+- Decades of experience serving optometry practices, medical professionals, dental offices, service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana
 - Fixed monthly fee model shown transparently via the firm's pricing calculator
 - Secure online platform used for invoice approval, payment, and reporting
 
