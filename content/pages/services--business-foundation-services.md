@@ -251,7 +251,7 @@ Accord Advisors guides new optometry, dental, and medical practice owners on ent
       "name": "What entity type should a new optometry or dental practice choose?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana."
+        "text": "The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana."
       }
     },
     {
