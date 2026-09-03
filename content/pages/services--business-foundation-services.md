@@ -112,7 +112,7 @@ The first few months of a new practice or business set the pattern for everythin
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, or service practice needs at launch. Accord Advisors, led by Jared Hammack, CPA, handles this for a fixed monthly fee for new practice owners in Bloomington and Indianapolis, Indiana.
+Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, service-based business, professional service firm, or church needs at launch. Accord Advisors handles this for a fixed monthly fee for new practices and businesses across Bloomington, Avon, Indianapolis, and throughout Indiana.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credential leading advisory work
