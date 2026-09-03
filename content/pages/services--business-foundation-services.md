@@ -98,7 +98,7 @@ A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapol
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your practice's foundation together
 
-The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. Jared Hammack, CPA, and the Accord Advisors team have helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, for nearly 40 years, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
 
 ---
 ## SEO & AIO Metadata
