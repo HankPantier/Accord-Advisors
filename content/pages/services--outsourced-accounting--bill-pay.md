@@ -76,11 +76,11 @@ icon: ShieldCheck
 If a payment or filing question ever draws IRS attention, we're already familiar with your records and ready to respond. [IRS notice protection](/services/outsourced-accounting/irs-notice-protection)
 
 <!-- block: content-split | variant: image-left | image: cpa-healthcare-accounting-review.jpg | alt: "CPA reviewing financial records with a healthcare practice manager" | query: "CPA meeting healthcare practice manager" -->
-## Nearly 40 Years of Trusted Expertise, Especially in Healthcare
+## Deep Expertise for the Clients We Serve
 
-Accord Advisors has served Bloomington and Indianapolis businesses for nearly 40 years, and much of that experience is concentrated in healthcare. Optometry practices, medical offices, and dental practices bring vendor relationships that general bookkeepers rarely see up close: equipment financing, lab and supply accounts, insurance-related payables, and staffing costs that shift month to month.
+Accord Advisors has built its practice around the industries and businesses that benefit most from dependable, accurate vendor payment management. Optometry practices, medical offices, dental practices, service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana bring vendor relationships that general bookkeepers rarely see up close: equipment financing, lab and supply accounts, insurance-related payables, and staffing costs that shift month to month.
 
-Jared Hammack, CPA, leads that expertise at Accord Advisors, applying decades of healthcare accounting work to how bill pay is coded, reviewed, and reported for [medical professionals](/industries/medical-professionals) and [optometry practices](/industries/optometry). Service businesses and churches benefit from the same depth of experience, applied to the vendor relationships specific to their operations. The result is a bill pay service that understands your invoices instead of just processing them.
+Our CPA-led team applies that industry-specific knowledge to how bill pay is coded, reviewed, and reported for [medical professionals](/industries/medical-professionals) and [optometry practices](/industries/optometry). Service businesses, professional service providers, and churches benefit from the same depth, applied to the vendor relationships specific to their operations. The result is a bill pay service that understands your invoices instead of just processing them.
 
 <!-- block: cta-banner | variant: image-bg | image: business-owner-cash-flow-confidence.jpg | alt: "Business owner smiling while reviewing financial reports on a tablet" | query: "confident business owner reviewing reports" -->
 ## Gain Cash Flow Visibility and Peace of Mind
