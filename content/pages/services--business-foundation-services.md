@@ -73,7 +73,7 @@ Physicians and other medical providers launching a new practice face reimburseme
 ### Service-Based Businesses
 icon: Wrench
 
-HVAC companies, electricians, plumbers, and other trade-based businesses have job-costing needs, crew payroll complexities, and equipment considerations that a standard small-business template won't address. Accord Advisors sets up the entity structure and bookkeeping system around how field-service work actually gets bid, completed, and paid, so your numbers reflect the real health of each job from the start.
+HVAC companies, electricians, landscapers, plumbers, and other trade-based businesses have job-costing needs, crew payroll complexities, and equipment considerations that a standard small-business template won't address. Accord Advisors sets up the entity structure and bookkeeping system around how field-service work actually gets bid, completed, and paid, so your numbers reflect the real health of each job from the start.
 
 ### Professional Service Firms
 icon: Briefcase
