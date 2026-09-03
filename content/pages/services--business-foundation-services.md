@@ -115,10 +115,10 @@ The first few months of a new practice or business set the pattern for everythin
 Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, service-based business, professional service firm, or church needs at launch. Accord Advisors handles this for a fixed monthly fee for new practices and businesses across Bloomington, Avon, Indianapolis, and throughout Indiana.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA credential leading advisory work
-- Nearly 40 years serving healthcare providers including optometry and dental practices
-- Referral relationship with Acquios for optometry practice transitions
+- Licensed CPA credential leading advisory work
+- Deep experience serving healthcare providers including optometry and dental practices
 - Secure online accounting platform providing real-time financial visibility
+- Serving optometry, dental, medical, service-based business, professional service, and church clients across Bloomington, Avon, Indianapolis, and Indiana
 
 **Internal Links:**
 - optometry practice management → /industries/optometry — Connects new optometry practice owners to niche-specific service details
