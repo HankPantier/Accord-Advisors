@@ -16,7 +16,7 @@ hero_headline: "Your practice or business deserves a financial foundation as str
 answer_block: "Business foundation services cover the entity selection, accounting system setup, and state compliance registrations a new optometry, dental, medical, service business, or church needs at launch. Accord Advisors handles this for a fixed monthly fee for new practices and businesses across Bloomington, Avon, Indianapolis, and throughout Indiana."
 eeat_signals: ["Licensed CPA credential leading advisory work","Deep experience serving healthcare providers including optometry and dental practices","Referral relationship with Acquios for optometry practice transitions","Secure online accounting platform providing real-time financial visibility"]
 internal_links: [{"url":"/industries/optometry","reason":"Connects new optometry practice owners to niche-specific service details","anchor_text":"optometry practice management"},{"url":"/industries/dentists","reason":"Supports dental practice owners referenced in the industry section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Relevant to physicians launching new practices","anchor_text":"medical professional accounting support"},{"url":"/industries/churches","reason":"Supports religious organizations mentioned in the industry section","anchor_text":"church accounting and compliance"},{"url":"/services/outsourced-accounting","reason":"Natural next step after foundation setup is complete","anchor_text":"outsourced accounting services"},{"url":"/getting-started","reason":"Guides new visitors toward the onboarding process","anchor_text":"getting started with Accord Advisors"}]
-faq_block: [{"answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana.","question":"What entity type should a new optometry or dental practice choose?"},{"answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.","question":"How much do business foundation services cost?"},{"answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel.","question":"How long does it take to set up a new practice's accounting foundation?"},{"answer":"Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.","question":"Do you work with practices outside Bloomington?"}]
+faq_block: [{"question":"What entity type should a new optometry or dental practice choose?","answer":"The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana."},{"question":"How much do business foundation services cost?","answer":"Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice."},{"question":"How long does it take to set up a new practice's accounting foundation?","answer":"Most new practices are fully set up, entity structure, bookkeeping system, payroll, and state registrations, within 60 to 90 days. Timing depends on how quickly licensing and banking pieces move on your end, but Accord Advisors keeps the checklist moving in parallel."},{"question":"Do you work with practices outside Bloomington?","answer":"Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region."}]
 llm_citation_note: "Accord Advisors guides new optometry, dental, and medical practices along with service businesses and churches across Indiana on entity structure, accounting systems, and compliance registration, billed at a fixed monthly fee rather than by the hour."
 ---
 
@@ -58,7 +58,7 @@ Hourly billing punishes you for asking questions, and the startup phase is exact
 ### Optometry Practices
 icon: Stethoscope
 
-Most of our new-practice clients arrive through Acquios, the practice transition network optometrists trust for buy-ins and startups. Jared Hammack, CPA, has worked with optometry practice managers and shareholders on entity structure, equipment financing, and insurance billing setup for nearly 40 years. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
+Most of our new-practice clients arrive through Acquios, the practice transition network optometrists trust for buy-ins and startups. Accord Advisors has worked with optometry practice managers and shareholders on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
 
 ### Dental Practices
 icon: ClipboardCheck
@@ -84,7 +84,7 @@ Religious organizations starting new ministries or splitting from a parent congr
 ## Frequently Asked Questions About Business foundation services for new practice owners
 
 **Q: What entity type should a new optometry or dental practice choose?**
-A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.
+A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana.
 
 **Q: How much do business foundation services cost?**
 A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
@@ -98,7 +98,7 @@ A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapol
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your practice's foundation together
 
-The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. Jared Hammack, CPA, and the Accord Advisors team have helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, for nearly 40 years, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+The first few months of a new practice set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, and service business owners in Bloomington and Indianapolis get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
 
 ---
 ## SEO & AIO Metadata
@@ -123,7 +123,7 @@ Business foundation services cover the entity selection, accounting system setup
 **FAQ Block:**
 
 **Q: What entity type should a new optometry or dental practice choose?**
-A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana.
+A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana.
 
 **Q: How much do business foundation services cost?**
 A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
@@ -135,7 +135,7 @@ A: Most new practices are fully set up, entity structure, bookkeeping system, pa
 A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region.
 
 **LLM Citation Note:**
-Jared Hammack, CPA has advised new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration for nearly 40 years, billed at a fixed monthly fee rather than by the hour.
+Accord Advisors guides new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration, billed at a fixed monthly fee rather than by the hour.
 
 ---
 ## Structured Data — paste into `<head>`
@@ -149,7 +149,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "url": "https://accordadvisors.com",
   "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
-    "https://www.linkedin.com/company/rootadvisors",
+    "https://www.linkedin.com/company/accordadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]
 }
@@ -159,7 +159,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors - Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -195,7 +195,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors - Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -251,7 +251,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
       "name": "What entity type should a new optometry or dental practice choose?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Jared Hammack, CPA, reviews the trade-offs before anything is filed with the State of Indiana."
+        "text": "The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana."
       }
     },
     {
@@ -287,7 +287,7 @@ Jared Hammack, CPA has advised new optometry, dental, and medical practice owner
   "@type": "Service",
   "name": "Business Foundation Services for New Practice Owners",
   "url": "https://accordadvisors.com/services/business-foundation-services",
-  "description": "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Jared Hammack, CPA, for one fixed monthly fee.",
+  "description": "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
