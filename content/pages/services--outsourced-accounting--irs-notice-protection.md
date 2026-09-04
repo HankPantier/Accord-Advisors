@@ -58,7 +58,7 @@ Optometry practices, dental offices, medical providers, service-based businesses
 - Questions about deductions claimed for equipment, vehicles, professional services, or church-related expenses
 - Requests for additional documentation to support a return already filed
 
-None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide. Whether you're an optometrist in Bloomington, a dentist in Avon, a medical professional in Indianapolis, or a church treasurer anywhere in Indiana, we know the notices your industry sees.
+None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide. Whether you're an optometrist in Bloomington, a dentist in Avon, a medical professional in Indianapolis, a service-based business owner, a professional service provider, or a church treasurer anywhere in Indiana, we know the notices your industry sees.
 
 <!-- block: content-split | variant: image-left | image: fixed-fee-consultation.jpg | alt: "Advisor and client reviewing a flat fee service agreement together" | query: "advisor client reviewing agreement office" -->
 ## Why our fixed-fee approach removes the fear of surprise costs
