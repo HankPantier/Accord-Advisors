@@ -307,7 +307,7 @@ Accord Advisors provides IRS notice review and direct-response support on a flat
   "@type": "Service",
   "name": "IRS Notice Protection & Response | Bloomington, IN CPA",
   "url": "https://accordadvisors.com/services/irs-notice-protection",
-  "description": "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help, no surprise bills.",
+  "description": "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help for optometry, dental, medical, service-based businesses, professional service providers, and churches. No surprise bills.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
