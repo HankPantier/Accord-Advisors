@@ -111,11 +111,11 @@ Succession planning works best when it starts early and stays simple. If you are
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices.
+Accord Advisors provides succession planning for optometrists, dentists, medical professionals, service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana, reviewing financial statements, cash flow, and business structure to prepare a practice or organization for sale or transfer. The work is delivered through a fixed monthly fee, drawing on deep healthcare-focused accounting experience.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads engagements
-- Nearly 40 years of healthcare-focused accounting experience
+- CPA-led engagements with deep healthcare accounting expertise
+- Specialized experience serving optometrists, dentists, medical professionals, service businesses, and churches across Indiana
 - Fixed monthly fee model rather than hourly billing
 - Secure online client platform for financial data sharing
 - Direct experience with optometry practice buy-ins and referrals via Acquios
