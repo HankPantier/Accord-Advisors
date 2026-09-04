@@ -112,8 +112,8 @@ If you manage an optometry practice, dental office, medical clinic, [service-bas
 Accord Advisors handles payroll administration, including processing, tax withholdings, filings, direct deposit, and new-hire setup, for optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, and Avon. Payroll runs on a fixed monthly fee through a secure online platform, integrated with the firm's outsourced accounting and tax services rather than sold as a standalone product.
 
 **E-E-A-T Signals:**
-- Accord Advisors leads payroll and outsourced accounting services for healthcare and service clients
-- Deep firm experience serving optometry, dental, medical, and church clients
+- Accord Advisors leads payroll and outsourced accounting services for healthcare, service-based business, and professional service clients
+- Deep firm experience serving optometry, dental, medical, church, service-based business, and professional service firm clients
 - Fixed monthly fee structure replaces hourly billing common among payroll vendors
 - Secure online platform gives clients direct access to pay history and filings
 
