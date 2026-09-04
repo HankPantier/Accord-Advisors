@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-bloomington.jpg"
 hero_image_alt: "CPA reviewing financial reports with a healthcare practice owner in an office"
-hero_subhead: "Get CPA-led bookkeeping, monthly reporting, and advisory support for one predictable fee"
+hero_subhead: "CPA-led bookkeeping, monthly reporting, and advisory support for one predictable fee, serving optometrists, dentists, medical professionals, service businesses, and churches across Indiana"
 hero_headline: "Your outsourced accounting department, without the overhead"
 answer_block: "Accord Advisors provides outsourced accounting services in Bloomington, Avon, Indianapolis, and across Indiana, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, and CPA-led advisory support delivered through a secure online platform, with deep experience serving optometrists, dentists, medical professionals, service businesses, churches, and professional service providers."
 eeat_signals: ["CPA-led client engagements with deep industry specialization","Extensive experience serving healthcare providers across Indiana","Serves Bloomington, Avon, Indianapolis, and clients statewide","Optometry clients frequently referred through the Acquios practice management network","Fixed monthly fee model documented in client agreements","Specialized expertise across optometry, dental, medical, service business, church, and professional service sectors"]
