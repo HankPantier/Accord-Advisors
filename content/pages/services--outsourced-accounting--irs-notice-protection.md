@@ -47,9 +47,9 @@ With proper authorization, we contact the IRS on your behalf, by phone or in wri
 We prepare the documentation, write the response, and submit it by the deadline. You review it, you approve it, and it's handled. You never face the IRS alone on this.
 
 <!-- block: checklist-section | variant: with-image | image: irs-notice-review-desk.jpg | alt: "CPA reviewing an IRS notice letter alongside client financial documents at a desk" | query: "accountant reviewing official letter documents" -->
-## Common notices we help Bloomington and Indianapolis clients resolve
+## Common notices we help Indiana clients resolve
 
-Optometry practices, dental offices, medical providers, service businesses, and churches all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across Indiana:
+Optometry practices, dental offices, medical providers, professional service firms, service businesses, and churches across Bloomington, Indianapolis, Avon, and the rest of Indiana all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across the state:
 
 - Income reporting mismatches, when a 1099 or W-2 filed by a payer doesn't match what shows up on your return
 - Payroll tax discrepancies, common in practices with multiple staff, contractors, or shift-based employees
