@@ -34,7 +34,7 @@ The Accord Advisors team functions as your accounting department: bookkeeping, r
 
 Most business owners don't need more data. They need the right numbers, delivered on time, in a format that answers the question that actually keeps them up at night: how did we do last month? Accord Advisors builds monthly reporting around that question, with dashboards that show revenue trends, expense patterns, and the non-financial metrics that matter to your specific practice or business.
 
-There's no digging through spreadsheets or waiting until tax season to find out whether a decision paid off. Reports arrive on a set schedule through the same secure portal used for document sharing, so financial performance is something you check, not something you chase. Owners in Bloomington and across Indianapolis use this rhythm to plan staffing, spending, and growth with information that's current rather than three months stale.
+There's no digging through spreadsheets or waiting until tax season to find out whether a decision paid off. Reports arrive on a set schedule through the same secure portal used for document sharing, so financial performance is something you check, not something you chase. Optometrists in Bloomington, dental practices in Avon, medical professionals in Indianapolis, and service businesses and churches across Indiana use this rhythm to plan staffing, spending, and growth with information that's current rather than three months stale.
 
 <!-- block: content-split | variant: image-right | image: optometry-practice-accounting.jpg | alt: "Optometrist consulting with practice manager over financial documents" | query: "optometrist practice manager consultation" -->
 ## Built for optometrists, dentists, and medical professionals
