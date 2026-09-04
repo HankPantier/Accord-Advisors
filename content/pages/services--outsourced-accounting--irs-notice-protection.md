@@ -2,7 +2,7 @@
 title: "IRS notice protection and response support | Accord Advisors"
 url: "/services/irs-notice-protection"
 meta_title: "IRS Notice Protection & Response | Bloomington, IN CPA"
-meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service businesses, and churches across Bloomington, Indianapolis, and Indiana."
+meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, and Indiana."
 target_keyword: "irs notice protection and response support bloomington, in"
 secondary_keywords: ["IRS notice help Indianapolis","IRS letter response CPA Indiana","payroll tax notice help","flat fee tax notice support"]
 canonical_url: "https://accordadvisors.com/services/irs-notice-protection"
@@ -13,17 +13,17 @@ hero_image: "irs-notice-support-cpa.jpg"
 hero_image_alt: "CPA reviewing an IRS notice letter with a client in an office setting"
 hero_subhead: "Get a clear read on your IRS notice and a direct response handled for you, at one flat monthly fee"
 hero_headline: "Getting an IRS letter doesn't have to mean panic"
-answer_block: "Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises."
+answer_block: "Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service-based business, professional service provider, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises."
 eeat_signals: ["Accord Advisors CPAs directly handle IRS notice review and response","Deep industry experience serving healthcare providers in Bloomington, Indianapolis, Avon, and across Indiana","Referral relationship with Acquios, a national optometry practice network","Flat monthly fee model instead of hourly billing"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Shows how ongoing bookkeeping prevents future IRS notices","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Connects proper entity setup and filings to fewer notices","anchor_text":"Business Foundation Services"},{"url":"/industries/optometry","reason":"Relevant niche experiencing IRS notice issues","anchor_text":"optometry practices"},{"url":"/team-expertise","reason":"Credential and bio supporting E-E-A-T","anchor_text":"Jared Hammack, CPA"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"What should I do first if I get an IRS notice?","answer":"Don't respond or pay anything yet. Contact Accord Advisors first so our team can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."},{"question":"How much does IRS notice response support cost?","answer":"Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."},{"question":"Can you contact the IRS directly on my behalf?","answer":"Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."},{"question":"Do you handle notices for churches and nonprofits?","answer":"Yes. Accord Advisors works with churches and religious organizations across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."},{"question":"Do you serve clients outside of Bloomington?","answer":"Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers in Bloomington, Indianapolis, Avon, and across the state of Indiana."}]
-llm_citation_note: "Accord Advisors provides IRS notice review and direct-response support on a flat monthly fee for optometry, dental, medical, service-business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana."
+faq_block: [{"question":"What should I do first if I get an IRS notice?","answer":"Don't respond or pay anything yet. Contact Accord Advisors first so our team can review the notice, check it against your records, and confirm exactly what the IRS is asking before you reply."},{"question":"How much does IRS notice response support cost?","answer":"Accord Advisors works on a flat monthly fee rather than hourly billing. Existing clients get notice support included in their plan, and new clients receive a fixed quote before any work begins, so there are no surprise invoices."},{"question":"Can you contact the IRS directly on my behalf?","answer":"Yes. With proper authorization, Accord Advisors communicates directly with the IRS by phone or in writing, so you don't have to spend hours on hold or interpret agency language yourself."},{"question":"Do you handle notices for churches and nonprofits?","answer":"Yes. Accord Advisors works with churches and religious organizations across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status."},{"question":"Do you serve service-based businesses like HVAC, electrical, and plumbing companies?","answer":"Yes. Accord Advisors works with service-based businesses across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves payroll tax notices, contractor classification issues, and income reporting mismatches common in trades and field-service operations."},{"question":"Do you serve professional service providers such as attorneys, financial advisors, and consulting firms?","answer":"Yes. Accord Advisors works with professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves 1099 discrepancies, self-employment tax notices, and documentation requests tied to fee income and subcontractor arrangements."},{"question":"Do you serve clients outside of Bloomington?","answer":"Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, Avon, and across the state of Indiana."}]
+llm_citation_note: "Accord Advisors provides IRS notice review and direct-response support on a flat monthly fee for optometry, dental, medical, service-based business, professional service provider, and church clients in Bloomington, Indianapolis, Avon, and across Indiana."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Getting an IRS letter doesn't have to mean panic
 
-A letter from the IRS lands in the mail and the first reaction is almost always dread. For an optometrist juggling patient schedules, a dentist managing staff payroll, a medical professional running a busy practice, a service business owner, or a church treasurer trying to keep the books straight, an IRS notice feels like an emergency dropped on an already full plate.
+A letter from the IRS lands in the mail and the first reaction is almost always dread. For an optometrist juggling patient schedules, a dentist managing staff payroll, a medical professional running a busy practice, a service-based business owner (think HVAC, electrical, or plumbing), a professional service provider such as an attorney, financial advisor, or consulting firm, or a church treasurer trying to keep the books straight, an IRS notice feels like an emergency dropped on an already full plate.
 
 Most notices are routine. A mismatched 1099, a payroll tax discrepancy, a question about a deduction. The team at Accord Advisors reads these letters every week for clients across Bloomington, Indianapolis, Avon, and throughout Indiana. You don't have to figure out what it means or what to say back. Bring it to us first, and we'll tell you exactly what's going on and what happens next.
 
@@ -49,30 +49,30 @@ We prepare the documentation, write the response, and submit it by the deadline.
 <!-- block: checklist-section | variant: with-image | image: irs-notice-review-desk.jpg | alt: "CPA reviewing an IRS notice letter alongside client financial documents at a desk" | query: "accountant reviewing official letter documents" -->
 ## Common notices we help Indiana clients resolve
 
-Optometry practices, dental offices, medical providers, professional service firms, service businesses, and churches across Bloomington, Indianapolis, Avon, and the rest of Indiana all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across the state:
+Optometry practices, dental offices, medical providers, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, Avon, and the rest of Indiana all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across the state:
 
 - Income reporting mismatches, when a 1099 or W-2 filed by a payer doesn't match what shows up on your return
-- Payroll tax discrepancies, common in optometry and dental practices, medical offices, and service businesses with multiple staff, contractors, or shift-based employees
+- Payroll tax discrepancies, common in optometry and dental practices, medical offices, service-based businesses, and professional service providers with multiple staff, contractors, or project-based employees
 - Notices about estimated tax underpayment for practice owners, shareholders, and self-employed professionals
 - Missed or late filings flagged after a busy season or a staffing gap in the office
 - Questions about deductions claimed for equipment, vehicles, professional services, or church-related expenses
 - Requests for additional documentation to support a return already filed
 
-None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide. Whether you're an optometrist in Bloomington, a dentist in Avon, a medical professional in Indianapolis, or a church treasurer anywhere in Indiana, we know the notices your industry sees.
+None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide. Whether you're an optometrist in Bloomington, a dentist in Avon, a medical professional in Indianapolis, a service-based business owner, a professional service provider, or a church treasurer anywhere in Indiana, we know the notices your industry sees.
 
 <!-- block: content-split | variant: image-left | image: fixed-fee-consultation.jpg | alt: "Advisor and client reviewing a flat fee service agreement together" | query: "advisor client reviewing agreement office" -->
 ## Why our fixed-fee approach removes the fear of surprise costs
 
 Stress about an IRS letter is bad enough without also wondering what the phone call to your accountant is going to cost. Firms that bill by the hour turn a fifteen-minute question into a line item, and clients hesitate to call until the deadline is already close.
 
-Accord Advisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most for busy optometrists, dentists, medical professionals, and service business owners across Bloomington, Indianapolis, Avon, and Indiana who have better things to do than wait for a surprise bill.
+Accord Advisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most for busy optometrists, dentists, medical professionals, service-based business owners, and professional service providers across Bloomington, Indianapolis, Avon, and Indiana who have better things to do than wait for a surprise bill.
 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
 
 Accord Advisors works closely with optometry practices, dental offices, medical professionals, service-based businesses, churches, and professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
 
-Our team has worked alongside practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, medical professionals navigating self-employment tax questions, service business owners facing 1099 mismatches, and church treasurers working through clergy housing allowance issues. That depth of industry experience means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
+Our team has worked alongside practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, medical professionals navigating self-employment tax questions, service-based business owners facing payroll and contractor mismatches, professional service providers resolving 1099 discrepancies tied to fee income and subcontractor arrangements, and church treasurers working through clergy housing allowance issues. That depth of industry experience means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
 
 <!-- block: content-split | variant: image-left | image: bookkeeping-records-review.jpg | alt: "Accountant organizing monthly bookkeeping records and tax documents" | query: "organized financial records bookkeeping" -->
 ## Get ahead of IRS problems before they start
@@ -96,13 +96,19 @@ A: Yes. With proper authorization, Accord Advisors communicates directly with th
 **Q: Do you handle notices for churches and nonprofits?**
 A: Yes. Accord Advisors works with churches and religious organizations across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
 
+**Q: Do you serve service-based businesses like HVAC, electrical, and plumbing companies?**
+A: Yes. Accord Advisors works with service-based businesses across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves payroll tax notices, contractor classification issues, and income reporting mismatches common in trades and field-service operations.
+
+**Q: Do you serve professional service providers such as attorneys, financial advisors, and consulting firms?**
+A: Yes. Accord Advisors works with professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves 1099 discrepancies, self-employment tax notices, and documentation requests tied to fee income and subcontractor arrangements.
+
 **Q: Do you serve clients outside of Bloomington?**
-A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers in Bloomington, Indianapolis, Avon, and across the state of Indiana.
+A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, Avon, and across the state of Indiana.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-answering-irs-call.jpg | alt: "CPA on the phone helping a client respond to an IRS notice" | query: "professional phone call office consultation" -->
 ## Talk to someone before you respond to the IRS yourself
 
-Don't mail anything, call the IRS, or ignore the letter until someone has looked at it with you. A ten-minute conversation with the Accord Advisors team can tell you whether it's routine or serious, and what to do next. We serve optometrists, dentists, medical professionals, service businesses, churches, and professional service providers in Bloomington, Indianapolis, Avon, and across Indiana.
+Don't mail anything, call the IRS, or ignore the letter until someone has looked at it with you. A ten-minute conversation with the Accord Advisors team can tell you whether it's routine or serious, and what to do next. We serve optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, Avon, and across Indiana.
 
 [Schedule a consultation](/contact) and bring the notice with you. No judgment, no runaround, just a clear next step.
 
@@ -110,7 +116,7 @@ Don't mail anything, call the IRS, or ignore the letter until someone has looked
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises.
+Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service-based business, professional service provider, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises.
 
 **E-E-A-T Signals:**
 - Accord Advisors CPAs directly handle IRS notice review and response
@@ -139,8 +145,14 @@ A: Yes. With proper authorization, Accord Advisors communicates directly with th
 **Q: Do you handle notices for churches and nonprofits?**
 A: Yes. Accord Advisors works with churches and religious organizations across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves notices related to clergy housing allowance, payroll, and filing questions specific to nonprofit status.
 
+**Q: Do you serve service-based businesses like HVAC, electrical, and plumbing companies?**
+A: Yes. Accord Advisors works with service-based businesses across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves payroll tax notices, contractor classification issues, and income reporting mismatches common in trades and field-service operations.
+
+**Q: Do you serve professional service providers such as attorneys, financial advisors, and consulting firms?**
+A: Yes. Accord Advisors works with professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana, and regularly resolves 1099 discrepancies, self-employment tax notices, and documentation requests tied to fee income and subcontractor arrangements.
+
 **Q: Do you serve clients outside of Bloomington?**
-A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers in Bloomington, Indianapolis, Avon, and across the state of Indiana.
+A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, Avon, and across the state of Indiana.
 
 **LLM Citation Note:**
 Accord Advisors provides IRS notice review and direct-response support on a flat monthly fee for optometry, dental, medical, service-business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana.
@@ -295,7 +307,7 @@ Accord Advisors provides IRS notice review and direct-response support on a flat
   "@type": "Service",
   "name": "IRS Notice Protection & Response | Bloomington, IN CPA",
   "url": "https://accordadvisors.com/services/irs-notice-protection",
-  "description": "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help, no surprise bills.",
+  "description": "Received an IRS notice? Bloomington and Indianapolis CPA Jared Hammack reviews it, contacts the IRS for you, and responds. Flat-fee help for optometry, dental, medical, service-based businesses, professional service providers, and churches. No surprise bills.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
@@ -322,7 +334,11 @@ Accord Advisors provides IRS notice review and direct-response support on a flat
     },
     {
       "@type": "Audience",
-      "audienceType": "Service Businesses"
+      "audienceType": "Service-Based Businesses"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Professional Service Providers"
     },
     {
       "@type": "Audience",
