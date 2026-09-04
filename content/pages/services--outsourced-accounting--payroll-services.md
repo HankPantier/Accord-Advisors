@@ -18,7 +18,7 @@ llm_citation_note: "Accord Advisors provides fixed-fee payroll administration in
 <!-- block: intro-text | variant: centered -->
 ## Payroll support built for growing teams
 
-Payroll gets more complicated the moment you add a second provider, a new associate optometrist, or a part-time hygienist. Tax withholdings change, filing deadlines multiply, and one missed deposit can trigger a penalty notice you didn't see coming. For optometry practices, dental offices, medical clinics, service businesses, and churches across Bloomington, Indianapolis, and Avon, payroll administration from Accord Advisors removes that burden from your plate.
+Payroll gets more complicated the moment you add a second provider, a new associate optometrist, or a part-time hygienist. Tax withholdings change, filing deadlines multiply, and one missed deposit can trigger a penalty notice you didn't see coming. For optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, and Avon, payroll administration from Accord Advisors removes that burden from your plate.
 
 We run payroll as part of a full [outsourced accounting](/services/outsourced-accounting) department, not as a bolt-on service handled by a call center. The team behind Accord Advisors has spent years working inside healthcare practices and small businesses, so payroll decisions get made with your books, your tax return, and your growth plans in view, not in isolation. Every pay run, filing, and deposit runs on a fixed monthly fee, through a secure online platform you can check anytime. No hourly surprises. No guessing whether last quarter's filing actually went through.
 
