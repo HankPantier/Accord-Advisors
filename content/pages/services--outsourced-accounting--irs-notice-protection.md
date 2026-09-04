@@ -99,7 +99,7 @@ A: Yes. Accord Advisors works with churches and religious organizations across B
 <!-- block: cta-banner | variant: image-bg | image: cpa-answering-irs-call.jpg | alt: "CPA on the phone helping a client respond to an IRS notice" | query: "professional phone call office consultation" -->
 ## Talk to someone before you respond to the IRS yourself
 
-Don't mail anything, call the IRS, or ignore the letter until someone has looked at it with you. A ten-minute conversation with Jared Hammack, CPA, can tell you whether it's routine or serious, and what to do next.
+Don't mail anything, call the IRS, or ignore the letter until someone has looked at it with you. A ten-minute conversation with the Accord Advisors team can tell you whether it's routine or serious, and what to do next. We serve optometrists, dentists, medical professionals, service businesses, churches, and professional service providers in Bloomington, Indianapolis, Avon, and across Indiana.
 
 [Schedule a consultation](/contact) and bring the notice with you. No judgment, no runaround, just a clear next step.
 
