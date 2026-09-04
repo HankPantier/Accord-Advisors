@@ -46,7 +46,7 @@ Healthcare accounting has its own rules: reimbursement timing, insurance receiva
 <!-- block: content-split | variant: image-left | image: church-service-business-accounting.jpg | alt: "Church administrator and small business owner reviewing financial reports together" | query: "church administrator financial meeting" -->
 ## Trusted by service businesses and churches too
 
-Healthcare isn't the only client base that needs a steady hand on the books. [Service-based businesses](/industries/service-businesses) and professional service providers across Bloomington, Avon, Indianapolis, and Indiana rely on Accord Advisors for the same fixed-fee, advisor-led model: monthly financials, cash flow visibility, and someone to call before a big equipment purchase or hiring decision instead of after.
+Healthcare isn't the only client base that needs a steady hand on the books. [Service-based businesses](/industries/service-businesses) and [professional service providers](/industries/professional-services) across Bloomington, Avon, Indianapolis, and Indiana rely on Accord Advisors for the same fixed-fee, advisor-led model: monthly financials, cash flow visibility, and someone to call before a big equipment purchase or hiring decision instead of after.
 
 [Churches and religious organizations](/industries/churches) across Indiana work with Accord Advisors for a different reason but the same outcome. Fund accounting, donor reporting, and board oversight all require accuracy and discretion, and a fixed monthly fee means a congregation's finance committee always knows what the relationship costs. The approach doesn't change by industry. The reporting does.
 
