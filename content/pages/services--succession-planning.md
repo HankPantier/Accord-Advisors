@@ -2,7 +2,7 @@
 title: "Succession planning for business owners | Accord Advisors"
 url: "/services/succession-planning"
 meta_title: "Succession Planning for Business Owners in Bloomington, IN"
-meta_description: "CPA-led succession planning for Bloomington and Indianapolis business owners, optometry and dental practices, service businesses, and churches. Fixed monthly fees, no surprises."
+meta_description: "CPA-led succession planning for optometrists, dentists, medical professionals, service businesses, and churches in Bloomington, Avon, Indianapolis, and across Indiana. Fixed monthly fees, no surprises."
 target_keyword: "succession planning for business owners bloomington, in"
 secondary_keywords: ["business succession planning Indiana","exit planning for business owners","succession planning for optometry practices","CPA succession planning Bloomington","business transition planning Indianapolis"]
 canonical_url: "https://accordadvisors.com/services/succession-planning"
