@@ -116,7 +116,7 @@ Don't mail anything, call the IRS, or ignore the letter until someone has looked
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises.
+Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service-based business, professional service provider, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises.
 
 **E-E-A-T Signals:**
 - Accord Advisors CPAs directly handle IRS notice review and response
