@@ -65,9 +65,9 @@ Jared Hammack, CPA, leads tax planning for individuals alongside the firm's outs
 <!-- block: stats-bar | variant: 3-up -->
 ## Serving individuals in Bloomington and Indianapolis
 
-Accord Advisors has advised Indiana individuals and business owners for close to 40 years, with particular depth in healthcare and optometry practices. Bloomington is home base, and Indianapolis is a core part of who we serve, not an afterthought.
+Accord Advisors has advised Indiana individuals and business owners for decades, with particular depth in healthcare and optometry practices. Bloomington is home base, and Indianapolis is a core part of who we serve, not an afterthought.
 
-- 40 years: nearly four decades advising Indiana individuals and practice owners
+- Deep experience: decades advising Indiana individuals and practice owners
 - 2 cities: Bloomington and Indianapolis clients served directly
 - 1 advisor: personal and business tax handled by the same CPA relationship
 
