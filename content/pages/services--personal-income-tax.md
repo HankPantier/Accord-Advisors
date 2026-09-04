@@ -104,8 +104,8 @@ Schedule a consultation and let's look at your full picture together, not just t
 Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals in Bloomington and Indianapolis, Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA leads personal tax planning
-- Nearly 40 years serving Indiana individuals and healthcare providers
+- CPA-led personal tax planning
+- Deep experience serving Indiana individuals and healthcare providers
 - Fixed monthly fee pricing model, not hourly billing
 - Secure online client portal for document exchange
 - Coordinated personal and business tax preparation under one advisor
