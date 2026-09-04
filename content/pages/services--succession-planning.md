@@ -30,9 +30,9 @@ Selling a business, retiring, or handing the reins to a family member rarely hap
 Succession planning gives you a roadmap instead of a scramble. Accord Advisors works through the numbers early: what your practice or business is worth today, what it could be worth with cleaner financial reporting, and what a buyer, partner, or successor will actually want to see. Our CPA-led team builds that groundwork inside your existing outsourced accounting relationship, so the reporting you already rely on becomes the same data that supports a well-documented exit.
 
 <!-- block: checklist-section | variant: with-image-left | image: indiana-small-business-meeting.jpg | alt: "Small business owners meeting with financial advisor in a conference room" | query: "small business meeting financial planning" -->
-## Why succession planning matters for local business owners
+## Why succession planning matters for Indiana business owners and practice owners
 
-Business owners in Bloomington and across the Indianapolis area often put succession planning off until a health scare, an unsolicited offer, or a family disagreement forces the issue. By then, options narrow considerably.
+Optometrists, dentists, medical professionals, service business owners, and church leaders across Bloomington, Avon, Indianapolis, and Indiana often put succession planning off until a health scare, an unsolicited offer, or a family disagreement forces the issue. By then, options narrow considerably.
 
 Waiting carries specific costs:
 
