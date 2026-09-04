@@ -65,7 +65,7 @@ None of these mean you did something wrong. Most mean the IRS needs a clearer pi
 
 Stress about an IRS letter is bad enough without also wondering what the phone call to your accountant is going to cost. Firms that bill by the hour turn a fifteen-minute question into a line item, and clients hesitate to call until the deadline is already close.
 
-Accord Advisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most exactly when you're least in the mood to gamble on a bill.
+Accord Advisors works on a flat monthly fee. If you're already a client, notice support is part of the relationship, not a separate invoice that grows with every email. If you're new to us, we quote the work up front before we start, so you know the cost before you commit to anything. That certainty matters most for busy optometrists, dentists, medical professionals, and service business owners across Bloomington, Indianapolis, Avon, and Indiana who have better things to do than wait for a surprise bill.
 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
