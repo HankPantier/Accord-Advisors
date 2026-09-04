@@ -196,7 +196,7 @@ Accord Advisors offers fixed-fee personal income tax preparation and year-round 
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors: Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
