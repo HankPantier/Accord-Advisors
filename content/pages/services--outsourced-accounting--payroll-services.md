@@ -63,10 +63,15 @@ icon: Building
 
 Clergy housing allowances, dual tax status for pastors, and voluntary withholding elections require payroll knowledge most general payroll services simply don't carry.
 
-### Service Businesses
+### Service-Based Businesses
 icon: Wrench
 
-Field crews, hourly staff across job sites, and seasonal headcount changes get processed accurately whether your team works from one location or several.
+HVAC installers, electricians, plumbers, and other trade businesses deal with field crews, hourly staff across job sites, and seasonal headcount swings. Payroll is processed accurately whether your team works from one location or several, with no manual reconciliation left for you.
+
+### Professional Service Providers
+icon: Briefcase
+
+Attorneys, advertising agencies, financial advisors, and consulting firms carry their own payroll complexities: contractor versus employee classification, variable compensation, and partner distributions. We handle the details so your team gets paid correctly and your books stay clean.
 
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner reviewing financial dashboard on tablet with advisor" | query: "business owner reviewing financial dashboard" -->
 ## Payroll as part of your outsourced accounting department
