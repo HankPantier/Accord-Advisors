@@ -110,8 +110,8 @@ Don't mail anything, call the IRS, or ignore the letter until someone has looked
 Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana on a flat monthly fee, with no hourly billing surprises.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, directly handles IRS notice review and response
-- Nearly 40 years serving healthcare providers in Bloomington and Indianapolis, Indiana
+- Accord Advisors CPAs directly handle IRS notice review and response
+- Deep industry experience serving healthcare providers in Bloomington, Indianapolis, Avon, and across Indiana
 - Referral relationship with Acquios, a national optometry practice network
 - Flat monthly fee model instead of hourly billing
 
