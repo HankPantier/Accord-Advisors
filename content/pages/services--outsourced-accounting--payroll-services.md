@@ -46,7 +46,7 @@ Everything runs through a secure online platform where you and your practice man
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Industry knowledge that keeps payroll compliant
 
-Payroll rules shift depending on what kind of organization you run. Years of experience serving [optometry practices](/industries/optometry), [medical professionals](/industries/medical-professionals), dental offices, [churches](/industries/churches), and service businesses means we've already worked through the edge cases most payroll providers haven't seen.
+Payroll rules shift depending on what kind of organization you run. Years of experience serving [optometry practices](/industries/optometry), [medical professionals](/industries/medical-professionals), dental offices, [churches](/industries/churches), [service-based businesses](/industries/service-businesses), and [professional service providers](/industries/professional-services) means we've already worked through the edge cases most payroll providers haven't seen.
 
 ### Optometry and Medical Practices
 icon: Stethoscope
