@@ -52,7 +52,7 @@ We prepare the documentation, write the response, and submit it by the deadline.
 Optometry practices, dental offices, medical providers, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, Avon, and the rest of Indiana all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across the state:
 
 - Income reporting mismatches, when a 1099 or W-2 filed by a payer doesn't match what shows up on your return
-- Payroll tax discrepancies, common in optometry and dental practices, medical offices, and service businesses with multiple staff, contractors, or shift-based employees
+- Payroll tax discrepancies, common in optometry and dental practices, medical offices, service-based businesses, and professional service providers with multiple staff, contractors, or project-based employees
 - Notices about estimated tax underpayment for practice owners, shareholders, and self-employed professionals
 - Missed or late filings flagged after a busy season or a staffing gap in the office
 - Questions about deductions claimed for equipment, vehicles, professional services, or church-related expenses
