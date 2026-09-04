@@ -52,13 +52,13 @@ We prepare the documentation, write the response, and submit it by the deadline.
 Optometry practices, dental offices, medical providers, professional service firms, service businesses, and churches across Bloomington, Indianapolis, Avon, and the rest of Indiana all tend to run into a handful of recurring IRS notices. We've handled these repeatedly for clients across the state:
 
 - Income reporting mismatches, when a 1099 or W-2 filed by a payer doesn't match what shows up on your return
-- Payroll tax discrepancies, common in practices with multiple staff, contractors, or shift-based employees
-- Notices about estimated tax underpayment for practice owners and shareholders
+- Payroll tax discrepancies, common in optometry and dental practices, medical offices, and service businesses with multiple staff, contractors, or shift-based employees
+- Notices about estimated tax underpayment for practice owners, shareholders, and self-employed professionals
 - Missed or late filings flagged after a busy season or a staffing gap in the office
-- Questions about deductions claimed for equipment, vehicles, or church-related expenses
+- Questions about deductions claimed for equipment, vehicles, professional services, or church-related expenses
 - Requests for additional documentation to support a return already filed
 
-None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide.
+None of these mean you did something wrong. Most mean the IRS needs a clearer picture, and that's exactly what we provide. Whether you're an optometrist in Bloomington, a dentist in Avon, a medical professional in Indianapolis, or a church treasurer anywhere in Indiana, we know the notices your industry sees.
 
 <!-- block: content-split | variant: image-left | image: fixed-fee-consultation.jpg | alt: "Advisor and client reviewing a flat fee service agreement together" | query: "advisor client reviewing agreement office" -->
 ## Why our fixed-fee approach removes the fear of surprise costs
