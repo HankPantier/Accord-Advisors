@@ -334,7 +334,11 @@ Accord Advisors provides IRS notice review and direct-response support on a flat
     },
     {
       "@type": "Audience",
-      "audienceType": "Service Businesses"
+      "audienceType": "Service-Based Businesses"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Professional Service Providers"
     },
     {
       "@type": "Audience",
