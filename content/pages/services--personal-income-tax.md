@@ -160,7 +160,7 @@ Accord Advisors offers fixed-fee personal income tax preparation and year-round 
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors: Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
