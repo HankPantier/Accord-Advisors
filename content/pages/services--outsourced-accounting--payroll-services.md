@@ -2,7 +2,7 @@
 title: "Payroll administration for growing businesses | Accord Advisors"
 url: "/services/payroll-services"
 meta_title: "Payroll Administration Services | Bloomington, IN CPA"
-meta_description: "Payroll processing and tax filings for optometry, dental, medical, and service businesses in Bloomington, IN. Fixed fees, secure platform, CPA-backed."
+meta_description: "Payroll processing and tax filings for optometry, dental, medical, service businesses, and professional service providers in Bloomington, IN. Fixed fees, secure platform, CPA-backed."
 target_keyword: "payroll administration for growing businesses Bloomington, IN"
 secondary_keywords: ["payroll services Bloomington Indiana","outsourced payroll administration","payroll for medical and dental practices","payroll compliance Indianapolis"]
 canonical_url: "https://accordadvisors.com/services/payroll-services"
