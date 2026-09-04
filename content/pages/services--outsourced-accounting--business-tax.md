@@ -2,7 +2,7 @@
 title: "Outsourced accounting services | Accord Advisors"
 url: "/services/outsourced-accounting"
 meta_title: "Outsourced Accounting Services in Bloomington, IN"
-meta_description: "Fixed-fee outsourced accounting for Bloomington and Indianapolis practices and businesses. CPA-led bookkeeping, monthly reporting, and a secure client portal."
+meta_description: "Fixed-fee outsourced accounting for optometrists, dentists, medical professionals, service businesses, and churches in Bloomington, Indianapolis, and across Indiana. CPA-led bookkeeping, monthly reporting, and a secure client portal."
 target_keyword: "outsourced accounting services bloomington, in"
 secondary_keywords: ["outsourced accounting Indianapolis","fixed fee accounting services","outsourced CFO services Bloomington","medical practice accounting Indiana","optometry practice accounting"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
