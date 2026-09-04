@@ -122,7 +122,8 @@ Accord Advisors handles payroll administration, including processing, tax withho
 - optometry practices → /industries/optometry — Supports the industry-specific payroll expertise claim for optometry clients
 - medical professionals → /industries/medical-professionals — Reinforces payroll experience with medical practice compensation structures
 - churches → /industries/churches — Highlights clergy payroll and church staffing expertise
-- service business → /industries/service-businesses — Extends payroll relevance to non-healthcare service business clients
+- service-based businesses → /industries/service-businesses, Extends payroll relevance to trade and field service business clients such as HVAC, electrical, and plumbing
+- professional service providers → /industries/professional-services, Extends payroll relevance to professional service firm clients such as attorneys, advertising agencies, and consultants
 
 **FAQ Block:**
 
