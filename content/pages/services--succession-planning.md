@@ -41,7 +41,7 @@ Waiting carries specific costs:
 - Family or partner disputes over ownership percentages, compensation, or timing that stall a transition indefinitely
 - Client or patient relationships that erode during a rushed, poorly communicated handoff
 
-Indiana practices and service businesses that start the conversation five to ten years before a planned exit generally negotiate from a position of strength, not urgency.
+Optometry and dental practices, medical offices, service firms, and churches across Indiana that start the conversation five to ten years before a planned exit generally negotiate from a position of strength, not urgency.
 
 <!-- block: process-steps | variant: vertical -->
 ## Our approach to succession readiness
