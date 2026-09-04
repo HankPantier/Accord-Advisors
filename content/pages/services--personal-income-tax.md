@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee personal income tax prepara
 <!-- block: intro-text | variant: centered -->
 ## Personal tax help that goes beyond filing a return
 
-For most people, taxes are a once-a-year scramble: gather the documents, drop them off somewhere, sign what you're handed, and hope for the best. That works fine if your financial life is simple. It works less well if you own a practice, run a service business, or make decisions today that carry tax consequences three years from now.
+For most people, taxes are a once-a-year scramble: gather the documents, drop them off somewhere, sign what you're handed, and hope for the best. That works fine if your financial life is simple. It works less well if you own a practice, run a service business, or make decisions today that carry tax consequences three years down the road.
 
 Accord Advisors treats personal income tax preparation as a year-round relationship, not a spring transaction. Clients in Bloomington and Indianapolis bring us questions in July about a home sale, in October about a retirement account, in January about a bonus. We're already thinking about next year's return while we finish this year's. That's a different posture than a seasonal storefront preparer can offer, and it's the one we take with every individual client on our books.
 
