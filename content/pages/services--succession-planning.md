@@ -69,11 +69,11 @@ Transitioning an optometry, dental, or medical practice carries a layer of compl
 Accord Advisors has worked deep inside healthcare financial reporting, and that expertise shapes how we prepare a practice for sale or internal transfer. We serve optometrists, dentists, and medical professionals across Bloomington, Avon, Indianapolis, and throughout Indiana. We help structure associate buy-in terms, model the cash flow impact of a phased retirement, and organize the financial statements that buyers and incoming partners, including groups referred through platforms like Acquios, expect to see before making an offer.
 
 <!-- block: content-split | variant: image-right | image: church-service-business-leadership.jpg | alt: "Church finance committee and service business owner in a planning meeting" | query: "nonprofit church finance meeting" -->
-## Succession planning for service businesses and churches
+## Succession planning for service businesses, professional service providers, and churches
 
-Service businesses and religious organizations face a different kind of succession problem: leadership transition often matters as much as ownership transfer. A contracting or consulting firm needs financial continuity when a founder steps back, including documented processes for billing, payroll, and vendor relationships that don't live in one person's head.
+Service businesses, professional service providers, and religious organizations across Indiana face a different kind of succession problem: leadership transition often matters as much as ownership transfer. A contracting, consulting, or professional services firm needs financial continuity when a founder steps back, including documented processes for billing, payroll, and vendor relationships that don't live in one person's head.
 
-Churches and religious organizations face their own version of this challenge when a longtime administrator, treasurer, or pastor with financial oversight moves on. We help boards and finance committees document giving records, reserve policies, and reporting practices so continuity survives a leadership change, not just an ownership one.
+Churches and religious organizations face their own version of this challenge when a longtime administrator, treasurer, or pastor with financial oversight moves on. We help boards and finance committees across Bloomington, Avon, Indianapolis, and Indiana document giving records, reserve policies, and reporting practices so continuity survives a leadership change, not just an ownership one.
 
 <!-- block: content-prose -->
 ## How we work with your attorney and financial advisors
