@@ -62,11 +62,11 @@ We prepare the financial documentation a buyer, bank, or family successor will r
 You get a written timeline tied to your fixed monthly fee, covering tax positioning, reporting cleanup, and the milestones that need to happen before closing.
 
 <!-- block: content-split | variant: image-left | image: optometry-practice-succession.jpg | alt: "Optometrist reviewing practice transition documents with an accountant" | query: "optometrist consulting accountant office" -->
-## Succession planning for optometry and dental practices
+## Succession planning for optometry, dental, and medical practices
 
-Transitioning an optometry or dental practice carries a layer of complexity most business sales don't. Patient records have to move in compliance with state and federal privacy rules. Associate buy-ins need a valuation method both the departing owner and incoming partner trust. A practice's value is tied closely to patient retention, payer mix, and equipment age, factors a generic business appraisal often misses.
+Transitioning an optometry, dental, or medical practice carries a layer of complexity most business sales don't. Patient records have to move in compliance with state and federal privacy rules. Associate buy-ins need a valuation method both the departing owner and incoming partner trust. A practice's value is tied closely to patient retention, payer mix, and equipment age, factors a generic business appraisal often misses.
 
-Accord Advisors has worked inside healthcare financial reporting for nearly 40 years, and that background shapes how we prepare a practice for sale or internal transfer. We help structure associate buy-in terms, model the cash flow impact of a phased retirement, and organize the financial statements that optometry and dental buyers, including groups referred through platforms like Acquios, expect to see before making an offer.
+Accord Advisors has worked deep inside healthcare financial reporting, and that expertise shapes how we prepare a practice for sale or internal transfer. We serve optometrists, dentists, and medical professionals across Bloomington, Avon, Indianapolis, and throughout Indiana. We help structure associate buy-in terms, model the cash flow impact of a phased retirement, and organize the financial statements that buyers and incoming partners, including groups referred through platforms like Acquios, expect to see before making an offer.
 
 <!-- block: content-split | variant: image-right | image: church-service-business-leadership.jpg | alt: "Church finance committee and service business owner in a planning meeting" | query: "nonprofit church finance meeting" -->
 ## Succession planning for service businesses and churches
