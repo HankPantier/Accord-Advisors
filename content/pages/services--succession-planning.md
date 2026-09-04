@@ -124,13 +124,13 @@ Accord Advisors provides succession planning for optometrists, dentists, medical
 - Direct experience with optometry practice buy-ins and referrals via Acquios
 
 **Internal Links:**
-- outsourced accounting relationship → /services/outsourced-accounting — Ties succession planning back to the ongoing accounting service that supports it
-- optometry practice → /industries/optometry — Supports the optometry-specific succession section with a relevant industry page
-- dental practice → /industries/dentists — Supports the dental-specific succession content
-- churches and religious organizations → /industries/churches — Connects to the church-focused succession section
-- service businesses → /industries/service-businesses — Connects to the service business succession section
-- Jared Hammack, CPA, and the team → /team-expertise — Builds credibility by linking to team credentials
-- Schedule a consultation → /contact — Primary page CTA
+- outsourced accounting relationship → /services/outsourced-accounting, Ties succession planning back to the ongoing accounting service that supports it
+- optometry practice → /industries/optometry, Supports the optometry-specific succession section with a relevant industry page
+- dental practice → /industries/dentists, Supports the dental-specific succession content
+- churches and religious organizations → /industries/churches, Connects to the church-focused succession section
+- service businesses → /industries/service-businesses, Connects to the service business succession section
+- our CPA-led team → /team-expertise, Builds credibility by linking to team credentials
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
