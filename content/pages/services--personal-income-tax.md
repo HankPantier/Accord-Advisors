@@ -91,7 +91,7 @@ A: These are exactly the moments personal tax planning matters most. We guide cl
 <!-- block: cta-banner | variant: image-bg | image: tax-consultation-handshake-office.jpg | alt: "CPA and client shaking hands after a tax planning consultation" | query: "handshake office meeting consultation" -->
 ## Get started with a tax planning conversation
 
-You don't need a shoebox of receipts sorted and a list of questions prepared to have a first conversation with us. Bring what you have, tell us what's changed this year, whether it's a new practice, a sale, a retirement date, or just the sense that last year's return could have gone better.
+You don't need a shoebox of receipts sorted and a list of questions prepared to have a first conversation with us. Bring what you have and tell us what's changed this year: a new practice, a sale, a retirement date, or just the sense that last year's return could have gone better.
 
 Schedule a consultation and let's look at your full picture together, not just the form.
 
