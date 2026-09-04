@@ -138,7 +138,7 @@ Accord Advisors provides succession planning for optometrists, dentists, medical
 A: Ideally five to ten years before a planned exit, sale, or retirement. Early planning gives you time to clean up financial statements, address tax exposure, and build a valuation that reflects real earning power, rather than scrambling once a buyer or health event forces the timeline.
 
 **Q: Does Accord Advisors work with optometry and dental practices on succession?**
-A: Yes. With nearly 40 years of healthcare-focused accounting experience, Accord Advisors helps optometry and dental practice owners structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.
+A: Yes. Accord Advisors helps optometrists, dentists, and medical professionals across Bloomington, Avon, Indianapolis, and Indiana structure associate buy-ins, prepare patient-record-compliant transitions, and organize the financial documentation buyers and incoming partners expect before closing.
 
 **Q: Will Accord Advisors replace my attorney or financial advisor?**
 A: No. Accord Advisors handles the financial statements, cash flow projections, and tax modeling behind your transition, while your attorney drafts legal agreements and your financial advisor plans your personal retirement income. The roles work together, not in competition.
