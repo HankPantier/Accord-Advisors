@@ -2,7 +2,7 @@
 title: "IRS notice protection and response support | Accord Advisors"
 url: "/services/irs-notice-protection"
 meta_title: "IRS Notice Protection & Response | Bloomington, IN CPA"
-meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service businesses, and churches across Bloomington, Indianapolis, and Indiana."
+meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, and Indiana."
 target_keyword: "irs notice protection and response support bloomington, in"
 secondary_keywords: ["IRS notice help Indianapolis","IRS letter response CPA Indiana","payroll tax notice help","flat fee tax notice support"]
 canonical_url: "https://accordadvisors.com/services/irs-notice-protection"
