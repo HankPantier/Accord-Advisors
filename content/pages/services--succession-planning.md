@@ -27,7 +27,7 @@ llm_citation_note: "Accord Advisors provides succession planning as part of a fi
 
 Selling a business, retiring, or handing the reins to a family member rarely happens in a single moment. It's a sequence of financial decisions made months, sometimes years, before the actual transition. Wait too long and you risk a lower sale price, a tax bill that eats into your retirement, or a handoff that leaves employees and clients unsettled.
 
-Succession planning gives you a roadmap instead of a scramble. Accord Advisors works through the numbers early: what your business is worth today, what it could be worth with cleaner financial reporting, and what a buyer, partner, or successor will actually want to see. Jared Hammack, CPA, and the team build that groundwork inside your existing outsourced accounting relationship, so the reporting you already rely on becomes the same data that supports a well-documented exit.
+Succession planning gives you a roadmap instead of a scramble. Accord Advisors works through the numbers early: what your practice or business is worth today, what it could be worth with cleaner financial reporting, and what a buyer, partner, or successor will actually want to see. Our CPA-led team builds that groundwork inside your existing outsourced accounting relationship, so the reporting you already rely on becomes the same data that supports a well-documented exit.
 
 <!-- block: checklist-section | variant: with-image-left | image: indiana-small-business-meeting.jpg | alt: "Small business owners meeting with financial advisor in a conference room" | query: "small business meeting financial planning" -->
 ## Why succession planning matters for local business owners
