@@ -70,9 +70,9 @@ Accord Advisors works on a flat monthly fee. If you're already a client, notice 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
 
-Accord Advisors has served healthcare providers for nearly 40 years, working closely with optometry practices, dental offices, and medical professionals across Bloomington and Indianapolis, Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
+Accord Advisors works closely with optometry practices, dental offices, medical professionals, service-based businesses, churches, and professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
 
-Jared Hammack, CPA, has sat across from practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, and church treasurers navigating clergy housing allowance questions. That history means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
+Our team has worked alongside practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, medical professionals navigating self-employment tax questions, service business owners facing 1099 mismatches, and church treasurers working through clergy housing allowance issues. That depth of industry experience means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
 
 <!-- block: content-split | variant: image-left | image: bookkeeping-records-review.jpg | alt: "Accountant organizing monthly bookkeeping records and tax documents" | query: "organized financial records bookkeeping" -->
 ## Get ahead of IRS problems before they start
