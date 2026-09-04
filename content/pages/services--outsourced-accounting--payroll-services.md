@@ -103,7 +103,7 @@ A: The transition is handled for you, including account setup on our secure onli
 
 Switching payroll providers mid-year sounds harder than it is. We handle the transition, set up your account on our secure platform, and make sure your next pay run lands on time and correctly, whether you're coming from a national PEO or running payroll by hand.
 
-If you manage an optometry practice, dental office, medical clinic, [service business](/industries/service-businesses), or church in Bloomington, Indianapolis, or Avon and want payroll handled by people who already understand your industry, let's talk. [Schedule a consultation](/contact) with Accord Advisors and find out what payroll administration looks like when it's part of a real outsourced accounting department.
+If you manage an optometry practice, dental office, medical clinic, [service-based business](/industries/service-businesses), [professional service firm](/industries/professional-services), or church in Bloomington, Indianapolis, or Avon and want payroll handled by people who already understand your industry, let's talk. [Schedule a consultation](/contact) with Accord Advisors and find out what payroll administration looks like when it's part of a real outsourced accounting department.
 
 ---
 ## SEO & AIO Metadata
