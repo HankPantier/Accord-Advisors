@@ -330,7 +330,11 @@ Accord Advisors provides fixed-fee payroll administration integrated with outsou
     },
     {
       "@type": "Audience",
-      "audienceType": "Service Businesses"
+      "audienceType": "Service-Based Businesses"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Professional Service Providers"
     },
     {
       "@type": "Audience",
