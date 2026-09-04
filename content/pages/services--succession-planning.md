@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "succession-planning-hero.jpg"
 hero_image_alt: "Senior business owner and CPA advisor discussing succession plan documents at a desk"
-hero_subhead: "Prepare your business, practice, or organization for a confident transition, backed by decades of Indiana accounting experience"
+hero_subhead: "Prepare your business, practice, or organization for a confident transition, backed by deep Indiana accounting experience serving optometrists, dentists, medical professionals, service businesses, and churches"
 hero_headline: "Plan your business transition with confidence"
 answer_block: "Accord Advisors provides succession planning for Bloomington and Indianapolis business owners, reviewing financial statements, cash flow, and business structure to prepare a company for sale or transfer. The work is delivered through a fixed monthly fee, drawing on nearly 40 years of healthcare-focused accounting experience for optometry and dental practices."
 eeat_signals: ["Jared Hammack, CPA leads engagements","Nearly 40 years of healthcare-focused accounting experience","Fixed monthly fee model rather than hourly billing","Secure online client platform for financial data sharing","Direct experience with optometry practice buy-ins and referrals via Acquios"]
