@@ -113,7 +113,7 @@ The Accord Advisors team can walk through your specific situation, whether you'r
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors organizes accounting forms and checklists by industry and by stage of business, covering optometry, dental, and medical practices, service businesses, churches, and individuals in Bloomington and Indianapolis, Indiana. Each list shows exactly what's needed to onboard onto outsourced accounting, prepare a tax return, or set up a new business.
+Accord Advisors organizes accounting forms and checklists by industry and by stage of business, covering optometry, dental, and medical practices, service-based businesses, professional service providers, churches, and individuals nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Each list shows exactly what's needed to onboard onto outsourced accounting, prepare a tax return, or set up a new business.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA
