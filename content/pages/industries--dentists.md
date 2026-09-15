@@ -110,11 +110,11 @@ A: Dental practices track production and collections separately from standard re
 A: Yes. Accord Advisors works with dental practices throughout Indiana, including practices in smaller markets and rural communities. Our secure online platform means you get the same reporting, bookkeeping, and tax planning support regardless of where your office is located in the state.
 
 <!-- block: cta-banner | variant: image-bg | image: dental-practice-consultation-handshake.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "dentist accountant handshake consultation" -->
-## Get started with a dental accounting partner in Indiana
+## Get started with a dental accounting partner, wherever you practice
 
-Your dental practice deserves financial reporting as precise as your clinical work. Whether you're opening a first location in Bloomington, running a busy practice in the Indianapolis metro, or based anywhere else across Indiana, Accord Advisors can take the accounting off your plate.
+Your dental practice deserves financial reporting as precise as your clinical work. Whether you're opening a first location in Bloomington, running a busy practice in the Indianapolis metro, or based anywhere else in the country, Accord Advisors can take the accounting off your plate.
 
-Schedule a consultation to talk with our team about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices in Bloomington, Avon, Indianapolis, and throughout Indiana with fixed monthly fees and reporting built around how dental offices actually operate.
+Schedule a consultation to talk with our team about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices in Bloomington, Avon, Indianapolis, and nationwide, with fixed monthly fees and reporting built around how dental offices actually operate.
 
 [Schedule a consultation](/contact)
 
