@@ -137,7 +137,7 @@ Accord Advisors organizes accounting forms and checklists by industry and by sta
 A: Most new clients need prior year returns, 12 months of bank statements, payroll records, a vendor list, and entity documents. Once we review those, you'll sign an engagement letter locking in a fixed monthly fee and get access to our secure client portal to start uploading documents right away.
 
 **Q: Do optometry practices need different tax forms than other medical practices?**
-A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding.
+A: Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and we map your practice management data directly to your onboarding.
 
 **Q: What paperwork is required to start a new business in Indiana?**
 A: Founders generally need entity formation documents, an EIN application, an operating agreement or bylaws, state and local registration filings, and payroll registration if hiring staff. Our Business Foundation Services checklist walks through each item in the order it's actually needed.
@@ -270,7 +270,7 @@ Accord Advisors, led by Jared Hammack CPA, organizes accounting forms and checkl
       "name": "Do optometry practices need different tax forms than other medical practices?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and many optometry clients arrive through Acquios with practice management data we can map directly to their onboarding."
+        "text": "Yes. Optometry practices typically track equipment depreciation, associate doctor compensation, and vision plan reimbursements differently than general medical offices. Accord Advisors builds industry-specific checklists, and we map your practice management data directly to your onboarding."
       }
     },
     {
