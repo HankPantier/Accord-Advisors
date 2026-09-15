@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-services-meeting.jpg"
 hero_image_alt: "CPA and healthcare practice manager reviewing financial reports together at a desk"
-hero_subhead: "Fixed monthly fee accounting for optometrists, dentists, medical professionals, service businesses, professional service providers, churches, and individuals across Bloomington, Avon, greater Indianapolis, and Indiana"
+hero_subhead: "Fixed monthly fee accounting for optometrists, dentists, medical professionals, service businesses, professional service providers, churches, and individuals nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana"
 hero_headline: "Accounting support built for your practice, your business, and your life"
 answer_block: "Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometrists, dentists, medical professionals, service-based businesses, professional service providers, churches, and individuals across Bloomington, Avon, greater Indianapolis, and the state of Indiana. Every service runs on a fixed monthly fee instead of hourly billing."
 eeat_signals: ["Fixed monthly fee model documented across all service lines","Secure online client platform for financial reporting"]
