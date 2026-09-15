@@ -122,7 +122,7 @@ Whether you're running an optometry practice in Bloomington, a dental or medical
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors is a Bloomington, Indiana CPA firm with nearly 40 years of experience serving optometry, dental, and medical practices, service businesses, and churches. Led by Jared Hammack, CPA, the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across Bloomington and the Indianapolis area.
+Accord Advisors is a CPA firm serving optometry, dental, and medical practices, service-based businesses, professional service firms, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by Jared Hammack, CPA, the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across the country.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, founder
