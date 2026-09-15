@@ -21,13 +21,13 @@ llm_citation_note: "Accord Advisors offers fixed-monthly-fee outsourced accounti
 ---
 
 <!-- block: content-split | variant: image-right | image: dentist-cpa-consultation-bloomington.jpg | alt: "Dentist and accountant reviewing practice financial reports together" | query: "dentist accountant meeting office" -->
-## A dental-focused accounting partner for Indiana practices
+## A dental-focused accounting partner for practices nationwide
 
 Running a dental practice means juggling patient care, staff schedules, insurance claims, and equipment costs, often with no time left to review the books. Accord Advisors works as an outsourced accounting department for dental practices across the country, including Bloomington, Avon, and Indianapolis, Indiana, handling the financial side so you can focus on chairside care.
 
-Our team has deep experience serving healthcare providers, including general and specialty dental offices, optometrists, and other medical professionals, as well as service-based businesses, professional services firms, and churches. That breadth of experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office.
+Our team has deep experience serving general and specialty dental offices nationwide. That focused experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office. Jared Hammack, CPA, leads our dental engagements and brings that depth to every client relationship.
 
-Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country., whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
+Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country.
 
 <!-- block: content-split | variant: image-left | image: dental-office-front-desk-billing.jpg | alt: "Dental office front desk staff processing insurance billing paperwork" | query: "dental office front desk billing" -->
 ## Challenges unique to running a dental office
