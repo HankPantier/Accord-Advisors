@@ -305,7 +305,7 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
   "@type": "Service",
   "name": "Accounting for Medical Professionals Bloomington IN",
   "url": "https://accordadvisors.com/industries/medical-professionals",
-  "description": "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington and Indianapolis, IN.",
+  "description": "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
