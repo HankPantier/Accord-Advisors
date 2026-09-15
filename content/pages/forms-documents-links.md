@@ -52,11 +52,11 @@ Dental and medical practices follow a similar list, adjusted for their billing s
 <!-- block: content-split | variant: image-left | image: church-service-business-finance.jpg | alt: "Church treasurer and small business owner reviewing financial paperwork together" | query: "nonprofit treasurer financial documents meeting" -->
 ## Accounting resources for businesses, practices and churches
 
-Businesses, practices and churches share one thing in common: revenue that doesn't move in a straight line. Contractors bill by job. Consultants bill by retainer. Churches rely on contributions that swing with the calendar and the congregation.
+Service-based businesses, professional services firms, and churches each have revenue that doesn't move in a straight line. Contractors bill by job. Consultants bill by retainer. Professional services firms track billable hours and client costs. Churches rely on contributions that swing with the calendar and the congregation.
 
-For service-based businesses, our resource list covers vendor W-9 collection templates, expense and mileage tracking forms, and job costing worksheets that feed directly into your monthly financials. For churches and religious organizations, we provide contribution tracking templates, restricted fund logs, and staffing compliance checklists that keep payroll and benefits reporting in order.
+For service-based businesses and professional services clients, our resource list covers vendor W-9 collection templates, expense and mileage tracking forms, and job costing worksheets that feed directly into your monthly financials. For churches and religious organizations, we provide contribution tracking templates, restricted fund logs, and staffing compliance checklists that keep payroll and benefits reporting in order.
 
-Both sets of resources are built to plug into an outsourced accounting engagement, so the data you collect becomes the dashboard you actually use to make decisions. Visit our resources to find the specific forms your organization needs.
+All of these resources are built to plug into an outsourced accounting engagement, so the data you collect becomes the foundation for clear, accurate financials. We serve clients in this space nationwide, including Bloomington and the Indianapolis area (including Avon). Visit our resources to find the specific forms your organization needs.
 
 <!-- block: checklist-section | variant: with-image-left | image: startup-business-foundation-paperwork.jpg | alt: "New business owner organizing entity formation paperwork on a desk" | query: "startup founder paperwork planning desk" -->
 ## Business foundation checklists for startups and growing companies
