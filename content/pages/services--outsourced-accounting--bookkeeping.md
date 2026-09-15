@@ -1,8 +1,8 @@
 ---
 title: "Bookkeeping Services | Accord Advisors"
 url: "/services/outsourced-accounting/bookkeeping"
-meta_title: "Outsourced Bookkeeping Services for Indiana Practices | Accord Advisors CPA"
-meta_description: "Outsourced bookkeeping for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Avon, Indianapolis, and across Indiana. Fixed monthly fees and secure online access."
+meta_title: "Outsourced Bookkeeping Services for Practices Nationwide | Accord Advisors CPA"
+meta_description: "Outsourced bookkeeping for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed monthly fees and secure online access."
 target_keyword: "outsourced bookkeeping services"
 secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced accounting department","healthcare practice bookkeeping","fixed fee bookkeeping","bookkeeping for optometrists Indiana","bookkeeping for medical practices Indianapolis","church bookkeeping Indiana","dental practice bookkeeping Bloomington"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bookkeeping"
@@ -98,17 +98,17 @@ Accord Advisors provides outsourced bookkeeping services for optometry practices
 - Serving Bloomington, Avon, Indianapolis, and clients across Indiana
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Parent service page for bookkeeping
-- payroll → /services/outsourced-accounting/payroll-services — Related outsourced accounting service
-- business tax → /services/outsourced-accounting/business-tax — Related outsourced accounting service
-- pricing calculator → /pricing-calculator — Supports fixed monthly fee section with cost transparency tool
-- medical professional → /industries/medical-professionals — Relevant niche for healthcare bookkeeping expertise
-- optometry → /industries/optometry — Relevant niche for healthcare bookkeeping expertise
-- dental practices → /industries/dentists — Relevant niche served
-- service businesses → /industries/service-businesses — Relevant niche served
-- churches → /industries/churches — Relevant niche served
-- team page → /team-expertise — Credentials of Jared Hammack, CPA
-- why Accord Advisors → /why-accord-advisors — Differentiator page supporting expertise claim
+- outsourced accounting → /services/outsourced-accounting, Parent service page for bookkeeping
+- payroll → /services/outsourced-accounting/payroll-services, Related outsourced accounting service
+- business tax → /services/outsourced-accounting/business-tax, Related outsourced accounting service
+- pricing calculator → /pricing-calculator, Supports fixed monthly fee section with cost transparency tool
+- medical professional → /industries/medical-professionals, Relevant niche for healthcare bookkeeping expertise
+- optometry → /industries/optometry, Relevant niche for healthcare bookkeeping expertise
+- dental practices → /industries/dentists, Relevant niche served
+- service businesses → /industries/service-businesses, Relevant niche served
+- churches → /industries/churches, Relevant niche served
+- team page → /team-expertise, Credentials of Jared Hammack, CPA
+- why Accord Advisors → /why-accord-advisors, Differentiator page supporting expertise claim
 
 **FAQ Block:**
 
