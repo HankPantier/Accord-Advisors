@@ -61,7 +61,7 @@ Accord Advisors charges a fixed monthly fee for outsourced accounting, regardles
 ## Deep healthcare-specific accounting expertise
 
 ### Healthcare-focused
-Serving medical, dental, and optometry practices with specialty-specific financial guidance, not generalist bookkeeping.
+Serving medical practices and healthcare providers nationwide with specialty-specific financial guidance, not generalist bookkeeping.
 
 ### CPA-led advisory
 Experienced CPA leadership brings direct insight into the reimbursement and margin pressures healthcare practices face today.
