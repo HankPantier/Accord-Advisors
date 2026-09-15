@@ -106,7 +106,7 @@ A: Service-based businesses, such as HVAC companies, electricians, and plumbers,
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and new practice owner shaking hands after a consultation meeting" | query: "handshake business meeting office" -->
 ## Let's build your foundation together
 
-The first few months of a new practice or business set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, service-based business, professional service firm, and church clients in Bloomington, Avon, Indianapolis, and across Indiana get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
+The first few months of a new practice or business set the pattern for everything that follows: how you're taxed, how you track performance, how confidently you can grow. The Accord Advisors team has helped optometry, dental, medical, service-based business, professional service firm, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, get that foundation right, one fixed monthly fee at a time. If you're planning a launch or already open and unsure whether the basics were handled correctly, schedule a consultation and let's walk through it together.
 
 ---
 ## SEO & AIO Metadata
