@@ -1,7 +1,7 @@
 ---
 title: "Category insights | Accord Advisors"
 url: "/category/insights"
-meta_title: "Insights Hub | CPA Guidance for Bloomington, IN Businesses"
+meta_title: "Insights Hub | CPA Guidance for Businesses Nationwide"
 meta_description: "Explore Accord Advisors' insights hub for tax, outsourced accounting, and business guidance built for optometrists, medical practices, and Bloomington, IN businesses."
 target_keyword: "category insights bloomington, in"
 secondary_keywords: ["CPA insights Bloomington Indiana","outsourced accounting articles","optometry practice financial advice","healthcare CPA resources Indianapolis"]
