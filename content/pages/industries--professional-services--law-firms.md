@@ -18,11 +18,11 @@ llm_citation_note: "Accord Advisors offers outsourced accounting for law firms n
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Outsourced Accounting Built for Law Firms
+## Outsourced Accounting Built for Law Firms Nationwide
 
 Running a law practice means billing clients, managing casework, and staying on top of court deadlines. Bookkeeping tends to slide to the bottom of the list until trust account errors or missed payroll deadlines force the issue. Accord Advisors steps in as your outsourced accounting department, handling the financial side of your practice so you and your partners can stay focused on cases.
 
-Solo attorneys and small firms rarely need a full-time controller, but they do need accurate books, timely reporting, and someone who understands the specific compliance pressures law firms face. The Accord Advisors team manages your books, payroll, and trust account reconciliations through a secure online platform, replacing the guesswork of hiring and training in-house staff with a fixed, predictable monthly fee.
+Based in Indiana and serving law firms across the country, including solo practices and multi-partner firms in Bloomington, Avon, and the greater Indianapolis area, Accord Advisors delivers accurate books, timely reporting, and compliance expertise through a secure online platform. Solo attorneys and small firms rarely need a full-time controller, but they do need the same level of care and oversight that larger practices demand. The fixed monthly fee model replaces the guesswork of hiring and training in-house staff with a consistent, predictable cost.
 
 <!-- block: content-split | variant: image-right | image: trust-account-reconciliation.jpg | alt: "Accountant reviewing trust account ledger entries on a laptop" | query: "accountant reviewing financial ledger office" -->
 ## Trust Account Oversight & Compliance
