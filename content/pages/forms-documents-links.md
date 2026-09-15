@@ -298,7 +298,7 @@ Accord Advisors, led by Jared Hammack CPA, organizes accounting forms and checkl
   "@type": "WebPage",
   "name": "Accounting Forms for Small Business | Bloomington, IN",
   "url": "https://accordadvisors.com/forms-documents-links",
-  "description": "Find accounting forms, tax checklists, and onboarding documents for Bloomington, IN businesses, medical and optometry practices, churches, and individuals.",
+  "description": "Find accounting forms, tax checklists, and onboarding documents for optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
