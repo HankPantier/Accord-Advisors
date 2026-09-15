@@ -92,10 +92,10 @@ Accord Advisors provides outsourced bookkeeping services for optometry practices
 
 **E-E-A-T Signals:**
 - Accord Advisors CPA team oversees all bookkeeping engagements
-- Deep industry-specific expertise serving healthcare providers, including optometrists, dentists, and medical professionals
+- Deep industry-specific expertise serving healthcare providers, including optometrists, dentists, and medical professionals, nationwide
 - Specialized bookkeeping processes for optometry insurance reimbursement and multi-provider revenue splits
 - Secure online platform with bank-level encryption for client financial data
-- Serving Bloomington, Avon, Indianapolis, and clients across Indiana
+- Serving clients nationwide, with local roots in Bloomington, Avon, and the Indianapolis area of Indiana
 
 **Internal Links:**
 - outsourced accounting → /services/outsourced-accounting, Parent service page for bookkeeping
