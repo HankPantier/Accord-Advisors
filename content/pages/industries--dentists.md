@@ -122,7 +122,7 @@ Schedule a consultation to talk with our team about what outsourced accounting l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices in Bloomington and Indianapolis. Services run on a fixed monthly fee rather than hourly billing, backed by nearly 40 years of healthcare industry experience under CPA Jared Hammack.
+Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep healthcare industry experience under CPA Jared Hammack.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads dental and healthcare industry engagements
