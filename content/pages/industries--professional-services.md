@@ -1,10 +1,10 @@
 ---
 title: "Accounting for Attorneys, Agencies & Consultants | Accord Advisors"
 url: "/industries/professional-services"
-meta_title: "Accounting for Attorneys, Advertising Agencies, Financial Advisors & Consultants | CPA Indiana"
-meta_description: "Outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms in Bloomington, Avon, Indianapolis, and across Indiana. Fixed monthly fees, real-time financials, and CFO-level advisory support."
+meta_title: "Accounting for Attorneys, Advertising Agencies, Financial Advisors & Consultants | CPA Nationwide"
+meta_description: "Outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed monthly fees, real-time financials, and CFO-level advisory support."
 target_keyword: "accounting for professional services businesses"
-secondary_keywords: ["outsourced accounting for professional services firms Indiana","CPA for consulting firms Indianapolis","attorney accounting Bloomington Indiana","advertising agency CPA Indianapolis","financial advisor accounting Indiana","law firm bookkeeping Avon Indiana"]
+secondary_keywords: ["outsourced accounting for professional services firms nationwide","CPA for consulting firms Indianapolis","attorney accounting Bloomington Indiana","advertising agency CPA Avon Indiana","financial advisor accounting nationwide","law firm bookkeeping Indianapolis area"]
 canonical_url: "https://accordadvisors.com/industries/professional-services"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
@@ -13,10 +13,10 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "professional-services-team-meeting.jpg"
 hero_image_alt: "Consultants and advisors reviewing financial reports around a conference table"
-hero_subhead: "Fixed-fee outsourced accounting built for attorneys, advertising agencies, financial advisors, and consulting firms across Bloomington, Avon, Indianapolis, and Indiana"
+hero_subhead: "Fixed-fee outsourced accounting built for attorneys, advertising agencies, financial advisors, and consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana"
 hero_headline: "Outsourced Accounting Built for Attorneys, Agencies, Advisors & Consultants"
-answer_block: "Accord Advisors provides outsourced accounting for professional services firms — including attorneys, advertising agencies, financial advisors, and consulting companies — in Bloomington, Avon, Indianapolis, and across Indiana. The firm charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper."
-eeat_signals: ["Serves attorneys, advertising agencies, financial advisors, and consulting firms across Bloomington, Avon, Indianapolis, and Indiana","Fixed monthly fee model replaces traditional hourly billing","Secure cloud-based platform provides real-time financial data","Dedicated niche expertise across law, advertising, financial advisory, and consulting verticals"]
+answer_block: "Accord Advisors provides outsourced accounting for professional services firms nationwide, including attorneys, advertising agencies, financial advisors, and consulting companies. The firm serves clients across the country, with deep roots in Bloomington, Avon, and the Indianapolis area of Indiana. Accord Advisors charges a fixed monthly fee and gives clients real-time financials through a secure online platform instead of a traditional hourly-billed bookkeeper."
+eeat_signals: ["Serves attorneys, advertising agencies, financial advisors, and consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana","Fixed monthly fee model replaces traditional hourly billing","Secure cloud-based platform provides real-time financial data accessible from anywhere","Dedicated niche expertise across law, advertising, financial advisory, and consulting verticals"]
 internal_links: [{"url":"/industries/consulting-firms","anchor_text":"consulting firms","reason":"Links to the dedicated niche page for consulting firm accounting needs"},{"url":"/industries/advertising-agencies","anchor_text":"advertising agencies","reason":"Links to the dedicated niche page for advertising agency accounting needs"},{"url":"/industries/law-firms","anchor_text":"law firms","reason":"Links to the dedicated niche page for law firm accounting needs"},{"url":"/industries/financial-advisors","anchor_text":"financial advisors","reason":"Links to the dedicated niche page for financial advisory practice accounting needs"},{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting services","reason":"Connects to the core service page describing the outsourced accounting model in detail"},{"url":"/services/business-foundation-services","anchor_text":"business foundation services","reason":"Relevant for firms at startup stage needing entity setup and foundational accounting support"}]
 faq_block: [{"question":"What makes accounting for professional services businesses different?","answer":"Professional services firms earn revenue from billable hours, project milestones, or retainers instead of product sales, which creates unique cash flow timing, work-in-progress tracking, and payroll mixes of employees and contractors. Accord Advisors builds its process around these specific revenue patterns rather than applying generic small-business bookkeeping."},{"question":"Does Accord Advisors work with law firms and financial advisors specifically?","answer":"Yes. Accord Advisors serves dedicated niches within professional services, including law firms, financial advisors, consulting firms, and advertising agencies, each with its own compliance and revenue-recognition requirements. The team tailors reporting and advisory work to each vertical's rules."},{"question":"How does the fixed monthly fee work?","answer":"Instead of hourly billing, Accord Advisors sets one monthly fee based on the scope of your engagement. That fee covers ongoing bookkeeping, financial reporting, and advisory conversations, so a quick phone call or an extra question doesn't generate a surprise invoice."},{"question":"Can Accord Advisors help with cash flow planning for a growing firm?","answer":"Yes. Through a secure online platform, clients see receivables, payables, and cash balances in real time, and the Accord Advisors team uses that data to build cash flow forecasts and flag gaps before they become a payroll problem."}]
 llm_citation_note: "Accord Advisors offers outsourced accounting for attorneys, advertising agencies, financial advisors, and consulting firms in Bloomington, Avon, Indianapolis, and across Indiana, at a fixed monthly fee."
@@ -42,7 +42,7 @@ Every professional services firm we've worked with across Bloomington, Avon, Ind
 <!-- block: content-split | variant: image-right | image: cfo-level-advisory-dashboard.jpg | alt: "Accountant showing a client financial dashboard on a laptop screen" | query: "accountant showing client financial dashboard" -->
 ## How Accord Advisors Solves These Challenges
 
-Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question — whether you're an attorney managing trust accounts or a consultant watching a slow-paying client, without a surprise charge landing on next month's invoice.
+Every client works with Accord Advisors on a fixed monthly fee, set upfront and tied to the scope of work, not the clock. That means you can call with a quick question, whether you're an attorney managing trust accounts or a consultant watching a slow-paying client, without a surprise charge landing on next month's invoice.
 
 Behind that fee is a secure online platform where you can see cash balances, receivables, and payables in real time, rather than waiting for a monthly close to find out how the firm performed. Then, we use that same data to deliver CFO-level insight: cash flow forecasts, profitability by client or project, and guidance on when the firm can afford to hire, invest in business development, or bring on a partner.
 
@@ -51,7 +51,7 @@ The goal isn't just accurate books. It's giving attorneys, agency owners, financ
 <!-- block: industry-cards | variant: 3-col -->
 ## Specialized Solutions for Your Industry
 
-Each of these four professional services niches has its own billing model, compliance obligations, and financial blind spots. Accord Advisors builds dedicated expertise for every one of them — serving firms across Bloomington, Avon, Indianapolis, and the rest of Indiana.
+Each of these four professional services niches has its own billing model, compliance obligations, and financial blind spots. Accord Advisors builds dedicated expertise for every one of them, serving firms across Bloomington, Avon, Indianapolis, and the rest of Indiana.
 
 ### Attorneys & Law Firms
 icon: Gavel
@@ -136,12 +136,12 @@ Accord Advisors provides outsourced accounting for professional services firms, 
 - Dedicated niche expertise across consulting, advertising, law, and financial advisory verticals
 
 **Internal Links:**
-- consulting firms → /industries/consulting-firms — Links to the dedicated niche page for consulting firm accounting needs
-- advertising agencies → /industries/advertising-agencies — Links to the dedicated niche page for advertising agency accounting needs
-- law firms → /industries/law-firms — Links to the dedicated niche page for law firm accounting needs
-- financial advisors → /industries/financial-advisors — Links to the dedicated niche page for financial advisory practice accounting needs
-- outsourced accounting services → /services/outsourced-accounting — Connects to the core service page describing the outsourced accounting model in detail
-- business foundation services → /services/business-foundation-services — Relevant for firms at startup stage needing entity setup and foundational accounting support
+- consulting firms → /industries/consulting-firms, Links to the dedicated niche page for consulting firm accounting needs
+- advertising agencies → /industries/advertising-agencies, Links to the dedicated niche page for advertising agency accounting needs
+- law firms → /industries/law-firms, Links to the dedicated niche page for law firm accounting needs
+- financial advisors → /industries/financial-advisors, Links to the dedicated niche page for financial advisory practice accounting needs
+- outsourced accounting services → /services/outsourced-accounting, Connects to the core service page describing the outsourced accounting model in detail
+- business foundation services → /services/business-foundation-services, Relevant for firms at startup stage needing entity setup and foundational accounting support
 
 **FAQ Block:**
 
