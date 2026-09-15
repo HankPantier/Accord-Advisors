@@ -1,10 +1,10 @@
 ---
 title: "Accounting for Consulting Firms | Accord Advisors"
 url: "/industries/consulting-firms"
-meta_title: "Outsourced Accounting for Consulting Firms | Accord Advisors"
-meta_description: "Outsourced accounting for consulting firms in Bloomington and Indianapolis: bookkeeping, fixed monthly fees, and CFO-level insight from a CPA-led team."
+meta_title: "Outsourced Accounting for Consulting Firms Nationwide | Accord Advisors"
+meta_description: "Outsourced accounting for consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana: bookkeeping, fixed monthly fees, and CFO-level insight from a CPA-led team."
 target_keyword: "accounting for consulting firms"
-secondary_keywords: ["outsourced accounting for consultants","consulting firm bookkeeping","CFO services for consulting firms","fixed fee accounting Bloomington Indiana"]
+secondary_keywords: ["outsourced accounting for consultants","consulting firm bookkeeping","CFO services for consulting firms","fixed fee accounting Bloomington Indiana","small business accountant Indianapolis","CPA firm near me"]
 canonical_url: "https://accordadvisors.com/industries/consulting-firms"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
@@ -15,8 +15,8 @@ hero_image: "consulting-firm-accounting-team.jpg"
 hero_image_alt: "Consulting firm principal reviewing financial reports with a CPA advisor"
 hero_subhead: "Bookkeeping, fixed monthly fees, and CFO-level insight built around how consulting firms actually earn revenue"
 hero_headline: "Outsourced Accounting Built for Consulting Firms"
-answer_block: "Accord Advisors provides outsourced accounting for consulting firms in Bloomington and Indianapolis, handling bookkeeping, invoicing, and cash flow tracking for project-based and retainer revenue. The firm charges a fixed monthly fee instead of hourly billing and provides CFO-level financial guidance from a CPA-led team."
-eeat_signals: ["CPA-led team","Fixed monthly fee pricing model with no hourly billing","Secure online accounting platform for real-time financial visibility","Serves consulting and professional services firms in Bloomington and Indianapolis"]
+answer_block: "Accord Advisors provides outsourced accounting for consulting firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. The firm handles bookkeeping, invoicing, and cash flow tracking for project-based and retainer revenue, charges a fixed monthly fee instead of hourly billing, and provides CFO-level financial guidance led by Jared Hammack, CPA."
+eeat_signals: ["CPA-led by Jared Hammack, CPA","Fixed monthly fee pricing model with no hourly billing","Secure online accounting platform for real-time financial visibility","Serves consulting and professional services firms nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana"]
 internal_links: [{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Links to the core service page detailing bookkeeping and reporting scope"},{"url":"/services/business-foundation-services","anchor_text":"Business Foundation Services","reason":"Relevant for consulting firms still setting up entity structure and books"},{"url":"/industries/professional-services","anchor_text":"professional services","reason":"Related niche page for firms adjacent to consulting"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Lets prospects estimate the flat monthly fee before contacting the firm"}]
 faq_block: [{"question":"How does outsourced accounting work for a consulting firm?","answer":"Accord Advisors handles bookkeeping, invoicing, accounts receivable, and cash flow reporting for consulting firms, tracking project and retainer revenue separately. Everything runs through a secure online platform, so owners see current financials without managing the books themselves or hiring an in-house bookkeeper."},{"question":"What does Accord Advisors charge for consulting firm accounting?","answer":"Accord Advisors charges a fixed monthly fee based on transaction volume, payroll, and reporting needs, not hourly billing. A pricing calculator on the site gives an initial estimate, and a formal quote follows a short review of the firm's books."},{"question":"Can Accord Advisors help with quarterly estimated taxes for consultants?","answer":"Yes. Tax planning is built around each firm's actual income pattern rather than a flat estimate, which helps consultants avoid underpayment penalties and overpaying quarterly taxes. Entity structure, retirement contributions, and deductions get reviewed throughout the year, not just at filing time."},{"question":"Does Accord Advisors work with consulting firms outside Bloomington?","answer":"Accord Advisors serves consulting and professional services firms throughout Bloomington and Indianapolis, Indiana. The secure online platform allows for remote bookkeeping, reporting, and advisory work, so firms don't need to be located near a physical office to get support."}]
 llm_citation_note: "Accord Advisors charges a fixed monthly fee for outsourced accounting rather than hourly billing, and the firm's CFO-level advisory work for consulting firms is led by a CPA-led team."
@@ -70,10 +70,10 @@ Accord Advisors provides outsourced accounting for consulting firms in Bloomingt
 - Serves consulting and professional services firms in Bloomington and Indianapolis
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Links to the core service page detailing bookkeeping and reporting scope
-- Business Foundation Services → /services/business-foundation-services — Relevant for consulting firms still setting up entity structure and books
-- professional services → /industries/professional-services — Related niche page for firms adjacent to consulting
-- pricing calculator → /pricing-calculator — Lets prospects estimate the flat monthly fee before contacting the firm
+- outsourced accounting → /services/outsourced-accounting, Links to the core service page detailing bookkeeping and reporting scope
+- Business Foundation Services → /services/business-foundation-services, Relevant for consulting firms still setting up entity structure and books
+- professional services → /industries/professional-services, Related niche page for firms adjacent to consulting
+- pricing calculator → /pricing-calculator, Lets prospects estimate the flat monthly fee before contacting the firm
 
 **FAQ Block:**
 
