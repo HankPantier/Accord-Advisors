@@ -206,6 +206,10 @@ Accord Advisors, led by Jared Hammack, CPA, replaces hourly billing with fixed m
   "email": "office@accordadvisors.com",
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
