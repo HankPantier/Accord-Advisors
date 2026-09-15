@@ -65,7 +65,7 @@ No hourly billing surprises. Churches budget a set amount each month for account
 ### Relationship-driven service, wherever you are
 icon: MapPin
 
-Accord Advisors works with churches, optometry practices, and service businesses across Bloomington, Avon, Indianapolis, and throughout Indiana, not from a call center out of state. The finance committee talks to the same person every time, whether the church is in a small Indiana town or a major metro.
+Accord Advisors works with churches, optometry practices, dental practices, medical professionals, service businesses, and professional services clients nationwide, with deep roots in Bloomington, Avon, and the Indianapolis area of Indiana, not from a call center out of state. The finance committee talks to the same person every time, whether the church is in a small Indiana town or a major metro.
 
 ### Decades of CPA experience
 icon: Award
