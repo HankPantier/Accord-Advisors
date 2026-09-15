@@ -21,11 +21,11 @@ llm_citation_note: "Accord Advisors is a CPA firm serving optometry, dental, med
 ---
 
 <!-- block: content-split | variant: image-right | image: bloomington-indiana-storefronts.jpg | alt: "Downtown Bloomington Indiana street lined with local business storefronts" | query: "downtown Bloomington Indiana street" -->
-## A CPA firm built for Bloomington and Indianapolis area practices
+## A CPA firm built for practices and businesses nationwide
 
-Accord Advisors is based in Bloomington, Indiana, and works with practices and businesses across the Indianapolis area, including Avon. That local footprint matters. When you call, you reach someone who knows the Bloomington business climate and the referral networks that bring optometry patients, dental clients, consulting engagements, and church members through your doors.
+Accord Advisors serves optometry, dental, medical, service-based, professional service, and church clients nationwide, with offices in Bloomington and Avon, Indiana. Whether your practice is across town or across the country, when you call, you reach someone who already understands your industry, your numbers, and the decisions in front of you.
 
-We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house, not a distant national brand chasing volume. Optometrists, dentists, physicians, attorneys, consultants, and church administrators across Bloomington and Indianapolis get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA, whether their office is downtown or out on the west side. No call centers, no rotating staff, no guessing who is handling your account this month.
+We built this firm to be the accounting department a growing practice or business doesn't have the budget to hire in-house. Optometrists, dentists, physicians, attorneys, consultants, and church administrators from coast to coast get the same fixed-fee model, the same secure client portal, and the same direct access to a CPA. No call centers, no rotating staff, no guessing who is handling your account this month.
 
 
 <!-- block: content-split | variant: image-left | image: cpa-reviewing-financial-records.jpg | alt: "CPA reviewing financial statements and tax documents at a desk" | query: "accountant reviewing financial documents office" -->
