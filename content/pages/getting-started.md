@@ -133,11 +133,12 @@ If you run an optometry practice, dental office, medical clinic, service-based b
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Becoming a client starts with a no-pressure discovery call with Jared Hammack, CPA, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Ongoing support includes monthly reporting and direct advisor access.
+Becoming a client starts with a no-pressure discovery call with Jared Hammack, CPA, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Ongoing support includes monthly reporting and direct advisor access.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credentialed advisor personally involved in onboarding
-- Deep industry-specific expertise serving healthcare providers, including optometry and medical practices
+- Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers nationwide
+- Clients served across the country, with local roots in Bloomington and the Indianapolis area (including Avon), Indiana
 - Fixed monthly fee structure disclosed before engagement begins
 - Secure online client portal for ongoing financial visibility
 
