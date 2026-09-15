@@ -74,13 +74,13 @@ A church treasurer answers to a congregation, not shareholders. Fund accounting,
 Our work with churches and religious organizations centers on accurate, transparent reporting that a finance committee or board can stand behind without a second guess. Fixed monthly pricing keeps the relationship predictable for organizations that run on donated dollars. Read more on our [churches](/industries/churches) page.
 
 <!-- block: checklist-section | variant: with-image | image: bloomington-indianapolis-business-meeting.jpg | alt: "Advisor meeting with Bloomington business owner in a modern office" | query: "professional meeting Indianapolis office" -->
-## Why Bloomington and Indianapolis businesses choose a dedicated industry partner
+## Why practices and organizations nationwide choose a dedicated industry partner
 
-Business owners in Bloomington and Indianapolis don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing.
+Business owners and practice leaders across the country don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing. Accord Advisors serves clients nationwide, with deep roots in Bloomington and the Indianapolis area (including Avon), Indiana.
 
 - Fixed monthly fees instead of hourly billing, so budgeting for accounting costs is never a guessing game
-- A secure online platform for sharing documents and reviewing financials without a scanner or a filing cabinet
-- Deep industry-specific experience across optometry, dental, medical, professional service firm, service-based business, and church clients
+- A secure online platform for sharing documents and reviewing financials from anywhere in the country
+- Deep industry-specific experience across optometry, dental, medical, professional service, service-based business, and church clients
 - CFO-level insight into monthly performance, delivered at a fraction of the cost of an in-house hire
 
 Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about why Accord Advisors approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/contact) and we'll walk through what your monthly reporting could look like.
