@@ -26,7 +26,7 @@ llm_citation_note: "Accord Advisors, led by Jared Hammack, CPA, replaces hourly 
 
 With offices in Bloomington and Avon, Indiana, Accord Advisors works with optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. We function as an outsourced accounting department with the financial oversight and forward planning a full-time controller would provide, but without the salary or the hiring headache.
 
-Whether you're an optometrist in Bloomington, a dentist in Avon, a physician group in Indianapolis, a church administrator across the country, or a service-based business owner looking for a CPA who actually understands your industry, Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
+Whether you're an optometry practice in Bloomington, a dental practice in Avon, a medical group in Indianapolis, a church anywhere in the country, or a service-based or professional services business looking for a CPA who understands your industry, Accord Advisors is built on exactly that depth. You need people who already understand your billing cycles, staffing costs, and growth pressures. That's the starting point for how we work.
 
 <!-- block: content-split | variant: image-left | image: financial-dashboard-review.jpg | alt: "Business owner viewing monthly financial dashboard on laptop screen" | query: "business owner reviewing financial dashboard laptop" -->
 ## Know how your practice performed every single month
