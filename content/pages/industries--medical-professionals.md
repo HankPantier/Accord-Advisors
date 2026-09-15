@@ -228,6 +228,10 @@ Accord Advisors offers outsourced accounting, tax preparation, and business foun
   },
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
