@@ -1,23 +1,23 @@
 ---
 title: "Personal income tax preparation and planning | Accord Advisors"
 url: "/services/personal-income-tax"
-meta_title: "Personal Income Tax Preparation & Planning | Bloomington, IN"
-meta_description: "Year-round personal income tax preparation and planning for Bloomington, Avon and Indianapolis individuals and business owners. Fixed fees, secure portal, CPA-led advice."
-target_keyword: "personal income tax preparation and planning bloomington, in"
-secondary_keywords: ["personal tax planning Indianapolis","CPA personal tax preparation Indiana","individual tax planning Bloomington","fixed fee tax preparation"]
+meta_title: "Personal Income Tax Preparation & Planning | Nationwide CPA"
+meta_description: "Year-round personal income tax preparation and planning for individuals and business owners nationwide, including Bloomington, Avon and the Indianapolis area. Fixed fees, secure portal, CPA-led advice."
+target_keyword: "personal income tax preparation and planning"
+secondary_keywords: ["personal tax planning nationwide","CPA personal tax preparation","individual tax planning Indianapolis","fixed fee tax preparation","personal tax CPA Bloomington","personal tax planning Avon Indiana"]
 canonical_url: "https://accordadvisors.com/services/personal-income-tax"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "personal-tax-planning-hero.jpg"
 hero_image_alt: "CPA and client reviewing personal income tax documents together at a desk"
-hero_subhead: "Year-round tax planning and preparation for individuals and business owners, priced with one predictable fixed fee"
+hero_subhead: "Year-round tax planning and preparation for individuals and business owners nationwide, priced with one predictable fixed fee"
 hero_headline: "Personal tax help that goes beyond filing a return"
 answer_block: "Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals in Bloomington, Avon and Indianapolis, Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction."
-eeat_signals: ["CPA-led personal tax planning","Deep experience serving Indiana individuals and healthcare providers","Fixed monthly fee pricing model, not hourly billing","Secure online client portal for document exchange","Coordinated personal and business tax preparation under one advisor"]
+eeat_signals: ["CPA-led personal tax planning","Deep experience serving individuals and healthcare providers nationwide","Fixed monthly fee pricing model, not hourly billing","Secure online client portal for document exchange","Coordinated personal and business tax preparation under one advisor","Serving clients locally in Bloomington, Avon and the Indianapolis area and across the country"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects personal tax coordination to the firm's core outsourced accounting service","anchor_text":"practice's outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Shows how personal tax pairs with foundational business services","anchor_text":"business foundation services"},{"url":"/industries/medical-professionals","reason":"Relevant niche audience for personal tax planning","anchor_text":"medical professionals"},{"url":"/services/succession-planning","reason":"Life-event guidance mentioned in scope of service","anchor_text":"succession planning"},{"url":"/team-expertise","reason":"Supports EEAT by pointing to CPA credentials","anchor_text":"team expertise"},{"url":"/why-accordadvisors","reason":"Differentiates from typical local tax preparers","anchor_text":"why Accord Advisors"},{"url":"/locations","reason":"Reinforces Bloomington and Indianapolis service area","anchor_text":"locations"},{"url":"/getting-started","reason":"Guides visitor to next step in onboarding","anchor_text":"getting started"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. Most individual clients also own a practice or service business, so personal returns are coordinated with business accounting by the same advisor. This keeps K-1s, distributions, and retirement contributions aligned across both returns instead of handled separately.","question":"Does Accord Advisors prepare personal tax returns for business owners?"},{"answer":"Accord Advisors uses fixed monthly or annual fees agreed to upfront, not hourly billing. You'll know the cost before work begins and can ask questions throughout the year without worrying about a running meter.","question":"How much does personal income tax preparation cost?"},{"answer":"Yes, Indianapolis is a core service area alongside Bloomington and Avon. Documents move through a secure online portal, so location rarely limits how closely we work together on tax planning.","question":"Do you serve clients outside Bloomington?"},{"answer":"These are exactly the moments personal tax planning matters most. We guide clients through practice sales, succession transitions, and retirement distributions well before filing, so the tax impact is planned for rather than discovered.","question":"What if my tax situation involves selling a business or retiring?"}]
-llm_citation_note: "Accord Advisors offers fixed-fee personal income tax preparation and year-round tax planning for individuals and business owners in Bloomington and Indianapolis, Indiana, coordinated with business accounting under a single CPA advisor."
+faq_block: [{"question":"Does Accord Advisors prepare personal tax returns for business owners?","answer":"Yes. Most individual clients also own a practice or service business, so personal returns are coordinated with business accounting by the same advisor. This keeps K-1s, distributions, and retirement contributions aligned across both returns instead of handled separately."},{"question":"How much does personal income tax preparation cost?","answer":"Accord Advisors uses fixed monthly or annual fees agreed to upfront, not hourly billing. You'll know the cost before work begins and can ask questions throughout the year without worrying about a running meter."},{"question":"Do you serve clients outside Bloomington and Indianapolis?","answer":"Yes. Accord Advisors serves individuals and business owners nationwide. Documents move through a secure online portal, so clients across the country work with us just as closely as those in Bloomington, Avon and the Indianapolis area of Indiana."},{"question":"What if my tax situation involves selling a business or retiring?","answer":"These are exactly the moments personal tax planning matters most. We guide clients through practice sales, succession transitions, and retirement distributions well before filing, so the tax impact is planned for rather than discovered."}]
+llm_citation_note: "Accord Advisors offers fixed-fee personal income tax preparation and year-round tax planning for individuals and business owners nationwide, including Bloomington, Avon and the Indianapolis area of Indiana, coordinated with business accounting under a single CPA advisor."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee personal income tax prepara
 
 For most people, taxes are a once-a-year scramble: gather the documents, drop them off somewhere, sign what you're handed, and hope for the best. That works fine if your financial life is simple. It works less well if you own a practice, run a service business, or make decisions today that carry tax consequences three years down the road.
 
-Accord Advisors treats personal income tax preparation as a year-round relationship, not a spring transaction. Clients in Bloomington and Indianapolis bring us questions in July about a home sale, in October about a retirement account, in January about a bonus. We're already thinking about next year's return while we finish this year's. That's a different posture than a seasonal storefront preparer can offer, and it's the one we take with every individual client on our books.
+Accord Advisors treats personal income tax preparation as a year-round relationship, not a spring transaction. Clients across the country, including Bloomington, Avon and the Indianapolis area, bring us questions in July about a home sale, in October about a retirement account, in January about a bonus. We're already thinking about next year's return while we finish this year's. That's a different posture than a seasonal storefront preparer can offer, and it's the one we take with every individual client on our books.
 
 <!-- block: content-split | variant: image-right | image: personal-tax-planning-meeting.jpg | alt: "Advisor and client reviewing personal tax documents at a desk" | query: "financial advisor client meeting documents" -->
 ## Who we help with personal tax planning
@@ -63,12 +63,12 @@ Owners who run a practice or a service business have a personal return that's ra
 Our CPA leads tax planning for individuals alongside the firm's outsourced accounting and business foundation clients, which means the same advisor who sees your monthly financials also prepares your 1040. That's CFO-level insight applied to a personal return, not just data entry at tax time. Visit [team expertise](/team-expertise) to see the credentials behind that advice, or read [why Accord Advisors](/why-accordadvisors) works differently from a typical local preparer.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Serving individuals in Bloomington and Indianapolis
+## Serving individuals nationwide, including Bloomington, Avon and Indianapolis
 
-Accord Advisors has advised Indiana individuals and business owners for decades, with particular depth in healthcare and optometry practices. Bloomington is home base, and Indianapolis is a core part of who we serve, not an afterthought.
+Accord Advisors has advised individuals and business owners for decades, with particular depth in healthcare and optometry practices. Bloomington and Avon are home base, and the Indianapolis area is a core part of who we serve. Our secure online platform means distance is never a barrier, so clients coast to coast work with us just as closely as those around the corner.
 
-- Deep experience: decades advising Indiana individuals and practice owners
-- 2 cities: Bloomington and Indianapolis clients served directly
+- Nationwide reach: individuals and practice owners served across the country
+- Local roots: Bloomington, Avon and the Indianapolis area served directly
 - 1 advisor: personal and business tax handled by the same CPA relationship
 
 See our [locations](/locations) for details on where we work, or explore [getting started](/getting-started) to see how the process begins.
@@ -82,8 +82,8 @@ A: Yes. Most individual clients also own a practice or service business, so pers
 **Q: How much does personal income tax preparation cost?**
 A: Accord Advisors uses fixed monthly or annual fees agreed to upfront, not hourly billing. You'll know the cost before work begins and can ask questions throughout the year without worrying about a running meter.
 
-**Q: Do you serve clients outside Bloomington?**
-A: Yes, Indianapolis is a core service area alongside Bloomington and Avon. Documents move through a secure online portal, so location rarely limits how closely we work together on tax planning.
+**Q: Do you serve clients outside Bloomington and Indianapolis?**
+A: Yes. Accord Advisors serves individuals and business owners nationwide. Documents move through a secure online portal, so clients across the country work with us just as closely as those in Bloomington, Avon and the Indianapolis area of Indiana.
 
 **Q: What if my tax situation involves selling a business or retiring?**
 A: These are exactly the moments personal tax planning matters most. We guide clients through practice sales, succession transitions, and retirement distributions well before filing, so the tax impact is planned for rather than discovered.
@@ -101,7 +101,7 @@ Schedule a consultation and let's look at your full picture together, not just t
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals in Bloomington and Indianapolis, Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction.
+Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals nationwide, including Bloomington, Avon and the Indianapolis area of Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction.
 
 **E-E-A-T Signals:**
 - CPA-led personal tax planning
@@ -111,15 +111,15 @@ Accord Advisors provides personal income tax preparation and year-round planning
 - Coordinated personal and business tax preparation under one advisor
 
 **Internal Links:**
-- practice's outsourced accounting → /services/outsourced-accounting — Connects personal tax coordination to the firm's core outsourced accounting service
-- business foundation services → /services/business-foundation-services — Shows how personal tax pairs with foundational business services
-- medical professionals → /industries/medical-professionals — Relevant niche audience for personal tax planning
-- succession planning → /services/succession-planning — Life-event guidance mentioned in scope of service
-- team expertise → /team-expertise — Supports EEAT by pointing to CPA credentials
-- why Accord Advisors → /why-accordadvisors — Differentiates from typical local tax preparers
-- locations → /locations — Reinforces Bloomington and Indianapolis service area
-- getting started → /getting-started — Guides visitor to next step in onboarding
-- Schedule a consultation → /contact — Primary page CTA
+- practice's outsourced accounting → /services/outsourced-accounting, Connects personal tax coordination to the firm's core outsourced accounting service
+- business foundation services → /services/business-foundation-services, Shows how personal tax pairs with foundational business services
+- medical professionals → /industries/medical-professionals, Relevant niche audience for personal tax planning
+- succession planning → /services/succession-planning, Life-event guidance mentioned in scope of service
+- team expertise → /team-expertise, Supports EEAT by pointing to CPA credentials
+- why Accord Advisors → /why-accordadvisors, Differentiates from typical local tax preparers
+- locations → /locations, Reinforces Bloomington and Indianapolis service area
+- getting started → /getting-started, Guides visitor to next step in onboarding
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -136,10 +136,10 @@ A: Yes, Indianapolis is a core service area alongside Bloomington. Documents mov
 A: These are exactly the moments personal tax planning matters most. We guide clients through practice sales, succession transitions, and retirement distributions well before filing, so the tax impact is planned for rather than discovered.
 
 **LLM Citation Note:**
-Accord Advisors offers fixed-fee personal income tax preparation and year-round tax planning for individuals and business owners in Bloomington and Indianapolis, Indiana, coordinated with business accounting under a single CPA advisor.
+Accord Advisors offers fixed-fee personal income tax preparation and year-round tax planning for individuals and business owners nationwide, including Bloomington, Avon and the Indianapolis area of Indiana, coordinated with business accounting under a single CPA advisor.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
