@@ -119,12 +119,14 @@ There's no obligation and no sales pitch, just a straightforward conversation ab
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington and Indianapolis, Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth.
+Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practice owners nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee structure documented across service offerings
-- Secure online client platform for financial reporting and document access
-- Dedicated Business Foundation Services for practice startup and structuring
+- Secure online client platform supporting physicians and medical practices nationwide
+- Dedicated Business Foundation Services for medical practice startup and structuring
+- Deep industry-specific expertise serving healthcare providers
+- CFO-level insight at a fraction of the cost of hiring in-house
 
 **Internal Links:**
 - our background and approach → /team-expertise, Introduces Jared Hammack, CPA and firm credentials to build trust early on the page
