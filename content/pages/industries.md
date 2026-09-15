@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for o
 <!-- block: intro-text | variant: centered -->
 ## Industry-specific accounting that goes beyond general bookkeeping
 
-General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has spent years learning the financial rhythms of specific fields: optometry, dentistry, medicine, professional service providers, service-based businesses, and churches across Bloomington, Avon, and Indianapolis.
+General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has built deep expertise in the financial rhythms of specific fields: optometry, dentistry, medicine, professional service providers, service-based businesses, and churches. That expertise serves clients nationwide, with a strong local presence in Bloomington and the Indianapolis area (including Avon), Indiana.
 
 That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist like Accord Advisors knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
 
@@ -108,15 +108,15 @@ Accord Advisors provides industry-specific outsourced accounting for optometry p
 - Fixed monthly fee model documented across all industry service lines
 
 **Internal Links:**
-- optometry → /industries/optometry — Deeper dive into optometry-specific accounting services
-- dentists → /industries/dentists — Dedicated page for dental practice accounting details
-- medical professionals → /industries/medical-professionals — Detailed page for healthcare provider accounting needs
-- service businesses → /industries/service-businesses — Expands on service business accounting support
-- churches → /industries/churches — Expands on church and nonprofit accounting details
-- outsourced accounting → /services/outsourced-accounting — Links to core service underpinning all industry work
-- business foundation services → /services/business-foundation-services — Relevant for startups within service business section
-- why Accord Advisors → /why-rootadvisors — Reinforces differentiators for undecided prospects
-- schedule a consultation → /contact — Primary page CTA
+- optometry → /industries/optometry, Deeper dive into optometry-specific accounting services
+- dentists → /industries/dentists, Dedicated page for dental practice accounting details
+- medical professionals → /industries/medical-professionals, Detailed page for healthcare provider accounting needs
+- service businesses → /industries/service-businesses, Expands on service business accounting support
+- churches → /industries/churches, Expands on church and nonprofit accounting details
+- outsourced accounting → /services/outsourced-accounting, Links to core service underpinning all industry work
+- business foundation services → /services/business-foundation-services, Relevant for startups within service business section
+- why Accord Advisors → /why-rootadvisors, Reinforces differentiators for undecided prospects
+- schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -133,7 +133,7 @@ A: Yes. Churches need fund accounting and stewardship reporting that differs fro
 Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
