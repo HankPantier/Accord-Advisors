@@ -99,7 +99,7 @@ A: Yes. Clergy housing allowances, dual tax status for pastors, and voluntary wi
 A: The transition is handled for you, including account setup on our secure online platform and confirming your first pay run lands on time. Most practices switch without any disruption to employee pay, whether coming from a PEO or an in-house process.
 
 <!-- block: cta-banner | variant: image-bg | image: payroll-consultation-handshake.jpg | alt: "Advisor and client shaking hands after a payroll consultation" | query: "advisor client handshake office meeting" -->
-## Get started with payroll administration in Bloomington and Indianapolis
+## Get started with payroll administration nationwide
 
 Switching payroll providers mid-year sounds harder than it is. We handle the transition, set up your account on our secure platform, and make sure your next pay run lands on time and correctly, whether you're coming from a national PEO or running payroll by hand.
 
