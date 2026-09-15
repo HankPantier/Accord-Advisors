@@ -131,7 +131,7 @@ A: Accord Advisors serves clients in Bloomington, Indianapolis, and Avon, Indian
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business consultation handshake office meeting" -->
 ## Get started with a Bloomington and Indianapolis accounting partner
 
-If your practice or business needs more than a once-a-year tax appointment, it's time for a different kind of accounting relationship. Fixed monthly fees, a secure online platform, and a CPA who already understands optometry, dental, medical, service, or church accounting: that's the model we've built for Bloomington and Indianapolis clients from startup through succession.
+If your practice or business needs more than a once-a-year tax appointment, it's time for a different kind of accounting relationship. Fixed monthly fees, a secure online platform, and a CPA who already understands optometry, dental, medical, service, or church accounting: that's the model we've built for clients nationwide, including Bloomington and the Indianapolis area of Indiana, from startup through succession.
 
 [Schedule a consultation](/contact) and find out what a monthly financial picture you can actually trust looks like.
 
