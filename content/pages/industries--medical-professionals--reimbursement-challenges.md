@@ -55,7 +55,7 @@ Our [Business Foundation Services](/services/business-foundation-services) addre
 
 Hourly billing adds a second layer of uncertainty to a financial picture that's already unpredictable. You shouldn't have to wonder what your accounting bill will be in a month when your reimbursements are already down.
 
-Accord Advisors charges a fixed monthly fee for outsourced accounting, regardless of how many questions you ask or how many times you need a dashboard pulled during a rough claims month. Practice owners in Bloomington and Indianapolis can budget for accounting the same way they budget for rent: one predictable number, every month, no surprises on the invoice. That stability is worth something when the revenue side of your ledger is the part that keeps moving.
+Accord Advisors charges a fixed monthly fee for outsourced accounting, regardless of how many questions you ask or how many times you need a dashboard pulled during a rough claims month. Medical practice owners nationwide, including those in Bloomington, Avon, and the Indianapolis area, can budget for accounting the same way they budget for rent: one predictable number, every month, no surprises on the invoice. That stability is worth something when the revenue side of your ledger is the part that keeps moving.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Deep healthcare-specific accounting expertise
