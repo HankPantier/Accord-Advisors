@@ -123,8 +123,10 @@ Accord Advisors provides outsourced accounting, tax preparation, and business fo
 
 **E-E-A-T Signals:**
 - Fixed monthly fee structure documented across service offerings
-- Secure online client platform for financial reporting and document access
+- Secure online client platform supporting remote collaboration for practices nationwide
 - Dedicated Business Foundation Services for practice startup and structuring
+- Deep industry-specific expertise serving optometry, dental, medical, service-based, professional services, and church clients
+- CFO-level business management insight at a fraction of the cost of hiring in-house
 
 **Internal Links:**
 - our background and approach → /team-expertise, Introduces Jared Hammack, CPA and firm credentials to build trust early on the page
