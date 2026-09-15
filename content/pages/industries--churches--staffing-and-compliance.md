@@ -90,7 +90,7 @@ A: No. Accord Advisors uses a fixed monthly fee for outsourced accounting and pa
 <!-- block: cta-banner | variant: image-bg | image: church-community-gathering.jpg | alt: "Church community gathering in a bright fellowship hall" | query: "church community gathering fellowship hall" -->
 ## Get started with dependable church accounting and payroll
 
-Running a church shouldn't mean losing sleep over payroll tax deadlines or wondering if the housing allowance was calculated right. Accord Advisors handles the accounting and payroll work churches across Bloomington, Avon, Indianapolis, and Indiana need to stay compliant, so the board gets clear numbers and staff gets paid correctly, every time.
+Running a church shouldn't mean losing sleep over payroll tax deadlines or wondering if the housing allowance was calculated right. Accord Advisors handles the accounting and payroll work churches need to stay compliant, whether they're in Bloomington, Avon, the Indianapolis area, or anywhere else in the country, so the board gets clear numbers and staff gets paid correctly, every time.
 
 [Schedule a consultation](/contact) to talk through what the church needs, whether that's payroll for a growing staff, monthly financial reporting for the board, or a full [outsourced accounting](/services/outsourced-accounting) setup. There's no obligation, just a conversation with a CPA who already understands church finances, wherever your congregation calls home in Indiana.
 
