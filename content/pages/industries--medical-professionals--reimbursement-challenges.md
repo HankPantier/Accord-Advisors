@@ -90,9 +90,9 @@ A: Yes. Accord Advisors serves medical practices and healthcare providers nation
 A: Business Foundation Services is Accord Advisors' structured approach to building the accounting infrastructure a medical practice needs from the start: the right entity structure, a chart of accounts built for healthcare revenue cycles, and cash flow systems designed to absorb payer lag. A strong foundation means a reimbursement delay is an inconvenience, not a financial emergency.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-medical-practice.jpg | alt: "Healthcare practice owner shaking hands with a financial advisor" | query: "handshake meeting medical office professionals" -->
-## Get a clearer financial picture of your practice
+## Get a clearer financial picture of your medical practice
 
-If reimbursement timing keeps knocking your cash flow off balance, the fix isn't another billing workaround. It's monthly financial clarity from a firm that already understands healthcare margins. Talk with Accord Advisors about what outsourced accounting and Business Foundation Services could look like for your practice.
+If reimbursement timing keeps knocking your cash flow off balance, the fix isn't another billing workaround. It's monthly financial clarity from a firm that already understands healthcare margins. Medical practices nationwide, including those in Bloomington, Avon, and the Indianapolis area, trust Accord Advisors for outsourced accounting and Business Foundation Services built around the way healthcare revenue actually works. Talk with us about what that could look like for your practice.
 
 [Schedule a consultation](/contact)
 
