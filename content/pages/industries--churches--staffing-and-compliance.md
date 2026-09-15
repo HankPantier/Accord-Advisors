@@ -2,13 +2,13 @@
 title: "Staffing and compliance support for churches | Accord Advisors"
 url: "/industries/churches/staffing-and-compliance"
 meta_title: "Church Accounting and Payroll in Bloomington, IN"
-meta_description: "Accord Advisors provides church accounting and payroll services for churches in Bloomington, Avon, Indianapolis, and across Indiana, handling clergy pay, compliance, and reporting so your board can focus on ministry."
+meta_description: "Accord Advisors provides church accounting and payroll services for churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, handling clergy pay, compliance, and reporting so your board can focus on ministry."
 target_keyword: "church accounting and payroll Bloomington IN"
 secondary_keywords: ["church staffing compliance Bloomington","nonprofit payroll services Bloomington IN","church HR support Indiana","religious organization accounting Indianapolis","church tax compliance Indiana","church payroll processing Avon IN","church bookkeeping services Indianapolis IN","church accounting services Indiana","church payroll Indiana","religious organization payroll Indianapolis","church compliance services Avon Indiana","clergy housing allowance Indiana"]
 canonical_url: "https://accordadvisors.com/industries/churches/staffing-and-compliance"
 schema_markup: "Service"
 hero: "page-header"
-hero_subhead: "Payroll, compliance, and reporting for Indiana churches — handled by a CPA who already knows church finances"
+hero_subhead: "Payroll, compliance, and reporting for Indiana churches, handled by a CPA who already knows church finances"
 answer_block: "Accord Advisors provides outsourced accounting and payroll for churches in Bloomington, Avon, Indianapolis, and across Indiana, handling clergy housing allowance, dual tax status, and nonprofit compliance filings. The firm charges a fixed monthly fee and delivers reporting through a secure online platform so church boards see clear financials every month."
 eeat_signals: ["Active CPA license held by firm leadership","Decades of CPA-level accounting experience serving Indiana organizations","Direct handling of clergy housing allowance and dual tax status payroll rules","Fixed monthly fee model, not hourly billing","Secure online platform for delivering financial reports and dashboards"]
 internal_links: [{"url":"/services/payroll-services","reason":"Links to the core service that handles pastor and staff pay","anchor_text":"payroll processing"},{"url":"/services/outsourced-accounting","reason":"Connects to the broader accounting service churches rely on","anchor_text":"outsourced accounting"},{"url":"/fraud-prevention-strategies-for-nonprofit-organizations","reason":"Related resource on protecting church and nonprofit funds","anchor_text":"fraud prevention strategies for nonprofit organizations"},{"url":"/contact","reason":"Primary page CTA directing church leaders to reach out","anchor_text":"Schedule a consultation"}]
@@ -65,7 +65,7 @@ No hourly billing surprises. Churches budget a set amount each month for account
 ### Indiana-based, relationship-driven service
 icon: MapPin
 
-Accord Advisors works with churches, optometry practices, and service businesses across Bloomington, Avon, Indianapolis, and throughout Indiana — not from a call center out of state. The finance committee talks to the same person every time, whether the church is in a small Indiana town or a major metro.
+Accord Advisors works with churches, optometry practices, and service businesses across Bloomington, Avon, Indianapolis, and throughout Indiana, not from a call center out of state. The finance committee talks to the same person every time, whether the church is in a small Indiana town or a major metro.
 
 ### Decades of CPA experience
 icon: Award
@@ -92,7 +92,7 @@ A: No. Accord Advisors uses a fixed monthly fee for outsourced accounting and pa
 
 Running a church shouldn't mean losing sleep over payroll tax deadlines or wondering if the housing allowance was calculated right. Accord Advisors handles the accounting and payroll work churches across Bloomington, Avon, Indianapolis, and Indiana need to stay compliant, so the board gets clear numbers and staff gets paid correctly, every time.
 
-[Schedule a consultation](/contact) to talk through what the church needs, whether that's payroll for a growing staff, monthly financial reporting for the board, or a full [outsourced accounting](/services/outsourced-accounting) setup. There's no obligation, just a conversation with a CPA who already understands church finances — wherever your congregation calls home in Indiana.
+[Schedule a consultation](/contact) to talk through what the church needs, whether that's payroll for a growing staff, monthly financial reporting for the board, or a full [outsourced accounting](/services/outsourced-accounting) setup. There's no obligation, just a conversation with a CPA who already understands church finances, wherever your congregation calls home in Indiana.
 
 ---
 ## SEO & AIO Metadata
@@ -108,11 +108,11 @@ Accord Advisors provides outsourced accounting and payroll for churches in Bloom
 - Secure online platform for delivering financial reports and dashboards
 
 **Internal Links:**
-- payroll processing → /services/payroll-services — Links to the core service that handles pastor and staff pay
-- outsourced accounting → /services/outsourced-accounting — Connects to the broader accounting service churches rely on
-- fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations — Related resource on protecting church and nonprofit funds
-- team expertise page → /team-expertise — Supports the credential claim about Jared Hammack and firm experience
-- Schedule a consultation → /contact — Primary page CTA directing church leaders to reach out
+- payroll processing → /services/payroll-services, Links to the core service that handles pastor and staff pay
+- outsourced accounting → /services/outsourced-accounting, Connects to the broader accounting service churches rely on
+- fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations, Related resource on protecting church and nonprofit funds
+- team expertise page → /team-expertise, Supports the credential claim about Jared Hammack and firm experience
+- Schedule a consultation → /contact, Primary page CTA directing church leaders to reach out
 
 **FAQ Block:**
 
@@ -132,7 +132,7 @@ A: No. Accord Advisors uses a fixed monthly fee for outsourced accounting and pa
 Accord Advisors handles clergy housing allowance and dual tax status payroll for churches in Bloomington and Indianapolis on a fixed monthly fee.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
