@@ -70,7 +70,7 @@ It's the kind of setup a growing service-based business needs, whether you're ba
 
 Fleet and equipment accounting isn't a side service tacked onto a generic small business package. It requires knowing how Section 179 timing, depreciation methods, and Indiana tax rules interact with a business that runs on trucks, trailers, or heavy equipment every day.
 
-Accord Advisors serves service businesses, medical practices, optometry practices, and churches across Bloomington and Indianapolis, bringing CFO-level insight to owners who don't need, or want to pay for, a full-time controller. The firm's fixed monthly fee model means budgeting for accounting support is as predictable as the fleet costs already being tracked.
+Accord Advisors serves service businesses, medical practices, optometry practices, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, bringing CFO-level insight to owners who don't need, or want to pay for, a full-time controller. The firm's fixed monthly fee model means budgeting for accounting support is as predictable as the fleet costs already being tracked.
 
 If fleet or equipment costs feel like a black box right now, that's fixable. [Schedule a consultation](/contact) with Accord Advisors and get a clear look at what the vehicles and equipment are actually costing, and what to do about it.
 
