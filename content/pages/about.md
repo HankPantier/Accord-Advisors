@@ -572,7 +572,7 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
   "@type": "WebPage",
   "name": "About Accord Advisors | CPA Firm in Bloomington, IN",
   "url": "https://accordadvisors.com/about",
-  "description": "Accord Advisors is a Bloomington, IN CPA firm serving optometry, dental, medical, and service businesses with fixed-fee outsourced accounting. Schedule a consultation today.",
+  "description": "Accord Advisors is a CPA firm serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana, with fixed-fee outsourced accounting. Schedule a consultation today.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
