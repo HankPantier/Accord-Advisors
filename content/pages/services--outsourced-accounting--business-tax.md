@@ -1,10 +1,10 @@
 ---
 title: "Outsourced accounting services | Accord Advisors"
 url: "/services/outsourced-accounting"
-meta_title: "Outsourced Accounting Services in Bloomington, IN"
-meta_description: "Fixed-fee outsourced accounting for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches in Bloomington, Indianapolis, and across Indiana. CPA-led bookkeeping, monthly reporting, and a secure client portal."
-target_keyword: "outsourced accounting services bloomington, in"
-secondary_keywords: ["outsourced accounting Indianapolis","outsourced accounting Avon Indiana","outsourced accounting Indiana","fixed fee accounting services","outsourced CFO services Bloomington","medical practice accounting Indiana","optometry practice accounting","dental practice accounting Indiana","church accounting Indiana","service business accounting Indianapolis"]
+meta_title: "Outsourced Accounting Services | Nationwide CPA Firm | Accord Advisors"
+meta_description: "Fixed-fee outsourced accounting for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area. CPA-led bookkeeping, monthly reporting, and a secure client portal."
+target_keyword: "outsourced accounting services"
+secondary_keywords: ["outsourced accounting Indianapolis","outsourced accounting Avon Indiana","outsourced accounting Bloomington IN","nationwide outsourced accounting","fixed fee accounting services","CPA firm near me","outsourced CFO services","medical practice accounting","optometry practice accounting","dental practice accounting","church accounting","service business accountant","small business accountant","bookkeeping services for small business","hire a CPA for taxes","tax preparation services"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
 schema_markup: "Service"
 hero: "hero-split"
@@ -108,14 +108,14 @@ Accord Advisors provides outsourced accounting services in Bloomington, Avon, In
 - Specialized expertise across optometry, dental, medical, service business, church, and professional service sectors
 
 **Internal Links:**
-- Optometry practices → /industries/optometry — Directs optometry visitors to industry-specific service details
-- dental practices → /industries/dentists — Connects dental readers to niche-specific page
-- medical professionals → /industries/medical-professionals — Supports healthcare provider segment mentioned in section 3
-- Service-based businesses → /industries/service-businesses — Expands relevance to non-healthcare service business audience
-- Churches and religious organizations → /industries/churches — Supports church/nonprofit audience segment
-- Schedule a consultation → /contact — Primary page CTA driving conversions
-- why Accord Advisors → /why-rootadvisors — Builds trust by linking to differentiation page
-- Jared Hammack, CPA → /team-expertise — Links credential mention to full team bio page
+- Optometry practices → /industries/optometry, Directs optometry visitors to industry-specific service details
+- dental practices → /industries/dentists, Connects dental readers to niche-specific page
+- medical professionals → /industries/medical-professionals, Supports healthcare provider segment mentioned in section 3
+- Service-based businesses → /industries/service-businesses, Expands relevance to non-healthcare service business audience
+- Churches and religious organizations → /industries/churches, Supports church/nonprofit audience segment
+- Schedule a consultation → /contact, Primary page CTA driving conversions
+- why Accord Advisors → /why-rootadvisors, Builds trust by linking to differentiation page
+- Jared Hammack, CPA → /team-expertise, Links credential mention to full team bio page
 
 **FAQ Block:**
 
@@ -135,7 +135,7 @@ A: Documents and reports move through a secure online platform designed for fina
 Accord Advisors offers outsourced accounting for a fixed monthly fee (not hourly billing), with deep healthcare-focused accounting experience serving optometrists, dentists, medical professionals, service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
