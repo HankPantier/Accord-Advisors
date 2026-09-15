@@ -63,12 +63,12 @@ Owners who run a practice or a service business have a personal return that's ra
 Our CPA leads tax planning for individuals alongside the firm's outsourced accounting and business foundation clients, which means the same advisor who sees your monthly financials also prepares your 1040. That's CFO-level insight applied to a personal return, not just data entry at tax time. Visit [team expertise](/team-expertise) to see the credentials behind that advice, or read [why Accord Advisors](/why-accordadvisors) works differently from a typical local preparer.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Serving individuals in Bloomington and Indianapolis
+## Serving individuals nationwide, including Bloomington, Avon and Indianapolis
 
-Accord Advisors has advised Indiana individuals and business owners for decades, with particular depth in healthcare and optometry practices. Bloomington is home base, and Indianapolis is a core part of who we serve, not an afterthought.
+Accord Advisors has advised individuals and business owners for decades, with particular depth in healthcare and optometry practices. Bloomington and Avon are home base, and the Indianapolis area is a core part of who we serve. Our secure online platform means distance is never a barrier, so clients coast to coast work with us just as closely as those around the corner.
 
-- Deep experience: decades advising Indiana individuals and practice owners
-- 2 cities: Bloomington and Indianapolis clients served directly
+- Nationwide reach: individuals and practice owners served across the country
+- Local roots: Bloomington, Avon and the Indianapolis area served directly
 - 1 advisor: personal and business tax handled by the same CPA relationship
 
 See our [locations](/locations) for details on where we work, or explore [getting started](/getting-started) to see how the process begins.
