@@ -2,7 +2,7 @@
 title: "Personal income tax preparation and planning | Accord Advisors"
 url: "/services/personal-income-tax"
 meta_title: "Personal Income Tax Preparation & Planning | Nationwide CPA"
-meta_description: "Year-round personal income tax preparation and planning for Bloomington, Avon and Indianapolis individuals and business owners. Fixed fees, secure portal, CPA-led advice."
+meta_description: "Year-round personal income tax preparation and planning for individuals and business owners nationwide, including Bloomington, Avon and the Indianapolis area. Fixed fees, secure portal, CPA-led advice."
 target_keyword: "personal income tax preparation and planning bloomington, in"
 secondary_keywords: ["personal tax planning Indianapolis","CPA personal tax preparation Indiana","individual tax planning Bloomington","fixed fee tax preparation"]
 canonical_url: "https://accordadvisors.com/services/personal-income-tax"
