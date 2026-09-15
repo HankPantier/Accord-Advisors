@@ -4,7 +4,7 @@ url: "/forms-documents-links"
 meta_title: "Accounting Forms for Small Business | Bloomington, IN"
 meta_description: "Find accounting forms, tax checklists, and onboarding documents for optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
 target_keyword: "accounting forms for small business Bloomington IN"
-secondary_keywords: ["outsourced accounting services Bloomington Indiana","tax forms for medical professionals Bloomington","dental practice accounting resources Indiana","optometry business accounting Bloomington","church accounting forms Bloomington","business foundation accounting checklist Bloomington","CPA firm forms and documents Bloomington"]
+secondary_keywords: ["outsourced accounting services nationwide","tax forms for medical professionals Indiana","dental practice accounting resources Indianapolis","optometry business accounting Bloomington Indiana","church accounting forms Indianapolis area","business foundation accounting checklist Avon Indiana","CPA firm forms and documents professional services","accounting resources service-based businesses nationwide"]
 canonical_url: "https://accordadvisors.com/forms-documents-links"
 schema_markup: "FAQPage"
 hero: "page-header"
