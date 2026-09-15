@@ -181,6 +181,10 @@ Accord Advisors provides fixed-fee payroll administration integrated with outsou
   "email": "office@accordadvisors.com",
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
@@ -203,7 +207,7 @@ Accord Advisors provides fixed-fee payroll administration integrated with outsou
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors, Accord Advisors, Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -214,6 +218,10 @@ Accord Advisors provides fixed-fee payroll administration integrated with outsou
     "addressCountry": "US"
   },
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
