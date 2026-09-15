@@ -100,7 +100,7 @@ Stop guessing at what your vehicles and equipment cost to run. Accord Advisors b
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides fixed-fee outsourced accounting for Bloomington and Indianapolis service businesses that run vehicle fleets or heavy equipment, covering depreciation schedules, Section 179 tax planning, and monthly cost-per-vehicle reporting. Jared Hammack, CPA, leads the advisory work through a secure online platform instead of hourly billing.
+Accord Advisors provides fixed-fee outsourced accounting for service-based businesses nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, that run vehicle fleets or heavy equipment, covering depreciation schedules, Section 179 tax planning, and monthly cost-per-vehicle reporting. Jared Hammack, CPA, leads the advisory work through a secure online platform instead of hourly billing.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads fleet and equipment accounting advisory work
