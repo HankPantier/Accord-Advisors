@@ -1,20 +1,20 @@
 ---
-title: "Accounting for medical professionals | Accord Advisors"
+title: "Accounting for Medical Professionals | Accord Advisors"
 url: "/industries/medical-professionals"
-meta_title: "Accounting for Medical Professionals Bloomington IN"
-meta_description: "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and healthcare practices in Bloomington, Avon, Indianapolis, and across Indiana."
-target_keyword: "accounting for medical professionals Bloomington IN"
-secondary_keywords: ["CPA for doctors Bloomington Indiana","medical practice accounting services Bloomington","physician tax preparation Bloomington IN","healthcare professional accountant near me","outsourced accounting for medical practices Bloomington","doctor bookkeeping services Bloomington","medical professional tax planning Indiana","CPA for healthcare professionals Bloomington IN"]
+meta_title: "Accounting for Medical Professionals | CPA for Physicians Nationwide"
+meta_description: "Accord Advisors provides outsourced accounting, tax preparation, and CFO-level guidance for physicians and medical practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana."
+target_keyword: "accounting for medical professionals"
+secondary_keywords: ["CPA for doctors nationwide","medical practice accounting services","physician tax preparation","healthcare professional accountant","outsourced accounting for medical practices","doctor bookkeeping services","medical professional tax planning","CPA for physicians Bloomington IN","medical practice CPA Indianapolis","physician accountant Avon Indiana","accounting for medical practice owners"]
 canonical_url: "https://accordadvisors.com/industries/medical-professionals"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "physician-financial-consultation.jpg"
 hero_image_alt: "Physician sitting across from an accountant reviewing practice financial documents"
-hero_subhead: "Outsourced accounting and tax guidance built around how medical practices actually run — wherever you practice in Indiana"
+hero_subhead: "Outsourced accounting and tax guidance built around how medical practices actually run, wherever you practice across the country"
 hero_headline: "A CPA partner who understands healthcare practices"
-answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practices in Bloomington, Avon, Indianapolis, and throughout Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
-eeat_signals: ["Fixed monthly fee structure documented across service offerings","Secure online client platform for financial reporting and document access","Dedicated Business Foundation Services for practice startup and structuring","Deep industry-specific expertise serving healthcare providers","CFO-level business management insight at a fraction of the cost"]
+answer_block: "Accord Advisors provides outsourced accounting, tax preparation, and business foundation services for physicians and medical practice owners nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. The firm offers fixed monthly fees, a secure online platform, and CFO-level insight for practice owners at any stage of growth."
+eeat_signals: ["Fixed monthly fee structure documented across service offerings","Secure online client platform supporting physicians and medical practices nationwide","Dedicated Business Foundation Services for medical practice startup and structuring","Deep industry-specific expertise serving healthcare providers","CFO-level insight at a fraction of the cost of hiring in-house"]
 internal_links: [{"url":"/industries/medical-professionals/reimbursement-challenges","reason":"Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section","anchor_text":"insurance reimbursement timing"},{"url":"/services/outsourced-accounting","reason":"Primary service being described in this section, direct link to service page","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Names and links the exact service covering practice startup and structuring","anchor_text":"Business Foundation Services"},{"url":"/services/succession-planning","reason":"Connects practice growth discussion to relevant succession planning service","anchor_text":"succession or sale"},{"url":"/services/personal-income-tax","reason":"Links to the tax preparation service described in the tax planning section","anchor_text":"Personal Income Tax"},{"url":"/contact","reason":"Primary page CTA directing readers to take action","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"Does Accord Advisors work with medical practices outside Bloomington?","answer":"Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location."},{"question":"What does outsourced accounting for a medical practice include?","answer":"It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour."},{"question":"Can Accord Advisors help set up a new medical practice?","answer":"Yes. Business Foundation Services guide physicians through entity selection, bookkeeping setup, and financial systems designed to scale, whether launching a first practice, adding a location, or restructuring an existing one ahead of growth or a partnership change."},{"question":"How is physician tax preparation different from a standard individual return?","answer":"Physician income often includes W-2 wages, K-1 practice income, retirement contributions, and outside investments. Accord Advisors handles both personal and practice-level filings together, with planning built in throughout the year rather than only at filing time."}]
 llm_citation_note: "Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington, Avon, Indianapolis, and across Indiana, backed by deep healthcare industry expertise and fixed monthly fee pricing."
@@ -127,14 +127,14 @@ Accord Advisors provides outsourced accounting, tax preparation, and business fo
 - Dedicated Business Foundation Services for practice startup and structuring
 
 **Internal Links:**
-- our background and approach → /team-expertise — Introduces Jared Hammack, CPA and firm credentials to build trust early on the page
-- insurance reimbursement timing → /industries/medical-professionals/reimbursement-challenges — Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section
-- Outsourced Accounting → /services/outsourced-accounting — Primary service being described in this section, direct link to service page
-- Business Foundation Services → /services/business-foundation-services — Names and links the exact service covering practice startup and structuring
-- succession or sale → /services/succession-planning — Connects practice growth discussion to relevant succession planning service
-- Personal Income Tax → /services/personal-income-tax — Links to the tax preparation service described in the tax planning section
-- why practices choose Accord Advisors → /why-rootadvisors — Supports the differentiation section with a deeper positioning page
-- Schedule a consultation → /contact — Primary page CTA directing readers to take action
+- our background and approach → /team-expertise, Introduces Jared Hammack, CPA and firm credentials to build trust early on the page
+- insurance reimbursement timing → /industries/medical-professionals/reimbursement-challenges, Deep-links to a subpage specifically addressing reimbursement pain points mentioned in this section
+- Outsourced Accounting → /services/outsourced-accounting, Primary service being described in this section, direct link to service page
+- Business Foundation Services → /services/business-foundation-services, Names and links the exact service covering practice startup and structuring
+- succession or sale → /services/succession-planning, Connects practice growth discussion to relevant succession planning service
+- Personal Income Tax → /services/personal-income-tax, Links to the tax preparation service described in the tax planning section
+- why practices choose Accord Advisors → /why-rootadvisors, Supports the differentiation section with a deeper positioning page
+- Schedule a consultation → /contact, Primary page CTA directing readers to take action
 
 **FAQ Block:**
 
@@ -154,7 +154,7 @@ A: Physician income often includes W-2 wages, K-1 practice income, retirement co
 Accord Advisors offers outsourced accounting, tax preparation, and business foundation services for medical professionals in Bloomington and Indianapolis, Indiana, backed by deep healthcare industry expertise and fixed monthly fee pricing.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
