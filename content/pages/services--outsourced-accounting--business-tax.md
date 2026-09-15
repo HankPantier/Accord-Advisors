@@ -101,9 +101,8 @@ Accord Advisors provides outsourced accounting services nationwide, including Bl
 
 **E-E-A-T Signals:**
 - CPA-led client engagements with deep industry specialization
-- Extensive experience serving healthcare providers across Indiana
-- Serves Bloomington, Avon, Indianapolis, and clients statewide
-- Optometry clients frequently referred through the Acquios practice management network
+- Extensive experience serving healthcare providers nationwide
+- Serves clients across the country, with offices in Bloomington and Avon, Indiana, and deep ties to the Indianapolis area
 - Fixed monthly fee model documented in client agreements
 - Specialized expertise across optometry, dental, medical, service business, church, and professional service sectors
 
