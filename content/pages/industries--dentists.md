@@ -321,23 +321,11 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "audience": [
     {
       "@type": "Audience",
-      "audienceType": "Optometry Practices"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Medical Professionals"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dental Practices"
     },
     {
       "@type": "Audience",
-      "audienceType": "Service Businesses"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Churches"
+      "audienceType": "Dental Practice Owners"
     }
   ]
 }
