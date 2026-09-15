@@ -46,7 +46,7 @@ Every client works with Accord Advisors on a fixed monthly fee, set upfront and 
 
 Behind that fee is a secure online platform where you can see cash balances, receivables, and payables in real time, rather than waiting for a monthly close to find out how the firm performed. Then, we use that same data to deliver CFO-level insight: cash flow forecasts, profitability by client or project, and guidance on when the firm can afford to hire, invest in business development, or bring on a partner.
 
-The goal isn't just accurate books. It's giving attorneys, agency owners, financial advisors, and consultants across Bloomington, Avon, Indianapolis, and Indiana the financial and non-financial data they need, tracked in one place, to make confident decisions before a problem shows up in the bank balance.
+The goal isn't just accurate books. It's giving attorneys, agency owners, financial advisors, and consultants nationwide, including those based in Bloomington, Avon, and the Indianapolis area of Indiana, the financial and non-financial data they need, tracked in one place, to make confident decisions before a problem shows up in the bank balance.
 
 <!-- block: industry-cards | variant: 3-col -->
 ## Specialized Solutions for Your Industry
