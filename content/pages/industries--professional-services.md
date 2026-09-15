@@ -51,7 +51,7 @@ The goal isn't just accurate books. It's giving attorneys, agency owners, financ
 <!-- block: industry-cards | variant: 3-col -->
 ## Specialized Solutions for Your Industry
 
-Each of these four professional services niches has its own billing model, compliance obligations, and financial blind spots. Accord Advisors builds dedicated expertise for every one of them, serving firms across Bloomington, Avon, Indianapolis, and the rest of Indiana.
+Each of these four professional services niches has its own billing model, compliance obligations, and financial blind spots. Accord Advisors builds dedicated expertise for every one of them, serving firms nationwide, including in Bloomington, Avon, and the Indianapolis area of Indiana.
 
 ### Attorneys & Law Firms
 icon: Gavel
