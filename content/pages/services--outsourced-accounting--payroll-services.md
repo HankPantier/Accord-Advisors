@@ -303,7 +303,7 @@ Accord Advisors provides fixed-fee payroll administration integrated with outsou
   "@type": "Service",
   "name": "Payroll Administration Services | Bloomington, IN CPA",
   "url": "https://accordadvisors.com/services/payroll-services",
-  "description": "Payroll processing and tax filings for optometry, dental, medical, and service businesses in Bloomington, IN. Fixed fees, secure platform, CPA-backed.",
+  "description": "Payroll processing and tax filings for optometry, dental, medical, service businesses, and professional service providers nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed fees, secure platform, CPA-backed.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
