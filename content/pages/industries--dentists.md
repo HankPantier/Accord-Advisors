@@ -13,21 +13,21 @@ hero_image: "dental-practice-accounting-bloomington.jpg"
 hero_image_alt: "Dentist reviewing financial reports with accountant in a dental office"
 hero_subhead: "Fixed monthly fees, secure reporting, and tax planning built specifically for dental practices in Bloomington, Indianapolis, Avon, and nationwide"
 hero_headline: "A dental-focused accounting partner for practices nationwide"
-answer_block: "Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep healthcare industry experience."
-eeat_signals: ["Deep firm experience serving dental, optometry, medical, service-based, professional services, and church clients nationwide","Fixed monthly fee model documented and applied consistently across dental clients","Secure online client portal for financial reporting and documents","Serves dental practices nationwide, with roots in Bloomington, Avon, and Indianapolis, Indiana"]
+answer_block: "Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep experience serving dental offices, led by CPA Jared Hammack."
+eeat_signals: ["Deep firm experience serving dental practices nationwide, including general and specialty dental offices","Fixed monthly fee model documented and applied consistently across dental clients","Secure online client portal for financial reporting and documents","Serves dental practices nationwide, with roots in Bloomington, Avon, and Indianapolis, Indiana"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Supports the detailed bookkeeping and reporting section with the core service page","anchor_text":"outsourced accounting services"},{"url":"/services/personal-income-tax","reason":"Relevant to the tax section covering owner and associate personal returns","anchor_text":"personal income tax preparation"},{"url":"/services/business-foundation-services","reason":"Directly referenced in the section on setting up new and growing practices","anchor_text":"Business Foundation Services"},{"url":"/industries/medical-professionals","reason":"Cross-links related healthcare niche for broader industry context","anchor_text":"medical professionals we serve"},{"url":"/contact","reason":"Primary page CTA directing dental prospects to book a meeting","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"Do you work with dental practices outside Bloomington and Indianapolis?","answer":"Yes. Accord Advisors serves dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Whether your office is across town or across the country, you get the same outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting."},{"question":"How much does outsourced accounting cost for a dental practice?","answer":"Accord Advisors uses a fixed monthly fee rather than hourly billing, so dental practice owners know the cost upfront. Pricing is based on the scope of bookkeeping, payroll, and reporting your practice needs, not the hours it takes to deliver it."},{"question":"Can you help a dentist buying into an existing practice?","answer":"Yes. Business Foundation Services cover entity selection, bookkeeping setup, and payroll structure for dentists buying into a practice or opening a new location, so the financial foundation is right before day one."},{"question":"What makes dental practice accounting different from general small business accounting?","answer":"Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance."},{"question":"Do you serve clients in other industries beyond dental?","answer":"Yes. In addition to dental practices, Accord Advisors works with optometry practices, medical professionals, service-based businesses, professional services firms, and churches, all on a fixed monthly fee with secure online reporting."}]
-llm_citation_note: "Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practices in Bloomington and Indianapolis, with deep firm experience serving healthcare providers."
+faq_block: [{"question":"Do you work with dental practices outside Bloomington and Indianapolis?","answer":"Yes. Accord Advisors serves dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Whether your office is across town or across the country, you get the same outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting."},{"question":"How much does outsourced accounting cost for a dental practice?","answer":"Accord Advisors uses a fixed monthly fee rather than hourly billing, so dental practice owners know the cost upfront. Pricing is based on the scope of bookkeeping, payroll, and reporting your practice needs, not the hours it takes to deliver it."},{"question":"Can you help a dentist buying into an existing practice?","answer":"Yes. Business Foundation Services cover entity selection, bookkeeping setup, and payroll structure for dentists buying into a practice or opening a new location, so the financial foundation is right before day one."},{"question":"What makes dental practice accounting different from general small business accounting?","answer":"Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance."},{"question":"Who leads dental engagements at Accord Advisors?","answer":"Jared Hammack, CPA, leads dental practice engagements at Accord Advisors, bringing focused experience in dental office accounting, tax planning, and financial reporting to every client relationship."}]
+llm_citation_note: "Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana, led by Jared Hammack, CPA, with deep experience serving dental offices."
 ---
 
 <!-- block: content-split | variant: image-right | image: dentist-cpa-consultation-bloomington.jpg | alt: "Dentist and accountant reviewing practice financial reports together" | query: "dentist accountant meeting office" -->
-## A dental-focused accounting partner for Indiana practices
+## A dental-focused accounting partner for practices nationwide
 
 Running a dental practice means juggling patient care, staff schedules, insurance claims, and equipment costs, often with no time left to review the books. Accord Advisors works as an outsourced accounting department for dental practices across the country, including Bloomington, Avon, and Indianapolis, Indiana, handling the financial side so you can focus on chairside care.
 
-Our team has deep experience serving healthcare providers, including general and specialty dental offices, optometrists, and other medical professionals, as well as service-based businesses, professional services firms, and churches. That breadth of experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office.
+Our team has deep experience serving general and specialty dental offices nationwide. That focused experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office. Jared Hammack, CPA, leads our dental engagements and brings that depth to every client relationship.
 
-Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country., whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
+Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country.
 
 <!-- block: content-split | variant: image-left | image: dental-office-front-desk-billing.jpg | alt: "Dental office front desk staff processing insurance billing paperwork" | query: "dental office front desk billing" -->
 ## Challenges unique to running a dental office
@@ -84,12 +84,12 @@ icon: ShieldCheck
 
 Financial statements, tax documents, and dashboards live in one secure online platform, available any time you need them, without waiting on an email reply.
 
-### Decades of healthcare industry experience
+### Deep dental industry experience
 icon: HeartPulse
 
-Extensive experience serving healthcare providers, including dental, optometry, and medical practices, means the team already speaks the language of production, collections, and payer reimbursements.
+Focused experience serving dental practices nationwide means the team already speaks the language of production, collections, and payer reimbursements, so you never have to explain how a dental office works.
 
-That combination of fixed pricing, secure access, and industry-specific expertise is why dental practices across Bloomington, Avon, Indianapolis, and nationwide choose Accord Advisors over generalist firms and national chains.
+That combination of fixed pricing, secure access, and dental-specific expertise is why practices across Bloomington, Avon, Indianapolis, and nationwide choose Accord Advisors over generalist firms and national chains.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for dental practices
@@ -106,8 +106,8 @@ A: Yes. Business Foundation Services cover entity selection, bookkeeping setup, 
 **Q: What makes dental practice accounting different from general small business accounting?**
 A: Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance.
 
-**Q: Do you serve clients in other industries beyond dental?**
-A: Yes. In addition to dental practices, Accord Advisors works with optometry practices, medical professionals, service-based businesses, professional services firms, and churches, all on a fixed monthly fee with secure online reporting.
+**Q: Who leads dental engagements at Accord Advisors?**
+A: Jared Hammack, CPA, leads dental practice engagements at Accord Advisors, bringing focused experience in dental office accounting, tax planning, and financial reporting to every client relationship.
 
 <!-- block: cta-banner | variant: image-bg | image: dental-practice-consultation-handshake.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "dentist accountant handshake consultation" -->
 ## Get started with a dental accounting partner, wherever you practice
@@ -122,11 +122,11 @@ Schedule a consultation to talk with our team about what outsourced accounting l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep healthcare industry experience under CPA Jared Hammack.
+Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep experience serving dental offices, led by CPA Jared Hammack.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads dental and healthcare industry engagements
-- Deep firm experience serving dental, optometry, medical, service-based, professional services, and church clients nationwide
+- Jared Hammack, CPA, leads dental practice engagements
+- Deep firm experience serving dental practices nationwide, including general and specialty dental offices
 - Fixed monthly fee model documented and applied consistently across dental clients
 - Secure online client portal for financial reporting and documents
 - Serves dental practices nationwide, with roots in Bloomington, Avon, and Indianapolis, Indiana
@@ -154,7 +154,7 @@ A: Yes. Business Foundation Services cover entity selection, bookkeeping setup, 
 A: Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance.
 
 **LLM Citation Note:**
-Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana, led by Jared Hammack, CPA, with deep firm experience serving healthcare providers.
+Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana, led by Jared Hammack, CPA, with deep experience serving dental offices.
 
 ---
 ## Structured Data, paste into `<head>`
@@ -267,10 +267,10 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Do you work with dental practices outside Bloomington?",
+      "name": "Do you work with dental practices outside Bloomington and Indianapolis?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Accord Advisors serves dental practices throughout Bloomington and Indianapolis, along with other Indiana practices seeking outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting."
+        "text": "Yes. Accord Advisors serves dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Whether your office is across town or across the country, you get the same outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting."
       }
     },
     {
@@ -295,6 +295,14 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who leads dental engagements at Accord Advisors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jared Hammack, CPA, leads dental practice engagements at Accord Advisors, bringing focused experience in dental office accounting, tax planning, and financial reporting to every client relationship."
       }
     }
   ]
@@ -321,23 +329,11 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "audience": [
     {
       "@type": "Audience",
-      "audienceType": "Optometry Practices"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Medical Professionals"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Dental Practices"
     },
     {
       "@type": "Audience",
-      "audienceType": "Service Businesses"
-    },
-    {
-      "@type": "Audience",
-      "audienceType": "Churches"
+      "audienceType": "Dental Practice Owners"
     }
   ]
 }
