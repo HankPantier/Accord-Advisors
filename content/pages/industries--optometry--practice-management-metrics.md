@@ -2,7 +2,7 @@
 title: "Practice management metrics for optometry owners | Accord Advisors"
 url: "/industries/optometry/practice-management-metrics"
 meta_title: "Optometry Practice Management Metrics | Nationwide CPA Firm"
-meta_description: "Learn which financial and operational metrics optometry owners in Bloomington and Indianapolis should track monthly, and how outsourced accounting delivers them."
+meta_description: "Learn which financial and operational metrics optometry owners across the country should track monthly, and how outsourced accounting from Accord Advisors delivers them, including practices in Bloomington, Avon, and the Indianapolis area of Indiana."
 target_keyword: "practice management metrics for optometry owners bloomington, in"
 secondary_keywords: ["optometry practice financial metrics","optometry outsourced accounting Indianapolis","monthly dashboard optometry practice","optometry practice management Bloomington"]
 canonical_url: "https://accordadvisors.com/industries/optometry/practice-management-metrics"
