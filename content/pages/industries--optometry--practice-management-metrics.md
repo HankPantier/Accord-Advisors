@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "optometry-practice-metrics-review.jpg"
 hero_image_alt: "Optometry practice manager and accountant reviewing monthly performance metrics on screen"
-hero_subhead: "Monthly financial and operational dashboards that show optometry owners how the practice is really performing"
+hero_subhead: "Monthly financial and operational dashboards that show optometry owners nationwide how the practice is really performing"
 hero_headline: "Why monthly numbers matter more than year-end reports"
 answer_block: "Optometry practice owners should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. Accord Advisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data."
 eeat_signals: ["Deep experience serving healthcare providers including optometry and dental practices","Fixed monthly fee model with secure online reporting platform for ongoing practice visibility"]
