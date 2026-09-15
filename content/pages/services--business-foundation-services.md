@@ -285,7 +285,7 @@ Accord Advisors guides new optometry, dental, and medical practices, service-bas
       "name": "Do you work with practices outside Bloomington?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Accord Advisors serves new practice owners in Bloomington and Indianapolis, working with optometrists referred through Acquios along with dental, medical, and service-business founders across the region."
+        "text": "Yes. Accord Advisors serves new practice owners nationwide, with local roots in Bloomington, Avon, and the Indianapolis area of Indiana. Whether you're launching an optometry, dental, medical, service-based business, professional service firm, or church anywhere in the country, the same fixed monthly fee and secure online platform apply."
       }
     }
   ]
