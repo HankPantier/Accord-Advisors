@@ -278,10 +278,10 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
     },
     {
       "@type": "Question",
-      "name": "Do you work with optometry practices outside of Bloomington?",
+      "name": "Do you work with optometry and dental practices outside of Indiana?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. While we're based in Bloomington, Indiana, we serve optometry and dental practices throughout the Indianapolis area as well. Many optometry clients are referred to us through Acquios, and our portal makes remote collaboration straightforward regardless of location."
+        "text": "Yes. While we have offices in Bloomington and Avon, Indiana, and serve many clients throughout the Indianapolis area, we work with optometry, dental, medical, professional services, service-based, and church clients nationwide. Our secure online platform makes remote collaboration straightforward regardless of where you're located."
       }
     },
     {
