@@ -2,7 +2,7 @@
 title: "Business foundation services for new practices and businesses | Accord Advisors"
 url: "/services/business-foundation-services"
 meta_title: "Business Foundation Services for New Practices and Businesses"
-meta_description: "Optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee."
+meta_description: "Optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee."
 target_keyword: "business foundation services for new practices and businesses bloomington, in"
 secondary_keywords: ["new practice startup accounting Indiana","entity structure for optometry practice","fixed fee CPA Bloomington","practice launch bookkeeping setup","Indiana business registration for medical practice"]
 canonical_url: "https://accordadvisors.com/services/business-foundation-services"
@@ -33,7 +33,7 @@ The entity you choose in your first 90 days (S-corp, LLC, or professional corpor
 <!-- block: content-split | variant: image-left | image: bookkeeping-setup-healthcare-practice.jpg | alt: "Accountant setting up bookkeeping software for a new healthcare practice" | query: "accountant reviewing financial software office" -->
 ## Setting up accounting systems built for your practice or business
 
-From your first week seeing patients, serving clients, or opening your doors, you need to know how your practice or business is actually performing — not guess at it three months later when the tax return is due. Accord Advisors builds your chart of accounts and bookkeeping system around how your specific operation works: insurance reimbursements and patient copays for healthcare practices, job-based costs and crew payroll for service-based businesses, retainer and project revenue for professional service firms, contribution and ministry expense tracking for churches. Multiple revenue streams that generic software lumps into one line get tracked separately from the start, giving you numbers you can actually use. Everything runs through a secure online platform, so you and your practice manager, office administrator, or business partner can check real numbers anytime, not just when someone remembers to ask. New owners tell us the same thing: nobody explained, before Accord Advisors, how their bank balance connected to what they were actually earning. That gap closes in the first 30 days, not the first tax season.
+From your first week seeing patients, serving clients, or opening your doors, you need to know how your practice or business is actually performing, not guess at it three months later when the tax return is due. Accord Advisors builds your chart of accounts and bookkeeping system around how your specific operation works: insurance reimbursements and patient copays for healthcare practices, job-based costs and crew payroll for service-based businesses, retainer and project revenue for professional service firms, contribution and ministry expense tracking for churches. Multiple revenue streams that generic software lumps into one line get tracked separately from the start, giving you numbers you can actually use. Everything runs through a secure online platform, so you and your practice manager, office administrator, or business partner can check real numbers anytime, not just when someone remembers to ask. New owners tell us the same thing: nobody explained, before Accord Advisors, how their bank balance connected to what they were actually earning. That gap closes in the first 30 days, not the first tax season.
 
 <!-- block: checklist-section | variant: with-image | image: compliance-checklist-review.jpg | alt: "Business owner reviewing a compliance checklist with financial documents" | query: "business owner reviewing compliance documents" -->
 ## Navigating licensing, registrations, and compliance basics
@@ -148,7 +148,7 @@ A: Yes. Accord Advisors serves new practice owners in Bloomington and Indianapol
 Accord Advisors guides new optometry, dental, and medical practice owners on entity structure, accounting systems, and Indiana compliance registration, billed at a fixed monthly fee rather than by the hour.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
