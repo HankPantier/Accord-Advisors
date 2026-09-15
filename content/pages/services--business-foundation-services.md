@@ -118,7 +118,7 @@ Business foundation services cover the entity selection, accounting system setup
 - Licensed CPA credential leading advisory work
 - Deep experience serving healthcare providers including optometry and dental practices
 - Secure online accounting platform providing real-time financial visibility
-- Serving optometry, dental, medical, service-based business, professional service, and church clients across Bloomington, Avon, Indianapolis, and Indiana
+- Serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana
 
 **Internal Links:**
 - optometry practice management → /industries/optometry, Connects new optometry practice owners to niche-specific service details
