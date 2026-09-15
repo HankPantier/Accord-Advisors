@@ -84,12 +84,12 @@ icon: ShieldCheck
 
 Financial statements, tax documents, and dashboards live in one secure online platform, available any time you need them, without waiting on an email reply.
 
-### Decades of healthcare industry experience
+### Deep dental industry experience
 icon: HeartPulse
 
-Extensive experience serving healthcare providers, including dental, optometry, and medical practices, means the team already speaks the language of production, collections, and payer reimbursements.
+Focused experience serving dental practices nationwide means the team already speaks the language of production, collections, and payer reimbursements, so you never have to explain how a dental office works.
 
-That combination of fixed pricing, secure access, and industry-specific expertise is why dental practices across Bloomington, Avon, Indianapolis, and nationwide choose Accord Advisors over generalist firms and national chains.
+That combination of fixed pricing, secure access, and dental-specific expertise is why practices across Bloomington, Avon, Indianapolis, and nationwide choose Accord Advisors over generalist firms and national chains.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for dental practices
