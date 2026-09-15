@@ -210,6 +210,10 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   },
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
