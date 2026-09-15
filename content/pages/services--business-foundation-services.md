@@ -4,7 +4,7 @@ url: "/services/business-foundation-services"
 meta_title: "Business Foundation Services for New Practices and Businesses"
 meta_description: "Optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee."
 target_keyword: "business foundation services for new practices and businesses"
-secondary_keywords: ["new practice startup accounting Indiana","entity structure for optometry practice","fixed fee CPA Bloomington","practice launch bookkeeping setup","Indiana business registration for medical practice"]
+secondary_keywords: ["new practice startup accounting nationwide","entity structure for optometry practice","fixed fee CPA Bloomington","practice launch bookkeeping setup nationwide","business registration for medical practice","CPA firm near me","small business accountant","bookkeeping services for small business"]
 canonical_url: "https://accordadvisors.com/services/business-foundation-services"
 schema_markup: "Service"
 hero: "hero-split"
