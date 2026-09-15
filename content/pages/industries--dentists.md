@@ -27,7 +27,7 @@ Running a dental practice means juggling patient care, staff schedules, insuranc
 
 Our team has deep experience serving healthcare providers, including general and specialty dental offices, optometrists, and other medical professionals, as well as service-based businesses, professional services firms, and churches. That breadth of experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office.
 
-Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
+Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country., whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
 
 <!-- block: content-split | variant: image-left | image: dental-office-front-desk-billing.jpg | alt: "Dental office front desk staff processing insurance billing paperwork" | query: "dental office front desk billing" -->
 ## Challenges unique to running a dental office
