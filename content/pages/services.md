@@ -129,7 +129,7 @@ A: Accord Advisors charges a fixed monthly fee rather than billing by the hour, 
 A: Accord Advisors serves clients in Bloomington, Indianapolis, and Avon, Indiana, working with optometry practices, medical professionals, service businesses, and churches throughout the region. Reporting and communication happen through a secure online platform, so location rarely limits the relationship.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business consultation handshake office meeting" -->
-## Get started with a Bloomington and Indianapolis accounting partner
+## Get started with an accounting partner built for your practice, wherever you are
 
 If your practice or business needs more than a once-a-year tax appointment, it's time for a different kind of accounting relationship. Fixed monthly fees, a secure online platform, and a CPA who already understands optometry, dental, medical, service, or church accounting: that's the model we've built for clients nationwide, including Bloomington and the Indianapolis area of Indiana, from startup through succession.
 
