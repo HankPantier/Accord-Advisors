@@ -169,6 +169,10 @@ Accord Advisors provides fixed-fee outsourced fund accounting for churches natio
   "email": "office@accordadvisors.com",
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
