@@ -2,7 +2,7 @@
 title: "IRS notice protection and response support | Accord Advisors"
 url: "/services/irs-notice-protection"
 meta_title: "IRS Notice Protection & Response | Bloomington, IN CPA"
-meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service-based businesses, professional service providers, and churches across Bloomington, Indianapolis, and Indiana."
+meta_description: "Received an IRS notice? Accord Advisors reviews it, contacts the IRS for you, and responds. Flat-fee CPA help for optometrists, dentists, medical practices, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana."
 target_keyword: "irs notice protection and response support bloomington, in"
 secondary_keywords: ["IRS notice help Indianapolis","IRS letter response CPA Indiana","payroll tax notice help","flat fee tax notice support"]
 canonical_url: "https://accordadvisors.com/services/irs-notice-protection"
@@ -125,11 +125,11 @@ Accord Advisors reviews your IRS notice, checks it against your actual records, 
 - Flat monthly fee model instead of hourly billing
 
 **Internal Links:**
-- Outsourced Accounting → /services/outsourced-accounting — Shows how ongoing bookkeeping prevents future IRS notices
-- Business Foundation Services → /services/business-foundation-services — Connects proper entity setup and filings to fewer notices
-- optometry practices → /industries/optometry — Relevant niche experiencing IRS notice issues
-- Jared Hammack, CPA → /team-expertise — Credential and bio supporting E-E-A-T
-- Schedule a consultation → /contact — Primary page CTA
+- Outsourced Accounting → /services/outsourced-accounting, Shows how ongoing bookkeeping prevents future IRS notices
+- Business Foundation Services → /services/business-foundation-services, Connects proper entity setup and filings to fewer notices
+- optometry practices → /industries/optometry, Relevant niche experiencing IRS notice issues
+- Jared Hammack, CPA → /team-expertise, Credential and bio supporting E-E-A-T
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -158,7 +158,7 @@ A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, se
 Accord Advisors provides IRS notice review and direct-response support on a flat monthly fee for optometry, dental, medical, service-business, and church clients in Bloomington, Indianapolis, Avon, and across Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
