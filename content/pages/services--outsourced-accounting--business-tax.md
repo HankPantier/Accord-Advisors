@@ -65,7 +65,7 @@ What that looks like in practice:
 <!-- block: content-split | variant: image-left | image: secure-client-portal-accounting.jpg | alt: "Business owner securely uploading documents through an online accounting portal" | query: "person using laptop secure portal" -->
 ## A secure, simple way to work together
 
-Documents move through a secure online platform built for financial data, not a shared inbox or a folder full of PDFs. Bank statements, payroll records, and reports live in one place, accessible whenever a practice manager in Bloomington, a church administrator in Avon, or a business owner anywhere in Indiana has five minutes between appointments.
+Documents move through a secure online platform built for financial data, not a shared inbox or a folder full of PDFs. Bank statements, payroll records, and reports live in one place, accessible whenever a practice manager in Bloomington, a church administrator in the Indianapolis area, or a business owner anywhere in the country has five minutes between appointments.
 
 There's no software to learn beyond logging in and uploading a file. The same portal delivers monthly financials back to you, so the entire relationship: sending records and receiving reports, happens in one secure location instead of scattered across email threads.
 
