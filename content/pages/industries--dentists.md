@@ -125,8 +125,8 @@ Schedule a consultation to talk with our team about what outsourced accounting l
 Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep experience serving dental offices, led by CPA Jared Hammack.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, leads dental and healthcare industry engagements
-- Deep firm experience serving dental, optometry, medical, service-based, professional services, and church clients nationwide
+- Jared Hammack, CPA, leads dental practice engagements
+- Deep firm experience serving dental practices nationwide, including general and specialty dental offices
 - Fixed monthly fee model documented and applied consistently across dental clients
 - Secure online client portal for financial reporting and documents
 - Serves dental practices nationwide, with roots in Bloomington, Avon, and Indianapolis, Indiana
