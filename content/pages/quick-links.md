@@ -46,7 +46,7 @@ If you're unsure which method to use for a specific document, contact our team t
 <!-- block: checklist-section | variant: with-image-right | image: optometrist-dental-practice-consultation.jpg | alt: "Optometrist and practice manager reviewing financial reports in an exam office" | query: "optometrist dentist practice manager meeting" -->
 ## Helpful links for optometry and dental practices
 
-Nearly 40 years of serving healthcare providers means we've built relationships and reference points specific to eye care and dental practices, not generic small-business advice retrofitted for you. Many of our optometry clients come to us through Acquios (acquios.com), a referral network we work with regularly, and we've organized these links with that connection in mind.
+Years of serving healthcare providers nationwide means we've built reference points specific to eye care and dental practices, not generic small-business advice retrofitted for you. Our optometry and dental clients span practices across the country, including those in Bloomington, Avon, and the Indianapolis area, and we've organized these links with their day-to-day questions in mind.
 
 - [Optometry industry insights and benchmarks](/industries/optometry)
 - [Practice management metrics that matter for your P&L](/industries/optometry/practice-management-metrics)
