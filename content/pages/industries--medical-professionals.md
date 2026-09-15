@@ -140,8 +140,8 @@ Accord Advisors provides outsourced accounting, tax preparation, and business fo
 
 **FAQ Block:**
 
-**Q: Does Accord Advisors work with medical practices outside Bloomington?**
-A: Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location.
+**Q: Does Accord Advisors work with medical practices outside Indiana?**
+A: Yes. Accord Advisors serves physicians and medical practice owners nationwide. The firm uses a secure online platform that supports remote collaboration regardless of where a practice is located, while also maintaining a local presence for practices in Bloomington, Avon, and the Indianapolis area of Indiana.
 
 **Q: What does outsourced accounting for a medical practice include?**
 A: It covers bookkeeping, reconciliations, financial statement preparation, and monthly reporting delivered through a secure portal, functioning as a full back-office accounting department for the practice, priced at a fixed monthly fee rather than billed by the hour.
