@@ -126,8 +126,8 @@ Accord Advisors is a CPA firm serving optometry, dental, and medical practices, 
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, founder
-- Nearly 40 years of firm experience serving healthcare and service business clients
-- Specialization in optometry, dental, medical, service business, and church accounting
+- Deep industry-specific expertise serving optometry, dental, medical, service-based, professional service, and church clients nationwide
+- Offices in Bloomington and Avon, Indiana, serving clients across the country
 - Fixed monthly fee model versus hourly billing
 - Secure online client portal for monthly reporting
 
