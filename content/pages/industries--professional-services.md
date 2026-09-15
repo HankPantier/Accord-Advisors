@@ -81,10 +81,10 @@ icon: Award
 
 Accord Advisors focuses on attorneys, advertising agencies, financial advisors, and consulting firms. That focus means less time explaining how your firm earns money and more time acting on the numbers.
 
-### Indiana-Wide Coverage
+### Nationwide Coverage
 icon: MapPin
 
-Whether your practice is in Bloomington, Avon, Indianapolis, or anywhere else in Indiana, Accord Advisors serves you through a secure online platform that makes geography irrelevant without sacrificing the personal advisory relationship.
+Whether your practice is in Bloomington, Avon, or the Indianapolis area of Indiana, or anywhere else in the country, Accord Advisors serves you through a secure online platform that makes geography irrelevant without sacrificing the personal advisory relationship.
 
 ### Transparent, Fixed Pricing
 icon: DollarSign
