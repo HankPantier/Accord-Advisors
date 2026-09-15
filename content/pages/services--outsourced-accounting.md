@@ -154,8 +154,8 @@ A: Accord Advisors' outsourced accounting covers bookkeeping, monthly financial 
 **Q: How is pricing structured for outsourced accounting services?**
 A: Pricing is a fixed monthly fee, set after reviewing your business size, transaction volume, and reporting needs. There's no hourly billing, so you can ask questions or request reports without watching a clock run against your invoice.
 
-**Q: Does Accord Advisors work with healthcare practices specifically?**
-A: Yes. The firm has nearly 40 years of experience with optometry practices, medical offices, and dental practices, including reimbursement timing, equipment financing, and staffing costs. Optometry clients are often referred through the Acquios consulting network.
+**Q: Does Accord Advisors work with healthcare practices and medical professionals?**
+A: Yes. The firm has deep expertise serving optometrists, dentists, and medical professionals nationwide, including Bloomington, Avon, and the greater Indianapolis area of Indiana. That includes understanding insurance reimbursement timing, equipment financing, staffing costs, and the cash flow patterns specific to healthcare practices.
 
 **Q: How do I access my financial reports?**
 A: Clients use a secure, cloud-based platform to view current financial reports, upload and retrieve documents, and give their accountant, bookkeeper, and tax preparer access to the same live numbers, anytime, from a laptop or phone.
