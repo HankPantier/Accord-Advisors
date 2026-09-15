@@ -18,9 +18,9 @@ llm_citation_note: "Accord Advisors' insights hub is organized by industry (opto
 <!-- block: intro-text | variant: centered -->
 ## What you'll find in our insights hub
 
-This is where Accord Advisors shares what we're seeing in real client work: tax law changes that affect Indiana business owners, bookkeeping habits that save practices money, and the financial questions we get asked most often at the coffee-meeting stage of a new client relationship. Nothing here is generic filler pulled from a national content calendar.
+This is where Accord Advisors shares what we're seeing in real client work: tax law changes that affect business owners, bookkeeping habits that save practices money, and the financial questions we get asked most often at the early stage of a new client relationship. Nothing here is generic filler pulled from a national content calendar.
 
-Articles are organized around the people we actually serve: optometrists, dentists, physicians and healthcare groups, service-based businesses, and churches across Bloomington and Indianapolis. If you manage a practice or run a business and want plain answers instead of jargon, start browsing below, or skip ahead and [schedule a consultation](/contact) to talk through your specific situation with a CPA.
+Articles are organized around the people we actually serve: optometrists, dentists, physicians and healthcare groups, professional services firms, service-based businesses, and churches across the country, including Bloomington and the Indianapolis area, Indiana. If you manage a practice or run a business and want plain answers instead of jargon, start browsing below, or skip ahead and [schedule a consultation](/contact) to talk through your specific situation with a CPA.
 
 <!-- block: content-split | variant: image-right | image: optometry-dental-insights.jpg | alt: "Optometrist reviewing practice financial reports with staff" | query: "optometrist reviewing paperwork practice" -->
 ## Guidance for optometry and dental practices
