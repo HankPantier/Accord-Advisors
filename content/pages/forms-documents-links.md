@@ -2,7 +2,7 @@
 title: "Essential accounting forms and resources | Accord Advisors"
 url: "/forms-documents-links"
 meta_title: "Accounting Forms for Small Business | Bloomington, IN"
-meta_description: "Find accounting forms, tax checklists, and onboarding documents for Bloomington, IN businesses, medical and optometry practices, churches, and individuals."
+meta_description: "Find accounting forms, tax checklists, and onboarding documents for optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
 target_keyword: "accounting forms for small business Bloomington IN"
 secondary_keywords: ["outsourced accounting services Bloomington Indiana","tax forms for medical professionals Bloomington","dental practice accounting resources Indiana","optometry business accounting Bloomington","church accounting forms Bloomington","business foundation accounting checklist Bloomington","CPA firm forms and documents Bloomington"]
 canonical_url: "https://accordadvisors.com/forms-documents-links"
@@ -122,15 +122,15 @@ Accord Advisors organizes accounting forms and checklists by industry and by sta
 - Fixed monthly fee outsourced accounting model with a secure online client portal
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Points readers from the onboarding checklist to the full outsourced accounting service description
-- optometry → /industries/optometry — Connects optometry-specific tax document mention to the dedicated optometry industry page
-- dental → /industries/dentists — Supports dental practice mention with a link to the dentist-focused industry page
-- medical professional → /industries/medical-professionals — Links medical practice tax document discussion to the medical professionals industry page
-- service business → /industries/service-businesses — Connects service business forms section to the dedicated industry page
-- church → /industries/churches — Connects church accounting forms section to the dedicated church industry page
-- business foundation services → /services/business-foundation-services — Directs startup and growth-stage readers to the full Business Foundation Services offering
-- personal income tax → /services/personal-income-tax — Links personal tax checklist section to the full personal income tax service page
-- Schedule a consultation → /contact — Primary page CTA directing visitors to book a consultation
+- outsourced accounting → /services/outsourced-accounting, Points readers from the onboarding checklist to the full outsourced accounting service description
+- optometry → /industries/optometry, Connects optometry-specific tax document mention to the dedicated optometry industry page
+- dental → /industries/dentists, Supports dental practice mention with a link to the dentist-focused industry page
+- medical professional → /industries/medical-professionals, Links medical practice tax document discussion to the medical professionals industry page
+- service business → /industries/service-businesses, Connects service business forms section to the dedicated industry page
+- church → /industries/churches, Connects church accounting forms section to the dedicated church industry page
+- business foundation services → /services/business-foundation-services, Directs startup and growth-stage readers to the full Business Foundation Services offering
+- personal income tax → /services/personal-income-tax, Links personal tax checklist section to the full personal income tax service page
+- Schedule a consultation → /contact, Primary page CTA directing visitors to book a consultation
 
 **FAQ Block:**
 
@@ -150,7 +150,7 @@ A: Bring W-2s or 1099s, mortgage interest and property tax statements, charitabl
 Accord Advisors organizes accounting forms and checklists by industry, optometry, dental, medical, service business, and church, and by engagement stage, onboarding, tax preparation, and business foundation setup, reflecting nearly 40 years of healthcare accounting experience and a fixed monthly fee outsourced accounting model with a secure client portal.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
