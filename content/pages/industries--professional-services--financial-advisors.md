@@ -102,9 +102,10 @@ Accord Advisors provides outsourced accounting, payroll, and CFO-level financial
 
 **E-E-A-T Signals:**
 - Accord Advisors team leads the firm's advisory services
-- Deep industry-specific expertise serving healthcare providers and professional practices
+- Deep industry-specific expertise serving financial advisors and professional practices nationwide
 - Fixed monthly fee model documented via a public pricing calculator
 - Secure, dedicated online client platform for financial reporting
+- Serving clients in Bloomington, Avon, and the Indianapolis area of Indiana, and financial advisors across the country
 
 **Internal Links:**
 - outsourced accounting → /services/outsourced-accounting, Links to the core service page detailing bookkeeping and accounting support
