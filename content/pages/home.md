@@ -132,7 +132,7 @@ Accord Advisors is a CPA firm with offices in Bloomington and Avon, Indiana, led
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, licensed and leading the firm
-- Nearly 40 years of combined experience serving healthcare providers
+- Serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana
 - Fixed-fee outsourced accounting model in place of hourly billing
 
 **Internal Links:**
