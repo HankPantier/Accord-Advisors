@@ -58,7 +58,7 @@ Hourly billing punishes you for asking questions, and the startup phase is exact
 ### Optometry Practices
 icon: Stethoscope
 
-Accord Advisors works with optometry practice managers and shareholders across Bloomington, Avon, and Indianapolis on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
+Accord Advisors works with optometry practice managers and shareholders nationwide, including Bloomington, Avon, and the Indianapolis area, on entity structure, equipment financing, and insurance billing setup through every stage of practice growth. Your foundation gets built around how optometry actually gets reimbursed, not a generic small-business template.
 
 ### Dental Practices
 icon: ClipboardCheck
