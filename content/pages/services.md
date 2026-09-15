@@ -3,7 +3,7 @@ title: "Accounting Services for Individuals, Businesses & Practices | Accord Adv
 url: "/services"
 meta_title: "CPA Accounting Services | Nationwide | Accord Advisors"
 meta_description: "Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometrists, dentists, medical professionals, service businesses, churches, and individuals across Bloomington, Avon, Indianapolis, and Indiana, at a fixed monthly fee."
-target_keyword: "CPA accounting services Bloomington Indianapolis Indiana"
+target_keyword: "CPA accounting services nationwide Bloomington Indianapolis Indiana"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","CPA firm for optometry practices Indiana","business foundation services Indianapolis","fixed fee accounting services Indiana","accounting for dentists Indiana","CPA for churches Bloomington IN","accounting for service businesses Indianapolis","personal income tax preparation Indiana","CPA for medical professionals Bloomington","accounting firm Avon Indiana"]
 canonical_url: "https://accordadvisors.com/services"
 schema_markup: "Service"
