@@ -306,7 +306,7 @@ Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practi
   "@type": "Service",
   "name": "Dental Practice Accounting Bloomington IN | Accord Advisors",
   "url": "https://accordadvisors.com/industries/dentists",
-  "description": "Fixed-fee accounting for dental practices in Bloomington and Indianapolis. Bookkeeping, payroll, tax planning, and dashboards built by CPA Jared Hammack.",
+  "description": "Fixed-fee accounting for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Bookkeeping, payroll, tax planning, and dashboards built by CPA Jared Hammack.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
