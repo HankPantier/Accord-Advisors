@@ -294,7 +294,7 @@ Accord Advisors, led by Jared Hammack, CPA, replaces hourly billing with fixed m
       "name": "Does Accord Advisors work with optometry practices specifically?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Accord Advisors has served optometry practices for nearly 40 years combined, and many optometrist clients are referred through Acquios, a practice management network. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry."
+        "text": "Yes. Accord Advisors works with optometry practices nationwide. Services include practice management metrics, associate compensation guidance, and tax planning specific to optometry."
       }
     },
     {
