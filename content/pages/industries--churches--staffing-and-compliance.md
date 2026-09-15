@@ -62,7 +62,7 @@ icon: DollarSign
 
 No hourly billing surprises. Churches budget a set amount each month for accounting and payroll support, with no invoice creep when a board meeting runs long or a question comes up.
 
-### Indiana-based, relationship-driven service
+### Relationship-driven service, wherever you are
 icon: MapPin
 
 Accord Advisors works with churches, optometry practices, and service businesses across Bloomington, Avon, Indianapolis, and throughout Indiana, not from a call center out of state. The finance committee talks to the same person every time, whether the church is in a small Indiana town or a major metro.
