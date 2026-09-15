@@ -2,7 +2,7 @@
 title: "Financial planning for fleets tools and equipment | Accord Advisors"
 url: "/industries/service-businesses/fleet-and-equipment-planning"
 meta_title: "Fleet Accounting Services for Service Businesses Nationwide | Accord Advisors"
-meta_description: "Fleet and equipment accounting for Bloomington and Indianapolis service-based businesses. Fixed monthly fees, depreciation planning, and Section 179 tax strategy from a CPA-led firm."
+meta_description: "Fleet and equipment accounting for service-based businesses nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed monthly fees, depreciation planning, and Section 179 tax strategy from a CPA-led firm."
 target_keyword: "fleet accounting services Bloomington IN"
 secondary_keywords: ["equipment depreciation accounting Bloomington","fleet management accounting Bloomington IN","fleet tax planning Indiana","equipment finance accounting Bloomington","fleet vehicle tax deductions Bloomington","outsourced accounting for service businesses Bloomington","equipment capitalization accounting Bloomington IN","fleet depreciation tax strategy","service business financial planning Bloomington"]
 canonical_url: "https://accordadvisors.com/industries/service-businesses/fleet-and-equipment-planning"
