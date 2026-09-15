@@ -4,7 +4,7 @@ url: "/services/outsourced-accounting/bookkeeping"
 meta_title: "Outsourced Bookkeeping Services for Practices Nationwide | Accord Advisors CPA"
 meta_description: "Outsourced bookkeeping for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed monthly fees and secure online access."
 target_keyword: "outsourced bookkeeping services"
-secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced accounting department","healthcare practice bookkeeping","fixed fee bookkeeping","bookkeeping for optometrists Indiana","bookkeeping for medical practices Indianapolis","church bookkeeping Indiana","dental practice bookkeeping Bloomington"]
+secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced accounting department","healthcare practice bookkeeping","fixed fee bookkeeping","bookkeeping for optometrists nationwide","bookkeeping for medical practices Indianapolis","church bookkeeping nationwide","dental practice bookkeeping","outsourced bookkeeping for professional services","bookkeeping for service businesses nationwide"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bookkeeping"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
