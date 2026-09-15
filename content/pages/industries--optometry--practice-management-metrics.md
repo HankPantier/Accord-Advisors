@@ -1,7 +1,7 @@
 ---
 title: "Practice management metrics for optometry owners | Accord Advisors"
 url: "/industries/optometry/practice-management-metrics"
-meta_title: "Optometry Practice Management Metrics | Bloomington, IN"
+meta_title: "Optometry Practice Management Metrics | Nationwide CPA Firm"
 meta_description: "Learn which financial and operational metrics optometry owners in Bloomington and Indianapolis should track monthly, and how outsourced accounting delivers them."
 target_keyword: "practice management metrics for optometry owners bloomington, in"
 secondary_keywords: ["optometry practice financial metrics","optometry outsourced accounting Indianapolis","monthly dashboard optometry practice","optometry practice management Bloomington"]
@@ -104,11 +104,11 @@ Optometry practice owners should track monthly revenue per patient encounter, co
 - Fixed monthly fee model with secure online reporting platform for ongoing practice visibility
 
 **Internal Links:**
-- optometry practice accounting services → /industries/optometry — Links to the parent industry page for optometry-specific services
-- outsourced accounting department → /services/outsourced-accounting — Connects to the core service that delivers the monthly dashboards described on this page
-- why practices choose Accord Advisors → /why-rootadvisors — Reinforces differentiation around fixed fees and industry expertise
-- Schedule a consultation → /contact — Primary page CTA directing to contact form
-- getting started with outsourced accounting → /getting-started — Guides ready prospects to the onboarding process page
+- optometry practice accounting services → /industries/optometry, Links to the parent industry page for optometry-specific services
+- outsourced accounting department → /services/outsourced-accounting, Connects to the core service that delivers the monthly dashboards described on this page
+- why practices choose Accord Advisors → /why-rootadvisors, Reinforces differentiation around fixed fees and industry expertise
+- Schedule a consultation → /contact, Primary page CTA directing to contact form
+- getting started with outsourced accounting → /getting-started, Guides ready prospects to the onboarding process page
 
 **FAQ Block:**
 
@@ -128,7 +128,7 @@ A: Outsourced accounting through Accord Advisors provides a full accounting team
 Accord Advisors delivers monthly optometry practice dashboards combining financial metrics (revenue per encounter, cost of goods, overhead ratio, cash flow) with operational metrics (recall rates, conversion, staff productivity), backed by deep healthcare accounting experience and industry-specific expertise serving optometry and dental practices.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
