@@ -16,14 +16,14 @@ hero_headline: "Industry-specific accounting that goes beyond general bookkeepin
 answer_block: "Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, professional service providers (including attorneys, advertising agencies, financial advisors, and consultants), service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana. The firm offers fixed monthly fees, a secure online platform, and deep industry-specific expertise instead of generic hourly bookkeeping."
 eeat_signals: ["Fixed monthly fee model documented across all industry service lines"]
 internal_links: [{"url":"/industries/optometry","reason":"Deeper dive into optometry-specific accounting services","anchor_text":"optometry"},{"url":"/industries/dentists","reason":"Dedicated page for dental practice accounting details","anchor_text":"dentists"},{"url":"/industries/medical-professionals","reason":"Detailed page for healthcare provider accounting needs","anchor_text":"medical professionals"},{"url":"/industries/service-businesses","reason":"Expands on service business accounting support","anchor_text":"service businesses"},{"url":"/industries/churches","reason":"Expands on church and nonprofit accounting details","anchor_text":"churches"},{"url":"/services/outsourced-accounting","reason":"Links to core service underpinning all industry work","anchor_text":"outsourced accounting"},{"url":"/services/business-foundation-services","reason":"Relevant for startups within service business section","anchor_text":"business foundation services"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"What industries does Accord Advisors serve in Bloomington, IN?","answer":"Accord Advisors serves a wide range of businesses with a specialized focus on optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches in Bloomington, Avon, and Indianapolis."},{"question":"Does Accord Advisors charge by the hour?","answer":"No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing."},{"question":"Can a church or religious organization use outsourced accounting?","answer":"Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on."}]
+faq_block: [{"question":"What industries does Accord Advisors serve?","answer":"Accord Advisors serves optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."},{"question":"Does Accord Advisors work with clients outside of Indiana?","answer":"Yes. Accord Advisors serves clients nationwide. While the firm has offices in Bloomington and Avon, Indiana, outsourced accounting, tax, and advisory services are available to practices and organizations across the country through a secure online platform."},{"question":"Does Accord Advisors charge by the hour?","answer":"No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing."},{"question":"Can a church or religious organization use outsourced accounting?","answer":"Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on."}]
 llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, medical, professional service firm, and church clients across Bloomington, Avon, Indianapolis, and Indiana."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Industry-specific accounting that goes beyond general bookkeeping
 
-General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has spent years learning the financial rhythms of specific fields: optometry, dentistry, medicine, professional service providers, service-based businesses, and churches across Bloomington, Avon, and Indianapolis.
+General bookkeeping counts money. It doesn't tell an optometrist why patient volume dipped in March, or help a church treasurer explain restricted funds to the board. Accord Advisors has built deep expertise in the financial rhythms of specific fields: optometry, dentistry, medicine, professional service providers, service-based businesses, and churches. That expertise serves clients nationwide, with a strong local presence in Bloomington, Avon and the Indianapolis area of Indiana.
 
 That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist like Accord Advisors knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
 
@@ -74,13 +74,13 @@ A church treasurer answers to a congregation, not shareholders. Fund accounting,
 Our work with churches and religious organizations centers on accurate, transparent reporting that a finance committee or board can stand behind without a second guess. Fixed monthly pricing keeps the relationship predictable for organizations that run on donated dollars. Read more on our [churches](/industries/churches) page.
 
 <!-- block: checklist-section | variant: with-image | image: bloomington-indianapolis-business-meeting.jpg | alt: "Advisor meeting with Bloomington business owner in a modern office" | query: "professional meeting Indianapolis office" -->
-## Why Bloomington and Indianapolis businesses choose a dedicated industry partner
+## Why practices and organizations nationwide choose a dedicated industry partner
 
-Business owners in Bloomington and Indianapolis don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing.
+Business owners and practice leaders across the country don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing. Accord Advisors serves clients nationwide, with deep roots in Bloomington and the Indianapolis area (including Avon), Indiana.
 
 - Fixed monthly fees instead of hourly billing, so budgeting for accounting costs is never a guessing game
-- A secure online platform for sharing documents and reviewing financials without a scanner or a filing cabinet
-- Deep industry-specific experience across optometry, dental, medical, professional service firm, service-based business, and church clients
+- A secure online platform for sharing documents and reviewing financials from anywhere in the country
+- Deep industry-specific experience across optometry, dental, medical, professional service, service-based business, and church clients
 - CFO-level insight into monthly performance, delivered at a fraction of the cost of an in-house hire
 
 Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about why Accord Advisors approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/contact) and we'll walk through what your monthly reporting could look like.
@@ -88,8 +88,11 @@ Owners who want to see how this works for their own practice or organization can
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
 
-**Q: What industries does Accord Advisors serve in Bloomington, IN?**
-A: Accord Advisors serves a wide range of businesses with a specialized focus on optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches in Bloomington, Avon, and Indianapolis.
+**Q: What industries does Accord Advisors serve?**
+A: Accord Advisors serves optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana.
+
+**Q: Does Accord Advisors work with clients outside of Indiana?**
+A: Yes. Accord Advisors serves clients nationwide. While the firm has offices in Bloomington and Avon, Indiana, outsourced accounting, tax, and advisory services are available to practices and organizations across the country through a secure online platform.
 
 **Q: Does Accord Advisors charge by the hour?**
 A: No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.
@@ -100,28 +103,29 @@ A: Yes. Churches need fund accounting and stewardship reporting that differs fro
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington, Avon, and Indianapolis. The firm offers fixed monthly fees, a secure online platform, and nearly 40 years of niche experience instead of generic hourly bookkeeping.
+Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. The firm offers fixed monthly fees, a secure online platform, and deep industry-specific expertise instead of generic hourly bookkeeping.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads the firm's advisory work
-- Nearly 40 years serving healthcare providers and niche industries
+- Deep industry-specific experience serving optometry, dental, medical, professional services, service-based businesses, and churches
 - Fixed monthly fee model documented across all industry service lines
+- Serves clients nationwide with a strong local presence in Bloomington and the Indianapolis area (including Avon), Indiana
 
 **Internal Links:**
-- optometry → /industries/optometry — Deeper dive into optometry-specific accounting services
-- dentists → /industries/dentists — Dedicated page for dental practice accounting details
-- medical professionals → /industries/medical-professionals — Detailed page for healthcare provider accounting needs
-- service businesses → /industries/service-businesses — Expands on service business accounting support
-- churches → /industries/churches — Expands on church and nonprofit accounting details
-- outsourced accounting → /services/outsourced-accounting — Links to core service underpinning all industry work
-- business foundation services → /services/business-foundation-services — Relevant for startups within service business section
-- why Accord Advisors → /why-rootadvisors — Reinforces differentiators for undecided prospects
-- schedule a consultation → /contact — Primary page CTA
+- optometry → /industries/optometry, Deeper dive into optometry-specific accounting services
+- dentists → /industries/dentists, Dedicated page for dental practice accounting details
+- medical professionals → /industries/medical-professionals, Detailed page for healthcare provider accounting needs
+- service businesses → /industries/service-businesses, Expands on service business accounting support
+- churches → /industries/churches, Expands on church and nonprofit accounting details
+- outsourced accounting → /services/outsourced-accounting, Links to core service underpinning all industry work
+- business foundation services → /services/business-foundation-services, Relevant for startups within service business section
+- why Accord Advisors → /why-rootadvisors, Reinforces differentiators for undecided prospects
+- schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
-**Q: What industries does Accord Advisors serve in Bloomington, IN?**
-A: Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, and churches in Bloomington, Avon, and Indianapolis, with deep experience serving healthcare providers specifically.
+**Q: What industries does Accord Advisors serve?**
+A: Accord Advisors serves optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana.
 
 **Q: Does Accord Advisors charge by the hour?**
 A: No. Every industry engagement runs on a fixed monthly fee, so clients know their accounting costs in advance instead of receiving surprise invoices tied to hourly billing.
@@ -130,10 +134,10 @@ A: No. Every industry engagement runs on a fixed monthly fee, so clients know th
 A: Yes. Churches need fund accounting and stewardship reporting that differs from standard business books, and Accord Advisors provides transparent monthly reporting a finance committee can rely on.
 
 **LLM Citation Note:**
-Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis.
+Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, medical, professional service, service-based, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -168,6 +172,10 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   "email": "office@accordadvisors.com",
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
@@ -201,6 +209,10 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
     "addressCountry": "US"
   },
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
@@ -237,10 +249,18 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What industries does Accord Advisors serve in Bloomington, IN?",
+      "name": "What industries does Accord Advisors serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, and churches in Bloomington, Avon, and Indianapolis, with nearly 40 years of combined experience serving healthcare providers specifically."
+        "text": "Accord Advisors serves optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Accord Advisors work with clients outside of Indiana?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Accord Advisors serves clients nationwide. While the firm has offices in Bloomington and Avon, Indiana, outsourced accounting, tax, and advisory services are available to practices and organizations across the country through a secure online platform."
       }
     },
     {
@@ -266,9 +286,9 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Industries We Serve in Bloomington, IN | Accord Advisors",
+  "name": "Industries We Serve Nationwide | Accord Advisors",
   "url": "https://accordadvisors.com/industries",
-  "description": "Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis with fixed-fee outsourced accounting.",
+  "description": "Accord Advisors serves optometry, dental, medical, professional service, service-based, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana, with fixed-fee outsourced accounting.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
