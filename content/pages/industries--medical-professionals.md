@@ -111,7 +111,7 @@ A: Physician income often includes W-2 wages, K-1 practice income, retirement co
 <!-- block: cta-banner | variant: image-bg | image: physician-consultation-handshake.jpg | alt: "Physician shaking hands with a financial advisor in an office setting" | query: "professional handshake office meeting" -->
 ## Start with a conversation about your practice's finances
 
-There's no obligation and no sales pitch, just a straightforward conversation about where your practice stands and where the gaps are. Whether you're opening a new practice in Bloomington, managing reimbursement swings in Indianapolis, or simply tired of waiting weeks for last month's numbers, we can talk through what outsourced accounting would look like for your practice.
+There's no obligation and no sales pitch, just a straightforward conversation about where your practice stands and where the gaps are. Whether you're opening a new practice, managing reimbursement swings, or simply tired of waiting weeks for last month's numbers, we work with physicians and medical practice owners across the country, including Bloomington, Avon, and the Indianapolis area of Indiana. We can talk through what outsourced accounting would look like for your practice.
 
 [Schedule a consultation](/contact) and find out what CFO-level clarity feels like at a fraction of the cost of hiring in-house.
 
