@@ -30,7 +30,7 @@ Buying a service truck or a piece of equipment is a capital decision, not just a
 
 The Accord Advisors team sets up depreciation schedules for vehicles and equipment correctly from the start, using methods matched to how the asset is used and how long it's expected to last. Straight-line depreciation, MACRS, bonus depreciation, and Section 179 elections all play out differently depending on the asset and the year of purchase. Generalist firms that touch a client's books once a year often miss that nuance, and it costs owners real money at tax time.
 
-Fleet-heavy service businesses in Bloomington need a firm that catches this the first time, not after an IRS notice arrives. That's the accuracy Accord Advisors builds into monthly close, not just tax season.
+Fleet-heavy service businesses nationwide need a firm that catches this the first time, not after an IRS notice arrives. Whether you're operating in Bloomington, Avon, Indianapolis, or across the country, that's the accuracy Accord Advisors builds into monthly close, not just tax season.
 
 <!-- block: checklist-section | variant: with-image-left | image: fleet-tax-planning-strategy.jpg | alt: "Business owner and accountant discussing fleet tax planning documents at a desk" | query: "business owner meeting accountant office" -->
 ## Fleet tax planning strategies built for Indiana businesses
