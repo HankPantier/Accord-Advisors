@@ -58,7 +58,7 @@ These pages cover the numbers that actually move the needle for a practice owner
 <!-- block: checklist-section | variant: with-image-left | image: medical-professional-reviewing-finances.jpg | alt: "Medical professional and service business owner discussing financial documents at a desk" | query: "healthcare service business owner reviewing finances" -->
 ## Helpful links for medical professionals and service businesses
 
-Whether you run a physician's practice, a physical therapy clinic, or a service-based business managing crews and equipment across Bloomington and Indianapolis, the underlying question is the same: how did we actually perform this month, and what should we do next? These links are built to answer that.
+Whether you run a physician's practice, a physical therapy clinic, a professional services firm, or a service-based business managing crews and equipment, the underlying question is the same: how did we actually perform this month, and what should we do next? We work with clients across the country, including throughout Bloomington, Avon, and the Indianapolis area, and these links are built to answer that question no matter where you're located.
 
 - [Reimbursement challenges facing medical professionals](/industries/medical-professionals/reimbursement-challenges)
 - [Accounting support for medical and healthcare providers](/industries/medical-professionals)
