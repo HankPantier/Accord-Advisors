@@ -37,7 +37,7 @@ Fleet-heavy service businesses nationwide need a firm that catches this the firs
 
 Tax planning for a fleet works best when it happens in June, not the following March. Section 179 deductions, bonus depreciation, and the timing of a vehicle purchase all shift depending on Indiana's tax rules and the federal calendar year, and waiting until filing season means the planning window has already closed.
 
-Accord Advisors builds fleet tax strategy into ongoing advisory work throughout the year, not as a once-a-year scramble. That includes:
+Accord Advisors builds fleet tax strategy into ongoing advisory work throughout the year, not as a once-a-year scramble, for service businesses across the country, including Bloomington, Avon, and Indianapolis. That includes:
 
 - Timing vehicle and equipment purchases to maximize Section 179 and bonus depreciation before year-end
 - Weighing lease versus purchase decisions against Indiana and federal tax treatment
