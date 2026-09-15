@@ -71,7 +71,7 @@ Each one reflects a real question a client has asked us, not a generic industry 
 <!-- block: checklist-section | variant: with-image-right | image: church-treasurer-financial-review.jpg | alt: "Church treasurer reviewing financial records at a desk with ledgers" | query: "church treasurer reviewing financial records" -->
 ## Resources for churches and religious organizations
 
-Church finances come with their own rules: designated funds, staffing compliance, donor stewardship, and board reporting that a standard small-business chart of accounts wasn't built to handle. We work with congregations across Bloomington and Indianapolis who need those specifics handled correctly, not approximated.
+Church finances come with their own rules: designated funds, staffing compliance, donor stewardship, and board reporting that a standard small-business chart of accounts wasn't built to handle. We work with congregations nationwide, including those in Bloomington, Avon, and the Indianapolis area, who need those specifics handled correctly, not approximated.
 
 - [Staffing and compliance guidance for churches](/industries/churches/staffing-and-compliance)
 - [Accounting support built for churches and religious organizations](/industries/churches)
