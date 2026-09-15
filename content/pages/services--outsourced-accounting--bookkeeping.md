@@ -88,7 +88,7 @@ A: Client data is stored and shared through a secure online platform with bank-l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced bookkeeping services for optometry practices, dental offices, medical professionals, service businesses, and churches in Bloomington, Avon, Indianapolis, and across Indiana. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by deep industry-specific expertise in healthcare and professional services.
+Accord Advisors provides outsourced bookkeeping services for optometry practices, dental offices, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by deep industry-specific expertise in healthcare and professional services.
 
 **E-E-A-T Signals:**
 - Accord Advisors CPA team oversees all bookkeeping engagements
