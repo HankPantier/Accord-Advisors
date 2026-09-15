@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "church-finance-clarity.jpg"
 hero_image_alt: "Pastor and church treasurer reviewing financial documents in a church office"
-hero_subhead: "Fund accounting and outsourced bookkeeping built for churches across Indiana, so your board sees exactly where every dollar stands"
+hero_subhead: "Fund accounting and outsourced bookkeeping built for churches nationwide, including Bloomington, Avon, and the Indianapolis area, so your board sees exactly where every dollar stands"
 hero_headline: "Trusted fund accounting for churches and religious organizations"
 answer_block: "Accord Advisors provides fund accounting for churches and religious organizations in Bloomington, Avon, Indianapolis, and across Indiana, separating restricted and unrestricted funds, preparing board-ready financial statements, and handling clergy payroll and nonprofit compliance. The firm works as an outsourced accounting department on a fixed monthly fee."
 eeat_signals: ["Accord Advisors oversees church and nonprofit fund accounting engagements","Firm serves churches and religious organizations in Bloomington, Avon, Indianapolis, and across Indiana","Fixed monthly fee model applied specifically to church finance committees","Secure online platform used for treasurer and board access to reports from anywhere in Indiana","Direct experience with clergy compensation and dual tax status compliance"]
