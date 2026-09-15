@@ -63,7 +63,7 @@ Fleet-dependent businesses need more than a bookkeeper logging transactions once
 
 Once the foundation is in place, Outsourced Accounting keeps it running through a secure online platform where owners see monthly financials, not just a year-end summary. Fixed monthly fees replace hourly billing, so a question about a new truck purchase or an equipment lease doesn't come with a surprise invoice attached.
 
-It's the kind of setup a growing service-based business in Bloomington or Indianapolis needs to run on real numbers instead of guesswork, at a cost that doesn't climb every time you call.
+It's the kind of setup a growing service-based business needs, whether you're based in Bloomington, Avon, Indianapolis, or anywhere else in the country, to run on real numbers instead of guesswork, at a cost that doesn't climb every time you call.
 
 <!-- block: content-prose -->
 ## Why service businesses in Bloomington and Indianapolis choose Accord Advisors
