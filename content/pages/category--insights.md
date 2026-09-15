@@ -25,7 +25,7 @@ Articles are organized around the people we actually serve: optometrists, dentis
 <!-- block: content-split | variant: image-right | image: optometry-dental-insights.jpg | alt: "Optometrist reviewing practice financial reports with staff" | query: "optometrist reviewing paperwork practice" -->
 ## Guidance for optometry and dental practices
 
-Optometry and dental practices run on numbers most CPAs never learn to read correctly: insurance reimbursement lag, equipment depreciation schedules, associate buy-in structures, frame and lab cost margins. Accord Advisors has served healthcare providers for close to 40 years, and that depth shows up in the articles filed under this category, from staffing cost benchmarks to succession timing for a retiring partner.
+Optometry and dental practices run on numbers most CPAs never learn to read correctly: insurance reimbursement lag, equipment depreciation schedules, associate buy-in structures, frame and lab cost margins. Accord Advisors has developed deep expertise serving these practices nationwide, and that depth shows up in the articles filed under this category, from staffing cost benchmarks to succession timing for a retiring partner.
 
 The questions we answer here reflect what practice managers ask first: how to read a monthly P&L against industry benchmarks, when to bring on an associate, and how to keep books clean enough for a bank or buyer to trust. Explore our [optometry industry page](/industries/optometry) or the [dentist resources](/industries/dentists) for a closer look at practice-specific metrics.
 
