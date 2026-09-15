@@ -26,7 +26,7 @@ Running a practice or business means juggling deadlines, documents, and question
 
 Our clients don't wait on hold or dig through email threads to find last quarter's financials. The secure client portal gives you real-time access to your statements, tax documents, and reports, from a laptop, tablet, or phone, anytime you need them. It's the same platform we use to eliminate the hourly-billing guessing game that competitors rely on: you see what we see, on a fixed monthly fee, with no surprise invoices for a five-minute question.
 
-For optometry and medical practice managers especially, this means you can check on practice performance between meetings instead of waiting for a callback. If you're an existing client, use your login credentials to access the portal directly. New to Accord Advisors? Reach out through our [getting started](/getting-started) page and we'll set up your access as part of onboarding.
+For optometry, medical, and dental practice managers especially, this means you can check on practice performance between meetings instead of waiting for a callback. The portal works just as well whether you're down the street in Bloomington or Avon, across the Indianapolis area, or anywhere else in the country. If you're an existing client, use your login credentials to access the portal directly. New to Accord Advisors? Reach out through our [getting started](/getting-started) page and we'll set up your access as part of onboarding.
 
 <!-- block: checklist-section | variant: with-image-left | image: encrypted-document-upload.jpg | alt: "Person uploading tax documents through an encrypted file transfer screen" | query: "secure document upload office desk" -->
 ## Send documents securely
