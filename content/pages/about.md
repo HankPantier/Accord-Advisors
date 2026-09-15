@@ -190,20 +190,10 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
   },
   "telephone": "812 332-7200",
   "email": "office@accordadvisors.com",
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Bloomington, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Avon, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis, Indiana"
-    }
-  ],
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
   "sameAs": [
     "https://maps.app.goo.gl/mj2mEkW7vk5r7CbJ9"
   ]
