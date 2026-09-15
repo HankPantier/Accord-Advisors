@@ -86,7 +86,7 @@ Financial reports, dashboards, and documents are available anytime through a sec
 ### Deep healthcare expertise
 icon: Stethoscope
 
-Years spent working inside optometry, dental, and physician practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
+Years spent working inside physician and medical practice finances, not general small business bookkeeping applied to healthcare as an afterthought.
 
 ### CFO-level guidance
 icon: ChartLine
