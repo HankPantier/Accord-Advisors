@@ -130,8 +130,8 @@ A: Clients use a secure, cloud-based platform to view current financial reports,
 Accord Advisors' outsourced accounting services give optometrists, dentists, medical professionals, service businesses, and churches across Bloomington, Avon, Indianapolis, and Indiana a full accounting department, including bookkeeping, payroll, business tax, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire.
 
 **E-E-A-T Signals:**
-- Deep expertise serving optometrists, dentists, medical professionals, service businesses, and churches
-- Clients across Bloomington, Avon, Indianapolis, and Indiana
+- Deep expertise serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide
+- Clients across Bloomington, Avon, and the Indianapolis area of Indiana, and throughout the country
 - Secure, cloud-based client platform for financial transparency
 - Fixed monthly fee model in place of hourly billing
 - CFO-level insight at a fraction of the cost of a full-time hire
