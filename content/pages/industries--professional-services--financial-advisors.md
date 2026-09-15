@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounti
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Built for Financial Advisory Practices
 
-Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors has worked alongside healthcare providers, professional service providers, and professional practices in Bloomington and Indianapolis, building the same kind of financial infrastructure independent advisors need to run a compliant, scalable firm.
+Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors works alongside healthcare providers, professional service providers, and independent financial practices nationwide, including firms in Bloomington, Avon, and the greater Indianapolis area of Indiana, building the financial infrastructure advisors need to run a compliant, scalable firm.
 
 Our team provides outsourced accounting, payroll processing, and CFO-level financial guidance for independent advisors and RIA owners who need their books handled by people who understand fee-based revenue, not just retail sales.
 
