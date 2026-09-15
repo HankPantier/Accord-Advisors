@@ -69,7 +69,7 @@ Experienced CPA leadership brings direct insight into the reimbursement and marg
 ### Fixed monthly fee
 One predictable fee for outsourced accounting, delivered through a secure online platform built for practice owners.
 
-That depth matters when you're comparing a national firm's generalist tax team to a firm built around the financial mechanics of healthcare practices specifically, including [optometry practices](/industries/optometry) and the reimbursement patterns unique to vision care.
+That depth matters when you're comparing a national firm's generalist tax team to a firm built around the financial mechanics of [medical professionals](/industries/medical-professionals) specifically, including the reimbursement patterns, payer mix dynamics, and margin pressures unique to healthcare.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Managing reimbursement challenges for healthcare providers
