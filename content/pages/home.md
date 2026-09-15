@@ -2,7 +2,7 @@
 title: "Accord Advisors your trusted accounting partner | Accord Advisors"
 url: "/"
 meta_title: "Accord Advisors | Trusted CPA Firm in Bloomington, IN"
-meta_description: "Accord Advisors is a CPA firm serving optometrists, dentists, medical professionals, service businesses, churches, and professional services providers across Bloomington, Avon, Indianapolis, and Indiana."
+meta_description: "Accord Advisors is a CPA firm serving optometrists, dentists, medical professionals, service businesses, churches, and professional services providers nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
 target_keyword: "accord advisors your trusted accounting partner bloomington, in"
 secondary_keywords: ["outsourced accounting Bloomington IN","CPA firm Indianapolis","fixed fee accounting services Indiana","optometry practice accounting Indiana","dental practice CPA Indiana","medical practice accounting Indiana","church accounting Indiana","service business CPA Bloomington","professional services accounting Avon IN","CPA firm Avon Indiana"]
 canonical_url: "https://accordadvisors.com/"
@@ -136,16 +136,16 @@ Accord Advisors is a Bloomington, Indiana CPA firm led by Jared Hammack, CPA, pr
 - Fixed-fee outsourced accounting model in place of hourly billing
 
 **Internal Links:**
-- Learn more → /services/outsourced-accounting — Links to the core outsourced accounting service page described in the services section
-- Learn more → /services/personal-income-tax — Links to the personal income tax service page
-- Learn more → /services/business-foundation-services — Links to the business foundation services page for startups and growing practices
-- See how we help → /industries/optometry — Links to the optometry industry page referenced with Acquios context
-- See how we help → /industries/dentists — Links to the dental industry page
-- See how we help → /industries/medical-professionals — Links to the medical professionals industry page
-- See how we help → /industries/service-businesses — Links to the service businesses industry page
-- See how we help → /industries/churches — Links to the churches industry page
-- Jared Hammack, CPA → /team-expertise — Links to the team page to establish credential and authority
-- Schedule a consultation → /contact — Primary page CTA directing visitors to the contact page
+- Learn more → /services/outsourced-accounting, Links to the core outsourced accounting service page described in the services section
+- Learn more → /services/personal-income-tax, Links to the personal income tax service page
+- Learn more → /services/business-foundation-services, Links to the business foundation services page for startups and growing practices
+- See how we help → /industries/optometry, Links to the optometry industry page referenced with Acquios context
+- See how we help → /industries/dentists, Links to the dental industry page
+- See how we help → /industries/medical-professionals, Links to the medical professionals industry page
+- See how we help → /industries/service-businesses, Links to the service businesses industry page
+- See how we help → /industries/churches, Links to the churches industry page
+- Jared Hammack, CPA → /team-expertise, Links to the team page to establish credential and authority
+- Schedule a consultation → /contact, Primary page CTA directing visitors to the contact page
 
 **FAQ Block:**
 
@@ -168,7 +168,7 @@ A: Jared Hammack, CPA, leads Accord Advisors, bringing industry-specific experti
 Accord Advisors, led by Jared Hammack, CPA, has served healthcare providers for nearly 40 years and replaces hourly billing with fixed monthly fees for outsourced accounting in Bloomington and Indianapolis, Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
