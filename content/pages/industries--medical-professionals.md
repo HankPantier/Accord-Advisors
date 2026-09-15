@@ -94,7 +94,7 @@ icon: ChartLine
 Access to a team that thinks about practice performance the way a full-time CFO would, without the full-time cost. Read more about [why practices choose Accord Advisors](/why-rootadvisors).
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Accounting for medical professionals
+## Frequently Asked Questions About Accounting for Medical Professionals
 
 **Q: Does Accord Advisors work with medical practices outside Bloomington?**
 A: Yes. Accord Advisors serves physicians and healthcare providers throughout Bloomington and Indianapolis, Indiana, along with optometry, dental, and service-based practices in the surrounding area, using a secure online platform that supports remote collaboration regardless of office location.
