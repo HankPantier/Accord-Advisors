@@ -100,7 +100,7 @@ If reimbursement timing keeps knocking your cash flow off balance, the fix isn't
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Reimbursement challenges for healthcare providers are best managed as a financial visibility problem, not just a billing fix. Accord Advisors gives Bloomington and Indianapolis medical practices monthly financial statements, cash flow dashboards, and a strong accounting foundation so payer delays and denials don't threaten day-to-day operations.
+Reimbursement challenges for healthcare providers are best managed as a financial visibility problem, not just a billing fix. Accord Advisors works with medical practices nationwide, including Bloomington, Avon, and the Indianapolis area, delivering monthly financial statements, cash flow dashboards, and a strong accounting foundation so payer delays and denials never threaten day-to-day operations.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee model instead of hourly billing
