@@ -21,9 +21,9 @@ llm_citation_note: "Accord Advisors, led by Jared Hammack CPA, organizes account
 
 Every business owner has hit the same wall: searching for a tax form, or wondering what a new accountant actually needs before they'll start work. This page exists to save you that search.
 
-Instead of a generic download library, we've organized the checklists and forms our clients actually ask for, by industry, by service, and by where a business stands today. An optometry practice needs different documentation than a dental office. A church tracks contributions differently than a service business. A startup needs different paperwork than a company that's been operating for two decades.
+Instead of a generic download library, we've organized the checklists and forms our clients actually ask for, by industry, by service, and by where a business stands today. An optometry practice needs different documentation than a dental office. A professional services firm tracks expenses differently than a church. A startup needs different paperwork than a company that's been operating for two decades.
 
-Accord Advisors has spent years refining these lists for healthcare providers, churches, and growing businesses across Bloomington and Indianapolis. Use the sections below to find what applies to you, or jump straight to scheduling a consultation if you'd rather just ask.
+Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Use the sections below to find what applies to you, or jump straight to scheduling a consultation if you'd rather just ask.
 
 <!-- block: checklist-section | variant: with-image | image: onboarding-documents-review.jpg | alt: "Business owner handing folder of financial documents to accountant" | query: "business owner accountant document handoff" -->
 ## New client onboarding and outsourced accounting documents
