@@ -332,6 +332,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     "url": "https://accordadvisors.com"
   },
   "serviceType": "What to expect when you become a client",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
   "audience": [
     {
       "@type": "Audience",
@@ -348,6 +352,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     {
       "@type": "Audience",
       "audienceType": "Service Businesses"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Professional Services Firms"
     },
     {
       "@type": "Audience",
