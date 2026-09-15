@@ -98,7 +98,7 @@ An advisory practice runs better when the person managing the books understands 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners, with fixed monthly fees and a secure online platform. The firm serves Bloomington and Indianapolis, Indiana, drawing on nearly 40 years of experience serving professional practices.
+Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners nationwide, with fixed monthly fees and a secure online platform. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area, with a secure online platform that supports clients across the country.
 
 **E-E-A-T Signals:**
 - Accord Advisors team leads the firm's advisory services
