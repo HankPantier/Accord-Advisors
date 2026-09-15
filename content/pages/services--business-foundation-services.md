@@ -133,7 +133,7 @@ Business foundation services cover the entity selection, accounting system setup
 **FAQ Block:**
 
 **Q: What entity type should a new optometry or dental practice choose?**
-A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the State of Indiana.
+A: The right structure depends on your liability exposure, number of owners, and how you plan to pay yourself. S-corps often reduce self-employment tax for solo optometrists and dentists, while LLCs offer simpler compliance. Accord Advisors reviews the trade-offs before anything is filed with the your state.
 
 **Q: How much do business foundation services cost?**
 A: Accord Advisors charges a fixed monthly fee based on your practice's size and complexity, not hourly billing. You know the cost before work begins, which makes budgeting easier during the unpredictable first year of a new optometry, dental, or medical practice.
