@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "irs-notice-support-cpa.jpg"
 hero_image_alt: "CPA reviewing an IRS notice letter with a client in an office setting"
-hero_subhead: "Get a clear read on your IRS notice and a direct response handled for you, at one flat monthly fee"
+hero_subhead: "Get a clear read on your IRS notice and a direct response handled for you, at one flat monthly fee, serving clients nationwide, including Bloomington, Avon, and the Indianapolis area"
 hero_headline: "Getting an IRS letter doesn't have to mean panic"
 answer_block: "Accord Advisors reviews your IRS notice, checks it against your actual records, and communicates directly with the IRS on your behalf to draft and file the response. Accord Advisors serves optometry, dental, medical, service-based business, professional service provider, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, on a flat monthly fee, with no hourly billing surprises."
 eeat_signals: ["Accord Advisors CPAs directly handle IRS notice review and response","Deep industry experience serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana","Flat monthly fee model instead of hourly billing"]
