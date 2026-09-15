@@ -111,7 +111,7 @@ icon: Building2
 ### Individuals
 icon: Users
 
-From coordinating pass-through income across a practice and a personal return, to simply working with a CPA who takes the time to understand your full picture, individuals across Bloomington, Indianapolis, and Avon trust Accord Advisors for personal income tax preparation and planning that goes well beyond processing a return and moving on.
+From coordinating pass-through income across a practice and a personal return, to simply working with a CPA who takes the time to understand your full picture, individuals across Bloomington, Avon, Indianapolis, and the country trust Accord Advisors for personal income tax preparation and planning that goes well beyond processing a return and moving on.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Services overview
