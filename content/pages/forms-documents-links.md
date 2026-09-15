@@ -117,8 +117,7 @@ Accord Advisors organizes accounting forms and checklists by industry and by sta
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA
-- Nearly 40 years serving healthcare providers, including optometry, dental, and medical practices
-- Referral pathway for optometry clients through Acquios
+- Serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana
 - Fixed monthly fee outsourced accounting model with a secure online client portal
 
 **Internal Links:**
