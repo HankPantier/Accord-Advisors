@@ -32,7 +32,7 @@ Accord Advisors works as an outsourced accounting department for professional se
 <!-- block: checklist-section | variant: with-image | image: professional-services-challenges.jpg | alt: "Business owner reviewing invoices and financial paperwork at a desk" | query: "business owner reviewing invoices paperwork" -->
 ## Common Financial Challenges Attorneys, Agencies, Advisors & Consultants Face
 
-Every professional services firm we've worked with across Bloomington, Avon, Indianapolis, and Indiana runs into a similar set of problems, whether the business bills by the hour, the project, or the retainer.
+Every professional services firm we've worked with, from solo consultants to multi-partner law firms, runs into a similar set of problems, whether the business bills by the hour, the project, or the retainer. That's true whether you're based in Bloomington, Avon, or the Indianapolis area, or anywhere else across the country.
 
 - **Inconsistent cash flow.** Client invoices go out net-30 or net-60, but rent, salaries, and software subscriptions don't wait for payment. Without a clear view of receivables, firms end up guessing whether next month's payroll is covered.
 - **Complex payroll and contractor payments.** Many firms mix W-2 employees with 1099 subcontractors on the same projects, which complicates payroll tax filings, 1099 issuance, and worker classification decisions.
