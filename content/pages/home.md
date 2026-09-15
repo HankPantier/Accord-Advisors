@@ -278,7 +278,7 @@ Accord Advisors, led by Jared Hammack, CPA, replaces hourly billing with fixed m
       "name": "What areas does Accord Advisors serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Accord Advisors is based in Bloomington, Indiana, and serves business owners and practices throughout Indianapolis and the surrounding area, including optometry, dental, and medical professionals, service businesses, and churches, through fixed-fee outsourced accounting and tax support."
+        "text": "Accord Advisors has offices in Bloomington and Avon, Indiana, and serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana, through fixed-fee outsourced accounting and tax support."
       }
     },
     {
