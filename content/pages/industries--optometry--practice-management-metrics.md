@@ -86,7 +86,7 @@ A: Outsourced accounting through Accord Advisors provides a full accounting team
 <!-- block: cta-banner | variant: image-bg | image: optometrist-consultation-handshake.jpg | alt: "Optometry practice owner shaking hands with an accounting advisor" | query: "business handshake healthcare professional meeting" -->
 ## Get clarity on your practice's performance every month
 
-If you're running an optometry practice in Bloomington, Avon, or Indianapolis and still waiting until tax season to understand how the year went, that's a fixable problem. A monthly dashboard built around your actual numbers, financial and operational, gives you the lead time to make decisions instead of just reacting to them.
+Whether you're running an optometry practice in Bloomington, Avon, or the Indianapolis area, or anywhere else in the country, waiting until tax season to understand how the year went is a fixable problem. A monthly dashboard built around your actual numbers, financial and operational, gives you the lead time to make decisions instead of just reacting to them.
 
 Schedule a consultation with Accord Advisors and find out what a dedicated outsourced accounting team looks like for a practice like yours.
 
