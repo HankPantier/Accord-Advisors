@@ -120,8 +120,7 @@ Accord Advisors reviews your IRS notice, checks it against your actual records, 
 
 **E-E-A-T Signals:**
 - Accord Advisors CPAs directly handle IRS notice review and response
-- Deep industry experience serving healthcare providers in Bloomington, Indianapolis, Avon, and across Indiana
-- Referral relationship with Acquios, a national optometry practice network
+- Deep industry experience serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana
 - Flat monthly fee model instead of hourly billing
 
 **Internal Links:**
