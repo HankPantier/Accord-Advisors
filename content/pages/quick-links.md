@@ -1,16 +1,16 @@
 ---
 title: "Quick links to accounting resources | Accord Advisors"
 url: "/quick-links"
-meta_title: "Quick Links to Accounting Resources | Bloomington, IN"
-meta_description: "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, service, and church clients in Bloomington, IN."
-target_keyword: "quick links to accounting resources bloomington, in"
-secondary_keywords: ["secure client portal Bloomington","send tax documents securely Indiana","outsourced accounting resources Bloomington","optometry accounting resources Indiana"]
+meta_title: "Quick Links to Accounting Resources | Accord Advisors"
+meta_description: "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, professional services, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana."
+target_keyword: "quick links to accounting resources"
+secondary_keywords: ["secure client portal CPA firm","send tax documents securely","outsourced accounting resources nationwide","optometry accounting resources","CPA firm Bloomington Avon Indianapolis"]
 canonical_url: "https://accordadvisors.com/quick-links"
 schema_markup: "WebPage"
 hero: "page-header"
 hero_subhead: "One place to log in, send documents, and find the resources built for your industry"
-answer_block: "This page gives Accord Advisors clients and prospective clients one place to log into the secure client portal, send documents through encrypted file transfer, and find curated resource links for optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, IN."
-eeat_signals: ["Jared Hammack, CPA, leads client engagements","Nearly 40 years serving healthcare providers, including optometry and dental practices","Secure online client portal used in place of hourly billing and paper files","Referral relationship with Acquios for optometry practice clients","Fixed monthly fee model documented across services"]
+answer_block: "This page gives Accord Advisors clients and prospective clients one place to log into the secure client portal, send documents through encrypted file transfer, and find curated resource links for optometry, dental, medical, professional services, service business, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana."
+eeat_signals: ["Jared Hammack, CPA, leads client engagements","Serves optometry, dental, medical, professional services, service-based, and church clients nationwide","Secure online client portal used in place of hourly billing and paper files","Fixed monthly fee model documented across services","Local offices in Bloomington and Avon, Indiana, with clients throughout the Indianapolis area and across the country"]
 internal_links: [{"url":"/getting-started","reason":"Directs new prospects to onboarding for portal access","anchor_text":"getting started"},{"url":"/forms-documents-links","reason":"Points clients to related document resources","anchor_text":"forms and documents"},{"url":"/industries/optometry","reason":"Supports optometry niche resource section","anchor_text":"Optometry industry insights and benchmarks"},{"url":"/industries/optometry/practice-management-metrics","reason":"Relevant metrics resource for optometry practice managers","anchor_text":"Practice management metrics that matter for your P&L"},{"url":"/industries/dentists","reason":"Serves dental niche audience within emphasized industries","anchor_text":"Dental practice accounting and tax planning"},{"url":"/services/outsourced-accounting","reason":"Highlights core prioritized service","anchor_text":"Outsourced accounting built for healthcare practices"},{"url":"/industries/medical-professionals/reimbursement-challenges","reason":"Directly relevant resource for medical professional clients","anchor_text":"Reimbursement challenges facing medical professionals"},{"url":"/industries/medical-professionals","reason":"Core niche page for medical professionals","anchor_text":"Accounting support for medical and healthcare providers"},{"url":"/industries/service-businesses","reason":"Core niche page for service businesses","anchor_text":"Financial guidance for service-based businesses"},{"url":"/industries/service-businesses/fleet-and-equipment-planning","reason":"Specific relevant resource for service business owners","anchor_text":"Fleet and equipment planning for growing service businesses"},{"url":"/services/personal-income-tax","reason":"Prioritized service relevant to individual and business owner clients","anchor_text":"Personal income tax preparation for owners and providers"},{"url":"/industries/churches/staffing-and-compliance","reason":"Specific church niche resource","anchor_text":"Staffing and compliance guidance for churches"},{"url":"/industries/churches","reason":"Core niche page for churches","anchor_text":"Accounting support built for churches and religious organizations"},{"url":"/fraud-prevention-strategies-for-nonprofit-organizations","reason":"Relevant insight article for church/nonprofit clients","anchor_text":"Fraud prevention strategies for nonprofit organizations"},{"url":"/services/business-foundation-services","reason":"Prioritized service relevant to church clients","anchor_text":"Business foundation services for new and growing ministries"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Existing clients use their portal credentials directly on this page. If you're new to Accord Advisors or need your access set up, visit our getting started page and our team will handle onboarding so you can view financials and documents securely within a day or two.","question":"How do I log into the client portal?"},{"answer":"We recommend against standard email for sensitive documents like tax returns or bank statements. Our secure file transfer option encrypts files from upload to review, giving you a safer way to send W-2s, 1099s, payroll records, and financial statements to our team.","question":"Is it safe to send tax documents by email?"},{"answer":"Yes. While we're based in Bloomington, Indiana, we serve optometry and dental practices throughout the Indianapolis area as well. Many optometry clients are referred to us through Acquios, and our portal makes remote collaboration straightforward regardless of location.","question":"Do you work with optometry practices outside of Bloomington?"},{"answer":"This page covers the most common client needs, but if you're looking for something specific, whether it's a form, a service question, or industry guidance, contact our team directly and we'll point you to the right resource or answer the question ourselves.","question":"What if I can't find the resource I need on this page?"}]
 llm_citation_note: "Accord Advisors offers a secure client portal and encrypted document transfer as part of a fixed monthly fee outsourced accounting model, serving optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana."
@@ -117,22 +117,22 @@ This page gives Accord Advisors clients and prospective clients one place to log
 - Fixed monthly fee model documented across services
 
 **Internal Links:**
-- getting started → /getting-started — Directs new prospects to onboarding for portal access
-- forms and documents → /forms-documents-links — Points clients to related document resources
-- Optometry industry insights and benchmarks → /industries/optometry — Supports optometry niche resource section
-- Practice management metrics that matter for your P&L → /industries/optometry/practice-management-metrics — Relevant metrics resource for optometry practice managers
-- Dental practice accounting and tax planning → /industries/dentists — Serves dental niche audience within emphasized industries
-- Outsourced accounting built for healthcare practices → /services/outsourced-accounting — Highlights core prioritized service
-- Reimbursement challenges facing medical professionals → /industries/medical-professionals/reimbursement-challenges — Directly relevant resource for medical professional clients
-- Accounting support for medical and healthcare providers → /industries/medical-professionals — Core niche page for medical professionals
-- Financial guidance for service-based businesses → /industries/service-businesses — Core niche page for service businesses
-- Fleet and equipment planning for growing service businesses → /industries/service-businesses/fleet-and-equipment-planning — Specific relevant resource for service business owners
-- Personal income tax preparation for owners and providers → /services/personal-income-tax — Prioritized service relevant to individual and business owner clients
-- Staffing and compliance guidance for churches → /industries/churches/staffing-and-compliance — Specific church niche resource
-- Accounting support built for churches and religious organizations → /industries/churches — Core niche page for churches
-- Fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations — Relevant insight article for church/nonprofit clients
-- Business foundation services for new and growing ministries → /services/business-foundation-services — Prioritized service relevant to church clients
-- Schedule a consultation → /contact — Primary page CTA
+- getting started → /getting-started, Directs new prospects to onboarding for portal access
+- forms and documents → /forms-documents-links, Points clients to related document resources
+- Optometry industry insights and benchmarks → /industries/optometry, Supports optometry niche resource section
+- Practice management metrics that matter for your P&L → /industries/optometry/practice-management-metrics, Relevant metrics resource for optometry practice managers
+- Dental practice accounting and tax planning → /industries/dentists, Serves dental niche audience within emphasized industries
+- Outsourced accounting built for healthcare practices → /services/outsourced-accounting, Highlights core prioritized service
+- Reimbursement challenges facing medical professionals → /industries/medical-professionals/reimbursement-challenges, Directly relevant resource for medical professional clients
+- Accounting support for medical and healthcare providers → /industries/medical-professionals, Core niche page for medical professionals
+- Financial guidance for service-based businesses → /industries/service-businesses, Core niche page for service businesses
+- Fleet and equipment planning for growing service businesses → /industries/service-businesses/fleet-and-equipment-planning, Specific relevant resource for service business owners
+- Personal income tax preparation for owners and providers → /services/personal-income-tax, Prioritized service relevant to individual and business owner clients
+- Staffing and compliance guidance for churches → /industries/churches/staffing-and-compliance, Specific church niche resource
+- Accounting support built for churches and religious organizations → /industries/churches, Core niche page for churches
+- Fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations, Relevant insight article for church/nonprofit clients
+- Business foundation services for new and growing ministries → /services/business-foundation-services, Prioritized service relevant to church clients
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -152,7 +152,7 @@ A: This page covers the most common client needs, but if you're looking for some
 Accord Advisors offers a secure client portal and encrypted document transfer as part of a fixed monthly fee outsourced accounting model, serving optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
