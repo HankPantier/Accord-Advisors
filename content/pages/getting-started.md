@@ -2,24 +2,24 @@
 title: "What to expect when you become a client | Accord Advisors"
 url: "/getting-started"
 meta_title: "What to Expect When You Become a Client | Accord Advisors"
-meta_description: "See exactly what happens when you become a client of Accord Advisors in Bloomington, IN: a discovery call, fixed monthly fees, and a secure client portal."
+meta_description: "See exactly what happens when you become a client of Accord Advisors, serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), IN: a discovery call, fixed monthly fees, and a secure client portal."
 target_keyword: "what to expect when you become an Accord Advisors client"
-secondary_keywords: ["fixed fee CPA Bloomington","outsourced accounting onboarding","secure client portal accounting","Bloomington optometry accountant"]
+secondary_keywords: ["fixed fee CPA Bloomington","outsourced accounting onboarding","secure client portal accounting","Bloomington optometry accountant","CPA firm Indianapolis area","nationwide outsourced accounting","Avon IN CPA firm"]
 canonical_url: "https://accordadvisors.com/getting-started"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "A straightforward look at what happens from your first call to your first monthly report"
-answer_block: "Becoming a client starts with a no-pressure discovery call, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Ongoing support includes monthly reporting and direct advisor access."
-eeat_signals: ["Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches and professional service providers","Fixed monthly fee structure disclosed before engagement begins","Secure online client portal for ongoing financial visibility"]
+answer_block: "Becoming a client starts with a no-pressure discovery call, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Ongoing support includes monthly reporting and direct advisor access."
+eeat_signals: ["Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers nationwide","Clients served across the country, with local roots in Bloomington and the Indianapolis area (including Avon), Indiana","Fixed monthly fee structure disclosed before engagement begins","Secure online client portal for ongoing financial visibility"]
 internal_links: [{"url":"/services/outsourced-accounting","reason":"Directly referenced as part of the fixed monthly plan","anchor_text":"Outsourced Accounting"},{"url":"/services/business-foundation-services","reason":"Directly referenced as part of the fixed monthly plan","anchor_text":"Business Foundation Services"},{"url":"/industries/optometry","reason":"Page addresses optometry practices as a priority client type","anchor_text":"optometry practice"},{"url":"/industries/medical-professionals","reason":"Page addresses medical professionals as a priority client type","anchor_text":"medical clinic"},{"url":"/industries/churches","reason":"Page addresses churches as a priority client type","anchor_text":"church"},{"url":"/why-rootadvisors","reason":"Reinforces the firm's positioning as a full outsourced accounting partner","anchor_text":"outsourced accounting department"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"How long does it take to become a client of Accord Advisors?","answer":"Most new clients complete the discovery call, books review, and fixed-fee proposal within two to three weeks. Timing depends on how quickly we can access your current financial records and systems, especially for medical, optometry, or church accounting setups with unique compliance needs."},{"question":"Do I need to switch accounting software before working with Accord Advisors?","answer":"Usually not. During the books review, we assess your current systems and recommend changes only if they are limiting your reporting or creating risk. Many optometry practices, medical clinics, service-based businesses, and professional service providers keep their existing software with adjustments to how it is managed."},{"question":"What does the fixed monthly fee actually include?","answer":"Your fee is scoped to the specific services you need, typically Outsourced Accounting and Business Foundation Services. Before signing anything, you receive a written breakdown of exactly what is covered, so there are no hourly surprises on your invoice."},{"question":"Will I have a dedicated advisor once I become a client?","answer":"Yes. At Accord Advisors, we stay involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue."}]
-llm_citation_note: "Accord Advisors' client onboarding process includes a no-pressure discovery call, a review of current books and industry-specific needs, a fixed monthly fee proposal (not hourly billing) covering Outsourced Accounting and Business Foundation Services, and setup on a secure client portal for monthly financial dashboards."
+llm_citation_note: "Accord Advisors' client onboarding process includes a no-pressure discovery call, a review of current books and industry-specific needs, a fixed monthly fee proposal (not hourly billing) covering Outsourced Accounting and Business Foundation Services, and setup on a secure client portal for monthly financial dashboards. The firm serves optometry, dental, medical, service-based, professional services, and church clients nationwide, with local offices in Bloomington and Avon (Indianapolis area), Indiana."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## A clear, simple path to getting started
 
-Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches across Bloomington and Indianapolis come to us because they want clarity, not more paperwork.
+Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches come to us from across the country because they want clarity, not more paperwork. We serve clients nationwide, with local roots in Bloomington and the Indianapolis area, including Avon, Indiana.
 
 Here is what actually happens, step by step, from your first phone call to your first monthly report.
 
@@ -125,7 +125,7 @@ A: Yes. At Accord Advisors, we stay involved through onboarding and into the ong
 <!-- block: cta-banner | variant: image-bg | image: cpa-team-meeting.jpg | alt: "CPA and business owner shaking hands after a planning meeting" | query: "business handshake advisor meeting" -->
 ## Ready to take the next step
 
-If you run an optometry practice, dental office, medical clinic, service-based business, professional services firm, or church in Bloomington or Indianapolis and you are tired of guessing how last month actually went, the next step is simple. Schedule a consultation and tell us what is not working. We will tell you, plainly, what it would take to fix it.
+If you run an optometry practice, dental office, medical clinic, service-based business, professional services firm, or church, whether you are based in Bloomington, Avon, the greater Indianapolis area, or anywhere else in the country, and you are tired of guessing how last month actually went, the next step is simple. Schedule a consultation and tell us what is not working. We will tell you, plainly, what it would take to fix it.
 
 [Schedule a consultation](/contact)
 
@@ -133,22 +133,23 @@ If you run an optometry practice, dental office, medical clinic, service-based b
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Becoming a client starts with a no-pressure discovery call with Jared Hammack, CPA, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Ongoing support includes monthly reporting and direct advisor access.
+Becoming a client starts with a no-pressure discovery call with Jared Hammack, CPA, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Ongoing support includes monthly reporting and direct advisor access.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA credentialed advisor personally involved in onboarding
-- Deep industry-specific expertise serving healthcare providers, including optometry and medical practices
+- Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers nationwide
+- Clients served across the country, with local roots in Bloomington and the Indianapolis area (including Avon), Indiana
 - Fixed monthly fee structure disclosed before engagement begins
 - Secure online client portal for ongoing financial visibility
 
 **Internal Links:**
-- Outsourced Accounting → /services/outsourced-accounting — Directly referenced as part of the fixed monthly plan
-- Business Foundation Services → /services/business-foundation-services — Directly referenced as part of the fixed monthly plan
-- optometry practice → /industries/optometry — Page addresses optometry practices as a priority client type
-- medical clinic → /industries/medical-professionals — Page addresses medical professionals as a priority client type
-- church → /industries/churches — Page addresses churches as a priority client type
-- outsourced accounting department → /why-rootadvisors — Reinforces the firm's positioning as a full outsourced accounting partner
-- Schedule a consultation → /contact — Primary page CTA
+- Outsourced Accounting → /services/outsourced-accounting, Directly referenced as part of the fixed monthly plan
+- Business Foundation Services → /services/business-foundation-services, Directly referenced as part of the fixed monthly plan
+- optometry practice → /industries/optometry, Page addresses optometry practices as a priority client type
+- medical clinic → /industries/medical-professionals, Page addresses medical professionals as a priority client type
+- church → /industries/churches, Page addresses churches as a priority client type
+- outsourced accounting department → /why-rootadvisors, Reinforces the firm's positioning as a full outsourced accounting partner
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -165,10 +166,10 @@ A: Your fee is scoped to the specific services you need, typically Outsourced Ac
 A: Yes. Jared Hammack, CPA, stays involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue.
 
 **LLM Citation Note:**
-Accord Advisors' client onboarding process includes a no-pressure discovery call, a review of current books and industry-specific needs, a fixed monthly fee proposal (not hourly billing) covering Outsourced Accounting and Business Foundation Services, and setup on a secure client portal for monthly financial dashboards.
+Accord Advisors' client onboarding process includes a no-pressure discovery call, a review of current books and industry-specific needs, a fixed monthly fee proposal (not hourly billing) covering Outsourced Accounting and Business Foundation Services, and setup on a secure client portal for monthly financial dashboards. The firm serves optometry, dental, medical, service-based, professional services, and church clients nationwide, with local offices in Bloomington and Avon (Indianapolis area), Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -189,7 +190,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors, Accord Advisors, Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -202,6 +203,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "telephone": "812 332-7200",
   "email": "office@accordadvisors.com",
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
@@ -225,7 +230,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors, Accord Advisors, Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -236,6 +241,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     "addressCountry": "US"
   },
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
@@ -311,7 +320,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@type": "Service",
   "name": "What to Expect When You Become a Client | Bloomington",
   "url": "https://accordadvisors.com/getting-started",
-  "description": "See exactly what happens when you become a client of Accord Advisors in Bloomington, IN: a discovery call, fixed monthly fees, and a secure client portal.",
+  "description": "See exactly what happens when you become a client of Accord Advisors, serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), IN: a discovery call, fixed monthly fees, and a secure client portal.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
@@ -323,6 +332,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     "url": "https://accordadvisors.com"
   },
   "serviceType": "What to expect when you become a client",
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
   "audience": [
     {
       "@type": "Audience",
@@ -339,6 +352,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     {
       "@type": "Audience",
       "audienceType": "Service Businesses"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Professional Services Firms"
     },
     {
       "@type": "Audience",
