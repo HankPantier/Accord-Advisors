@@ -60,7 +60,7 @@ Business owners, practice shareholders, physicians, professional service provide
 
 For clients whose personal finances are connected to a practice or business, the same team that manages your monthly accounting also prepares your personal return. That means planning conversations happen with full context. Estimated payments, retirement contributions, and entity distributions get reviewed together throughout the year, not reconstructed in a rush every April. For individuals without a business, it means working with a CPA who takes the time to understand your full picture rather than processing a return and moving on.
 
-It's the kind of continuity and attention that comes from working with one Indiana CPA firm instead of splitting business and personal tax work between separate providers who each see only half the picture.
+It's the kind of continuity and attention that comes from working with one CPA firm instead of splitting business and personal tax work between separate providers who each see only half the picture.
 
 <!-- block: content-split | variant: image-left | image: optometry-practice-financial-review.jpg | alt: "CPA reviewing financial reports with an optometry practice manager in an exam office" | query: "optometrist practice manager financial meeting" -->
 ## Specialized experience serving your practice, your profession, and your industry
