@@ -65,9 +65,9 @@ Transparency isn't a feature we mention once and forget. It's how the relationsh
 <!-- block: content-split | variant: image-right | image: healthcare-practice-financial-review.jpg | alt: "Optometrist and accountant reviewing practice financial statements together" | query: "medical practice financial consultation" -->
 ## Deep Expertise for Strategic Guidance
 
-Accord Advisors brings deep, practice-specific expertise to optometry offices, medical practices, and dental practices across Indiana, including Bloomington, Avon, and the greater Indianapolis area. We understand the financial patterns that define healthcare: insurance reimbursement timing, equipment financing cycles, staffing ratios, and the cash flow swings that come with adding a new provider.
+Accord Advisors brings deep, practice-specific expertise to optometry offices, medical practices, and dental practices nationwide, with a strong local presence in Bloomington, Avon, and the greater Indianapolis area of Indiana. We understand the financial patterns that define healthcare: insurance reimbursement timing, equipment financing cycles, staffing ratios, and the cash flow swings that come with adding a new provider.
 
-That same depth carries over to service-based businesses, professional service providers, and churches throughout Indiana. Whether you're in a suburb of Indianapolis or a smaller Indiana market, the firm's experience shows up in how quickly a billing lag or a staffing cost spike gets flagged, months before it would surface as a year-end surprise.
+That same depth carries over to service-based businesses, professional service providers, and churches across the country. Whether your practice or business is based in Indianapolis, elsewhere in Indiana, or in another state entirely, the firm's experience shows up in how quickly a billing lag or a staffing cost spike gets flagged, months before it would surface as a year-end surprise.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Explore Our Outsourced Accounting Services
