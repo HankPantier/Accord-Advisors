@@ -301,7 +301,7 @@ Accord Advisors offers a secure client portal and encrypted document transfer as
   "@type": "WebPage",
   "name": "Quick Links to Accounting Resources | Bloomington, IN",
   "url": "https://accordadvisors.com/quick-links",
-  "description": "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, service, and church clients in Bloomington, IN.",
+  "description": "Access the secure client portal, send documents safely, and find quick links for optometry, dental, medical, professional services, service-based, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
