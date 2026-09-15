@@ -141,8 +141,8 @@ Accord Advisors provides outsourced accounting, bookkeeping, payroll support, an
 
 **FAQ Block:**
 
-**Q: Do you work with dental practices outside Bloomington?**
-A: Yes. Accord Advisors serves dental practices throughout Bloomington and Indianapolis, along with other Indiana practices seeking outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting.
+**Q: Do you work with dental practices outside Bloomington and Indianapolis?**
+A: Yes. Accord Advisors serves dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Whether your office is across town or across the country, you get the same outsourced accounting, bookkeeping, and tax planning built specifically around dental office production and collections reporting.
 
 **Q: How much does outsourced accounting cost for a dental practice?**
 A: Accord Advisors uses a fixed monthly fee rather than hourly billing, so dental practice owners know the cost upfront. Pricing is based on the scope of bookkeeping, payroll, and reporting your practice needs, not the hours it takes to deliver it.
