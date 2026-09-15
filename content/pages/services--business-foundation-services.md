@@ -297,7 +297,7 @@ Accord Advisors guides new optometry, dental, and medical practices, service-bas
   "@type": "Service",
   "name": "Business Foundation Services for New Practice Owners",
   "url": "https://accordadvisors.com/services/business-foundation-services",
-  "description": "New practice owners in Bloomington and Indianapolis get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee.",
+  "description": "New practice owners nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, get entity setup, accounting systems, and compliance guidance from Accord Advisors for one fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
