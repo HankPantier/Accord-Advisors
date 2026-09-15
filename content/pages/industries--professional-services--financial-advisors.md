@@ -90,7 +90,7 @@ For a firm managing client trust as its core asset, that same standard of care a
 <!-- block: cta-banner | variant: image-bg | image: advisor-handshake-consultation.jpg | alt: "Financial advisor shaking hands with an accountant after a consultation" | query: "business handshake professional consultation office" -->
 ## Partner With Accord Advisors Today
 
-An advisory practice runs better when the person managing the books understands fee-based revenue, custodial reconciliations, and the compliance pressure that comes with the industry. Accord Advisors has built that expertise serving healthcare providers, professional service providers, and independent financial advisors across Bloomington and Indianapolis.
+An advisory practice runs better when the person managing the books understands fee-based revenue, custodial reconciliations, and the compliance pressure that comes with the industry. Accord Advisors has built that expertise serving healthcare providers, professional service providers, and independent financial advisors nationwide, including firms in Bloomington, Avon, and the greater Indianapolis area of Indiana.
 
 [Schedule a consultation](/contact) and find out what a fixed monthly fee, a dedicated accounting team, and a clear monthly report could do for your firm.
 
