@@ -326,7 +326,7 @@ Accord Advisors, led by Jared Hammack, CPA, replaces hourly billing with fixed m
   "@type": "WebPage",
   "name": "Accord Advisors | Trusted CPA Firm in Bloomington, IN",
   "url": "https://accordadvisors.com/",
-  "description": "Bloomington, IN CPA firm Accord Advisors offers outsourced accounting, fixed monthly fees, and deep industry expertise for optometrists, dentists, and medical practices.",
+  "description": "Bloomington, IN CPA firm Accord Advisors offers outsourced accounting, fixed monthly fees, and deep industry expertise for optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
