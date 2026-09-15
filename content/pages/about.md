@@ -241,10 +241,10 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Where is Accord Advisors located?",
+      "name": "Where does Accord Advisors serve clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Accord Advisors is based in Bloomington, Indiana, and serves clients throughout the Indianapolis area, including Avon. Clients work directly with the same team each month, whether they visit in person or use the secure online portal."
+        "text": "Accord Advisors serves optometry, dental, medical, service-based, professional service, and church clients nationwide. The firm has offices in Bloomington and Avon, Indiana, and clients work directly with the same team each month, whether they connect in person or through the secure online portal."
       }
     },
     {
@@ -252,7 +252,7 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
       "name": "What industries does Accord Advisors specialize in?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Accord Advisors focuses on optometry practices, dental offices, medical professionals, service businesses, and churches. Nearly 40 years of firm experience in these specific niches means faster, more relevant answers than a generalist accounting firm can offer."
+        "text": "Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, professional service providers, and churches. Deep, industry-specific expertise across this focused set of niches means faster, more relevant answers than a generalist accounting firm can offer, for clients anywhere in the country."
       }
     },
     {
@@ -268,7 +268,7 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
       "name": "Does Accord Advisors serve churches and nonprofits?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations, an area many general accounting firms rarely handle with the same depth."
+        "text": "Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations nationwide, an area many general accounting firms rarely handle with the same depth."
       }
     }
   ]
