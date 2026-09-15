@@ -41,7 +41,7 @@ The result is a rhythm most small and mid-sized organizations never get from a t
 <!-- block: checklist-section | variant: with-image-left | image: new-practice-bookkeeping-setup.jpg | alt: "New business owner reviewing bookkeeping and payroll setup documents with an advisor" | query: "small business owner paperwork consultation" -->
 ## Business foundation services for startups and growing practices
 
-Opening a new optometry practice in Bloomington, launching a dental office in the greater Indianapolis area, starting a professional services firm in Avon, or building a service business anywhere in Indiana means dozens of financial decisions before you ever see a client or complete a first job. Our [business foundation services](/services/business-foundation-services) are built to get those decisions right the first time, so the accounting infrastructure supports growth instead of slowing it down.
+Opening a new optometry practice in Bloomington, launching a dental office anywhere in the country, starting a professional services firm in Avon, or building a service business anywhere from Indiana to coast to coast means dozens of financial decisions before you ever see a client or complete a first job. Our [business foundation services](/services/business-foundation-services) are built to get those decisions right the first time, so the accounting infrastructure supports growth instead of slowing it down.
 
 That foundation typically includes:
 
