@@ -31,7 +31,7 @@ IOLTA and client trust accounts carry rules that don't bend. Commingling client 
 
 The firm's process includes three-way reconciliations that match the trust ledger, the bank statement, and individual client balances against each other. Discrepancies get flagged and resolved before they become a compliance problem, not after an audit request lands on your desk.
 
-Attorneys don't need to become bookkeepers to stay compliant with bar association trust accounting rules. They need a system that catches errors early and documentation that holds up if a regulator asks questions. That's the standard applied to every trust account under management, whether the firm has one attorney or ten.
+Attorneys don't need to become bookkeepers to stay compliant with bar association trust accounting rules. They need a system that catches errors early and documentation that holds up if a regulator asks questions. That's the standard applied to every trust account under management, whether the firm is located in Indianapolis, Bloomington, Avon, or anywhere else in the country.
 
 <!-- block: checklist-section | variant: with-image-left | image: partner-payroll-review.jpg | alt: "Law firm partners reviewing compensation figures with an advisor" | query: "business partners reviewing financial documents" -->
 ## Partner Distributions & Payroll Management
