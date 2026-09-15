@@ -280,7 +280,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@type": "Service",
   "name": "Accounting Services Overview | Bloomington, IN CPA Firm",
   "url": "https://accordadvisors.com/services",
-  "description": "Accord Advisors offers outsourced accounting, tax prep, and business foundation services for Bloomington and Indianapolis practices, at a fixed monthly fee.",
+  "description": "Accord Advisors offers outsourced accounting, tax prep, and business foundation services for optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, at a fixed monthly fee.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
