@@ -64,7 +64,7 @@ Because the fee is fixed monthly rather than billed by the hour, there's no ince
 
 General-purpose accounting software and generalist CPA firms can produce a report. What they can't do is tell you whether your overhead ratio is normal for an optometry practice or a warning sign, because they haven't looked at enough optometry practices to know the difference.
 
-Accord Advisors has spent years serving healthcare providers, including optometry and dental practices across Bloomington and Indianapolis, with a specific focus on how optical retail, exam revenue, and insurance reimbursement interact inside a practice's financials. That's why Acquios refers optometrists to us directly: they've seen what happens when a practice gets industry-specific guidance instead of a generic monthly close.
+Accord Advisors has spent years serving healthcare providers, including optometry and dental practices nationwide, with a specific focus on how optical retail, exam revenue, and insurance reimbursement interact inside a practice's financials. That depth of industry-specific knowledge is what separates genuine practice guidance from a generic monthly close. We work with practices across the country, including those in Bloomington, Avon, and the greater Indianapolis area of Indiana.
 
 That depth of experience is what turns a dashboard into a real management tool, not just a report you skim and file away.
 
