@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "dental-practice-accounting-bloomington.jpg"
 hero_image_alt: "Dentist reviewing financial reports with accountant in a dental office"
-hero_subhead: "Fixed monthly fees, secure reporting, and tax planning built specifically for dental practices in Bloomington, Indianapolis, Avon, and across Indiana"
+hero_subhead: "Fixed monthly fees, secure reporting, and tax planning built specifically for dental practices in Bloomington, Indianapolis, Avon, and nationwide"
 hero_headline: "A dental-focused accounting partner for Indiana practices"
 answer_block: "Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices in Bloomington, Avon, Indianapolis, and throughout Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep healthcare industry experience."
 eeat_signals: ["Deep firm experience serving dental and healthcare industry clients","Fixed monthly fee model documented and applied consistently across dental clients","Secure online client portal for financial reporting and documents","Serves dental practices in Bloomington and Indianapolis, Indiana"]
