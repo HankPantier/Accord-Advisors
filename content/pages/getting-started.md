@@ -312,7 +312,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@type": "Service",
   "name": "What to Expect When You Become a Client | Bloomington",
   "url": "https://accordadvisors.com/getting-started",
-  "description": "See exactly what happens when you become a client of Accord Advisors in Bloomington, IN: a discovery call, fixed monthly fees, and a secure client portal.",
+  "description": "See exactly what happens when you become a client of Accord Advisors, serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), IN: a discovery call, fixed monthly fees, and a secure client portal.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
