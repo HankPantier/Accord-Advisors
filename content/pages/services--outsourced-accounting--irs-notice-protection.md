@@ -70,7 +70,7 @@ Accord Advisors works on a flat monthly fee. If you're already a client, notice 
 <!-- block: content-split | variant: image-right | image: healthcare-practice-consultation.jpg | alt: "CPA consulting with an optometry practice manager in a clinical office setting" | query: "consultant meeting healthcare practice manager" -->
 ## Local expertise that understands your industry
 
-Accord Advisors works closely with optometry practices, dental offices, medical professionals, service-based businesses, churches, and professional service providers across Bloomington, Indianapolis, Avon, and throughout Indiana. Many optometrist clients reach us through referrals from Acquios, the optometry practice network, because their advisors know the notices this niche tends to see.
+Accord Advisors works with optometry practices, dental offices, medical professionals, service-based businesses, churches, and professional service providers nationwide. Our clients include practices and businesses in Bloomington, Avon, and the Indianapolis area of Indiana, as well as across the country.
 
 Our team has worked alongside practice managers dealing with payroll notices tied to hygienist or associate optometrist compensation, medical professionals navigating self-employment tax questions, service-based business owners facing payroll and contractor mismatches, professional service providers resolving 1099 discrepancies tied to fee income and subcontractor arrangements, and church treasurers working through clergy housing allowance issues. That depth of industry experience means fewer surprises. We've usually seen your specific notice before, for a client very much like you.
 
