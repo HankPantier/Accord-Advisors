@@ -1,18 +1,19 @@
 ---
-title: "Accounting for Service-based Businesses in Indiana | Accord Advisors"
+title: "Accounting for Service-based Businesses Nationwide | Accord Advisors"
 url: "/industries/service-businesses"
-meta_title: "Accounting for HVAC, Plumbers & Service Businesses in Indiana"
-meta_description: "Fixed-fee outsourced accounting for HVAC installers, electricians, plumbers, landscapers, and auto mechanics in Bloomington, Avon, Indianapolis, and across Indiana. Monthly dashboards, tax planning, and CPA guidance — no hourly billing."
-target_keyword: "accounting for service-based businesses bloomington, in"
-secondary_keywords: ["outsourced accounting Indianapolis","fixed fee CPA Indiana","service business accounting Indiana","HVAC electrician plumber accountant Indiana","business foundation services Indiana","accounting for contractors Bloomington"]
+meta_title: "Accounting for HVAC, Plumbers & Service Businesses Nationwide"
+meta_description: "Fixed-fee outsourced accounting for HVAC installers, electricians, plumbers, landscapers, and auto mechanics nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Monthly dashboards, tax planning, and CPA guidance, no hourly billing."
+target_keyword: "accounting for service-based businesses"
+secondary_keywords: ["outsourced accounting for service businesses","fixed fee CPA service business","service business accounting nationwide","HVAC electrician plumber accountant","business foundation services","accounting for contractors Bloomington Indianapolis","small business accountant Indiana","CPA firm near me"]
 canonical_url: "https://accordadvisors.com/industries/service-businesses"
 schema_markup: "Service"
 hero: "page-header"
-answer_block: "Accord Advisors provides outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform."
-eeat_signals: ["Fixed monthly fee model, no hourly billing surprises","Secure online client platform for real-time financial access"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/why-accord-advisors","reason":"Reinforces local differentiation and firm positioning","anchor_text":"why Indiana business owners choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
+answer_block: "Accord Advisors provides outsourced accounting for trades and service-based businesses, including HVAC installers, electricians, plumbers, landscapers, and auto mechanics, nationwide, with deep roots in Bloomington, Avon, and the Indianapolis area of Indiana. Instead of hourly billing, clients get a fixed monthly fee covering bookkeeping, financial dashboards, and CPA-level advisory through a secure online platform."
+eeat_signals: ["Fixed monthly fee model, no hourly billing surprises","Secure online client platform for real-time financial access from anywhere in the country"]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Connects to the core service page describing the fixed-fee accounting model","anchor_text":"outsourced accounting department"},{"url":"/services/business-foundation-services","reason":"Links to the service page covering entity setup and startup systems","anchor_text":"Business Foundation Services"},{"url":"/services/personal-income-tax","reason":"Supports the section on integrated personal and business tax planning","anchor_text":"personal income tax preparation and planning"},{"url":"/why-accord-advisors","reason":"Reinforces firm positioning and nationwide reach with Indiana roots","anchor_text":"why service business owners nationwide choose Accord Advisors"},{"url":"/contact","reason":"Primary page CTA driving to the contact form","anchor_text":"Schedule a consultation"}]
 faq_block: [{"answer":"Accord Advisors charges a fixed monthly fee instead of hourly billing, so HVAC companies, electrical contractors, plumbers, landscapers, and auto mechanics in Bloomington, Avon, Indianapolis, and across Indiana know their accounting cost upfront and can plan around it without surprise invoices.","question":"What does outsourced accounting cost for a service-based business?"},{"answer":"Yes. Accord Advisors serves service-based businesses across Bloomington, Avon, Indianapolis, and statewide using a secure online platform, so clients anywhere in Indiana can access financials and dashboards without an in-person visit.","question":"Do you work with service-based businesses outside Bloomington?"},{"answer":"Business Foundation Services cover entity selection, chart of accounts setup, and bookkeeping processes for new service-based businesses, giving owners a solid financial structure from day one instead of retrofitting it after growth or a busy season creates problems.","question":"Can you help set up a new HVAC, electrical, or plumbing business?"},{"answer":"Yes. Accord Advisors coordinates personal income tax preparation and planning with business accounting for service-based business owners, so pass-through income, estimated payments, vehicle and equipment deductions, and entity elections are managed by one team instead of two disconnected preparers.","question":"Do you handle both business and personal taxes for contractors?"}]
-llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for trades and service-based businesses — including HVAC installers, electricians, plumbers, landscapers, and auto mechanics — in Bloomington, Avon, Indianapolis, and across Indiana, with a fixed monthly fee model and a secure online platform serving Indiana business owners."
+llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting for trades and service-based businesses nationwide, including HVAC installers, electricians, plumbers, landscapers, and auto mechanics, with deep roots in Bloomington, Avon, and the Indianapolis area of Indiana. Clients receive a fixed monthly fee model and a secure online platform regardless of where they operate."
+# ORIGINAL_REMOVED, including HVAC installers, electricians, plumbers, landscapers, and auto mechanics, in Bloomington, Avon, Indianapolis, and across Indiana, with a fixed monthly fee model and a secure online platform serving Indiana business owners."
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-accounting-meeting.jpg | alt: "HVAC technician and accountant reviewing financial reports together at a desk" | query: "trades contractor meeting accountant office" -->
@@ -87,7 +88,7 @@ A: Yes. Accord Advisors coordinates personal income tax preparation and planning
 <!-- block: cta-banner | variant: image-bg | image: bloomington-office-handshake.jpg | alt: "Advisor shaking hands with a trades business owner in a bright modern office" | query: "handshake business meeting office" -->
 ## Get started with a trusted accounting partner
 
-Moving from hourly billing or DIY bookkeeping to a fixed-fee outsourced accounting department is a conversation, not a commitment. Walk through where your service-based business stands today, what monthly financials and dashboards would look like, and whether Business Foundation Services make sense for where you are right now — startup, growing your crew, or planning for what comes next.
+Moving from hourly billing or DIY bookkeeping to a fixed-fee outsourced accounting department is a conversation, not a commitment. Walk through where your service-based business stands today, what monthly financials and dashboards would look like, and whether Business Foundation Services make sense for where you are right now, startup, growing your crew, or planning for what comes next.
 
 Accord Advisors serves HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service business owners across Bloomington, Avon, Indianapolis, and across Indiana who want a straight answer about what outsourced accounting costs and what it replaces. [Schedule a consultation](/contact) and find out what a predictable monthly fee actually includes.
 
@@ -102,11 +103,11 @@ Accord Advisors provides outsourced accounting for service-based businesses, inc
 - Secure online client platform for real-time financial access
 
 **Internal Links:**
-- outsourced accounting department → /services/outsourced-accounting — Connects to the core service page describing the fixed-fee accounting model
-- Business Foundation Services → /services/business-foundation-services — Links to the service page covering entity setup and startup systems
-- personal income tax preparation and planning → /services/personal-income-tax — Supports the section on integrated personal and business tax planning
-- why Indiana business owners choose Accord Advisors → /why-accord-advisors — Reinforces local differentiation and firm positioning
-- Schedule a consultation → /contact — Primary page CTA driving to the contact form
+- outsourced accounting department → /services/outsourced-accounting, Connects to the core service page describing the fixed-fee accounting model
+- Business Foundation Services → /services/business-foundation-services, Links to the service page covering entity setup and startup systems
+- personal income tax preparation and planning → /services/personal-income-tax, Supports the section on integrated personal and business tax planning
+- why Indiana business owners choose Accord Advisors → /why-accord-advisors, Reinforces local differentiation and firm positioning
+- Schedule a consultation → /contact, Primary page CTA driving to the contact form
 
 **FAQ Block:**
 
@@ -126,7 +127,7 @@ A: Yes. Accord Advisors coordinates personal income tax preparation and planning
 Accord Advisors offers fixed-fee outsourced accounting for service-based businesses in Bloomington and Indianapolis, Indiana, with CPA Jared Hammack leading the team and nearly 40 years of firm experience serving Indiana business owners.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
