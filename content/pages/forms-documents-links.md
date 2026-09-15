@@ -107,7 +107,7 @@ A: Bring W-2s or 1099s, mortgage interest and property tax statements, charitabl
 
 Not sure which checklist applies to you, or staring at a form that doesn't quite match your situation? That's normal. Tax and accounting forms are written for accountants, not business owners, which is exactly why our years of experience with client work has taught us where people get stuck.
 
-The Accord Advisors team can walk through your specific situation, whether you're an optometry practice manager, a church treasurer, or a founder filing for the first time. [Schedule a consultation](/contact) and we'll tell you exactly what to gather, in plain language.
+The Accord Advisors team can walk through your specific situation, whether you're an optometry practice manager, a dental or medical provider, a professional services firm, a service-based business owner, a church treasurer, or an individual filing for the first time. We serve clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. [Schedule a consultation](/contact) and we'll tell you exactly what to gather, in plain language.
 
 ---
 ## SEO & AIO Metadata
