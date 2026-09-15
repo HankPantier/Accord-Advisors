@@ -230,7 +230,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-avon",
-  "name": "Accord Advisors — Accord Advisors – Avon",
+  "name": "Accord Advisors, Accord Advisors, Avon",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -241,6 +241,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
     "addressCountry": "US"
   },
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
