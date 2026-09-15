@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "optometry-practice-accounting.jpg"
 hero_image_alt: "Optometrist reviewing financial reports with practice manager in office"
 hero_subhead: "Fixed-fee accounting and CFO-level insight built for optometry practices nationwide, with local roots in Bloomington, Avon, and Indianapolis, Indiana"
-hero_headline_note: ", wherever you're located"
+TODELETE: ", wherever you're located"
 hero_headline: "Financial clarity built for optometry practices"
 answer_block: "Accord Advisors provides outsourced accounting, tax planning, and business advisory services built specifically for optometry practices in Bloomington, Avon, Indianapolis, and across Indiana. The firm has served healthcare providers for nearly 40 years and bills through a fixed monthly fee, replacing unpredictable hourly billing with a secure online platform and monthly financial reporting."
 eeat_signals: ["Deep, long-standing experience serving optometrists and optometry practice owners nationwide","Specialized knowledge of optometry inventory cycles, insurance reimbursement timing, and practice cash flow","Fixed monthly fee model in place of hourly billing","Secure online platform for real-time financial visibility","CFO-level insight and monthly financial reporting tailored to optometry practices"]
