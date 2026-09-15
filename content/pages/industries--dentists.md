@@ -106,8 +106,8 @@ A: Yes. Business Foundation Services cover entity selection, bookkeeping setup, 
 **Q: What makes dental practice accounting different from general small business accounting?**
 A: Dental practices track production and collections separately from standard revenue, manage insurance reimbursement timing, and carry unique staffing costs for hygienists and associates. Reporting built without those factors misses what actually drives a dental office's performance.
 
-**Q: Do you serve clients in other industries beyond dental?**
-A: Yes. In addition to dental practices, Accord Advisors works with optometry practices, medical professionals, service-based businesses, professional services firms, and churches, all on a fixed monthly fee with secure online reporting.
+**Q: Who leads dental engagements at Accord Advisors?**
+A: Jared Hammack, CPA, leads dental practice engagements at Accord Advisors, bringing focused experience in dental office accounting, tax planning, and financial reporting to every client relationship.
 
 <!-- block: cta-banner | variant: image-bg | image: dental-practice-consultation-handshake.jpg | alt: "Dentist and accountant shaking hands after a consultation meeting" | query: "dentist accountant handshake consultation" -->
 ## Get started with a dental accounting partner, wherever you practice
