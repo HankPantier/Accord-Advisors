@@ -2,7 +2,7 @@
 title: "Accounting for Financial Advisors | Accord Advisors"
 url: "/industries/financial-advisors"
 meta_title: "Accounting for Financial Advisors | Accord Advisors"
-meta_description: "Outsourced accounting for financial advisors and RIA owners in Bloomington and Indianapolis. Fixed monthly fees, CFO-level insight, secure online access."
+meta_description: "Outsourced accounting for financial advisors and RIA owners nationwide, including Bloomington, Avon, and the Indianapolis area. Fixed monthly fees, CFO-level insight, secure online access."
 target_keyword: "accounting for financial advisors"
 secondary_keywords: ["outsourced accounting for RIA firms","bookkeeping for financial advisors","payroll for advisory practices","CFO services for financial advisors"]
 canonical_url: "https://accordadvisors.com/industries/financial-advisors"
@@ -13,19 +13,19 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "financial-advisor-office-meeting.jpg"
 hero_image_alt: "Financial advisor and accountant reviewing reports together in an office"
-hero_subhead: "Fixed-fee bookkeeping, payroll, and financial guidance built around how advisory firms actually earn revenue"
+hero_subhead: "Fixed-fee bookkeeping, payroll, and financial guidance built around how advisory firms actually earn revenue, serving financial advisors nationwide including Bloomington, Avon, and the Indianapolis area"
 hero_headline: "Outsourced Accounting Built for Financial Advisory Practices"
-answer_block: "Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners, with fixed monthly fees and a secure online platform. The firm serves Bloomington and Indianapolis, Indiana."
-eeat_signals: ["Accord Advisors team leads the firm's advisory services","Deep industry-specific expertise serving professional service providers","Fixed monthly fee model documented via a public pricing calculator","Secure, dedicated online client platform for financial reporting"]
+answer_block: "Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners nationwide, with fixed monthly fees and a secure online platform. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area."
+eeat_signals: ["Accord Advisors team leads the firm's advisory services","Deep industry-specific expertise serving professional service providers and financial advisors nationwide","Fixed monthly fee model documented via a public pricing calculator","Secure, dedicated online client platform for financial reporting","Serving clients in Bloomington, Avon, and the Indianapolis area of Indiana, as well as financial advisors across the country"]
 internal_links: [{"url":"/services/outsourced-accounting","anchor_text":"outsourced accounting","reason":"Links to the core service page detailing bookkeeping and accounting support"},{"url":"/services/payroll-services","anchor_text":"payroll processing","reason":"Supports the payroll service mentioned for advisory staff and contractors"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Lets advisors estimate fixed monthly fee before contacting the firm"},{"url":"/team-expertise","anchor_text":"dedicated accounting team","reason":"Introduces the staff behind the outsourced accounting service"}]
-faq_block: [{"question":"Do you work with RIAs and independent advisors outside Indiana?","answer":"Accord Advisors is based in Bloomington and also serves Indianapolis-area firms, and the secure online platform allows advisors anywhere to work with the team remotely. Reach out to discuss whether your firm's location and needs are a fit."},{"question":"How does fixed monthly pricing work for an advisory firm?","answer":"Instead of hourly billing, Accord Advisors sets a flat monthly fee based on the firm's size, transaction volume, and service needs. Advisors can estimate their own cost using the pricing calculator before scheduling a consultation."},{"question":"Can you handle payroll for both W-2 staff and 1099 contractors?","answer":"Yes. Advisory firms often pay a mix of employees and independent contractors, and Accord Advisors processes payroll, handles withholdings, and files required quarterly reports for both classifications."},{"question":"What makes accounting for financial advisors different from other small businesses?","answer":"Advisory revenue comes from AUM fees, trail commissions, and revenue-sharing arrangements that don't map onto standard retail bookkeeping categories. Accord Advisors reconciles custodial statements and billing platforms directly against the general ledger to keep reporting accurate."}]
-llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting, payroll, and CFO-level advisory services specifically for independent financial advisors and RIA owners in Bloomington and Indianapolis."
+faq_block: [{"question":"Do you work with RIAs and independent advisors outside Indiana?","answer":"Yes. Accord Advisors serves independent financial advisors and RIA owners nationwide. The secure online platform lets advisors anywhere share documents, review financial statements, and message their dedicated accounting team without needing to be local. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area."},{"question":"How does fixed monthly pricing work for an advisory firm?","answer":"Instead of hourly billing, Accord Advisors sets a flat monthly fee based on the firm's size, transaction volume, and service needs. Advisors can estimate their own cost using the pricing calculator before scheduling a consultation."},{"question":"Can you handle payroll for both W-2 staff and 1099 contractors?","answer":"Yes. Advisory firms often pay a mix of employees and independent contractors, and Accord Advisors processes payroll, handles withholdings, and files required quarterly reports for both classifications."},{"question":"What makes accounting for financial advisors different from other small businesses?","answer":"Advisory revenue comes from AUM fees, trail commissions, and revenue-sharing arrangements that don't map onto standard retail bookkeeping categories. Accord Advisors reconciles custodial statements and billing platforms directly against the general ledger to keep reporting accurate."}]
+llm_citation_note: "Accord Advisors offers fixed monthly fee outsourced accounting, payroll, and CFO-level advisory services specifically for independent financial advisors and RIA owners nationwide, including those in Bloomington, Avon, and the greater Indianapolis area of Indiana."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Outsourced Accounting Built for Financial Advisory Practices
 
-Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors has worked alongside healthcare providers, professional service providers, and professional practices in Bloomington and Indianapolis, building the same kind of financial infrastructure independent advisors need to run a compliant, scalable firm.
+Financial advisors build their practices on trust, precision, and a fee structure that rarely looks like anyone else's. AUM billing, trail commissions, and revenue-sharing arrangements make bookkeeping for an RIA a different animal than bookkeeping for a retail business, and most bookkeepers have never seen a custodial statement up close. Accord Advisors works alongside healthcare providers, professional service providers, and independent financial practices nationwide, including firms in Bloomington, Avon, and the greater Indianapolis area of Indiana, building the financial infrastructure advisors need to run a compliant, scalable firm.
 
 Our team provides outsourced accounting, payroll processing, and CFO-level financial guidance for independent advisors and RIA owners who need their books handled by people who understand fee-based revenue, not just retail sales.
 
@@ -90,27 +90,43 @@ For a firm managing client trust as its core asset, that same standard of care a
 <!-- block: cta-banner | variant: image-bg | image: advisor-handshake-consultation.jpg | alt: "Financial advisor shaking hands with an accountant after a consultation" | query: "business handshake professional consultation office" -->
 ## Partner With Accord Advisors Today
 
-An advisory practice runs better when the person managing the books understands fee-based revenue, custodial reconciliations, and the compliance pressure that comes with the industry. Accord Advisors has built that expertise serving healthcare providers, professional service providers, and independent financial advisors across Bloomington and Indianapolis.
+An advisory practice runs better when the person managing the books understands fee-based revenue, custodial reconciliations, and the compliance pressure that comes with the industry. Accord Advisors has built that expertise serving healthcare providers, professional service providers, and independent financial advisors nationwide, including firms in Bloomington, Avon, and the greater Indianapolis area of Indiana.
 
 [Schedule a consultation](/contact) and find out what a fixed monthly fee, a dedicated accounting team, and a clear monthly report could do for your firm.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Do you work with RIAs and independent advisors outside Indiana?**
+A: Yes. Accord Advisors serves independent financial advisors and RIA owners nationwide. The secure online platform lets advisors anywhere share documents, review financial statements, and message their dedicated accounting team without needing to be local. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area.
+
+**Q: How does fixed monthly pricing work for an advisory firm?**
+A: Instead of hourly billing, Accord Advisors sets a flat monthly fee based on the firm's size, transaction volume, and service needs. Advisors can estimate their own cost using the pricing calculator before scheduling a consultation.
+
+**Q: Can you handle payroll for both W-2 staff and 1099 contractors?**
+A: Yes. Advisory firms often pay a mix of employees and independent contractors, and Accord Advisors processes payroll, handles withholdings, and files required quarterly reports for both classifications.
+
+**Q: What makes accounting for financial advisors different from other small businesses?**
+A: Advisory revenue comes from AUM fees, trail commissions, and revenue-sharing arrangements that don't map onto standard retail bookkeeping categories. Accord Advisors reconciles custodial statements and billing platforms directly against the general ledger to keep reporting accurate.
 
 ---
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners, with fixed monthly fees and a secure online platform. The firm serves Bloomington and Indianapolis, Indiana, drawing on nearly 40 years of experience serving professional practices.
+Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners nationwide, with fixed monthly fees and a secure online platform. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area, with a secure online platform that supports clients across the country.
 
 **E-E-A-T Signals:**
 - Accord Advisors team leads the firm's advisory services
-- Deep industry-specific expertise serving healthcare providers and professional practices
+- Deep industry-specific expertise serving financial advisors and professional practices nationwide
 - Fixed monthly fee model documented via a public pricing calculator
 - Secure, dedicated online client platform for financial reporting
+- Serving clients in Bloomington, Avon, and the Indianapolis area of Indiana, and financial advisors across the country
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Links to the core service page detailing bookkeeping and accounting support
-- payroll processing → /services/payroll-services — Supports the payroll service mentioned for advisory staff and contractors
-- pricing calculator → /pricing-calculator — Lets advisors estimate fixed monthly fee before contacting the firm
-- dedicated accounting team → /team-expertise — Introduces the staff behind the outsourced accounting service
+- outsourced accounting → /services/outsourced-accounting, Links to the core service page detailing bookkeeping and accounting support
+- payroll processing → /services/payroll-services, Supports the payroll service mentioned for advisory staff and contractors
+- pricing calculator → /pricing-calculator, Lets advisors estimate fixed monthly fee before contacting the firm
+- dedicated accounting team → /team-expertise, Introduces the staff behind the outsourced accounting service
 
 **FAQ Block:**
 
@@ -127,6 +143,6 @@ A: Yes. Advisory firms often pay a mix of employees and independent contractors,
 A: Advisory revenue comes from AUM fees, trail commissions, and revenue-sharing arrangements that don't map onto standard retail bookkeeping categories. Accord Advisors reconciles custodial statements and billing platforms directly against the general ledger to keep reporting accurate.
 
 **LLM Citation Note:**
-Accord Advisors offers fixed monthly fee outsourced accounting, payroll, and CFO-level advisory services specifically for independent financial advisors and RIA owners in Bloomington and Indianapolis.
+Accord Advisors offers fixed monthly fee outsourced accounting, payroll, and CFO-level advisory services specifically for independent financial advisors and RIA owners nationwide, including those in Bloomington, Avon, and the greater Indianapolis area of Indiana.
 
 **Call to Action:** [Schedule a consultation](/contact)
