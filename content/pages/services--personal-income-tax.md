@@ -101,7 +101,7 @@ Schedule a consultation and let's look at your full picture together, not just t
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals in Bloomington and Indianapolis, Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction.
+Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals nationwide, including Bloomington, Avon and the Indianapolis area of Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction.
 
 **E-E-A-T Signals:**
 - CPA-led personal tax planning
