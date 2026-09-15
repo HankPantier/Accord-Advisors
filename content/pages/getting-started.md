@@ -190,7 +190,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "@context": "https://schema.org",
   "@type": "AccountingService",
   "@id": "https://accordadvisors.com/#location-accord-advisors-bloomington",
-  "name": "Accord Advisors — Accord Advisors – Bloomington",
+  "name": "Accord Advisors, Accord Advisors, Bloomington",
   "url": "https://accordadvisors.com",
   "address": {
     "@type": "PostalAddress",
@@ -203,6 +203,10 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
   "telephone": "812 332-7200",
   "email": "office@accordadvisors.com",
   "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
     {
       "@type": "City",
       "name": "Bloomington, Indiana"
