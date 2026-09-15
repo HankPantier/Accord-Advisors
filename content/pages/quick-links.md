@@ -107,14 +107,14 @@ If you scrolled this far, chances are you have a specific question, not just idl
 ## SEO & AIO Metadata
 
 **Answer Block:**
-This page gives Accord Advisors clients and prospective clients one place to log into the secure client portal, send documents through encrypted file transfer, and find curated resource links for optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis, IN.
+This page gives Accord Advisors clients and prospective clients one place to log into the secure client portal, send documents through encrypted file transfer, and find curated resource links for optometry, dental, medical, professional services, service business, and church clients nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads client engagements
-- Nearly 40 years serving healthcare providers, including optometry and dental practices
+- Serves optometry, dental, medical, professional services, service-based, and church clients nationwide
 - Secure online client portal used in place of hourly billing and paper files
-- Referral relationship with Acquios for optometry practice clients
 - Fixed monthly fee model documented across services
+- Local offices in Bloomington and Avon, Indiana, with clients throughout the Indianapolis area and across the country
 
 **Internal Links:**
 - getting started → /getting-started, Directs new prospects to onboarding for portal access
