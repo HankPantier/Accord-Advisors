@@ -13,7 +13,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-hero.jpg"
 hero_image_alt: "Accountant and business owner reviewing financial reports on a laptop"
-hero_subhead: "Hand off the books to a full accounting department that reports, advises, and never bills by the hour"
+hero_subhead: "Hand off the books to a full accounting department that reports, advises, and never bills by the hour, serving practices and businesses nationwide"
 hero_headline: "Your Full Outsourced Accounting Department"
 answer_block: "Accord Advisors' outsourced accounting services give optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana a full accounting department, including bookkeeping, payroll, business tax, and CFO-level reporting, for one fixed monthly fee instead of hourly billing or a full-time hire."
 eeat_signals: ["Deep expertise serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide","Clients across Bloomington, Avon, and the Indianapolis area of Indiana, and throughout the country","Secure, cloud-based client platform for financial transparency","Fixed monthly fee model in place of hourly billing","CFO-level insight at a fraction of the cost of a full-time hire"]
