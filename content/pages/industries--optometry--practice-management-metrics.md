@@ -283,7 +283,7 @@ Accord Advisors delivers monthly optometry practice dashboards combining financi
   "@type": "Service",
   "name": "Optometry Practice Management Metrics | Bloomington, IN",
   "url": "https://accordadvisors.com/industries/optometry/practice-management-metrics",
-  "description": "Learn which financial and operational metrics optometry owners in Bloomington and Indianapolis should track monthly, and how outsourced accounting delivers them.",
+  "description": "Learn which financial and operational metrics optometry owners across the country should track monthly, and how outsourced accounting from Accord Advisors delivers them, including practices in Bloomington, Avon, and the Indianapolis area of Indiana.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
