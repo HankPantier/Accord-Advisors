@@ -2,7 +2,7 @@
 title: "Accounting for Financial Advisors | Accord Advisors"
 url: "/industries/financial-advisors"
 meta_title: "Accounting for Financial Advisors | Accord Advisors"
-meta_description: "Outsourced accounting for financial advisors and RIA owners in Bloomington and Indianapolis. Fixed monthly fees, CFO-level insight, secure online access."
+meta_description: "Outsourced accounting for financial advisors and RIA owners nationwide, including Bloomington, Avon, and the Indianapolis area. Fixed monthly fees, CFO-level insight, secure online access."
 target_keyword: "accounting for financial advisors"
 secondary_keywords: ["outsourced accounting for RIA firms","bookkeeping for financial advisors","payroll for advisory practices","CFO services for financial advisors"]
 canonical_url: "https://accordadvisors.com/industries/financial-advisors"
@@ -107,10 +107,10 @@ Accord Advisors provides outsourced accounting, payroll, and CFO-level financial
 - Secure, dedicated online client platform for financial reporting
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Links to the core service page detailing bookkeeping and accounting support
-- payroll processing → /services/payroll-services — Supports the payroll service mentioned for advisory staff and contractors
-- pricing calculator → /pricing-calculator — Lets advisors estimate fixed monthly fee before contacting the firm
-- dedicated accounting team → /team-expertise — Introduces the staff behind the outsourced accounting service
+- outsourced accounting → /services/outsourced-accounting, Links to the core service page detailing bookkeeping and accounting support
+- payroll processing → /services/payroll-services, Supports the payroll service mentioned for advisory staff and contractors
+- pricing calculator → /pricing-calculator, Lets advisors estimate fixed monthly fee before contacting the firm
+- dedicated accounting team → /team-expertise, Introduces the staff behind the outsourced accounting service
 
 **FAQ Block:**
 
