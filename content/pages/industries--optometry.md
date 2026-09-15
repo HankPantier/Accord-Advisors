@@ -1,17 +1,17 @@
 ---
 title: "Accounting for optometry practices | Accord Advisors"
 url: "/industries/optometry"
-meta_title: "Accounting for Optometry Practices in Bloomington, Indianapolis & Across Indiana"
-meta_description: "Fixed-fee outsourced accounting for optometry practices in Bloomington, Indianapolis, and across Indiana, from a CPA firm with deep healthcare industry experience."
-target_keyword: "accounting for optometry practices indiana"
-secondary_keywords: ["optometry CPA Indianapolis","outsourced accounting optometry practice Indiana","optometry practice management accounting Indiana","Bloomington optometry accountant","optometry CPA Bloomington IN","accounting for optometry practices Indianapolis"]
+meta_title: "Accounting for Optometry Practices Nationwide | Accord Advisors"
+meta_description: "Fixed-fee outsourced accounting for optometrists and optometry practice owners nationwide, with local roots in Bloomington, Avon, and Indianapolis, Indiana."
+target_keyword: "accounting for optometry practices"
+secondary_keywords: ["optometry CPA nationwide","outsourced accounting optometry practice","optometry CPA Indianapolis","optometry practice accounting Bloomington IN","optometry accountant Avon Indiana","accounting for optometrists nationwide","CPA for optometry practice owners"]
 canonical_url: "https://accordadvisors.com/industries/optometry"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "optometry-practice-accounting.jpg"
 hero_image_alt: "Optometrist reviewing financial reports with practice manager in office"
-hero_subhead: "Fixed-fee accounting and CFO-level insight built for Indiana optometry practices — wherever you're located"
+hero_subhead: "Fixed-fee accounting and CFO-level insight built for Indiana optometry practices, wherever you're located"
 hero_headline: "Financial clarity built for optometry practices"
 answer_block: "Accord Advisors provides outsourced accounting, tax planning, and business advisory services built specifically for optometry practices in Bloomington, Avon, Indianapolis, and across Indiana. The firm has served healthcare providers for nearly 40 years and bills through a fixed monthly fee, replacing unpredictable hourly billing with a secure online platform and monthly financial reporting."
 eeat_signals: ["Deep, long-standing experience serving healthcare providers, including optometry practices","Referral relationship with Acquios, a national optometry practice-support network","Fixed monthly fee model in place of hourly billing","Secure online platform for real-time financial visibility"]
@@ -111,12 +111,12 @@ Accord Advisors provides outsourced accounting, tax planning, and business advis
 - Secure online platform for real-time financial visibility
 
 **Internal Links:**
-- Outsourced Accounting → /services/outsourced-accounting — Links to the core service described in the section on fixed-fee accounting
-- Business Foundation Services → /services/business-foundation-services — Supports the section on getting practice structure right at startup or acquisition
-- practice management metrics → /industries/optometry/practice-management-metrics — Deepens the monthly insight section with a dedicated sub-page on practice metrics
-- healthcare providers → /industries/medical-professionals — Connects optometry to the firm's broader healthcare industry experience
-- approach → /why-rootadvisors — Reinforces differentiation and trust in the closing trust-building section
-- Schedule a consultation → /contact — Primary page CTA directing optometry prospects to book a conversation
+- Outsourced Accounting → /services/outsourced-accounting, Links to the core service described in the section on fixed-fee accounting
+- Business Foundation Services → /services/business-foundation-services, Supports the section on getting practice structure right at startup or acquisition
+- practice management metrics → /industries/optometry/practice-management-metrics, Deepens the monthly insight section with a dedicated sub-page on practice metrics
+- healthcare providers → /industries/medical-professionals, Connects optometry to the firm's broader healthcare industry experience
+- approach → /why-rootadvisors, Reinforces differentiation and trust in the closing trust-building section
+- Schedule a consultation → /contact, Primary page CTA directing optometry prospects to book a conversation
 
 **FAQ Block:**
 
@@ -136,7 +136,7 @@ A: Many do. Acquios, a national buying and practice-support network for independ
 Accord Advisors has served healthcare providers, including optometry practices, for many years and offers fixed-fee outsourced accounting instead of hourly billing for optometry practices in Bloomington, Avon, and Indianapolis, Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
