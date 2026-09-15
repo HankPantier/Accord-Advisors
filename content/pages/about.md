@@ -214,20 +214,10 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
     "postalCode": "46123",
     "addressCountry": "US"
   },
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Bloomington, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Avon, Indiana"
-    },
-    {
-      "@type": "City",
-      "name": "Indianapolis, Indiana"
-    }
-  ]
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  }
 }
 </script>
 <script type="application/ld+json">
