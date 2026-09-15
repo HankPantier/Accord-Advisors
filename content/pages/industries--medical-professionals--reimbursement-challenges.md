@@ -24,11 +24,11 @@ When a payer delays a claim, denies it, or cuts the reimbursement rate, most pra
 At Accord Advisors, we look at reimbursement volatility the way a CFO would: as a cash flow and profitability problem that shows up in your financial statements long before it shows up in a claims report. Physicians, specialists, and practice managers across the country need more than a biller chasing individual claims, they need financial visibility that connects payer behavior to the numbers that actually run the practice. We serve medical practices nationwide, with particular depth in Bloomington, Avon, and the Indianapolis area of Indiana.
 
 <!-- block: content-split | variant: image-right | image: physician-reviewing-financials.jpg | alt: "Physician reviewing financial statements at a desk in a medical office" | query: "physician reviewing financial documents office" -->
-## Why medical professionals in Bloomington and Indianapolis feel the squeeze
+## Why medical professionals nationwide feel the reimbursement squeeze
 
-Practices across Bloomington and Indianapolis are managing a tighter payer mix than they were five years ago: more Medicare Advantage plans, more prior authorization requirements, and slower turnaround on commercial claims. At the same time, staffing wages, supply costs, and rent have climbed steadily.
+Medical practices across the country are managing a tighter payer mix than they were five years ago: more Medicare Advantage plans, more prior authorization requirements, and slower turnaround on commercial claims. At the same time, staffing wages, supply costs, and rent have climbed steadily.
 
-A practice that once cleared a comfortable margin on a stable payer mix can find that margin cut in half without a single change to patient volume. Physicians and practice owners in Monroe County and the greater Indianapolis area feel this most acutely when reimbursement timing shifts by even 30 or 60 days, because payroll and overhead don't wait for the claim to clear.
+A practice that once cleared a comfortable margin on a stable payer mix can find that margin cut in half without a single change to patient volume. Physicians and practice owners in Bloomington, Avon, the greater Indianapolis area, and across the country feel this most acutely when reimbursement timing shifts by even 30 or 60 days, because payroll and overhead don't wait for the claim to clear.
 
 <!-- block: checklist-section | variant: with-image | image: dashboard-review-meeting.jpg | alt: "Accountant and practice manager reviewing a financial dashboard on a laptop" | query: "accountant client reviewing dashboard laptop" -->
 ## Monthly financial clarity replaces reimbursement guesswork
