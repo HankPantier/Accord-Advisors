@@ -2,7 +2,7 @@
 title: "Accounting for dental practices | Accord Advisors"
 url: "/industries/dentists"
 meta_title: "Dental Practice Accounting Bloomington, Indianapolis & Indiana | Accord Advisors"
-meta_description: "Fixed-fee accounting for dental practices across Indiana — Bloomington, Avon, Indianapolis, and beyond. Bookkeeping, payroll, tax planning, and financial dashboards built for dental offices."
+meta_description: "Fixed-fee accounting for dental practices nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Bookkeeping, payroll, tax planning, and financial dashboards built for dental offices."
 target_keyword: "dental practice accounting Bloomington IN"
 secondary_keywords: ["CPA for dentists Bloomington Indiana","dental office bookkeeping services Bloomington","dentist tax preparation Bloomington IN","accounting services for dental practices near me","dental practice management accountant Bloomington","outsourced accounting dentist Bloomington","dental business tax services Indiana","dentistry financial services Bloomington","dental practice CPA Bloomington","accounting for dental offices Bloomington IN","dentist bookkeeper Bloomington","dental business accounting services","tax planning for dentists Bloomington","dental practice financial advisor Bloomington IN","dental office accounting Bloomington"]
 canonical_url: "https://accordadvisors.com/industries/dentists"
@@ -27,7 +27,7 @@ Running a dental practice means juggling patient care, staff schedules, insuranc
 
 Our team has spent years serving healthcare providers, including general and specialty dental offices, optometrists, and other medical professionals. That depth of experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office.
 
-Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them — whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
+Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in Indiana.
 
 <!-- block: content-split | variant: image-left | image: dental-office-front-desk-billing.jpg | alt: "Dental office front desk staff processing insurance billing paperwork" | query: "dental office front desk billing" -->
 ## Challenges unique to running a dental office
@@ -132,12 +132,12 @@ Accord Advisors provides outsourced accounting, bookkeeping, payroll support, an
 - Serves dental practices in Bloomington and Indianapolis, Indiana
 
 **Internal Links:**
-- outsourced accounting services → /services/outsourced-accounting — Supports the detailed bookkeeping and reporting section with the core service page
-- personal income tax preparation → /services/personal-income-tax — Relevant to the tax section covering owner and associate personal returns
-- Business Foundation Services → /services/business-foundation-services — Directly referenced in the section on setting up new and growing practices
-- medical professionals we serve → /industries/medical-professionals — Cross-links related healthcare niche for broader industry context
-- Jared Hammack, CPA → /team-expertise — Connects the credential mentioned in the copy to the team bio page
-- schedule a consultation → /contact — Primary page CTA directing dental prospects to book a meeting
+- outsourced accounting services → /services/outsourced-accounting, Supports the detailed bookkeeping and reporting section with the core service page
+- personal income tax preparation → /services/personal-income-tax, Relevant to the tax section covering owner and associate personal returns
+- Business Foundation Services → /services/business-foundation-services, Directly referenced in the section on setting up new and growing practices
+- medical professionals we serve → /industries/medical-professionals, Cross-links related healthcare niche for broader industry context
+- Jared Hammack, CPA → /team-expertise, Connects the credential mentioned in the copy to the team bio page
+- schedule a consultation → /contact, Primary page CTA directing dental prospects to book a meeting
 
 **FAQ Block:**
 
@@ -157,7 +157,7 @@ A: Dental practices track production and collections separately from standard re
 Accord Advisors offers fixed-monthly-fee outsourced accounting for dental practices in Bloomington and Indianapolis, led by Jared Hammack, CPA, with nearly 40 years of firm experience serving healthcare providers.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
