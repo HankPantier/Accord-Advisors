@@ -99,9 +99,9 @@ Schedule a consultation with Accord Advisors and find out what a dedicated outso
 Optometry practice owners nationwide should track monthly revenue per patient encounter, cost of goods on frames and contacts, overhead ratio, and cash flow trends alongside operational data like patient recall rates and exam-to-sales conversion. Accord Advisors delivers these as a consolidated monthly dashboard through outsourced accounting, replacing year-end surprises with real-time decision-making data. The firm serves practices across the country, including Bloomington, Avon, and the Indianapolis area of Indiana.
 
 **E-E-A-T Signals:**
-- Deep experience serving healthcare providers including optometry and dental practices
-- Optometrist clients referred through the Acquios partner network
+- Deep experience serving healthcare providers including optometry and dental practices nationwide
 - Fixed monthly fee model with secure online reporting platform for ongoing practice visibility
+- Serves optometry practices across the country, including Bloomington, Avon, and the Indianapolis area of Indiana
 
 **Internal Links:**
 - optometry practice accounting services → /industries/optometry, Links to the parent industry page for optometry-specific services
