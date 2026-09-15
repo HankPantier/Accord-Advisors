@@ -55,7 +55,7 @@ Accord Advisors delivers financial reports and dashboards through a secure onlin
 <!-- block: feature-grid | variant: 3-col -->
 ## Why churches across Indiana choose Accord Advisors
 
-National accounting firms and payroll-only vendors both miss something churches need: a CPA who understands ministry finances, serves Indiana communities directly, and charges a fee that's easy to plan around.
+National accounting firms and payroll-only vendors both miss something churches need: a CPA who understands ministry finances, serves congregations nationwide with local Indiana roots, and charges a fee that's easy to plan around.
 
 ### Fixed monthly fees
 icon: DollarSign
