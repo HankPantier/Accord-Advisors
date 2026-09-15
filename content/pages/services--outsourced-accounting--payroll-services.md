@@ -2,7 +2,7 @@
 title: "Payroll administration for growing businesses | Accord Advisors"
 url: "/services/payroll-services"
 meta_title: "Payroll Administration Services | Bloomington, IN CPA"
-meta_description: "Payroll processing and tax filings for optometry, dental, medical, service businesses, and professional service providers in Bloomington, IN. Fixed fees, secure platform, CPA-backed."
+meta_description: "Payroll processing and tax filings for optometry, dental, medical, service businesses, and professional service providers nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Fixed fees, secure platform, CPA-backed."
 target_keyword: "payroll administration for growing businesses Bloomington, IN"
 secondary_keywords: ["payroll services Bloomington Indiana","outsourced payroll administration","payroll for medical and dental practices","payroll compliance Indianapolis","payroll for service businesses Bloomington","payroll for professional services firms Indiana"]
 canonical_url: "https://accordadvisors.com/services/payroll-services"
@@ -118,10 +118,10 @@ Accord Advisors handles payroll administration, including processing, tax withho
 - Secure online platform gives clients direct access to pay history and filings
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Connects payroll administration to the firm's broader outsourced accounting service
-- optometry practices → /industries/optometry — Supports the industry-specific payroll expertise claim for optometry clients
-- medical professionals → /industries/medical-professionals — Reinforces payroll experience with medical practice compensation structures
-- churches → /industries/churches — Highlights clergy payroll and church staffing expertise
+- outsourced accounting → /services/outsourced-accounting, Connects payroll administration to the firm's broader outsourced accounting service
+- optometry practices → /industries/optometry, Supports the industry-specific payroll expertise claim for optometry clients
+- medical professionals → /industries/medical-professionals, Reinforces payroll experience with medical practice compensation structures
+- churches → /industries/churches, Highlights clergy payroll and church staffing expertise
 - service-based businesses → /industries/service-businesses, Extends payroll relevance to trade and field service business clients such as HVAC, electrical, and plumbing
 - professional service providers → /industries/professional-services, Extends payroll relevance to professional service firm clients such as attorneys, advertising agencies, and consultants
 
@@ -146,7 +146,7 @@ A: The transition is handled for you, including account setup on our secure onli
 Accord Advisors provides fixed-fee payroll administration integrated with outsourced accounting for optometry, dental, medical, service-based business, professional service firm, and church clients in Bloomington, Indianapolis, and Avon, Indiana, backed by deep industry-specific experience.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
