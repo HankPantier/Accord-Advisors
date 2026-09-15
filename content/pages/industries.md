@@ -272,7 +272,7 @@ Accord Advisors offers fixed-fee outsourced accounting for optometry, dental, me
   "@type": "Service",
   "name": "Industries We Serve in Bloomington, IN | Accord Advisors",
   "url": "https://accordadvisors.com/industries",
-  "description": "Accord Advisors serves optometry, dental, medical, service business, and church clients in Bloomington and Indianapolis with fixed-fee outsourced accounting.",
+  "description": "Accord Advisors serves optometry, dental, medical, professional service, service-based, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana, with fixed-fee outsourced accounting.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
