@@ -207,6 +207,10 @@ Accord Advisors provides fixed-fee outsourced fund accounting for churches natio
   },
   "areaServed": [
     {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
       "@type": "City",
       "name": "Bloomington, Indiana"
     },
