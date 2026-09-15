@@ -32,7 +32,7 @@ The questions we answer here reflect what practice managers ask first: how to re
 <!-- block: content-split | variant: image-left | image: medical-professionals-insights.jpg | alt: "Physician reviewing financial dashboard on laptop in office" | query: "physician reviewing financial dashboard" -->
 ## Resources for medical professionals and healthcare providers
 
-Physicians and healthcare groups tell us the same thing in almost every first meeting: they can't get a clear read on how the practice performed last month until it's practically time to close the books on next month. That gap between the work happening in exam rooms and the numbers that explain it is what this category addresses directly.
+Physicians and healthcare groups tell us the same thing in almost every first meeting: they can't get a clear read on how the practice performed last month until it's practically time to close the books on next month. That gap between the work happening in exam rooms and the numbers that explain it is what this category addresses directly. Accord Advisors serves medical clients nationwide, and the articles here are grounded in that real practice work.
 
 Articles here cover reimbursement timing, dashboard reporting that actually gets used instead of ignored, and the kind of monthly financial clarity that lets a managing physician make staffing or equipment decisions before a problem becomes expensive. Visit [reimbursement challenges for medical professionals](/industries/medical-professionals/reimbursement-challenges) for a deeper dive on the topic our healthcare clients ask about most.
 
