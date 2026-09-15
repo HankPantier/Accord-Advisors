@@ -63,7 +63,7 @@ Optometry practices bring particular complexity: insurance reimbursement timing,
 
 Every hour spent reconciling accounts or chasing down a missing receipt is an hour not spent with patients, clients, congregation members, or your team. Outsourced bookkeeping from Accord Advisors hands that work to a firm with deep industry expertise and a fixed monthly fee that won't move on you.
 
-Whether you're an optometrist in Bloomington, a dentist in Indianapolis, a medical professional in Avon, a service business anywhere in Indiana, or a church looking for cleaner fund accounting, we'll walk through exactly what accurate books would look like for your specific situation. Schedule a consultation and let's get started.
+Whether you're an optometrist in Bloomington, a dentist in the Indianapolis area, a medical professional in Avon, a service business or professional services firm anywhere in the country, or a church looking for cleaner fund accounting, we'll walk through exactly what accurate books would look like for your specific situation. Schedule a consultation and let's get started.
 
 [Schedule a consultation](/contact)
 
