@@ -89,7 +89,7 @@ A: Yes. New or growing churches often start with a chart of accounts that wasn't
 <!-- block: cta-banner | variant: image-bg | image: church-community-support.jpg | alt: "Church leaders shaking hands after a financial planning conversation" | query: "church leaders handshake meeting" -->
 ## Partner with a CPA firm that understands ministry
 
-A church's finances should support its mission, not distract from it. Accord Advisors works with congregations across Bloomington and the Indianapolis area to bring fund accounting clarity, dependable monthly reporting, and compliance support that lets treasurers, elders, and pastors focus on the work in front of them. Our team is ready to talk through where your church's accounting stands today and what a fixed monthly outsourced relationship could look like.
+A church's finances should support its mission, not distract from it. Accord Advisors works with congregations nationwide, including those in Bloomington, Avon, and the Indianapolis area, to bring fund accounting clarity, dependable monthly reporting, and compliance support that lets treasurers, elders, and pastors focus on the work in front of them. Our team is ready to talk through where your church's accounting stands today and what a fixed monthly outsourced relationship could look like.
 
 [Schedule a consultation](/contact) to start the conversation.
 
