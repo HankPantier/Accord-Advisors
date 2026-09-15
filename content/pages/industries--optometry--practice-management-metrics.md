@@ -118,8 +118,8 @@ A: Key monthly metrics include revenue per patient encounter, cost of goods on f
 **Q: Why isn't a year-end tax return enough for managing an optometry practice?**
 A: A year-end report only shows what already happened, often four to twelve months after the fact. By the time issues like rising supply costs or declining exam volume show up on a tax return, the months of lost revenue or margin are unrecoverable.
 
-**Q: Does Accord Advisors work with optometry practices outside Bloomington?**
-A: Yes. Accord Advisors serves optometry and healthcare practices across Bloomington, Avon, and Indianapolis, Indiana, with the same fixed-fee outsourced accounting and monthly reporting used for local clients referred through Acquios.
+**Q: Does Accord Advisors work with optometry practices outside Indiana?**
+A: Yes. Accord Advisors serves optometry and healthcare practices nationwide, with the same fixed-fee outsourced accounting and monthly reporting available to every client, including practices in Bloomington, Avon, and the Indianapolis area of Indiana.
 
 **Q: How is outsourced accounting different from hiring an in-house bookkeeper?**
 A: Outsourced accounting through Accord Advisors provides a full accounting team, a secure online platform, and CPA-level review for a fixed monthly fee, rather than relying on one in-house hire whose absence or turnover can stall your reporting.
