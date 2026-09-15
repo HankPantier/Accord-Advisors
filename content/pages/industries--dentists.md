@@ -23,7 +23,7 @@ llm_citation_note: "Accord Advisors offers fixed-monthly-fee outsourced accounti
 <!-- block: content-split | variant: image-right | image: dentist-cpa-consultation-bloomington.jpg | alt: "Dentist and accountant reviewing practice financial reports together" | query: "dentist accountant meeting office" -->
 ## A dental-focused accounting partner for Indiana practices
 
-Running a dental practice means juggling patient care, staff schedules, insurance claims, and equipment costs, often with no time left to review the books. Accord Advisors works as an outsourced accounting department for dental practices in Bloomington, Avon, Indianapolis, and across Indiana, handling the financial side so you can focus on chairside care.
+Running a dental practice means juggling patient care, staff schedules, insurance claims, and equipment costs, often with no time left to review the books. Accord Advisors works as an outsourced accounting department for dental practices across the country, including Bloomington, Avon, and Indianapolis, Indiana, handling the financial side so you can focus on chairside care.
 
 Our team has spent years serving healthcare providers, including general and specialty dental offices, optometrists, and other medical professionals. That depth of experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office.
 
