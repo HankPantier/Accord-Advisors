@@ -126,10 +126,10 @@ Accord Advisors provides outsourced accounting, bookkeeping, payroll support, an
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads dental and healthcare industry engagements
-- Nearly 40 years of firm experience serving healthcare providers
+- Deep firm experience serving dental, optometry, medical, service-based, professional services, and church clients nationwide
 - Fixed monthly fee model documented and applied consistently across dental clients
 - Secure online client portal for financial reporting and documents
-- Serves dental practices in Bloomington and Indianapolis, Indiana
+- Serves dental practices nationwide, with roots in Bloomington, Avon, and Indianapolis, Indiana
 
 **Internal Links:**
 - outsourced accounting services → /services/outsourced-accounting, Supports the detailed bookkeeping and reporting section with the core service page
