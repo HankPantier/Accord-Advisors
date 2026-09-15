@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "personal-tax-planning-hero.jpg"
 hero_image_alt: "CPA and client reviewing personal income tax documents together at a desk"
-hero_subhead: "Year-round tax planning and preparation for individuals and business owners, priced with one predictable fixed fee"
+hero_subhead: "Year-round tax planning and preparation for individuals and business owners nationwide, priced with one predictable fixed fee"
 hero_headline: "Personal tax help that goes beyond filing a return"
 answer_block: "Accord Advisors provides personal income tax preparation and year-round planning for individuals, business owners, and medical and optometry professionals in Bloomington, Avon and Indianapolis, Indiana. Returns are prepared by a CPA under a fixed monthly fee, with proactive planning around life events like retirement or a practice sale instead of a once-a-year filing transaction."
 eeat_signals: ["CPA-led personal tax planning","Deep experience serving Indiana individuals and healthcare providers","Fixed monthly fee pricing model, not hourly billing","Secure online client portal for document exchange","Coordinated personal and business tax preparation under one advisor"]
