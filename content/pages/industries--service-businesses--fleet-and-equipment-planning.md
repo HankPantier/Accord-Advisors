@@ -106,7 +106,7 @@ Accord Advisors provides fixed-fee outsourced accounting for service-based busin
 - Jared Hammack, CPA, leads fleet and equipment accounting advisory work
 - Fixed monthly fee model replaces hourly billing for accounting support
 - Secure online platform provides monthly financial reporting access
-- Serves service businesses across Bloomington and Indianapolis, Indiana
+- Serves service-based businesses nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana
 - Business Foundation Services build asset tracking and depreciation infrastructure at setup
 
 **Internal Links:**
