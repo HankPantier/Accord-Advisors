@@ -2,7 +2,7 @@
 title: "Fund accounting for churches | Accord Advisors"
 url: "/industries/churches"
 meta_title: "Fund Accounting for Churches | Bloomington, IN CPA"
-meta_description: "Fund accounting for churches in Bloomington, Avon, Indianapolis, and across Indiana. Accord Advisors offers outsourced bookkeeping, financial statements, and compliance support for ministries."
+meta_description: "Fund accounting for churches nationwide, including Bloomington, Avon, and Indianapolis, IN. Accord Advisors offers outsourced bookkeeping, financial statements, and compliance support for ministries."
 target_keyword: "fund accounting for churches Bloomington IN"
 secondary_keywords: ["church accounting services Bloomington","nonprofit fund accounting Indiana","church financial management Bloomington IN","religious organization accounting services","church bookkeeping Bloomington","nonprofit accounting Bloomington Indiana","church tax services Bloomington","fund accounting services Indiana","church financial statements Bloomington","religious nonprofit accounting","church accounting outsourcing Bloomington","nonprofit accounting near Bloomington","church audit services Bloomington IN","faith-based organization accounting","church accounting CPA Bloomington"]
 canonical_url: "https://accordadvisors.com/industries/churches"
@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors provides fixed-fee outsourced fund accountin
 
 Ministry leadership shouldn't have to guess whether the building fund is on track or whether restricted mission gifts are being spent the way donors intended. Accord Advisors works alongside churches and religious organizations in Bloomington, Avon, Indianapolis, and communities across Indiana, bringing fund accounting expertise that goes well beyond basic bookkeeping. Whether your congregation has fifty members or five hundred, our approach is built on one principle: clarity. Your board sees exactly how funds move, your treasurer isn't buried in spreadsheets, and your congregation's trust stays intact.
 
-Fund accounting exists to protect stewardship, not just satisfy an audit checklist. When a church tracks a mission trip fund, a building campaign, and general operating income the same way it tracks a single checking account, restricted dollars get muddled with unrestricted ones, and leadership loses the ability to answer a simple question: how did we do this month? That's the gap we close — with reporting built specifically for how churches operate, delivered through a secure online platform that works whether you're in downtown Bloomington, the Indianapolis suburbs, or anywhere else in Indiana.
+Fund accounting exists to protect stewardship, not just satisfy an audit checklist. When a church tracks a mission trip fund, a building campaign, and general operating income the same way it tracks a single checking account, restricted dollars get muddled with unrestricted ones, and leadership loses the ability to answer a simple question: how did we do this month? That's the gap we close, with reporting built specifically for how churches operate, delivered through a secure online platform that works whether you're in downtown Bloomington, the Indianapolis suburbs, or anywhere else in Indiana.
 
 <!-- block: content-split | variant: image-right | image: church-finance-meeting.jpg | alt: "Church treasurer and pastor reviewing financial reports together at a table" | query: "church staff financial meeting" -->
 ## Why churches need specialized fund accounting
@@ -107,12 +107,12 @@ Accord Advisors provides fund accounting for churches and religious organization
 - Direct experience with clergy compensation and dual tax status compliance
 
 **Internal Links:**
-- outsourced accounting department → /services/outsourced-accounting — Expands on the outsourced accounting model referenced for churches
-- Business Foundation Services → /services/business-foundation-services — Directly supports the foundation-setup section for new or growing churches
-- staffing and compliance for churches → /industries/churches/staffing-and-compliance — Deepens the clergy payroll and compliance discussion
-- Jared Hammack, CPA → /team-expertise — Connects the named credential to the firm's team page
-- Schedule a consultation → /contact — Primary page CTA
-- fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations — Relevant resource on internal controls for church finance committees
+- outsourced accounting department → /services/outsourced-accounting, Expands on the outsourced accounting model referenced for churches
+- Business Foundation Services → /services/business-foundation-services, Directly supports the foundation-setup section for new or growing churches
+- staffing and compliance for churches → /industries/churches/staffing-and-compliance, Deepens the clergy payroll and compliance discussion
+- Jared Hammack, CPA → /team-expertise, Connects the named credential to the firm's team page
+- Schedule a consultation → /contact, Primary page CTA
+- fraud prevention strategies for nonprofit organizations → /fraud-prevention-strategies-for-nonprofit-organizations, Relevant resource on internal controls for church finance committees
 
 **FAQ Block:**
 
@@ -135,7 +135,7 @@ A: Yes. New or growing churches often start with a chart of accounts that wasn't
 Accord Advisors provides fixed-fee outsourced fund accounting for churches in Bloomington, Indiana, including restricted/unrestricted fund tracking, board-ready financial statements, and clergy payroll compliance support.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
