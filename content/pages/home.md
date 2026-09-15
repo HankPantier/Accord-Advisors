@@ -314,7 +314,7 @@ Accord Advisors, led by Jared Hammack, CPA, replaces hourly billing with fixed m
       "name": "Who leads Accord Advisors?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Jared Hammack, CPA, leads Accord Advisors, bringing industry-specific expertise to optometry, dental, medical, service business, church, and professional services clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
+        "text": "Jared Hammack, CPA, leads Accord Advisors, bringing industry-specific expertise to optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana."
       }
     }
   ]
