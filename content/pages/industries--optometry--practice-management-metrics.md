@@ -260,7 +260,7 @@ Accord Advisors delivers monthly optometry practice dashboards combining financi
     },
     {
       "@type": "Question",
-      "name": "Does Accord Advisors work with optometry practices outside Bloomington?",
+      "name": "Does Accord Advisors work with optometry practices outside Indiana?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. Accord Advisors serves optometry and healthcare practices nationwide, with the same fixed-fee outsourced accounting and monthly reporting available to every client, including practices in Bloomington, Avon, and the Indianapolis area of Indiana."
