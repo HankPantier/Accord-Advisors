@@ -13,7 +13,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "financial-advisor-office-meeting.jpg"
 hero_image_alt: "Financial advisor and accountant reviewing reports together in an office"
-hero_subhead: "Fixed-fee bookkeeping, payroll, and financial guidance built around how advisory firms actually earn revenue"
+hero_subhead: "Fixed-fee bookkeeping, payroll, and financial guidance built around how advisory firms actually earn revenue, serving financial advisors nationwide including Bloomington, Avon, and the Indianapolis area"
 hero_headline: "Outsourced Accounting Built for Financial Advisory Practices"
 answer_block: "Accord Advisors provides outsourced accounting, payroll, and CFO-level financial guidance built for independent financial advisors and RIA owners nationwide, with fixed monthly fees and a secure online platform. The firm is based in Bloomington, Indiana, and also serves Avon and the greater Indianapolis area."
 eeat_signals: ["Accord Advisors team leads the firm's advisory services","Deep industry-specific expertise serving professional service providers","Fixed monthly fee model documented via a public pricing calculator","Secure, dedicated online client platform for financial reporting"]
