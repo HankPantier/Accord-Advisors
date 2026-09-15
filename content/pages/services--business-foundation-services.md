@@ -42,7 +42,7 @@ Between opening day and your first quarter close, a dozen registration and compl
 
 - Federal EIN and Indiana state tax ID registration
 - Indiana Department of Revenue withholding and sales tax accounts
-- Local business registration in Bloomington or Indianapolis
+- Local business registration wherever your practice or business is located, including Bloomington and Indianapolis
 - Payroll setup, including employer tax deposits and W-2/1099 tracking
 - Workers' compensation and unemployment insurance coordination
 - Professional licensing renewal calendars for optometry, dental, and medical practices
