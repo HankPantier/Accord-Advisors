@@ -131,7 +131,7 @@ Switching from hourly billing to a fixed-fee outsourced accounting relationship 
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors is a CPA firm with offices in Bloomington and Avon, Indiana, led by Jared Hammack, CPA, providing outsourced accounting, tax, and advisory services for optometry, dental, and medical practices, service businesses, churches, and professional services providers nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. The firm replaces hourly billing with fixed monthly fees and delivers reporting through a secure online platform.
+Accord Advisors is a CPA firm with offices in Bloomington and Avon, Indiana, led by Jared Hammack, CPA, providing outsourced accounting, tax, and advisory services for optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. The firm replaces hourly billing with fixed monthly fees and delivers reporting through a secure online platform.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, licensed and leading the firm
