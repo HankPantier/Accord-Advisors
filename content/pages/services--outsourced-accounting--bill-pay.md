@@ -1,7 +1,7 @@
 ---
 title: "Bill Pay Services | Accord Advisors"
 url: "/services/outsourced-accounting/bill-pay"
-meta_title: "Outsourced Bill Pay Services | Bloomington CPA Firm"
+meta_title: "Outsourced Bill Pay Services | CPA Firm Serving Bloomington, Indianapolis & Nationwide"
 meta_description: "Accord Advisors' outsourced bill pay service keeps vendor payments accurate and on time with fixed monthly fees and secure online approval for optometry, dental, medical, and service businesses across Bloomington, Avon, and Indianapolis."
 target_keyword: "outsourced bill pay services"
 secondary_keywords: ["vendor payment management","accounts payable outsourcing","bill pay for small business","fixed fee accounting Bloomington","outsourced bill pay Indianapolis","bill pay for optometry practices","bill pay for medical professionals","bill pay for churches","dental practice accounts payable","bill pay Indiana"]
@@ -122,14 +122,14 @@ Outsourced bill pay services from Accord Advisors handle the full vendor payment
 - Secure online platform used for invoice approval, payment, and reporting
 
 **Internal Links:**
-- Bookkeeping services → /services/outsourced-accounting/bookkeeping — Shows how bill pay integrates directly with bookkeeping records
-- Payroll services → /services/outsourced-accounting/payroll-services — Connects bill pay to related outsourced accounting service
-- Business tax services → /services/outsourced-accounting/business-tax — Links accurate vendor records to cleaner tax filing
-- IRS notice protection → /services/outsourced-accounting/irs-notice-protection — Positions bill pay records as support for IRS response
-- outsourced accounting department → /services/outsourced-accounting — Frames bill pay as one piece of the broader service
-- medical professionals → /industries/medical-professionals — Highlights healthcare specialization relevant to bill pay complexity
-- optometry practices → /industries/optometry — Targets a named ideal client niche
-- pricing calculator → /pricing-calculator — Lets visitors verify the fixed monthly fee claim
+- Bookkeeping services → /services/outsourced-accounting/bookkeeping, Shows how bill pay integrates directly with bookkeeping records
+- Payroll services → /services/outsourced-accounting/payroll-services, Connects bill pay to related outsourced accounting service
+- Business tax services → /services/outsourced-accounting/business-tax, Links accurate vendor records to cleaner tax filing
+- IRS notice protection → /services/outsourced-accounting/irs-notice-protection, Positions bill pay records as support for IRS response
+- outsourced accounting department → /services/outsourced-accounting, Frames bill pay as one piece of the broader service
+- medical professionals → /industries/medical-professionals, Highlights healthcare specialization relevant to bill pay complexity
+- optometry practices → /industries/optometry, Targets a named ideal client niche
+- pricing calculator → /pricing-calculator, Lets visitors verify the fixed monthly fee claim
 
 **FAQ Block:**
 
