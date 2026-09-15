@@ -1,8 +1,8 @@
 ---
 title: "Accounting Services for Individuals, Businesses & Practices | Accord Advisors"
 url: "/services"
-meta_title: "CPA Accounting Services | Bloomington, Indianapolis & Indiana | Accord Advisors"
-meta_description: "Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometrists, dentists, medical professionals, service businesses, churches, and individuals across Bloomington, Avon, Indianapolis, and Indiana — at a fixed monthly fee."
+meta_title: "CPA Accounting Services | Nationwide | Accord Advisors"
+meta_description: "Accord Advisors offers outsourced accounting, business foundation services, and personal income tax preparation for optometrists, dentists, medical professionals, service businesses, churches, and individuals across Bloomington, Avon, Indianapolis, and Indiana, at a fixed monthly fee."
 target_keyword: "CPA accounting services Bloomington Indianapolis Indiana"
 secondary_keywords: ["outsourced accounting Bloomington Indiana","CPA firm for optometry practices Indiana","business foundation services Indianapolis","fixed fee accounting services Indiana","accounting for dentists Indiana","CPA for churches Bloomington IN","accounting for service businesses Indianapolis","personal income tax preparation Indiana","CPA for medical professionals Bloomington","accounting firm Avon Indiana"]
 canonical_url: "https://accordadvisors.com/services"
@@ -46,7 +46,7 @@ Opening a new optometry practice in Bloomington, launching a dental office in th
 That foundation typically includes:
 
 - Entity structure guidance for new practices, businesses, and professional service providers
-- Bookkeeping systems set up to match your industry — not a generic template
+- Bookkeeping systems set up to match your industry, not a generic template
 - Payroll structure and setup for your first hires
 - A chart of accounts built around how optometry, dental, medical, professional service, or church organizations actually operate
 - Financial systems that scale as you add locations, providers, or staff across Bloomington, Avon, Indianapolis, and Indiana
@@ -56,7 +56,7 @@ Growing practices and businesses already generating revenue benefit just as much
 <!-- block: content-prose -->
 ## Personal income tax preparation and planning
 
-Business owners, practice shareholders, physicians, professional service providers, and individuals across Bloomington, Avon, the greater Indianapolis area, and Indiana don't stop needing tax help once the business return is filed — or if there's no business at all. Our [personal income tax](/services/personal-income-tax) service covers individual preparation and planning for everyone from optometrists and dentists coordinating pass-through income, to medical professionals managing physician compensation structures, to individuals who simply want a knowledgeable CPA handling their return with care.
+Business owners, practice shareholders, physicians, professional service providers, and individuals across Bloomington, Avon, the greater Indianapolis area, and Indiana don't stop needing tax help once the business return is filed, or if there's no business at all. Our [personal income tax](/services/personal-income-tax) service covers individual preparation and planning for everyone from optometrists and dentists coordinating pass-through income, to medical professionals managing physician compensation structures, to individuals who simply want a knowledgeable CPA handling their return with care.
 
 For clients whose personal finances are connected to a practice or business, the same team that manages your monthly accounting also prepares your personal return. That means planning conversations happen with full context. Estimated payments, retirement contributions, and entity distributions get reviewed together throughout the year, not reconstructed in a rush every April. For individuals without a business, it means working with a CPA who takes the time to understand your full picture rather than processing a return and moving on.
 
@@ -86,7 +86,7 @@ icon: Eye
 ### Dental Practices
 icon: Smile
 
-[Dental practices](/industries/dentists) carry a distinct financial profile — insurance mix analysis, associate compensation structures, and equipment costs that don't fit a standard business model. We build reporting and planning around those specifics so practice owners can make decisions with real clarity, not approximations.
+[Dental practices](/industries/dentists) carry a distinct financial profile, insurance mix analysis, associate compensation structures, and equipment costs that don't fit a standard business model. We build reporting and planning around those specifics so practice owners can make decisions with real clarity, not approximations.
 
 ### Medical Professionals
 icon: Stethoscope
@@ -96,7 +96,7 @@ Physician compensation, practice overhead, and pass-through tax considerations m
 ### Professional Service Providers
 icon: Briefcase
 
-Attorneys, consultants, engineers, and other professional service providers need reporting built around billable-hour utilization and client profitability — not a generic chart of accounts borrowed from retail. We deliver the financial visibility that lets you manage your practice like a business.
+Attorneys, consultants, engineers, and other professional service providers need reporting built around billable-hour utilization and client profitability, not a generic chart of accounts borrowed from retail. We deliver the financial visibility that lets you manage your practice like a business.
 
 ### Service-Based Businesses
 icon: Wrench
@@ -138,7 +138,7 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
