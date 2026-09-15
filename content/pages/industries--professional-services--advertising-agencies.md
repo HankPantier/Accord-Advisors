@@ -73,12 +73,12 @@ If your agency's books are eating time you'd rather spend on client work, it's w
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for advertising agencies in Bloomington and Indianapolis, including bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
+Accord Advisors provides outsourced accounting for advertising agencies nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Services include bookkeeping, payroll, and project-based cash flow forecasting for a fixed monthly fee. The firm delivers CFO-level profitability analysis by client and project without full-time CFO overhead.
 
 **E-E-A-T Signals:**
 - Fixed monthly fee pricing model instead of hourly billing
 - Secure online client platform for financial reporting
-- Serves agencies and professional service providers in Bloomington and Indianapolis, Indiana
+- Serves advertising agencies nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana
 
 **Internal Links:**
 - outsourced accounting services → /services/outsourced-accounting, Links to the core service page detailing bookkeeping and reporting scope mentioned on this page
