@@ -93,7 +93,7 @@ Accord Advisors provides outsourced accounting for consulting firms nationwide, 
 **FAQ Block:**
 
 **Q: How does outsourced accounting work for a consulting firm?**
-A: Accord Advisors handles bookkeeping, invoicing, accounts receivable, and cash flow reporting for consulting firms, tracking project and retainer revenue separately. Everything runs through a secure online platform, so owners see current financials without managing the books themselves or hiring an in-house bookkeeper.
+A: Accord Advisors handles bookkeeping, invoicing, accounts receivable, and cash flow reporting for consulting firms, tracking project and retainer revenue separately. Everything runs through a secure online platform, so owners see current financials without managing the books themselves or hiring an in-house bookkeeper. The firm serves consulting practices nationwide, so there is no requirement to be near a physical office.
 
 **Q: What does Accord Advisors charge for consulting firm accounting?**
 A: Accord Advisors charges a fixed monthly fee based on transaction volume, payroll, and reporting needs, not hourly billing. A pricing calculator on the site gives an initial estimate, and a formal quote follows a short review of the firm's books.
