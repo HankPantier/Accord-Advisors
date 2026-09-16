@@ -2,7 +2,7 @@
 title: "Accounting for optometry practices | Accord Advisors"
 url: "/industries/optometry"
 meta_title: "Accounting for Optometry Practices Nationwide | Accord Advisors"
-meta_description: "Fixed-fee outsourced accounting for optometrists and optometry practice owners nationwide, with local roots in Bloomington, Avon, and Indianapolis, Indiana."
+meta_description: "Fixed-fee outsourced accounting for optometry practices across the United States, from a CPA firm well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana."
 target_keyword: "accounting for optometry practices"
 secondary_keywords: ["optometry CPA nationwide","outsourced accounting optometry practice","optometry CPA Indianapolis","optometry practice accounting Bloomington IN","optometry accountant Avon Indiana","accounting for optometrists nationwide","CPA for optometry practice owners"]
 canonical_url: "https://accordadvisors.com/industries/optometry"
