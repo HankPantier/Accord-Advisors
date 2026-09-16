@@ -2,7 +2,7 @@
 title: "Accounting for Law Firms | Accord Advisors"
 url: "/industries/law-firms"
 meta_title: "Accounting for Law Firms | Accord Advisors CPA | Bloomington, Avon & Indianapolis, IN"
-meta_description: "Outsourced accounting for law firms nationwide, including Bloomington, Avon, and the Indianapolis area: trust account reconciliation, partner distributions, payroll, and CFO-level insight for a fixed monthly fee. Schedule a consultation."
+meta_description: "Accord Advisors provides outsourced accounting for law firms across the United States, with offices in Bloomington and Avon, Indiana, and deep roots in the greater Indianapolis area. Trust account reconciliation, payroll, and CFO-level insight for a fixed monthly fee. Schedule a consultation."
 target_keyword: "accounting for law firms"
 secondary_keywords: ["trust account reconciliation","IOLTA compliance","law firm bookkeeping","outsourced accounting for attorneys","partner distribution calculations","CPA firm Indianapolis","small business accountant Bloomington IN","accounting for law firms Avon Indiana"]
 canonical_url: "https://accordadvisors.com/industries/law-firms"
