@@ -89,7 +89,7 @@ icon: HeartPulse
 
 Focused experience serving dental practices nationwide means the team already speaks the language of production, collections, and payer reimbursements, so you never have to explain how a dental office works.
 
-That combination of fixed pricing, secure access, and dental-specific expertise is why practices across Bloomington, Avon, Indianapolis, and nationwide choose Accord Advisors over generalist firms and national chains.
+That combination of fixed pricing, secure access, and dental-specific expertise is why dental practices across the United States, including those throughout the greater Indianapolis area and at our offices in Bloomington and Avon, Indiana, choose Accord Advisors over generalist firms and national chains.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for dental practices
