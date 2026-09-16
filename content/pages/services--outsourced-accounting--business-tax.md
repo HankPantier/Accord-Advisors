@@ -1,8 +1,8 @@
 ---
 title: "Business Tax Planning & Preparation | Accord Advisors"
 url: "/services/outsourced-accounting"
-meta_title: "Business Tax Planning & Preparation | Nationwide CPA Firm | Accord Advisors"
-meta_description: "Year-round business tax planning and preparation for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area. CPA-led strategy, multi-state compliance, IRS representation, and filing through a secure online platform."
+meta_title: "Business Tax Planning & Preparation | CPA Firm | Accord Advisors"
+meta_description: "Year-round business tax planning and preparation for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area. CPA-led strategy, deduction maximization, multi-state compliance, IRS representation, and secure online filing."
 target_keyword: "business tax planning and preparation"
 secondary_keywords: ["business tax preparation Indianapolis","business tax planning Bloomington IN","CPA firm Avon Indiana","nationwide business tax services","multi-state tax compliance","tax planning for optometry practices","dental practice tax preparation","medical professional tax planning","church tax preparation","service business tax planning","professional services CPA","IRS representation Indiana","tax deduction maximization","federal and state tax filing","CPA firm near me"]
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
