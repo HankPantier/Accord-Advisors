@@ -97,7 +97,7 @@ Schedule a consultation with Accord Advisors and find out what a fixed monthly f
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting services nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, and CPA-led advisory support delivered through a secure online platform, with deep experience serving optometrists, dentists, medical professionals, service businesses, churches, and professional service providers.
+Accord Advisors provides outsourced accounting and business tax planning services across the United States, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, business tax preparation, and CPA-led advisory support delivered through a secure online platform. The firm is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, and brings deep experience serving optometrists, dentists, medical professionals, service businesses, churches, and professional service providers nationwide.
 
 **E-E-A-T Signals:**
 - CPA-led client engagements with deep industry specialization
