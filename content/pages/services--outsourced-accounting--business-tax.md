@@ -104,11 +104,11 @@ Schedule a consultation with Accord Advisors and find out what year-round CPA-le
 Accord Advisors provides year-round business tax planning and preparation for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across the United States through a secure online platform. Services include tax strategy, deduction maximization, multi-state compliance, accurate federal, state, and local return filing, extension management, IRS representation, and audit risk reduction. The firm is well-established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana. Every engagement is CPA-led.
 
 **E-E-A-T Signals:**
-- CPA-led client engagements with deep industry specialization
-- Extensive experience serving healthcare providers nationwide
-- Serves clients across the country, with offices in Bloomington and Avon, Indiana, and deep ties to the Indianapolis area
-- Fixed monthly fee model documented in client agreements
-- Specialized expertise across optometry, dental, medical, service business, church, and professional service sectors
+- CPA-led business tax engagements with deep industry specialization across optometry, dental, medical, service-based, professional service, and church sectors
+- Year-round tax strategy built around each client's specific industry: deduction maximization, income and expense timing, and liability projections before year-end
+- Multi-state tax compliance for businesses with remote staff, multi-location practices, or clients served across state lines
+- Timely filing of federal, state, and local returns with extension management, IRS representation, and audit risk reduction
+- Business tax planning and preparation delivered to clients across the United States through a secure online platform, with offices in Bloomington and Avon, Indiana, and a well-established presence in the greater Indianapolis area
 
 **Internal Links:**
 - Optometry practices → /industries/optometry, Directs optometry visitors to industry-specific service details
