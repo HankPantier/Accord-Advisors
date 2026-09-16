@@ -32,7 +32,7 @@ Succession planning gives you a roadmap instead of a scramble. Accord Advisors w
 <!-- block: checklist-section | variant: with-image-left | image: indiana-small-business-meeting.jpg | alt: "Small business owners meeting with financial advisor in a conference room" | query: "small business meeting financial planning" -->
 ## Why succession planning matters for Indiana business owners and practice owners
 
-Optometrists, dentists, medical professionals, service-based business owners, professional service providers, and church leaders across Bloomington, Avon, Indianapolis, and Indiana often put succession planning off until a health scare, an unsolicited offer, or a family disagreement forces the issue. By then, options narrow considerably.
+Optometrists, dentists, medical professionals, service-based business owners, professional service providers, and church leaders across the country, including those in Bloomington, Avon, and the Indianapolis area, often put succession planning off until a health scare, an unsolicited offer, or a family disagreement forces the issue. By then, options narrow considerably.
 
 Waiting carries specific costs:
 
