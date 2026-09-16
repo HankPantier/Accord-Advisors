@@ -61,14 +61,14 @@ Accord Advisors handles [personal income tax preparation and planning](/services
 HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service-based business owners across the United States get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Indiana expertise, wherever your business operates
+## Nationwide reach, with roots in the greater Indianapolis area
 
-Accord Advisors serves Indiana business owners with roots in Bloomington and a growing base of clients in Avon, Indianapolis, and across the state. That presence means a trades business here gets an accountant who already understands Indiana filing requirements, local business registration rules, and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. See [why Indiana business owners choose Accord Advisors](/why-accord-advisors).
+Accord Advisors serves service-based businesses across the United States through a secure online platform, and is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana. That local foundation means clients work with a firm that understands Indiana filing requirements and why cash flow for a landscaping or HVAC company looks very different in July than it does in February. Wherever your business operates, you get the same CPA-level guidance. See [why service business owners nationwide choose Accord Advisors](/why-accord-advisors).
 
-- Serving Bloomington, Avon, Indianapolis, and statewide
+- Serving clients coast to coast, with offices in Bloomington and Avon, Indiana
 - 100% fixed-fee engagements, no hourly billing
 
-A national firm files paperwork. A local one knows what a slow season actually costs a trades business and helps you plan for it.
+A big-box firm processes returns. A dedicated outsourced accounting partner knows what a slow season actually costs a trades business and helps you plan for it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting for Trades and Service Businesses
