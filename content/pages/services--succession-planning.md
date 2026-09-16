@@ -118,10 +118,9 @@ Accord Advisors provides succession planning for optometrists, dentists, medical
 
 **E-E-A-T Signals:**
 - CPA-led engagements with specialized healthcare accounting expertise
-- Focused experience serving optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana
+- Nationwide service serving optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches, with anchor offices in Bloomington, Avon, and the Indianapolis area
 - Fixed monthly fee model rather than hourly billing
 - Secure online client platform for financial data sharing
-- Direct experience with optometry practice buy-ins and referrals via Acquios
 
 **Internal Links:**
 - outsourced accounting relationship → /services/outsourced-accounting, Ties succession planning back to the ongoing accounting service that supports it
