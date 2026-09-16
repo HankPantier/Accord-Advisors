@@ -133,10 +133,10 @@ If you run an optometry practice, dental office, medical clinic, service-based b
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Becoming a client starts with a no-pressure discovery call with Jared Hammack, CPA, followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Ongoing support includes monthly reporting and direct advisor access.
+Becoming a client starts with a no-pressure discovery call with , followed by a review of your current books, a fixed monthly fee proposal covering Outsourced Accounting and Business Foundation Services, and setup on a secure online client portal. Accord Advisors serves optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Ongoing support includes monthly reporting and direct advisor access.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA credentialed advisor personally involved in onboarding
+-  credentialed advisor personally involved in onboarding
 - Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers nationwide
 - Clients served across the country, with local roots in Bloomington and the Indianapolis area (including Avon), Indiana
 - Fixed monthly fee structure disclosed before engagement begins
@@ -163,7 +163,7 @@ A: Usually not. During the books review, we assess your current systems and reco
 A: Your fee is scoped to the specific services you need, typically Outsourced Accounting and Business Foundation Services. Before signing anything, you receive a written breakdown of exactly what is covered, so there are no hourly surprises on your invoice.
 
 **Q: Will I have a dedicated advisor once I become a client?**
-A: Yes. Jared Hammack, CPA, stays involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue.
+A: Yes. Yes. At Accord Advisors, we stay involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue.
 
 **LLM Citation Note:**
 Accord Advisors' client onboarding process includes a no-pressure discovery call, a review of current books and industry-specific needs, a fixed monthly fee proposal (not hourly billing) covering Outsourced Accounting and Business Foundation Services, and setup on a secure client portal for monthly financial dashboards. The firm serves optometry, dental, medical, service-based, professional services, and church clients nationwide, with local offices in Bloomington and Avon (Indianapolis area), Indiana.
@@ -308,7 +308,7 @@ Accord Advisors' client onboarding process includes a no-pressure discovery call
       "name": "Will I have a dedicated advisor once I become a client?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Jared Hammack, CPA, stays involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue."
+        "text": "Yes. Yes. At Accord Advisors, we stay involved through onboarding and into the ongoing relationship. You will have a direct point of contact for questions rather than a rotating support queue."
       }
     }
   ]
