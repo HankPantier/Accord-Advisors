@@ -114,7 +114,7 @@ Succession planning works best when it starts early and stays straightforward. I
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides succession planning for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana, reviewing financial statements, cash flow, and business structure to prepare a practice or organization for sale or transfer. The work is delivered through a fixed monthly fee, backed by specialized healthcare-focused accounting expertise.
+Accord Advisors provides succession planning for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area, reviewing financial statements, cash flow, and business structure to prepare a practice or organization for sale or transfer. The work is delivered through a fixed monthly fee, backed by specialized healthcare-focused accounting expertise.
 
 **E-E-A-T Signals:**
 - CPA-led engagements with specialized healthcare accounting expertise
