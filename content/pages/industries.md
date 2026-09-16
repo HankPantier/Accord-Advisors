@@ -109,7 +109,7 @@ Accord Advisors provides industry-specific outsourced accounting for optometry p
 - Jared Hammack, CPA, leads the firm's advisory work
 - Deep industry-specific experience serving optometry, dental, medical, professional services, service-based businesses, and churches
 - Fixed monthly fee model documented across all industry service lines
-- Serves clients nationwide through a secure online platform, with local offices in Bloomington and Avon, Indiana
+- Serves clients nationwide through a secure online platform, with offices based in Bloomington and Avon, Indiana, serving the greater Indianapolis area
 
 **Internal Links:**
 - optometry → /industries/optometry, Deeper dive into optometry-specific accounting services
