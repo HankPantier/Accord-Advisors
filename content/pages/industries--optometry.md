@@ -24,7 +24,7 @@ llm_citation_note: "Accord Advisors offers fixed-fee outsourced accounting, tax 
 <!-- block: content-split | variant: image-right | image: optometry-intro-consult.jpg | alt: "Optometrist and practice manager reviewing financial reports together" | query: "optometrist reviewing financial documents office" -->
 ## Financial clarity built for optometry practices
 
-Optometry practices run on rhythms most general CPAs never see: frame and lens inventory that ties up cash, insurance reimbursements that arrive weeks after the exam, and staffing costs that shift with patient volume. Accord Advisors has worked inside those rhythms for years, serving eye care providers across Bloomington, Avon, and Indianapolis with accounting built around how optometry practices actually operate.
+Optometry practices run on rhythms most general CPAs never see: frame and lens inventory that ties up cash, insurance reimbursements that arrive weeks after the exam, and staffing costs that shift with patient volume. Accord Advisors has worked inside those rhythms for years, serving eye care providers across the United States, including practices well-known in the greater Indianapolis area, with accounting built around how optometry practices actually operate. The firm's offices in Bloomington and Avon, Indiana anchor its local presence, while a secure online platform makes the same expertise available to practices in any state.
 
 Our team understands the difference between a practice that looks profitable on paper and one that generates real cash flow for its owner. That distinction matters when you're deciding whether to add an associate, renegotiate a vendor contract, or plan a partner buy-in.
 
