@@ -89,11 +89,11 @@ A: Yes. Accord Advisors handles multi-state tax compliance for clients who have 
 A: All documents move through a secure online platform built for financial data, not email. Income statements, prior-year returns, and supporting records are stored in one encrypted location accessible only to you and your Accord Advisors team.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-bloomington.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "handshake business consultation meeting" -->
-## Start with a conversation about your business
+## Start with a conversation about your tax situation
 
-There's no way to know whether outsourced accounting fits your practice or business until someone looks at what you're dealing with now: how the books are kept, what reporting you're missing, and where the hours are going. That's a conversation, not a sales pitch, and it costs nothing to have it.
+There is no way to know where tax planning can help until someone looks at how your business is structured, how your records are kept, and what the current year is shaping up to look like. That conversation costs nothing and carries no obligation.
 
-Schedule a consultation with Accord Advisors and find out what a fixed monthly fee and a CPA-led accounting department would look like for your optometry practice, dental office, medical practice, service business, church, or professional firm. Accord Advisors serves clients across the United States for business tax planning, preparation, and outsourced accounting, and is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana.
+Schedule a consultation with Accord Advisors and find out what year-round CPA-led tax planning and preparation would look like for your optometry practice, dental office, medical practice, service business, church, or professional firm. Accord Advisors serves clients across the United States through a secure online platform and is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana.
 
 [Schedule a consultation](/contact)
 
