@@ -27,7 +27,7 @@ General bookkeeping counts money. It doesn't tell an optometrist why patient vol
 
 That focus changes what a monthly report looks like. A generalist can close your books. An industry specialist like Accord Advisors knows what numbers actually drive your practice or organization, and builds the dashboards to show you, month after month, without the hourly billing surprises that come with a traditional firm.
 
-Accord Advisors serves clients across the United States, with local offices in Bloomington and Avon, Indiana. Below is a look at how that expertise applies to the industries we know best.
+Below is a look at how that expertise applies to the industries we know best.
 
 <!-- block: content-split | variant: image-right | image: optometrist-reviewing-financials.jpg | alt: "Optometrist reviewing practice financial reports at office desk" | query: "optometrist office financial review" -->
 ## Optometry practices
