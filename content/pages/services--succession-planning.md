@@ -41,7 +41,7 @@ Waiting carries specific costs:
 - Family or partner disputes over ownership percentages, compensation, or timing that stall a transition indefinitely
 - Client or patient relationships that erode during a rushed, poorly communicated handoff
 
-Optometry and dental practices, medical offices, service-based businesses, professional service firms, and churches across Bloomington, Avon, Indianapolis, and Indiana that start the conversation five to ten years before a planned exit generally negotiate from a position of strength, not urgency.
+Optometry and dental practices, medical offices, service-based businesses, professional service firms, and churches that start the conversation five to ten years before a planned exit generally negotiate from a position of strength, not urgency, whether they are based in Bloomington, Indianapolis, or anywhere else in the country.
 
 <!-- block: process-steps | variant: vertical -->
 ## Our approach to succession readiness
