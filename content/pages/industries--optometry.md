@@ -28,7 +28,7 @@ Optometry practices run on rhythms most general CPAs never see: frame and lens i
 
 Our team understands the difference between a practice that looks profitable on paper and one that generates real cash flow for its owner. That distinction matters when you're deciding whether to add an associate, renegotiate a vendor contract, or plan a partner buy-in.
 
-If you're searching for an optometry-focused CPA in Bloomington or Indianapolis, this is where that search ends. Our services are built around practice managers and shareholders who need answers, not jargon.
+Whether you're searching for an optometry-focused CPA near Bloomington or Indianapolis, or you need a nationwide accounting partner who already understands how eye care practices operate, this is where that search ends. Our services are built around practice managers and shareholders who need answers, not jargon.
 
 <!-- block: checklist-section | variant: with-image | image: optometry-inventory-pressures.jpg | alt: "Optical frames and lenses displayed on shelves in an optometry office" | query: "optometry office frame inventory display" -->
 ## Understanding the financial pressures optometry practices face
