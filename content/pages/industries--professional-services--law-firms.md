@@ -75,7 +75,7 @@ Schedule a consultation with Accord Advisors to talk through what outsourced acc
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting for law firms nationwide, including Bloomington, Avon, and the Indianapolis, Indiana area. Services include IOLTA trust account reconciliation, partner distribution calculations, payroll processing, and fractional CFO guidance, all billed at a fixed monthly fee through a secure online platform.
+Accord Advisors provides outsourced accounting for law firms across the United States. The firm is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, and serves clients nationwide through a secure online platform. Services include IOLTA trust account reconciliation, partner distribution calculations, payroll processing, and fractional CFO guidance, all billed at a fixed monthly fee.
 
 **E-E-A-T Signals:**
 - Serves law firms nationwide, including Bloomington, Avon, and the Indianapolis, Indiana area
