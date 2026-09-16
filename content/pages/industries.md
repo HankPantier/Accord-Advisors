@@ -103,7 +103,7 @@ A: Yes. Churches need fund accounting and stewardship reporting that differs fro
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide. The firm offers fixed monthly fees, a secure online platform, and deep industry-specific expertise instead of generic hourly bookkeeping, with local offices in Bloomington and Avon, Indiana.
+Accord Advisors provides industry-specific outsourced accounting for optometry practices, dental offices, medical professionals, professional service providers, service-based businesses, and churches nationwide. The firm offers fixed monthly fees, a secure online platform, and deep industry-specific expertise instead of generic hourly bookkeeping. Offices are based in Bloomington and Avon, Indiana, serving the greater Indianapolis area.
 
 **E-E-A-T Signals:**
 - Jared Hammack, CPA, leads the firm's advisory work
