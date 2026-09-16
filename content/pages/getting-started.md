@@ -137,8 +137,8 @@ Becoming a client starts with a no-pressure discovery call with , followed by a 
 
 **E-E-A-T Signals:**
 -  credentialed advisor personally involved in onboarding
-- Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers nationwide
-- Clients served across the country, with local roots in Bloomington and the Indianapolis area (including Avon), Indiana
+- Deep industry-specific expertise serving optometrists, dentists, medical professionals, service-based businesses, churches, and professional service providers across the United States
+- CPA firm established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, serving clients nationwide through a secure online platform
 - Fixed monthly fee structure disclosed before engagement begins
 - Secure online client portal for ongoing financial visibility
 
