@@ -101,7 +101,7 @@ Schedule a consultation with Accord Advisors and find out what year-round CPA-le
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting and business tax planning services across the United States, functioning as a client's accounting department for a fixed monthly fee instead of hourly billing. Services include bookkeeping, monthly financial reporting, business tax preparation, and CPA-led advisory support delivered through a secure online platform. The firm is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, and brings deep experience serving optometrists, dentists, medical professionals, service businesses, churches, and professional service providers nationwide.
+Accord Advisors provides year-round business tax planning and preparation for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across the United States through a secure online platform. Services include tax strategy, deduction maximization, multi-state compliance, accurate federal, state, and local return filing, extension management, IRS representation, and audit risk reduction. The firm is well-established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana. Every engagement is CPA-led.
 
 **E-E-A-T Signals:**
 - CPA-led client engagements with deep industry specialization
