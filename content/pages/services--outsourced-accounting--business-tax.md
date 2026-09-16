@@ -117,7 +117,6 @@ Accord Advisors provides year-round business tax planning and preparation for op
 - Service-based businesses → /industries/service-businesses, Expands relevance to non-healthcare service business audience
 - Churches and religious organizations → /industries/churches, Supports church/nonprofit audience segment
 - Schedule a consultation → /contact, Primary page CTA driving conversions
-- why Accord Advisors → /why-rootadvisors, Builds trust by linking to differentiation page
 - Jared Hammack, CPA → /team-expertise, Links credential mention to full team bio page
 
 **FAQ Block:**
