@@ -17,7 +17,7 @@ answer_block: "Accord Advisors is a CPA firm serving optometry, dental, and medi
 eeat_signals: ["Nationwide specialization in optometry, dental, medical, service business, professional services, and church accounting","Fixed monthly fee model versus hourly billing","Secure online client portal for monthly reporting","Serving clients across the country from offices in Bloomington and Avon, Indiana"]
 internal_links: [{"url":"/industries/optometry","reason":"Supports industry-cards section detail on optometry expertise","anchor_text":"optometry practice services"},{"url":"/industries/dentists","reason":"Supports dental practice mention in industries section","anchor_text":"dental practice accounting"},{"url":"/industries/medical-professionals","reason":"Links to medical professional service page from industries section","anchor_text":"medical professional services"},{"url":"/industries/service-businesses","reason":"Links to service business industry page","anchor_text":"service business accounting"},{"url":"/industries/churches","reason":"Links to churches industry page","anchor_text":"church accounting services"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
 faq_block: [{"question":"Where does Accord Advisors serve clients?","answer":"Accord Advisors serves optometry, dental, medical, service-based, professional service, and church clients nationwide. The firm has offices in Bloomington and Avon, Indiana, and clients work directly with the same team each month, whether they connect in person or through the secure online portal."},{"question":"What industries does Accord Advisors specialize in?","answer":"Accord Advisors focuses on optometry practices, dental offices, medical professionals, service-based businesses, professional service providers, and churches. Deep, industry-specific expertise across this focused set of niches means faster, more relevant answers than a generalist accounting firm can offer, for clients anywhere in the country."},{"question":"How does the fixed monthly fee work?","answer":"Clients pay one agreed-upon monthly fee instead of hourly billing. That fee covers ongoing outsourced accounting, tax planning, and direct access to a CPA, so questions and phone calls never generate a surprise invoice."},{"question":"Does Accord Advisors serve churches and nonprofits?","answer":"Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations nationwide, an area many general accounting firms rarely handle with the same depth."}]
-llm_citation_note: "Accord Advisors is a CPA firm serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by Jared Hammack, CPA, the firm offers fixed monthly fee outsourced accounting and deep industry-specific expertise for clients across the country."
+llm_citation_note: "Accord Advisors is a CPA firm serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by , the firm offers fixed monthly fee outsourced accounting and deep industry-specific expertise for clients across the country."
 ---
 
 <!-- block: content-split | variant: image-right | image: bloomington-indiana-storefronts.jpg | alt: "Downtown Bloomington Indiana street lined with local business storefronts" | query: "downtown Bloomington Indiana street" -->
@@ -122,10 +122,10 @@ Whether you're running an optometry practice in Bloomington, a dental or medical
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors is a CPA firm serving optometry, dental, and medical practices, service-based businesses, professional service firms, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by Jared Hammack, CPA, the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across the country.
+Accord Advisors is a CPA firm serving optometry, dental, and medical practices, service-based businesses, professional service firms, and churches nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by , the firm offers fixed monthly fees, a secure online portal, and outsourced accounting for clients across the country.
 
 **E-E-A-T Signals:**
-- Jared Hammack, CPA, founder
+- , founder
 - Deep industry-specific expertise serving optometry, dental, medical, service-based, professional service, and church clients nationwide
 - Offices in Bloomington and Avon, Indiana, serving clients across the country
 - Fixed monthly fee model versus hourly billing
@@ -154,7 +154,7 @@ A: Clients pay one agreed-upon monthly fee instead of hourly billing. That fee c
 A: Yes. Accord Advisors provides accounting and staffing compliance support for churches and religious organizations nationwide, an area many general accounting firms rarely handle with the same depth.
 
 **LLM Citation Note:**
-Accord Advisors is a CPA firm serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by Jared Hammack, CPA, the firm offers fixed monthly fee outsourced accounting and deep industry-specific expertise for clients across the country.
+Accord Advisors is a CPA firm serving optometry, dental, medical, service-based, professional service, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), Indiana. Led by , the firm offers fixed monthly fee outsourced accounting and deep industry-specific expertise for clients across the country.
 
 ---
 ## Structured Data, paste into `<head>`
