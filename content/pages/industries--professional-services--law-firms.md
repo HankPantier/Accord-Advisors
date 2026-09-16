@@ -67,7 +67,7 @@ There's no meter running when a question comes up about a trust account entry or
 
 Client confidentiality isn't optional in the legal profession, and the financial side of your practice deserves the same discretion. Data handled through Accord Advisors' secure online platform is protected with the same seriousness attorneys apply to privileged client information.
 
-The goal is simple: keep the books accurate, the trust accounts compliant, and the reporting current, so attorneys can spend their hours on casework and clients instead of reconciliations. Firms that hand off the accounting function typically find they gain hours back each week that used to go toward chasing down numbers. Whether your firm is based in Bloomington, Avon, Indianapolis, or across the country, the service level and the standards stay the same.
+The goal is simple: keep the books accurate, the trust accounts compliant, and the reporting current, so attorneys can spend their hours on casework and clients instead of reconciliations. Firms that hand off the accounting function typically find they gain hours back each week that used to go toward chasing down numbers. Accord Advisors is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and serves law firms across the United States with the same service level and standards regardless of location.
 
 Schedule a consultation with Accord Advisors to talk through what outsourced accounting could look like for your firm.
 
