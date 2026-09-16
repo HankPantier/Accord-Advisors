@@ -11,7 +11,7 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "succession-planning-hero.jpg"
 hero_image_alt: "Senior business owner and CPA advisor discussing succession plan documents at a desk"
-hero_subhead: "Prepare your business, practice, or organization for a confident transition, backed by specialized Indiana accounting experience serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and beyond"
+hero_subhead: "Prepare your business, practice, or organization for a confident transition, backed by specialized accounting experience serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area"
 hero_headline: "Plan your business transition with confidence"
 answer_block: "Accord Advisors provides succession planning for optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana, reviewing financial statements, cash flow, and business structure to prepare a practice or organization for sale or transfer. The work is delivered through a fixed monthly fee, backed by specialized healthcare-focused accounting expertise."
 eeat_signals: ["CPA-led engagements with specialized healthcare accounting expertise","Focused experience serving optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana","Fixed monthly fee model rather than hourly billing","Secure online client platform for financial data sharing"]
