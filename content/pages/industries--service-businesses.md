@@ -23,7 +23,7 @@ Running an HVAC company, electrical contracting business, plumbing shop, landsca
 
 We work as your [outsourced accounting department](/services/outsourced-accounting), not a vendor you call once a quarter. That means reconciled books, monthly financials, and a secure online platform where you can see your numbers anytime, without waiting on a callback or driving across town.
 
-HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. Our team brings CPA-level judgment to decisions that used to require guesswork.
+Service-based businesses across the country choose this model because DIY bookkeeping eats evenings they'd rather spend off the clock, and hourly accounting fees turn a simple question into a line-item charge. Accord Advisors is well-established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and serves clients nationwide through a secure online platform. Our team brings CPA-level judgment to decisions that used to require guesswork.
 
 
 No surprise invoices. No re-explaining your business every time you call. Just a predictable monthly fee and a firm that already understands how trades businesses make and lose money.
