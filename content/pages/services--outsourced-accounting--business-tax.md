@@ -250,34 +250,42 @@ Accord Advisors offers outsourced accounting and business tax planning for a fix
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What does outsourced accounting include?",
+      "name": "What does business tax preparation at Accord Advisors include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour."
+        "text": "Business tax preparation at Accord Advisors includes organizing your financial records, identifying all available deductions, preparing and filing accurate federal, state, and local returns, managing extensions when appropriate, and providing IRS representation if a notice or inquiry arises. Every engagement is CPA-led and delivered through a secure online platform."
       }
     },
     {
       "@type": "Question",
-      "name": "How much does outsourced accounting cost in Bloomington, IN?",
+      "name": "Do you provide year-round tax planning or only prepare returns at filing time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation."
+        "text": "Accord Advisors works with clients year-round. Tax strategy involves projecting your liability before year-end, timing income and expenses to your advantage, and adjusting the plan when your business changes. Filing the return is the final step in a process that runs all year."
       }
     },
     {
       "@type": "Question",
-      "name": "Do you work with optometry and medical practices specifically?",
+      "name": "Do you work with optometry practices, dental offices, and medical professionals?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Accord Advisors has served healthcare providers for nearly 40 years, including optometry practices, dental practices, and medical professionals. Many optometry clients are referred through Acquios, a practice management network that partners with accounting firms experienced in vision care finances."
+        "text": "Yes. Accord Advisors serves optometry practices, dental practices, and medical professionals, along with service-based businesses, professional service providers, and churches. Each client type has a distinct tax profile, and Accord Advisors prepares returns and plans strategy with those industry-specific differences in mind."
       }
     },
     {
       "@type": "Question",
-      "name": "Is my financial data secure with an outsourced accounting firm?",
+      "name": "Can you handle multi-state tax compliance if my business operates in more than one state?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team."
+        "text": "Yes. Accord Advisors handles multi-state tax compliance for clients who have filing obligations in more than one jurisdiction, including businesses with remote employees, multi-location practices, or clients served across state lines. Returns are filed accurately and on time in each applicable state."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is my financial data secure when working with an online CPA firm?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All documents move through a secure online platform built for financial data, not email. Income statements, prior-year returns, and supporting records are stored in one encrypted location accessible only to you and your Accord Advisors team."
       }
     }
   ]
