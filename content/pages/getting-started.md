@@ -125,7 +125,7 @@ A: Yes. At Accord Advisors, we stay involved through onboarding and into the ong
 <!-- block: cta-banner | variant: image-bg | image: cpa-team-meeting.jpg | alt: "CPA and business owner shaking hands after a planning meeting" | query: "business handshake advisor meeting" -->
 ## Ready to take the next step
 
-If you run an optometry practice, dental office, medical clinic, service-based business, professional services firm, or church, whether you are based in Bloomington, Avon, the greater Indianapolis area, or anywhere else in the country, and you are tired of guessing how last month actually went, the next step is simple. Schedule a consultation and tell us what is not working. We will tell you, plainly, what it would take to fix it.
+If you run an optometry practice, dental office, medical clinic, service-based business, professional services firm, or church, whether you are based in Bloomington, Avon, the greater Indianapolis area, or anywhere across the United States, and you are tired of guessing how last month actually went, the next step is simple. Schedule a consultation and tell us what is not working. We will tell you, plainly, what it would take to fix it.
 
 [Schedule a consultation](/contact)
 
