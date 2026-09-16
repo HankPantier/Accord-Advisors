@@ -2,7 +2,7 @@
 title: "What to expect when you become a client | Accord Advisors"
 url: "/getting-started"
 meta_title: "What to Expect When You Become a Client | Accord Advisors"
-meta_description: "See exactly what happens when you become a client of Accord Advisors, serving optometry, dental, medical, service-based, professional services, and church clients nationwide, including Bloomington and the Indianapolis area (including Avon), IN: a discovery call, fixed monthly fees, and a secure client portal."
+meta_description: "See exactly what happens when you become a client of Accord Advisors, a CPA firm established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, serving optometry, dental, medical, service-based, professional services, and church clients across the United States: a discovery call, fixed monthly fees, and a secure client portal."
 target_keyword: "what to expect when you become an Accord Advisors client"
 secondary_keywords: ["fixed fee CPA Bloomington","outsourced accounting onboarding","secure client portal accounting","Bloomington optometry accountant","CPA firm Indianapolis area","nationwide outsourced accounting","Avon IN CPA firm"]
 canonical_url: "https://accordadvisors.com/getting-started"
