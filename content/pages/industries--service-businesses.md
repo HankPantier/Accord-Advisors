@@ -58,7 +58,7 @@ For most trades business owners, personal and business taxes aren't separate pro
 
 Accord Advisors handles [personal income tax preparation and planning](/services/personal-income-tax) alongside your business accounting, so the same team that reviews your monthly financials is also planning your personal return. That coordination catches things a once-a-year tax preparer misses: vehicle and equipment deductions, estimated payments that need adjusting mid-year, retirement contributions that reduce this year's liability, or an entity election that lowers your effective tax rate as your crew grows.
 
-HVAC installers, electricians, plumbers, landscapers, and auto mechanics across Bloomington, Avon, Indianapolis, and across Indiana get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
+HVAC installers, electricians, plumbers, landscapers, auto mechanics, and other service-based business owners across the United States get one team handling both sides of the return, instead of reconciling advice from two firms that never talk to each other.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Indiana expertise, wherever your business operates
