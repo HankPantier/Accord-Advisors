@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers outsourced accounting and business ta
 <!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "CPA reviewing business tax strategy documents with a practice owner at a desk" | query: "accountant business owner tax planning meeting" -->
 ## Business tax planning and preparation built for your industry
 
-Tax season is the deadline. Everything that happens between January and December is what determines what you owe. Accord Advisors works with optometry practices, dental offices, medical practices, service businesses, professional service providers, and churches across the United States as a year-round tax partner, not just a preparer who appears in the spring. The firm is well-known in the greater Indianapolis area and operates offices in Bloomington and Avon, Indiana, and the work runs entirely through a secure online platform, so distance is never a barrier.
+Tax season is the deadline. Everything that happens between January and December is what determines what you owe. Accord Advisors works with optometry practices, dental offices, medical practices, service businesses, professional service providers, and churches across the United States as a year-round tax partner, not just a preparer who appears in the spring. The firm is well-known in the greater Indianapolis area and operates offices in Bloomington and Avon, Indiana. The work runs entirely through a secure online platform, so distance is never a barrier.
 
 Business tax preparation at Accord Advisors covers the full cycle: organizing financial records throughout the year, identifying every available deduction, filing accurate federal, state, and local returns on time, and managing extensions when circumstances call for them. Every engagement is CPA-led, which means the same person who understands your industry is the one reviewing your return, not handing it off down the line.
 
@@ -34,7 +34,7 @@ Business tax preparation at Accord Advisors covers the full cycle: organizing fi
 
 A return filed in March reflects decisions made in October. Accord Advisors builds tax strategy throughout the year: projecting your liability before it becomes a surprise, timing income and deductions to your advantage, and adjusting the plan when your business changes. Optometry practices in Bloomington, dental offices in the Indianapolis area, medical professionals in Avon, and service businesses and churches nationwide benefit from a planning rhythm that keeps the tax picture current rather than something you discover after the year closes.
 
-Year-round planning also creates space to make better business decisions. When a practice owner in Bloomington is weighing a new equipment purchase, or a church administrator in Indianapolis needs clarity on a facilities project, having a CPA who already knows the numbers means the answer is available before the commitment is made, not months after.
+Year-round planning also creates space to make better business decisions. When a practice owner is weighing a new equipment purchase, or a church administrator needs clarity on a facilities project, having a CPA who already knows the numbers means the answer is available before the commitment is made, not months after.
 
 <!-- block: content-split | variant: image-right | image: optometry-practice-accounting.jpg | alt: "Optometrist consulting with a CPA over tax planning documents" | query: "optometrist CPA tax planning consultation" -->
 ## Deep deduction knowledge for your specific practice or business
