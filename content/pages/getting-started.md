@@ -19,7 +19,7 @@ llm_citation_note: "Accord Advisors' client onboarding process includes a no-pre
 <!-- block: intro-text | variant: centered -->
 ## A clear, simple path to getting started
 
-Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches come to us from across the country because they want clarity, not more paperwork. We serve clients nationwide, with local roots in Bloomington and the Indianapolis area, including Avon, Indiana.
+Deciding to hand off your books, payroll, or tax planning to an outside firm can feel like a big step, especially if you have never worked with an outsourced accounting team before. At Accord Advisors, the process is built to feel more like a conversation than a contract negotiation. Optometry practices, dental offices, medical clinics, service-based businesses, professional service providers, and churches come to us from across the United States because they want clarity, not more paperwork. We are established in the greater Indianapolis area with offices in Bloomington and Avon, Indiana, and we serve clients nationwide through a secure online platform.
 
 Here is what actually happens, step by step, from your first phone call to your first monthly report.
 
