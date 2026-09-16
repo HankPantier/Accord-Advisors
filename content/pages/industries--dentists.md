@@ -122,7 +122,7 @@ Schedule a consultation to talk with our team about what outsourced accounting l
 ## SEO & AIO Metadata
 
 **Answer Block:**
-Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices and dental practice owners nationwide, including Bloomington, Avon, and Indianapolis, Indiana. Services run on a fixed monthly fee rather than hourly billing, backed by deep experience serving dental offices.
+Accord Advisors provides outsourced accounting, bookkeeping, payroll support, and tax planning for dental practices and dental practice owners across the United States. The firm is established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and serves dental practices nationwide through a secure online platform. Every engagement runs on a fixed monthly fee rather than hourly billing, backed by deep experience serving dental offices.
 
 **E-E-A-T Signals:**
 - Deep firm experience serving dental practices nationwide, including general and specialty dental offices
