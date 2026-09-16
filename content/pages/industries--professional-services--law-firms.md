@@ -60,7 +60,7 @@ This level of insight typically costs a firm six figures a year in salary for an
 
 Hourly billing for accounting services creates the same anxiety attorneys try to spare their own clients: an invoice that doesn't match expectations. Accord Advisors prices its outsourced accounting services as a fixed monthly fee, set upfront based on your firm's size and complexity.
 
-There's no meter running when a question comes up about a trust account entry or a payroll adjustment. The fee stays consistent month to month, which makes it easy to budget for and easy to explain to partners reviewing overhead. A secure online platform gives you access to your financial data anytime, without waiting on a callback or an emailed spreadsheet.
+There's no meter running when a question comes up about a trust account entry or a payroll adjustment. The fee stays consistent month to month, which makes it easy to budget for and easy to explain to partners reviewing overhead. A secure online platform gives you access to your financial data anytime, without waiting on a callback or an emailed spreadsheet. Whether your firm is down the street from our Bloomington or Avon offices, in the greater Indianapolis area, or located anywhere else across the United States, the experience and the standards are exactly the same.
 
 <!-- block: cta-banner | variant: image-bg | image: attorney-consultation-office.jpg | alt: "Attorney shaking hands with a financial advisor in a law office" | query: "attorney handshake professional office meeting" -->
 ## Confidentiality & Focus on Practicing Law
