@@ -71,19 +71,22 @@ Tax preparation requires moving sensitive documents, and Accord Advisors handles
 There is no software to install and no complicated process to learn. Clients in Bloomington, Avon, the Indianapolis area, and across the country upload what is needed, receive completed returns through the same portal, and maintain a clean record of every document exchanged throughout the year. The platform keeps the process simple so the focus stays on the work, not on logistics.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Outsourced accounting services
+## Frequently Asked Questions About Business Tax Planning and Preparation
 
-**Q: What does outsourced accounting include?**
-A: Outsourced accounting at Accord Advisors covers bookkeeping, bank and account reconciliations, monthly financial statements, and CPA-level advisory support. It replaces or supplements an in-house accounting staff position, delivered for a fixed monthly fee through a secure online platform rather than billed by the hour.
+**Q: What does business tax preparation at Accord Advisors include?**
+A: Business tax preparation at Accord Advisors includes organizing your financial records, identifying all available deductions, preparing and filing accurate federal, state, and local returns, managing extensions when appropriate, and providing IRS representation if a notice or inquiry arises. Every engagement is CPA-led and delivered through a secure online platform.
 
-**Q: How much does outsourced accounting cost in Bloomington, IN?**
-A: Accord Advisors charges a fixed monthly fee based on the scope of work rather than hourly rates. The exact amount depends on transaction volume, reporting needs, and industry, which is why the firm reviews your current books before quoting a number during a consultation.
+**Q: Do you provide year-round tax planning or only prepare returns at filing time?**
+A: Accord Advisors works with clients year-round. Tax strategy involves projecting your liability before year-end, timing income and expenses to your advantage, and adjusting the plan when your business changes. Filing the return is the final step in a process that runs all year.
 
-**Q: Do you work with optometry and medical practices specifically?**
-A: Yes. Accord Advisors serves healthcare providers, including optometry practices, dental practices, and medical professionals.
+**Q: Do you work with optometry practices, dental offices, and medical professionals?**
+A: Yes. Accord Advisors serves optometry practices, dental practices, and medical professionals, along with service-based businesses, professional service providers, and churches. Each client type has a distinct tax profile, and Accord Advisors prepares returns and plans strategy with those industry-specific differences in mind.
 
-**Q: Is my financial data secure with an outsourced accounting firm?**
-A: Documents and reports move through a secure online platform designed for financial data, not email attachments. Bank statements, payroll files, and monthly reports stay in one encrypted location accessible only to you and your Accord Advisors team.
+**Q: Can you handle multi-state tax compliance if my business operates in more than one state?**
+A: Yes. Accord Advisors handles multi-state tax compliance for clients who have filing obligations in more than one jurisdiction, including businesses with remote employees, multi-location practices, or clients served across state lines. Returns are filed accurately and on time in each applicable state.
+
+**Q: Is my financial data secure when working with an online CPA firm?**
+A: All documents move through a secure online platform built for financial data, not email. Income statements, prior-year returns, and supporting records are stored in one encrypted location accessible only to you and your Accord Advisors team.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-bloomington.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "handshake business consultation meeting" -->
 ## Start with a conversation about your business
