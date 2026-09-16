@@ -76,7 +76,7 @@ Our work with churches and religious organizations centers on accurate, transpar
 <!-- block: checklist-section | variant: with-image | image: bloomington-indianapolis-business-meeting.jpg | alt: "Advisor meeting with Bloomington business owner in a modern office" | query: "professional meeting Indianapolis office" -->
 ## Why practices and organizations nationwide choose a dedicated industry partner
 
-Business owners and practice leaders across the country don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing. Accord Advisors serves clients nationwide, with deep roots in Bloomington and the Indianapolis area (including Avon), Indiana.
+Business owners and practice leaders across the country don't need another vendor sending a bill they didn't expect. They need a firm that already understands their industry, prices predictably, and gives them real answers about how the business is actually doing. Accord Advisors serves clients in all fifty states through a secure online platform, with local offices in Bloomington and Avon, Indiana for clients in the Indianapolis area.
 
 - Fixed monthly fees instead of hourly billing, so budgeting for accounting costs is never a guessing game
 - A secure online platform for sharing documents and reviewing financials from anywhere in the country
