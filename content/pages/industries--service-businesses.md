@@ -40,7 +40,7 @@ That means a hiring decision, a pricing adjustment, or a fleet purchase gets mad
 - Monthly financial statements delivered on a fixed schedule
 - Dashboards that translate raw numbers into real decisions
 - Job profitability, cash flow, and receivables visibility
-- Secure online access anytime, from anywhere in Indiana
+- Secure online access anytime, from anywhere in the country
 
 <!-- block: content-split | variant: image-left | image: business-startup-planning-session.jpg | alt: "Trades business owner discussing entity setup and startup finances with an accountant" | query: "contractor small business owner startup planning meeting" -->
 ## Business foundation services to start and grow with confidence
