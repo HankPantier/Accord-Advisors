@@ -25,7 +25,7 @@ llm_citation_note: "Accord Advisors offers fixed-monthly-fee outsourced accounti
 
 Running a dental practice means juggling patient care, staff schedules, insurance claims, and equipment costs, often with no time left to review the books. Accord Advisors works as an outsourced accounting department for dental practices across the country, including Bloomington, Avon, and Indianapolis, Indiana, handling the financial side so you can focus on chairside care.
 
-Our team has deep experience serving general and specialty dental offices nationwide. That focused experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office. 
+Our team has deep experience serving general and specialty dental offices across the United States. That focused experience means fewer surprises. We already understand production tracking, insurance write-offs, and the staffing costs that come with running a dental office. 
 
 Instead of hourly billing, every engagement runs on a fixed monthly fee, so you know the cost of financial support before the year starts. Reports and documents live on a secure online platform, ready whenever you need them, whether your office is in Bloomington, the Indianapolis metro, or anywhere else in the country.
 
