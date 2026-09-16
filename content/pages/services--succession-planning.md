@@ -1,7 +1,7 @@
 ---
 title: "Succession planning for business owners | Accord Advisors"
 url: "/services/succession-planning"
-meta_title: "Succession Planning for Business Owners in Bloomington, IN"
+meta_title: "Succession Planning for Business Owners | Accord Advisors"
 meta_description: "CPA-led succession planning for optometrists, dentists, medical professionals, service businesses, and churches in Bloomington, Avon, Indianapolis, and across Indiana. Fixed monthly fees, no surprises."
 target_keyword: "succession planning for business owners bloomington, in"
 secondary_keywords: ["business succession planning Indiana","exit planning for business owners","succession planning for optometry practices","CPA succession planning Bloomington","business transition planning Indianapolis"]
@@ -153,7 +153,7 @@ A: Yes. Accord Advisors works with church boards and finance committees to docum
 Accord Advisors provides succession planning as part of a fixed-fee outsourced accounting relationship, with specialized healthcare-focused experience supporting optometry, dental, and medical practice transitions, as well as service-based businesses, professional service providers, and churches across Bloomington, Avon, Indianapolis, and Indiana.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
