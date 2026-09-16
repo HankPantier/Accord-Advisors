@@ -71,9 +71,9 @@ Accord Advisors brings deep experience in healthcare financial reporting, and th
 <!-- block: content-split | variant: image-right | image: church-service-business-leadership.jpg | alt: "Church finance committee and service business owner in a planning meeting" | query: "nonprofit church finance meeting" -->
 ## Succession planning for service-based businesses, professional service providers, and churches
 
-Service-based businesses, professional service providers, and religious organizations across Bloomington, Avon, Indianapolis, and Indiana face a different kind of succession challenge: leadership transition often matters as much as ownership transfer. A contracting, consulting, or professional services firm needs financial continuity when a founder steps back, including documented processes for billing, payroll, and vendor relationships that do not live in one person's head.
+Service-based businesses, professional service providers, and religious organizations nationwide face a different kind of succession challenge: leadership transition often matters as much as ownership transfer. A contracting, consulting, or professional services firm needs financial continuity when a founder steps back, including documented processes for billing, payroll, and vendor relationships that do not live in one person's head.
 
-Churches and religious organizations face their own version of this challenge when a longtime administrator, treasurer, or pastor with financial oversight moves on. We help boards and finance committees across Bloomington, Avon, Indianapolis, and Indiana document giving records, reserve policies, and reporting practices so continuity survives a leadership change, not just an ownership one.
+Churches and religious organizations face their own version of this challenge when a longtime administrator, treasurer, or pastor with financial oversight moves on. We help boards and finance committees across the country, including those in Bloomington, Avon, and the Indianapolis area, document giving records, reserve policies, and reporting practices so continuity survives a leadership change, not just an ownership one.
 
 <!-- block: content-prose -->
 ## How we work with your attorney and financial advisors
