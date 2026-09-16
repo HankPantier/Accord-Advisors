@@ -274,9 +274,9 @@ Accord Advisors offers fixed-fee outsourced accounting for service-based busines
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Accounting for Service Businesses in Bloomington, IN",
+  "name": "Accounting for Service-Based Businesses Nationwide",
   "url": "https://accordadvisors.com/industries/service-businesses",
-  "description": "Fixed-fee outsourced accounting for service businesses in Bloomington and Indianapolis. Monthly dashboards, tax planning, and CPA guidance, no hourly billing.",
+  "description": "Fixed-fee outsourced accounting for service-based businesses across the United States, with offices in Bloomington and Avon, Indiana, and deep roots in the greater Indianapolis area. Monthly dashboards, tax planning, and CPA guidance, no hourly billing.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Accord Advisors",
