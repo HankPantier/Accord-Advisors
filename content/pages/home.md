@@ -58,7 +58,9 @@ Monthly bookkeeping, reconciliations, and financial reporting delivered through 
 ### Personal Income Tax
 icon: FileText
 
-Tax preparation and planning for practice owners, shareholders, and individuals who want more than a once-a-year filing appointment. [Learn more](/services/personal-income-tax)
+Tax preparation and planning for business owners who want more than a once-a-year filing appointment.
+
+[Learn more](/services/personal-income-tax)
 
 ### Business Foundation Services
 icon: Building2
