@@ -58,7 +58,9 @@ Monthly bookkeeping, reconciliations, and financial reporting delivered through 
 ### Personal Income Tax
 icon: FileText
 
-Tax preparation and planning for practice owners, shareholders, and individuals who want more than a once-a-year filing appointment. [Learn more](/services/personal-income-tax)
+Tax preparation and planning for business owners who want more than a once-a-year filing appointment.
+
+[Learn more](/services/personal-income-tax)
 
 ### Business Foundation Services
 icon: Building2
@@ -73,7 +75,7 @@ Generalist firms handle a little of everything. Accord Advisors goes deep in fiv
 ### Optometry Practices
 icon: Target
 
-Practice management metrics, associate compensation, and equipment financing for optometrists.
+Practice management metrics, associate compensation, and tax planning for optometrists.
 
 [See how we help](/industries/optometry)
 
