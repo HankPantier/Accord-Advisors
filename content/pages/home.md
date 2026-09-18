@@ -75,7 +75,7 @@ Generalist firms handle a little of everything. Accord Advisors goes deep in fiv
 ### Optometry Practices
 icon: Target
 
-Practice management metrics, associate compensation, and equipment financing for optometrists.
+Practice management metrics, associate compensation, and tax planning for optometrists.
 
 [See how we help](/industries/optometry)
 
