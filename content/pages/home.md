@@ -102,7 +102,9 @@ Fund accounting, staffing compliance, and financial oversight built for church l
 ### Professional Service Providers
 icon: Briefcase
 
-Outsourced accounting, tax planning, and financial reporting for attorneys, advertising agencies, financial advisors, and consulting companies. [See how we help](/industries/professional-services)
+Outsourced accounting, tax planning, and financial reporting for professional service providers, including attorneys, advertising agencies, financial advisors, and consulting companies.
+
+[See how we help](/industries/professional-services)
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accord Advisors your trusted accounting partner
