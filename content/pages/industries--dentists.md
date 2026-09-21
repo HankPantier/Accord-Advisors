@@ -70,7 +70,7 @@ Business Foundation Services from Accord Advisors set up the financial structure
 For dentists buying into an existing practice or adding a second location, the same foundation work applies: clean books, clear reporting lines, and a structure ready to scale before the first patient walks through the door.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Bloomington dentists choose a fixed-fee CPA partner
+## Why dentists choose a fixed-fee CPA partner
 
 Most CPA firms bill by the hour, which means the invoice grows every time you ask a question. Accord Advisors works differently.
 
