@@ -128,5 +128,9 @@
       "label": "Contact",
       "url": "/locations"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Schedule a consultation",
+    "url": "/locations"
+  }
 }
