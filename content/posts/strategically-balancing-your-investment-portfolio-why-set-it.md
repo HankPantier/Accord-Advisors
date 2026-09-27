@@ -88,4 +88,4 @@ Risk tolerance is your emotional comfort with volatility. Risk capacity is your 
 **Should my CPA be involved in investment decisions, not just my tax return?**
 Yes, particularly around rebalancing, asset sales, and any year with an unusual income event like a practice sale or large bonus. Coordinating the tax side of an investment decision before you trade, rather than after, is usually where the real savings show up.
 
-If your portfolio hasn't been reviewed against your actual tax picture in a while, that's a conversation worth having before your next rebalance, not after. [Contact Accord Advisors](/contact) to talk through your personal income tax planning alongside your investment strategy.
+If your portfolio hasn't been reviewed against your actual tax picture in a while, that's a conversation worth having before your next rebalance, not after. [Contact Accord Advisors](/locations) to talk through your personal income tax planning alongside your investment strategy.

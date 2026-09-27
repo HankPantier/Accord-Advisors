@@ -72,7 +72,7 @@ Fleet and equipment accounting isn't a side service tacked onto a generic small 
 
 Accord Advisors serves service businesses, medical practices, optometry practices, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana, bringing CFO-level insight to owners who don't need, or want to pay for, a full-time controller. The firm's fixed monthly fee model means budgeting for accounting support is as predictable as the fleet costs already being tracked.
 
-If fleet or equipment costs feel like a black box right now, that's fixable. [Schedule a consultation](/contact) with Accord Advisors and get a clear look at what the vehicles and equipment are actually costing, and what to do about it.
+If fleet or equipment costs feel like a black box right now, that's fixable. [Schedule a consultation](/locations) with Accord Advisors and get a clear look at what the vehicles and equipment are actually costing, and what to do about it.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Financial planning for fleets tools and equipment
@@ -94,7 +94,7 @@ A: Yes. Accord Advisors serves service-based businesses nationwide, including HV
 
 Stop guessing at what your vehicles and equipment cost to run. Accord Advisors builds the monthly reporting, depreciation schedules, and tax planning that fleet-dependent service-based  businesses in Bloomington and Indianapolis need to make confident decisions.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

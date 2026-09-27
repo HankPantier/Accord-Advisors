@@ -110,7 +110,7 @@ Most practice owners and business leaders in Bloomington and Indianapolis don't 
 
 If last year felt like you were finding out how the business did after the fact instead of knowing as you went, this is the year to change that. Schedule a consultation and let's set up 2025 the right way from the start.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 
 ---

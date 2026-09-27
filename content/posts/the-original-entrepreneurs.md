@@ -92,7 +92,7 @@ A: Business Foundation Services cover entity selection, bookkeeping system setup
 
 Bloomington and Indianapolis business owners, medical professionals, and church leaders don't need another vendor. They need a CPA firm that already understands the pressures of running something they built themselves. Accord Advisors brings nearly 40 years of industry experience, fixed monthly fees, and a secure online platform to that relationship.
 
-[Schedule a consultation](/contact) with Jared Hammack, CPA, and find out what a true outsourced accounting department feels like.
+[Schedule a consultation](/locations) with Jared Hammack, CPA, and find out what a true outsourced accounting department feels like.
 
 ---
 ## SEO & AIO Metadata

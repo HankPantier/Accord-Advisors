@@ -119,7 +119,7 @@ There's no script to follow after a hard year, and no single number that explain
 
 Bloomington and Indianapolis-area business owners, optometrists, dentists, medical practices, service businesses, and churches working through a setback can schedule a consultation to talk through what recovery actually looks like for their specific numbers.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

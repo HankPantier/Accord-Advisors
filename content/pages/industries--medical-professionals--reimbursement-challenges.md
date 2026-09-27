@@ -94,7 +94,7 @@ A: Business Foundation Services is Accord Advisors' structured approach to build
 
 If reimbursement timing keeps knocking your cash flow off balance, the fix isn't another billing workaround. It's monthly financial clarity from a firm that already understands healthcare margins. Medical practices nationwide, including those in Bloomington, Avon, and the Indianapolis area, trust Accord Advisors for outsourced accounting and Business Foundation Services built around the way healthcare revenue actually works. Talk with us about what that could look like for your practice.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

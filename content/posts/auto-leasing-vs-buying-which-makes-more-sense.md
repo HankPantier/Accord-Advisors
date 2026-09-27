@@ -85,4 +85,4 @@ Section 179 only applies to vehicles used more than 50% for business. A car used
 **How do interest rates affect the lease vs. buy decision?**
 Higher rates raise both loan and lease costs, but they tend to hit loan payments harder since you're financing the full purchase price rather than just the depreciation. Checking current auto loan trends through the [Federal Reserve's G.19 report](https://www.federalreserve.gov/releases/g19/current/) before signing a multi-year agreement is a reasonable step for any business owner financing a vehicle.
 
-If you're weighing a vehicle purchase against your practice's or business's broader tax picture, [contact Accord Advisors](/contact) and talk it through with a CPA before you sign anything. A fifteen-minute conversation now can save thousands over the life of the loan or lease.
+If you're weighing a vehicle purchase against your practice's or business's broader tax picture, [contact Accord Advisors](/locations) and talk it through with a CPA before you sign anything. A fifteen-minute conversation now can save thousands over the life of the loan or lease.

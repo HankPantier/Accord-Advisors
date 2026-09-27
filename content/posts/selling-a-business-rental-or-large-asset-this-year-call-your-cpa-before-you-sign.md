@@ -93,7 +93,7 @@ If you are an optometrist, dentist, medical professional, service business owner
 
 Schedule a consultation before you sign, and bring whatever paperwork you have. We will tell you what we see.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

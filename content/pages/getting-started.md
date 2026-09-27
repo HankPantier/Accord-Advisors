@@ -130,7 +130,7 @@ A: Not at all. Accord Advisors is established in the greater Indianapolis area w
 
 If you run an optometry practice, dental office, medical clinic, service-based business, professional services firm, or church, whether you are based in Bloomington, Avon, the greater Indianapolis area, or anywhere across the United States, and you are tired of guessing how last month actually went, the next step is simple. Schedule a consultation and tell us what is not working. We will tell you, plainly, what it would take to fix it.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

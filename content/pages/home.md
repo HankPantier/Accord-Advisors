@@ -126,7 +126,7 @@ A: Outsourced accounting includes monthly bookkeeping, reconciliations, and fina
 
 Switching from hourly billing to a fixed-fee outsourced accounting relationship doesn't require an overhaul, just a conversation. Tell us where your practice or business stands today, and the Accord Advisors team will walk through what monthly reporting, tax planning, and advisory support would look like for you, whether you're in Bloomington, the Indianapolis area, or anywhere in the country.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

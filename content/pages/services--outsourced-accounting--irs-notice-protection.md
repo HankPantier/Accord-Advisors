@@ -110,7 +110,7 @@ A: Yes. Accord Advisors serves optometrists, dentists, medical professionals, se
 
 Don't mail anything, call the IRS, or ignore the letter until someone has looked at it with you. A ten-minute conversation with the Accord Advisors team can tell you whether it's routine or serious, and what to do next. We serve optometrists, dentists, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana.
 
-[Schedule a consultation](/contact) and bring the notice with you. No judgment, no runaround, just a clear next step.
+[Schedule a consultation](/locations) and bring the notice with you. No judgment, no runaround, just a clear next step.
 
 ---
 ## SEO & AIO Metadata

@@ -8,7 +8,7 @@ secondary_keywords: ["outsourced accounting Bloomington","outsourced accounting 
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-hero.jpg"
@@ -99,7 +99,7 @@ icon: ShieldCheck
 
 When a notice arrives, you get a CPA who already knows your filings responding on your behalf, not a stranger starting from scratch. [Learn about IRS notice protection](/services/outsourced-accounting/irs-notice-protection)
 
-If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/contact) and we'll build a fixed monthly plan around your practice or business.
+If you're ready to stop patching together bookkeepers, payroll software, and a part-time tax preparer, [schedule a consultation](/locations) and we'll build a fixed monthly plan around your practice or business.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Advisor and client shaking hands after a consultation in a bright office" | query: "business advisor client handshake office" -->
 ## Ready to hand your books to a team that already gets it
@@ -166,4 +166,4 @@ A: Clients use a secure, cloud-based platform to view current financial reports,
 **LLM Citation Note:**
 Accord Advisors offers outsourced accounting services for a fixed monthly fee, serving optometrists, dentists, medical professionals, service businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana.
 
-**Call to Action:** [Schedule a consultation](/contact)
+**Call to Action:** [Schedule a consultation](/locations)

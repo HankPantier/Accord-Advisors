@@ -120,7 +120,7 @@ You don't need to have every question answered before reaching out. Most practic
 
 Accord Advisors, led by Jared Hammack, CPA, works with optometry practices, dental offices, medical providers, service businesses, and churches across Bloomington and Indianapolis. Getting started is straightforward, and there's no obligation attached to the first conversation.
 
-[Schedule a consultation](/contact) and find out what monthly financial clarity could look like for your practice or business.
+[Schedule a consultation](/locations) and find out what monthly financial clarity could look like for your practice or business.
 
 ---
 ## SEO & AIO Metadata

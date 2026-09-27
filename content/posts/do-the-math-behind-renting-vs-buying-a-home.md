@@ -74,4 +74,4 @@ Only if your total itemized deductions exceed the standard deduction, which is $
 **How long should I plan to stay in a home before buying makes sense?**
 Five years is a reasonable minimum in most markets. That's roughly how long it takes for equity paydown and appreciation to offset the 6-8% you'll typically pay in selling costs.
 
-If you're weighing a home purchase against renting, or trying to fit that decision into a bigger tax and investment picture, [contact Accord Advisors](/contact) and we'll build the actual numbers with you.
+If you're weighing a home purchase against renting, or trying to fit that decision into a bigger tax and investment picture, [contact Accord Advisors](/locations) and we'll build the actual numbers with you.

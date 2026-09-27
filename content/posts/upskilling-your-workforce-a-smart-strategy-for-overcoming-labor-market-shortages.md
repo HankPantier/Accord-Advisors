@@ -90,7 +90,7 @@ A: Generally, yes, training for paid employees is treated like any other legitim
 
 Jared Hammack, CPA, and the Accord Advisors team work with optometry practices, dental and medical offices, service businesses, and churches across Bloomington and Indianapolis to turn workforce training into a real tax advantage, not just a line item. If you're weighing whether to train existing staff or hire, or you want a second look at how your practice handles training deductions, a short conversation can clarify both.
 
-[Schedule a consultation](/contact) and find out what your training investment could mean for your next tax return.
+[Schedule a consultation](/locations) and find out what your training investment could mean for your next tax return.
 
 ---
 ## SEO & AIO Metadata

@@ -117,7 +117,7 @@ A: Yes. Accord Advisors provides accounting and staffing compliance support for 
 
 Whether you're running an optometry practice in Bloomington, a dental or medical practice in Indianapolis, a service-based business, a professional service firm, or a church managing staff and budgets anywhere in the country, a straightforward conversation is the fastest way to find out if fixed-fee outsourced accounting fits. Schedule a consultation and bring your questions, including the ones you'd normally hesitate to ask by the hour.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

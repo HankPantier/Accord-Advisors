@@ -85,4 +85,4 @@ Keep proof of the dog's training or role, receipts for food and veterinary care,
 **Does a therapy dog qualify for any deduction at all?**
 Only if the dog is part of a for-profit service, such as a business that contracts with schools or care facilities for paid visits. Personal use of a therapy dog for comfort, without a business generating income from its use, doesn't qualify under either Publication 502 or 535.
 
-If you're not sure which side of that line your situation falls on, or you want a practice-specific answer before you claim anything on this year's return, [contact Accord Advisors](/contact) and we'll walk through it together.
+If you're not sure which side of that line your situation falls on, or you want a practice-specific answer before you claim anything on this year's return, [contact Accord Advisors](/locations) and we'll walk through it together.

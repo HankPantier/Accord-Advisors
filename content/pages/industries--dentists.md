@@ -116,7 +116,7 @@ Your dental practice deserves financial reporting as precise as your clinical wo
 
 Schedule a consultation to talk with our team about what outsourced accounting looks like for your practice specifically. Accord Advisors serves dental practices across the United States through a secure online platform, with fixed monthly fees and reporting built around how dental offices actually operate. The firm is established in the greater Indianapolis area, with offices in Bloomington and Avon, Indiana, and is well-known for the depth of service it brings to dental clients wherever they practice.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

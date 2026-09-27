@@ -109,7 +109,7 @@ Accord Advisors works on a fixed monthly fee instead of hourly billing, so you k
 
 That's the model behind outsourced accounting, tax planning, and Business Foundation Services delivered together: one predictable relationship that keeps you ahead through every season, not just tax season.
 
-Ready to stop reacting to the calendar? [Schedule a consultation](/contact) and find out what year-round financial clarity looks like for your practice or business.
+Ready to stop reacting to the calendar? [Schedule a consultation](/locations) and find out what year-round financial clarity looks like for your practice or business.
 
 ---
 ## SEO & AIO Metadata

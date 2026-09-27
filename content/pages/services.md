@@ -133,7 +133,7 @@ A: Yes. Accord Advisors serves clients nationwide, working with optometry practi
 
 If your practice or business needs more than a once-a-year tax appointment, it's time for a different kind of accounting relationship. Fixed monthly fees, a secure online platform, and a CPA who already understands optometry, dental, medical, service, or church accounting: that's the model we've built for clients nationwide, including Bloomington and the Indianapolis area of Indiana, from startup through succession.
 
-[Schedule a consultation](/contact) and find out what a monthly financial picture you can actually trust looks like.
+[Schedule a consultation](/locations) and find out what a monthly financial picture you can actually trust looks like.
 
 
 

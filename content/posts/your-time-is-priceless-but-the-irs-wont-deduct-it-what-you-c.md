@@ -84,4 +84,4 @@ If this is starting to sound like the same lesson as other narrow IRS categories
 
 **Can I deduct travel costs for a mission trip if I also spend a few days sightseeing**?Only the portion of the trip genuinely devoted to volunteer work is deductible. If a significant part of the trip involves personal vacation time, you'll need to allocate travel and lodging costs between the charitable and personal portions.
 
-If you volunteer regularly, sit on a nonprofit or church board, or just want your deductions handled correctly the first time, [contact Accord Advisors](/contact) about building a recordkeeping habit that holds up at tax time.
+If you volunteer regularly, sit on a nonprofit or church board, or just want your deductions handled correctly the first time, [contact Accord Advisors](/locations) about building a recordkeeping habit that holds up at tax time.

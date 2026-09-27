@@ -20,7 +20,7 @@ llm_citation_note: "Accord Advisors' insights hub is organized by industry (opto
 
 This is where Accord Advisors shares what we're seeing in real client work: tax law changes that affect business owners, bookkeeping habits that save practices money, and the financial questions we get asked most often at the early stage of a new client relationship. Nothing here is generic filler pulled from a national content calendar.
 
-Articles are organized around the people we actually serve: optometrists, dentists, physicians and healthcare groups, professional services firms, service-based businesses, and churches across the country, including Bloomington and the Indianapolis area, Indiana. If you manage a practice or run a business and want plain answers instead of jargon, start browsing below, or skip ahead and [schedule a consultation](/contact) to talk through your specific situation with a CPA.
+Articles are organized around the people we actually serve: optometrists, dentists, physicians and healthcare groups, professional services firms, service-based businesses, and churches across the country, including Bloomington and the Indianapolis area, Indiana. If you manage a practice or run a business and want plain answers instead of jargon, start browsing below, or skip ahead and [schedule a consultation](/locations) to talk through your specific situation with a CPA.
 
 <!-- block: content-split | variant: image-right | image: optometry-dental-insights.jpg | alt: "Optometrist reviewing practice financial reports with staff" | query: "optometrist reviewing paperwork practice" -->
 ## Guidance for optometry and dental practices
@@ -81,7 +81,7 @@ A: Yes. Every article links back to the relevant service or industry page, and r
 
 National firms publish generic tax content written for no one in particular. Accord Advisors writes from Bloomington, for clients in Bloomington and Indianapolis, working from the same fixed-fee model and secure online portal we use with every optometry practice, medical group, service business, and church we serve. Jared Hammack, CPA, and the team behind these articles are the same people who'll answer the phone when you call.
 
-That's the difference between reading generic tax tips and reading guidance shaped by nearly 40 years of Indiana client work. If something in this hub raises a question specific to your practice or business, don't wait for the next article to cover it. [Schedule a consultation](/contact) and get a straight answer from a CPA who already understands the ground you're standing on.
+That's the difference between reading generic tax tips and reading guidance shaped by nearly 40 years of Indiana client work. If something in this hub raises a question specific to your practice or business, don't wait for the next article to cover it. [Schedule a consultation](/locations) and get a straight answer from a CPA who already understands the ground you're standing on.
 
 ---
 ## SEO & AIO Metadata

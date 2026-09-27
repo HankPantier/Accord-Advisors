@@ -131,7 +131,7 @@ A: Most clients move from an initial conversation to their first full month on t
 
 You've read the signs, seen what changes, and walked through how the switch actually works. The only step left is a conversation. Bring your last few months of financials, your current fee structure, and your questions. Jared Hammack, CPA, will tell you plainly whether Accord Advisors is the right fit, and if it isn't, he'll say so. No pressure, no obligation, just a clear answer.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

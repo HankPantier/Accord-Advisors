@@ -112,7 +112,7 @@ You didn't start a practice or a business to spend evenings untangling spreadshe
 
 Schedule a consultation and find out what an outsourced accounting partner built around your goals looks like in practice.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata
