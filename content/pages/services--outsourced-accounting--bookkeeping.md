@@ -65,7 +65,7 @@ Every hour spent reconciling accounts or chasing down a missing receipt is an ho
 
 Whether you're an optometrist in Bloomington, a dentist in the Indianapolis area, a medical professional in Avon, a service business or professional services firm anywhere in the country, or a church looking for cleaner fund accounting, we'll walk through exactly what accurate books would look like for your specific situation. Schedule a consultation and let's get started.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
@@ -127,4 +127,4 @@ Accord Advisors offers outsourced bookkeeping at a fixed monthly fee through a s
 **Q: Is my financial data secure with an outsourced bookkeeping team?**
 A: Client data is stored and shared through a secure online platform with bank-level encryption. You can access real-time reports, upload documents, and message your bookkeeping team without emailing sensitive files back and forth.
 
-**Call to Action:** [Schedule a consultation](/contact)
+**Call to Action:** [Schedule a consultation](/locations)

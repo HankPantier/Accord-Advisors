@@ -80,7 +80,7 @@ If you're building a company in Bloomington, the Next Founders program is a good
 
 Schedule a consultation with Accord Advisors and find out what a fixed-fee outsourced accounting relationship looks like for your business.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

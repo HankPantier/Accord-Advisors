@@ -83,7 +83,7 @@ A: Accord Advisors reviews intercompany transactions as part of ongoing Outsourc
 
 If your optometry practice, dental office, medical group, service business, or church operates alongside a related entity, this is worth sorting out before an intercompany transaction lands on a return the IRS decides to look at twice. Accord Advisors works with practice owners and business managers across Bloomington and Indianapolis who need that structure reviewed by someone who already understands healthcare and service-business accounting, not explained from scratch.
 
-A short conversation now, about how your entities charge each other for rent, management, or shared staff, is far less costly than an audit response later. [Schedule a consultation](/contact) with Accord Advisors and get a clear read on where your related entity pricing stands.
+A short conversation now, about how your entities charge each other for rent, management, or shared staff, is far less costly than an audit response later. [Schedule a consultation](/locations) with Accord Advisors and get a clear read on where your related entity pricing stands.
 
 ---
 ## SEO & AIO Metadata

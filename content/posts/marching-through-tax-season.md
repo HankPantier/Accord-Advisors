@@ -118,7 +118,7 @@ Waiting until the deadline crunch rarely leaves room for good decisions. Whether
 
 Jared Hammack, CPA, and the Accord Advisors team work with clients on a fixed monthly fee, so there's no surprise bill for asking questions in February. Schedule a consultation and start this season with a plan instead of a scramble.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

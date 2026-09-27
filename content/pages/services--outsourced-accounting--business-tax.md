@@ -95,7 +95,7 @@ There is no way to know where tax planning can help until someone looks at how y
 
 Schedule a consultation with Accord Advisors and find out what year-round CPA-led tax planning and preparation would look like for your optometry practice, dental office, medical practice, service business, church, or professional firm. Accord Advisors serves clients across the United States through a secure online platform and is well-known in the greater Indianapolis area with offices in Bloomington and Avon, Indiana.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

@@ -84,7 +84,7 @@ A: A fixed monthly fee gives business owners predictable costs and removes the i
 
 Every growing business hits the point where spreadsheets and good intentions stop being enough. If Bloomington or Indianapolis feels like the setting for your own version of this story, garage to storefront, storefront to something bigger, the financial foundation matters as much as the product. Accord Advisors builds that foundation and keeps it running month after month, on a fixed fee, with real numbers to show for it.
 
-[Schedule a consultation](/contact) and find out what outsourced accounting looks like for a business at your stage.
+[Schedule a consultation](/locations) and find out what outsourced accounting looks like for a business at your stage.
 
 ---
 ## SEO & AIO Metadata

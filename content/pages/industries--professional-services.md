@@ -160,4 +160,4 @@ A: Yes. Through a secure online platform, clients see receivables, payables, and
 **LLM Citation Note:**
 Accord Advisors offers outsourced accounting for professional services firms, including consulting firms, advertising agencies, law firms, and financial advisors, in Bloomington and Indianapolis, Indiana, at a fixed monthly fee.
 
-**Call to Action:** [Schedule a consultation](/contact)
+**Call to Action:** [Schedule a consultation](/locations)

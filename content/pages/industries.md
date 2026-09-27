@@ -83,7 +83,7 @@ Business owners and practice leaders across the country don't need another vendo
 - Deep industry-specific experience across optometry, dental, medical, professional service, service-based business, and church clients
 - CFO-level insight into monthly performance, delivered at a fraction of the cost of an in-house hire
 
-Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about why Accord Advisors approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/contact) and we'll walk through what your monthly reporting could look like.
+Owners who want to see how this works for their own practice or organization can look at our full [outsourced accounting](/services/outsourced-accounting) services or read more about why Accord Advisors approaches accounting this way. When you're ready to talk specifics, [schedule a consultation](/locations) and we'll walk through what your monthly reporting could look like.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve

@@ -95,7 +95,7 @@ A: Yes. Business Foundation Services cover entity structuring, due diligence, an
 
 Your optometry practice deserves accounting built around how it actually runs, not a generic template borrowed from a retail store or a law firm. Talk with us about where your practice stands today and what a fixed monthly fee, a secure online platform, and a true accounting department could do for your bottom line.
 
-[Schedule a consultation](/contact) and bring your questions. We'll bring straight answers.
+[Schedule a consultation](/locations) and bring your questions. We'll bring straight answers.
 
 ---
 ## SEO & AIO Metadata

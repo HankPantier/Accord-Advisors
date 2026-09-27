@@ -76,4 +76,4 @@ It removes work that was never the owner's highest use of time to begin with. A 
 **What's the first step toward a more sustainable pace without slowing down growth?**
 Start with what's consuming time that doesn't require your specific expertise: bookkeeping, payroll, and monthly reconciliations are the most common culprits. Handing those to a fixed-fee outsourced accounting team frees the hours where your judgment actually matters most.
 
-If you're running an optometry practice, a dental or medical office, a service business, or a church in Bloomington or Indianapolis and you're tired of making decisions on fumes, talk to us. [Contact Accord Advisors](/contact) to see how a fixed-fee outsourced accounting relationship can give you your evenings back and your judgment a fighting chance.
+If you're running an optometry practice, a dental or medical office, a service business, or a church in Bloomington or Indianapolis and you're tired of making decisions on fumes, talk to us. [Contact Accord Advisors](/locations) to see how a fixed-fee outsourced accounting relationship can give you your evenings back and your judgment a fighting chance.

@@ -112,7 +112,7 @@ A: Outsourced accounting splits data entry, reconciliation, and CPA-level review
 
 Fraud prevention gets easier once someone outside the organization looks at how money actually moves through it. A short conversation with Accord Advisors can identify where duties overlap, where documentation is thin, and where a fixed-fee outsourced accounting relationship would close the gap faster than a new hire or a bigger software subscription.
 
-Schedule a consultation with Accord Advisors to walk through your current controls, no obligation, no jargon. [Schedule a consultation](/contact)
+Schedule a consultation with Accord Advisors to walk through your current controls, no obligation, no jargon. [Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

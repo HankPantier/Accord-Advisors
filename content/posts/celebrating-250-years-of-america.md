@@ -67,7 +67,7 @@ A: Clean monthly bookkeeping, a clear picture of financial performance, and a CP
 
 Anniversaries are a good excuse to look backward. They are a better excuse to look forward. Whether the practice you run has been open five years or fifty, the next chapter depends on financial groundwork: clean books, a fixed monthly fee that fits the budget, and a CPA who understands healthcare, service businesses, or church finance specifically. Accord Advisors has spent nearly 40 years building that groundwork for practices and organizations across Bloomington and Indianapolis, and there is room for one more. If 2026 has you thinking about what the next decade of your practice or business should look like, schedule a consultation and start the conversation now.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

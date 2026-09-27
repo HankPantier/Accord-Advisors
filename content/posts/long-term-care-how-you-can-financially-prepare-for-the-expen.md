@@ -77,4 +77,4 @@ It can be, particularly for business owners and high-net-worth individuals with 
 **Does long-term care insurance count as a tax deduction?**
 Often, yes. Premiums are deductible as a medical expense up to age-based limits set by the IRS, and C-corporations can deduct premiums for owners and employees as a business expense in many structures. [IRS Publication 502](https://www.irs.gov/publications/p502) has the current premium limits by age.
 
-Long-term care is one of those costs that's easy to postpone thinking about and expensive to ignore. If you want to look at how insurance, VA benefits, and your existing savings and tax plan fit together for your specific situation, [contact Accord Advisors](/contact) and we'll walk through it with you.
+Long-term care is one of those costs that's easy to postpone thinking about and expensive to ignore. If you want to look at how insurance, VA benefits, and your existing savings and tax plan fit together for your specific situation, [contact Accord Advisors](/locations) and we'll walk through it with you.

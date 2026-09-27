@@ -77,4 +77,4 @@ Pull twelve months of bank and existing card statements and sort the spending in
 **Can credit card rewards offset the cost of an annual fee?**
 Yes, but only if your spending in the bonus categories clears the math. A $95 annual fee on a 2% flat-rate card needs roughly $4,750 in spend just to break even before any net benefit kicks in.
 
-If your practice or business is spending real money every month and you're not sure whether your current card, or your current bookkeeping, is set up to make the most of it, [contact Accord Advisors](/contact) and we'll take a look at your numbers together.
+If your practice or business is spending real money every month and you're not sure whether your current card, or your current bookkeeping, is set up to make the most of it, [contact Accord Advisors](/locations) and we'll take a look at your numbers together.

@@ -95,7 +95,7 @@ You don't need a shoebox of receipts sorted and a list of questions prepared to 
 
 Schedule a consultation and let's look at your full picture together, not just the form.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

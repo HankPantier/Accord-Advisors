@@ -110,7 +110,7 @@ A: Yes. Accord Advisors handles personal income tax preparation and planning alo
 
 Spring is a natural point to stop guessing and start seeing your numbers clearly. Bloomington and Indianapolis business owners, healthcare practices, and church finance teams get a fixed-fee outsourced accounting relationship built around plain answers instead of billable hours.
 
-[Schedule a consultation](/contact) and find out what your monthly numbers could actually tell you.
+[Schedule a consultation](/locations) and find out what your monthly numbers could actually tell you.
 
 ---
 ## SEO & AIO Metadata

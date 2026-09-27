@@ -69,4 +69,4 @@ That's the kind of analysis Accord Advisors runs for clients weighing a second h
 
 **What records do I need to keep to prove my rental and personal use days**?A simple log showing dates rented, renter names or platform, rate charged, and dates of personal use is enough, as long as you keep it consistently and reconcile it against any 1099-K or booking platform statement you receive each year.
 
-If you're weighing a second home purchase, already own one, or inherited a vacation property that's turned into a tax headache, [get in touch with our team](/contact) before your next filing deadline. We'll walk through your specific rental and personal-use pattern and show you exactly where you stand.
+If you're weighing a second home purchase, already own one, or inherited a vacation property that's turned into a tax headache, [get in touch with our team](/locations) before your next filing deadline. We'll walk through your specific rental and personal-use pattern and show you exactly where you stand.

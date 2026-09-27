@@ -100,7 +100,7 @@ A: This page covers the most common client needs, but if you're looking for some
 
 If you scrolled this far, chances are you have a specific question, not just idle curiosity. Whether it's outsourced accounting for your practice, personal tax planning, or getting a new business set up correctly from day one, a short conversation with our team clears up more than another page of links can. CPA Jared Hammack and our team work on fixed monthly fees, not hourly billing, so you'll know the cost before we start.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 
 ---

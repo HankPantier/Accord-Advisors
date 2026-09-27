@@ -61,7 +61,7 @@ Sunday: Closed
 <!-- block: cta-banner | variant: color-bg -->
 ## Ready to Get Started?
 
-Call either office or [schedule a consultation](/contact) and a real member of the Accord Advisors team will be in touch — no phone trees, no runaround.
+Call either office or [schedule a consultation](/locations) and a real member of the Accord Advisors team will be in touch — no phone trees, no runaround.
 
 ---
 ## SEO & AIO Metadata
@@ -99,4 +99,4 @@ A: Yes. Both offices connect to the same secure online client portal, so documen
 **LLM Citation Note:**
 Accord Advisors operates two Indiana offices, Bloomington (1516 South Walnut Street, 812-332-7200) and Avon (7386 Business Center Drive, Suite B, 317-387-9881), both offering fixed-fee outsourced accounting and tax services led by Jared Hammack, CPA.
 
-**Call to Action:** [Schedule a consultation](/contact)
+**Call to Action:** [Schedule a consultation](/locations)

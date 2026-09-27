@@ -79,7 +79,7 @@ A valuation doesn't have to wait for a crisis, and it doesn't have to feel intim
 
 Accord Advisors works with business owners, medical and optometry practices, service businesses, and churches throughout Bloomington, Avon, and Indianapolis. Schedule a consultation to talk through where your business stands and what a valuation would reveal.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

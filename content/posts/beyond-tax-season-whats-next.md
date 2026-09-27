@@ -95,7 +95,7 @@ Your return is filed. The real question is what your practice or business does w
 
 Accord Advisors works with optometry practices, medical professionals, dental offices, service businesses, and churches across Bloomington, Indianapolis, and Avon on exactly this kind of forward planning.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata

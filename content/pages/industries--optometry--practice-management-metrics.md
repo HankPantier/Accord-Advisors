@@ -90,7 +90,7 @@ Whether you're running an optometry practice in Bloomington, Avon, or the Indian
 
 Schedule a consultation with Accord Advisors and find out what a dedicated outsourced accounting team looks like for a practice like yours.
 
-[Schedule a consultation](/contact)
+[Schedule a consultation](/locations)
 
 ---
 ## SEO & AIO Metadata
