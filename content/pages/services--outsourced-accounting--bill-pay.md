@@ -8,7 +8,7 @@ secondary_keywords: ["vendor payment management","accounts payable outsourcing",
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bill-pay"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "page-header"
 answer_block: "Outsourced bill pay services from Accord Advisors handle the full vendor payment cycle, from collecting invoices to routing approvals to issuing payment, on a secure online platform for one fixed monthly fee. Optometry practices, dental offices, medical professionals, service businesses, professional services firms, and churches nationwide, including clients in Bloomington, Avon, and the Indianapolis area of Indiana, get accurate, on-time payments without hiring extra staff or tracking due dates themselves."
 eeat_signals: ["CPA-led accounting practice with deep specialization in optometry, dental, medical, professional services, service-based, and church clients nationwide","Experience serving optometry practices, medical professionals, dental offices, service businesses, professional services firms, and churches across Bloomington, Avon, Indianapolis, Indiana, and nationwide","Fixed monthly fee model shown transparently via the firm's pricing calculator","Secure online platform used for invoice approval, payment, and reporting"]

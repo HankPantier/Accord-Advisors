@@ -8,7 +8,7 @@ secondary_keywords: ["outsourced accounting Bloomington","outsourced accounting 
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "outsourced-accounting-hero.jpg"

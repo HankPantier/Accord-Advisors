@@ -8,7 +8,7 @@ secondary_keywords: ["outsourced accounting for RIA firms","bookkeeping for fina
 canonical_url: "https://accordadvisors.com/industries/financial-advisors"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "financial-advisor-office-meeting.jpg"

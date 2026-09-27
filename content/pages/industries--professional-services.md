@@ -8,7 +8,7 @@ secondary_keywords: ["outsourced accounting for professional services firms nati
 canonical_url: "https://accordadvisors.com/industries/professional-services"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "professional-services-team-meeting.jpg"

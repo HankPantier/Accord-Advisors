@@ -8,7 +8,7 @@ secondary_keywords: ["Bloomington CPA office","Avon Indiana accounting firm","In
 canonical_url: "https://accordadvisors.com/locations"
 schema_markup: "LocalBusiness"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "page-header"
 hero_subhead: "Reach the Bloomington or Avon office directly, or schedule a consultation with our team"
 answer_block: "Accord Advisors has two Indiana offices: Bloomington at 1516 South Walnut Street (812-332-7200) and Avon at 7386 Business Center Drive, Suite B (317-387-9881), serving clients throughout the Indianapolis area. Both locations offer the same fixed-fee accounting services and secure online client portal."

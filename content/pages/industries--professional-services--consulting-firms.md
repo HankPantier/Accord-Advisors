@@ -8,7 +8,7 @@ secondary_keywords: ["outsourced accounting for consultants","consulting firm bo
 canonical_url: "https://accordadvisors.com/industries/consulting-firms"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "consulting-firm-accounting-team.jpg"

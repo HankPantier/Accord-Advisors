@@ -8,7 +8,7 @@ secondary_keywords: ["bookkeeping services Bloomington Indiana","outsourced acco
 canonical_url: "https://accordadvisors.com/services/outsourced-accounting/bookkeeping"
 schema_markup: "Service"
 cta_text: "Schedule a consultation"
-cta_url: "/contact"
+cta_url: "/locations"
 hero: "page-header"
 hero_subhead: "Accurate books and predictable fees, so you always know where your business stands"
 answer_block: "Accord Advisors provides outsourced bookkeeping services for optometry practices, dental offices, medical professionals, service-based businesses, professional service providers, and churches nationwide, including Bloomington, Avon, and the Indianapolis area of Indiana. Bookkeeping is billed at a fixed monthly fee, delivered through a secure online platform, and backed by deep industry-specific expertise."
