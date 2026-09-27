@@ -135,7 +135,8 @@ If your practice or business needs more than a once-a-year tax appointment, it's
 
 [Schedule a consultation](/locations) and find out what a monthly financial picture you can actually trust looks like.
 
-
+---
+## SEO & AIO Metadata
 
 ---
 ## Structured Data, paste into `<head>`
