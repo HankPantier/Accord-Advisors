@@ -162,7 +162,6 @@ Accord Advisors, led by Jared Hammack, CPA, protects client financial data throu
   "@type": "Organization",
   "name": "Accord Advisors",
   "url": "https://accordadvisors.com",
-  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]
