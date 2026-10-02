@@ -148,7 +148,6 @@ If your practice or business needs more than a once-a-year tax appointment, it's
   "@type": "Organization",
   "name": "Accord Advisors",
   "url": "https://accordadvisors.com",
-  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
   ]

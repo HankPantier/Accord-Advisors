@@ -167,7 +167,6 @@ Accord Advisors is a CPA firm serving optometry, dental, medical, service-based,
   "@type": "Organization",
   "name": "Accord Advisors",
   "url": "https://accordadvisors.com",
-  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

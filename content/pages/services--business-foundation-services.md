@@ -157,7 +157,6 @@ Accord Advisors guides new optometry, dental, and medical practices, service-bas
   "@type": "Organization",
   "name": "Accord Advisors",
   "url": "https://accordadvisors.com",
-  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/accordadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

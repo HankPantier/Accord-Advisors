@@ -161,7 +161,6 @@ Accord Advisors provides succession planning as part of a fixed-fee outsourced a
   "@type": "Organization",
   "name": "Accord Advisors",
   "url": "https://accordadvisors.com",
-  "logo": "https://accordadvisors.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/rootadvisors",
     "https://maps.google.com/?cid=11322890341164864938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
